@@ -43,7 +43,7 @@ This is an interface mod that I developed for the WoW community and it ended up 
 
 It uses event-driven logic to parse the combat log, looking for spell_ids that I considered dangerous for the given M+ season. I manually configured spell casting logic for 100+ new spell_ids for every content patch (twice per year), this included going into each new dungeon and manually recording the spell cast patterns of enemies (channeled/instant casts, duration, frequency, NPC-ID, etc.). To optimize for performance, I configured load-conditions for each dungeon to limit CPU-use.
 
-I did for all 6 major game patches from 2023-2025 (DF season 2-4, TWW season 1-3), **[see my Wago.io page for more details.](https://wago.io/6CDe7U7t6)**.
+I did for all 6 major game patches from 2023-2025 (DF season 2-4, TWW season 1-3), **[see my Wago.io page for more details](https://wago.io/6CDe7U7t6)**.
 
 This project was created via the WeakAura-framework (I used the in-game editor to generate Lua-code, so there's not much code to show here on GitHub). I did however have python code to test and validate the spell casting data I recorded in-game by cross-referencing it with public spell data on the Wowhead website.
 
@@ -63,7 +63,7 @@ Second, the code was able to fetch all public logs from Warcraftlogs.com for a g
 
 ![Image link](readme_images/excel_spell_data_showcase.png)
 
-![Image link](readme_images/deathstats_showcase.png)
+![Image link](readme_images/deathstats_showcase.PNG)
 
 
 # Gear drop optimizer

@@ -2,7 +2,7 @@ I created this repository to showcase my various *personal* World of Warcraft pr
 
 Each of the projects have their own repository (links are provided), with all the files here being a copy / snapshot.
 
-# Project 1: Raider.io applicant look-up
+# Project 1 (January 2026): Raider.io applicant look-up
 *[Repository link](https://github.com/JonatanRasmussen/raider_io_peaking)*
 
 Scripts to look up and rank every applicant for my WoW dungeon- or raid groups, inspired by the OP.GG website for LoL.
@@ -22,7 +22,7 @@ And if run via the terminal, here is what the terminal output looks like.
 ![Image link](readme_images/riopeek_showcase.PNG)
 
 
-# Project 2: Warcraftlog analysis and summary
+# Project 2 (April 2026): Warcraftlog analysis and summary
 *[Repository link](https://github.com/JonatanRasmussen/raider_io_peaking)*
 
 Scripts to look up every M+ player you've played with throughout a WoW season to see what rank they ended up at. It will also generate a summary of your journey,
@@ -37,7 +37,7 @@ See this image for a screenshot of what the summary looks like.
 ![Image link](readme_images/logrun_showcase.png)
 
 
-# Project 3: Interface mod: /say Callouts M+
+# Project 3 (August 2025): Interface mod: /say Callouts M+
 *[Repository link](https://github.com/JonatanRasmussen/world_of_warcraft_mod_mplus_say_callouts_weakaura)*
 
 This is an interface mod that I developed for the WoW community and it ended up becoming quite popular (24.000 views / 1300+ downloads / 220 stars via the wago.io website, and an estimated 10.000+ additional in-game downloads via peer-to-peer WeakAura-sharing.)
@@ -53,7 +53,7 @@ This project was created via the WeakAura-framework (I used the in-game editor t
 *(YouTube thumbnail screenshot, click to open video clip on YouTube.)*
 
 
-# Project 4: Death statistics scraper
+# Project 4 (July 2024): Death statistics scraper
 *[Repository link](https://github.com/JonatanRasmussen/wow_mythicplus_say)*
 
 Various helper scripts to test and validate spell data for my Interface mod: */say Callouts M+*.
@@ -67,7 +67,7 @@ Second, the code was able to fetch all public logs from Warcraftlogs.com for a g
 ![Image link](readme_images/deathstats_showcase.PNG)
 
 
-# Project 5: Gear drop optimizer
+# Project 5 (September 2024): Gear drop optimizer
 *[Repository link](https://github.com/JonatanRasmussen/world_of_warcraft_stuff)*
 
 This project intended to help players optimize their loot by telling them how likely each type of gear (helmet, gloves, weapon, etc.) was to drop from a given dungeon.
@@ -82,7 +82,7 @@ I copied the final output into a massive spreadsheet with multiple drop chance t
 ![Image link](readme_images/wow_lootdrop_optimize_showcase.png)
 
 
-# Project 6: Item loot tables
+# Project 6 (May 2023): Item loot tables
 *[Repository link](https://github.com/JonatanRasmussen/wow_items_10_1)*
 
 Not all combinations of secondary stats exist for a given gear slot (this changes from season to season). This code scrapes Wowhead to find all available items for a given season, and it then calculates which secondary stat combinations exist in the game for each gear slot. A year later, this project turned into "Gear drop optimizer" which is a similar but much larger project hosted in a separate repository.

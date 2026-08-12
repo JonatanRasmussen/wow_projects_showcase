@@ -1,7 +1,8 @@
 I created this repository to showcase my various *personal* World of Warcraft project from 2023-2026.
 
 
-# Raider.io applicant look-up *[Repository link](https://github.com/JonatanRasmussen/raider_io_peaking)*
+# Raider.io applicant look-up
+*[Repository link](https://github.com/JonatanRasmussen/raider_io_peaking)*
 
 Scripts to look up and rank every applicant for my WoW dungeon- or raid groups, inspired by the OP.GG website for LoL.
 
@@ -13,14 +14,15 @@ Rankings include Player name, Role, Class, missing enchant/gem counter, iLvl, CE
 
 See the below image for an example of what the website looks like.
 
-![Image link](images/riopeek_web_preview.png)
+![Image link](readme_images/riopeek_web_preview.png)
 
 And if run via the terminal, here is what the terminal output looks like.
 
-![Image link](images/riopeek_showcase.PNG)
+![Image link](readme_images/riopeek_showcase.PNG)
 
 
-# Warcraftlog analysis and summary *[Repository link](https://github.com/JonatanRasmussen/raider_io_peaking)*
+# Warcraftlog analysis and summary
+*[Repository link](https://github.com/JonatanRasmussen/raider_io_peaking)*
 
 Scripts to look up every M+ player you've played with throughout a WoW season to see what rank they ended up at. It will also generate a summary of your journey,
 providing statistics over how many attempts / groups you needed for each of your M+ keys.
@@ -31,10 +33,11 @@ This is not just data visualization, it regex-parses messy data from 100+ logs (
 
 See this image for a screenshot of what the summary looks like.
 
-![Image link](images/logrun_showcase.png)
+![Image link](readme_images/logrun_showcase.png)
 
 
-# Interface mod: /say Callouts M+ *[Repository link](https://github.com/JonatanRasmussen/world_of_warcraft_mod_mplus_say_callouts_weakaura)*
+# Interface mod: /say Callouts M+
+*[Repository link](https://github.com/JonatanRasmussen/world_of_warcraft_mod_mplus_say_callouts_weakaura)*
 
 This is an interface mod that I developed for the WoW community and it ended up becoming quite popular (24.000 views / 1300+ downloads / 220 stars via the wago.io website, and an estimated 10.000+ additional in-game downloads via peer-to-peer WeakAura-sharing.)
 
@@ -49,7 +52,8 @@ This project was created via the WeakAura-framework (I used the in-game editor t
 *(YouTube thumbnail screenshot, click to open video clip on YouTube.)*
 
 
-# Death statistics scraper *[Repository link](https://github.com/JonatanRasmussen/wow_mythicplus_say)*
+# Death statistics scraper
+*[Repository link](https://github.com/JonatanRasmussen/wow_mythicplus_say)*
 
 Various helper scripts to test and validate spell data for my Interface mod: */say Callouts M+*.
 
@@ -57,12 +61,13 @@ This code served two purposes; first, it would iterate over each row of hand-wri
 
 Second, the code was able to fetch all public logs from Warcraftlogs.com for a given dungeon, and it would then for each spell_id record: *A: How often was the spell cast, and B: how often did that spell result in a player death*. This was very important for my design process, as I had to decide which spells should and shouldn't trigger an alert in my interface. Unlike most other mods that did something similar, I put a lot of effort into carefully configuring which spells should trigger an alert; if they were cast too frequently, or if they weren't lethal enough, people would consider the alerts too noisy.
 
-![Image link](images/excel_spell_data_showcase.png)
+![Image link](readme_images/excel_spell_data_showcase.png)
 
-![Image link](images/deathstats_showcase.png)
+![Image link](readme_images/deathstats_showcase.png)
 
 
-# Gear drop optimizer *[Repository link](https://github.com/JonatanRasmussen/world_of_warcraft_stuff)*
+# Gear drop optimizer
+*[Repository link](https://github.com/JonatanRasmussen/world_of_warcraft_stuff)*
 
 This project intended to help players optimize their loot by telling them how likely each type of gear (helmet, gloves, weapon, etc.) was to drop from a given dungeon.
 
@@ -73,11 +78,12 @@ I copied the final output into a massive spreadsheet with multiple drop chance t
 
 **How the code works:** We input a Wowhead-website link to the most recent dungeon pool. From wowhead, we then scrape: each dungeon, each boss for each dungeon, and each piece of loot from each boss. We then parse out the stats for a given piece of loot (str/agi/int and gear type), which then allows us to reverse-construct what every spec in the game can probabilistically expect to have looted after completing a full dungeon run. And if you are missing any combination of gear (chestplate/trinket/necklace, but NOT a helmet/glove/weapon), the script is also smart enough to calculate which dungeon is statistically most likely to provide a loot upgrade.
 
-![Image link](images/wow_lootdrop_optimize_showcase.png)
+![Image link](readme_images/wow_lootdrop_optimize_showcase.png)
 
 
-# Item loot tables *[Repository link](https://github.com/JonatanRasmussen/wow_items_10_1)*
+# Item loot tables
+*[Repository link](https://github.com/JonatanRasmussen/wow_items_10_1)*
 
 Not all combinations of secondary stats exist for a given gear slot (this changes from season to season). This code scrapes Wowhead to find all available items for a given season, and it then calculates which secondary stat combinations exist in the game for each gear slot. A year later, this project turned into "Gear drop optimizer" which is a similar but much larger project hosted in a separate repository.
 
-![Image link](images/wow_item_secondaries_showcase.png)
+![Image link](readme_images/wow_item_secondaries_showcase.png)

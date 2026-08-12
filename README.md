@@ -11,7 +11,7 @@ Scripts to look up and rank every applicant for my WoW dungeon- or raid groups, 
 
 A json of each applicant (generated via the Raider.io addon) is manually copy-pasted into the "input.json" file or GUI window. Each player profile will then be looked up using the raider.io API, allowing my code to rank/present each player based on their accomplishments from earlier seasons.
 
-The player data includes Name, Realm, Role, Class, missing enchant/gems, iLvl, CE/AOTC achievement count, KSM count, Best run, m+ Score, completion timers, recent runs, and Age (time since last run). There is also a score breakdown for each dungeon.
+The player data includes Name, Realm, Role, Class, missing enchant/gems, iLvl, CE/AOTC achievement count, KSM count, Best run, m+ score, completion timers, recent runs, and Age (time since last run). There is also a score breakdown for each dungeon.
 
 See the below image for an example of what the website looks like.
 

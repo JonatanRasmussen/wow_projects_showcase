@@ -1,0 +1,579 @@
+
+
+    Midnight
+    Mists of Pandaria
+    Classic Fresh
+    Season of Discovery
+    Vanilla
+
+Warcraft Logs
+Enter a player, guild, or realm
+Enter a player, guild, or realm
+Search
+98
+Download Archon App
+
+    Deutsch
+    English
+    Español
+    Français
+    Italiano
+    Português (Brasil)
+    Русский
+    한국어
+    繁體中文
+    简体中文
+
+Mythic+ Season 1
+Created by BudoBoy07 on Wed May 20 2026
+
+    Edit Report
+    Delete Report
+    Make Private
+    View in Anonymous Mode
+
+Settings
++
+
+    VS / DR / MQD
+    BudoBoy07 - (Public) - 8 minutes ago
+    Mythic+ Season 1
+    BudoBoy07 - (Public) - 8 minutes ago
+    Sporefall
+    BudoBoy07 - (Public) - 2 months ago
+    Sporefall
+    BudoBoy07 - (Public) - 2 months ago
+
+BudoBoy07
+Personal Logs
++
+The Seat of the Triumvirate+
++20 [Fortified] [Tyrannical] [Xal'atath's Guile] 2 (1:13) 9:24 PM
+
+    + Bosses and Trash
+        Bosses and Trash
+        Bosses
+        Trash
+        Zuraal the Ascended
+        Saprish
+        Viceroy Nezhar
+        L'ura
+        Pull 1 (0:20) +0:08
+        Merciless Subjugator
+
+Entire Dungeon
+
+    + All Friendlies
+        Nockel
+        Justboom
+        +Powerpegging
+            +Dracthyr Commando
+                1
+
+                2
+
+            ID: 219827
+            +Future Self
+                1
+
+                2
+
+            ID: 253466
+        Nelfmw
+        Prico
+
+
+
+
+
+Friendlies Enemies
+Summary
+Damage Done
+Damage Taken
+Healing
+Threat
+Buffs
+Debuffs
+Deaths
+Interrupts
+Dispels
+Resources
+Casts
+
+    +Ignore Events After Player Deaths
+        Ignore Events After Player Deaths
+        Ignore Events After A Called Wipe
+
+Filter Expression:
+
+    +
+        Heroism
+        Downtime
+        Player Deaths
+        Player Resurrections
+        Boss Deaths
+        NPC Deaths
+        Show All Entries
+        Hide All Entries
+
+ZoomPer Second AmountDamage DoneDamage TakenHealing Done00:0000:1000:2000:3000:4000:5001:0001:100k500k1,000k1,500k2,000k
+Group Composition Item Level: 288.33
+Tanks:	Justboom
+DPS:	Nockel Powerpegging Prico
+Healers:	Nelfmw
+Damage Done By Source
+Name
+
+Amount
+
+DPS
+
+Powerpegging
+57.74%
+2.04m 	27,706.8
+Justboom
+33.60%
+1.18m 	16,122.3
+Prico
+5.60%
+197.5k 	2,689.4
+Nockel
+3.06%
+107.9k 	1,468.3
+Healing Done By Source
+Name
+
+Amount
+
+HPS
+
+Justboom
+59.05%
+1.48m 	20,204.1
+Nelfmw
+22.35%
+561.6k 	7,645.9
+Powerpegging
+9.75%
+245.1k 	3,337.4
+Nockel
+8.58%
+215.6k 	2,935.0
+Prico
+0.26%
+6.6k 	90.1
+Damage Taken By Ability
+Name
+
+Amount
+
+DTPS
+
+Melee
+59.08%
+5.71m 	77,770.7
+Chains of Subjugation
+13.17%
+1.27m 	17,330.0
+Pulsing Void
+10.51%
+1.02m 	13,832.5
+Relentless Pursuit
+8.40%
+811.7k 	11,050.8
+Stretch Time
+5.59%
+540.8k 	7,362.6
+Umbral Bolt
+3.25%
+314.3k 	4,279.4
+Deaths
+Name
+
+Killing Blow
+
+Time
+
+Justboom 	Relentless Pursuit 	0:18
+Prico 	Melee 	0:19
+Powerpegging 	Chains of Subjugation 	0:21
+Nelfmw 	Melee 	0:23
+Justboom 	Umbral Bolt 	0:29
+Characters
+Tanks
+
+Class Talents
+
+Spec Talents
+
+Gear
+
+Combat Potions
+
+Healthstones & Potions
+Justboom
+Druid (Guardian)
+289 Item Level
+Rake
+Frenzied Regeneration
+Ursoc's Spirit
+Grievous Wounds
+Swipe
+Rip
+Remove Corruption
+Verdant Heart
+Nurturing Instinct 2
+Killer Instinct 2
+Ironfur
+Improved Barkskin
+Natural Recovery
+Thick Hide
+Skull Bash
+Wild Charge
+Soothe
+Aessina's Renewal
+Typhoon
+Stampeding Roar
+Well-Honed Instincts
+Feline Swiftness
+Lingering Healing
+Ursol's Vortex
+Lycara's Teachings 2
+Gift of the Wild
+Oakskin
+Lore of the Grove
+Improved Stampeding Roar
+Incapacitating Roar
+Lycara's Inspiration
+Circle of the Wild
+Heart of the Wild
+Fluid Form
+
+Maul
+Gore
+Survival Instincts
+Persistence
+Dream Guide
+Vulnerable Flesh
+Berserk
+Innate Resolve
+After the Wildfire
+Survival of the Fittest 2
+Scintillating Moonlight 2
+Reinvigoration 1
+Ursol's Warding
+Natural Resilience
+Reinforced Fur
+Gift of an Ancient Guardian
+Ursoc's Endurance
+Rend and Tear
+Lunar Beam
+Fury of Nature 2
+Blood Frenzy
+Twin Moonfire
+Flashing Claws 2
+Ursoc's Fury
+Elune's Favored
+Incarnation: Guardian of Ursoc
+Ursoc's Guidance
+Galactic Guardian
+Sundering Roar
+Waking Nightmare
+		0 	0
+DPS
+
+Class Talents
+
+Spec Talents
+
+Gear
+
+Combat Potions
+
+Healthstones & Potions
+Nockel
+Demon Hunter (Devourer)
+290 Item Level
+Vengeful Retreat
+Sigil of Misery
+Voidblade
+Unrestrained Fury
+Shattered Restoration
+Bouncing Glaives
+Imprison
+Improved Disrupt
+Consume Magic
+Void Nova
+Aura of Pain
+Disrupting Fury
+Blazing Path
+Focused Ire
+Soul Rending 2
+Felfire Haste
+Pursuit
+Soul Cleanse
+Illidari Knowledge 2
+Will of the Illidari 2
+Guile
+Remorseless
+Internal Struggle
+First In, Last Out
+Furious
+Demon Muzzle
+Soul Splitter 2
+Darkness
+Final Breath
+Pitch Black
+Demonic Resilience
+
+Void Ray
+Soul Immolation
+Predator's Thirst
+Void Metamorphosis
+Feast of Souls
+Tempered Soul
+Collapsing Star
+Moment of Craving
+Soulshaper
+Waste Not
+Entropy
+Sweet Suffering 2
+Sweet Release 2
+Improved Consume
+Voidpurge
+Focused Ray
+Voidrage 2
+Devourer's Edge 2
+Demonic Instinct 2
+Rolling Torment
+Impending Apocalypse
+Calamitous
+Star Fragments
+Eradicate
+Emptiness
+Midnight 1
+Midnight 2
+Midnight 1
+		1 	0
+Powerpegging
+Evoker (Augmentation)
+290 Item Level
+Expunge
+Obsidian Scales
+Landslide
+Natural Convergence
+Verdant Embrace
+Heavy Wingbeats
+Obsidian Bulwark
+Innate Magic 2
+Cauterizing Flame
+Inner Radiance
+Clobbering Sweep
+Attuned to the Dream 2
+Instinctive Arcana 2
+Tip the Scales
+Draconic Legacy
+Extended Flight 2
+Inherent Resistance 2
+Exuberance
+Blast Furnace
+Panacea
+Renewing Blaze
+Rescue
+Stretch Time
+Source of Magic
+Foci of Life
+Leaping Flames
+Aerial Mastery
+Potent Mana
+Terror of the Skies
+Zephyr
+Spatial Paradox
+
+Ebon Might
+Eruption
+Essence Burst
+Ricocheting Pyroclast
+Essence Attunement
+Pupil of Alexstrasza
+Quell
+Upheaval
+Defy Fate
+Breath of Eons
+Power Nexus
+Volcanism
+Ignition Rush
+Chrono Ward
+Timelessness
+Draconic Attunements
+Prescience
+Tectonic Locus
+Momentum Shift
+Fate Mirror
+Hoarded Power
+Anachronism
+Inferno's Blessing
+Accretion
+Time Skip
+Imminent Destruction
+Rumbling Earth
+Plot the Future
+Interwoven Threads
+Mighty Inferno
+Duplicate 1
+Duplicate 2
+Duplicate 1
+		1 	0
+Prico
+Priest (Shadow)
+289 Item Level
+Angelic Feather
+Mind Blast
+Dispel Magic
+Spiritual Guidance
+Psychic Scream
+Power Infusion
+Painful Invocation
+Purify Disease
+Leap of Faith
+Petrifying Scream
+Dominate Mind
+Strength of Resolve
+Twins of the Sun Priestess
+Mass Dispel
+Body and Soul
+Twin Disciplines
+Dark Enlightenment
+Binding Heals
+Shadow Word: Death
+Sanguine Teachings
+Twist of Fate 2
+Tithe Evasion
+Desperate Prayer
+Fade
+Protective Light
+Angel's Mercy
+Improved Fade 2
+Mindpierce
+Light's Inspiration
+Phantasm
+Spell Warding 2
+Translucent Image
+Focused Power
+
+Shadow Word: Madness
+Psychic Link
+Mental Fortitude
+Invoked Nightmare
+Shadowy Apparitions
+Tentacle Slam
+Tormenting Whispers
+Surge of Insanity
+Voidform
+Haunting Shadows
+Shadowy Insight
+Phantom Menace
+Improved Voidform
+Maddening Touch
+Shadowfiend
+Subservient Shadows
+Spectral Horrors
+Mind's Eye
+Instilled Doubt 2
+Mindbender
+Maddening Tentacles
+Auspicious Spirits
+Inescapable Torment
+Screams of the Void 2
+Tormented Spirits
+Idol of N'Zoth
+Idol of Y'Shaarj
+Idol of Yogg-Saron
+Void Apparitions 1
+Void Apparitions 2
+Void Apparitions 1
+		0 	0
+Healers
+
+Class Talents
+
+Spec Talents
+
+Gear
+
+Combat Potions
+
+Healthstones & Potions
+Nelfmw
+Monk (Mistweaver)
+285 Item Level
+Soothing Mist
+Paralysis
+Rising Sun Kick
+Elusive Mists
+Tiger's Lust
+Fast Feet
+Improved Detox
+Grace of the Crane
+Calming Presence
+Vivacious Vivification
+Chi Warding
+Ancient Arts 2
+Transcendence
+Celerity
+Chi Wave
+Ring of Peace
+Improved Touch of Death
+Ferocity of Xuen 2
+Tiger Tail Sweep
+Dance of the Wind
+Yu'lon's Grace
+Fortifying Brew
+Mist Caller
+Save Them All
+Jade Infusion
+Expeditious Fortification
+Vital Clarity
+Diffuse Magic
+Chi Proficiency 2
+Martial Instincts 2
+Lighter Than Air
+Flow of Chi
+
+Enveloping Mist
+Misty Coalescence
+Thunder Focus Tea
+Life Cocoon
+Invigorating Mists
+Mana Tea
+Crane Style
+Revival
+Healing Elixir
+Calming Coalescence
+Way of the Crane
+Energizing Brew
+Rapid Diffusion 2
+Invoke Chi-Ji, the Red Crane
+Mists of Life
+Mist Wrap
+Lotus Infusion
+Celestial Harmony
+Chrysalis
+Gift of the Celestials
+Focused Thunder
+Pool of Mists
+Sheilun's Gift
+Morning Breeze
+Secret Infusion 2
+Jadefire Teachings
+Tranquil Tea
+Rising Mist
+Mistline
+Emperor's Elixir
+Dance of Chi-Ji
+Legacy of Wisdom
+		0 	0
+Warcraft Logs Logo
+HEY THERE.We all want Warcraft Logs to remain free.
+We work hard to offer you the best possible experience.
+Help us by disabling your Adblock or supporting us on Patreon.

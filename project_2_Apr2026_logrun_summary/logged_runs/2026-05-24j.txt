@@ -1,0 +1,865 @@
+
+
+    Midnight
+    Mists of Pandaria
+    Classic Fresh
+    Season of Discovery
+    Vanilla
+
+Warcraft Logs
+Enter a player, guild, or realm
+Enter a player, guild, or realm
+Search
+122
+Download Archon App
+
+    Deutsch
+    English
+    Español
+    Français
+    Italiano
+    Português (Brasil)
+    Русский
+    한국어
+    繁體中文
+    简体中文
+
+Mythic+ Season 1
+Created by BudoBoy07 on Sat May 23 2026
+
+    Edit Report
+    Delete Report
+    Make Private
+    View in Anonymous Mode
+
+Settings
++
+
+    VS / DR / MQD
+    BudoBoy07 - (Public) - 42 minutes ago
+    Mythic+ Season 1
+    BudoBoy07 - (Public) - 42 minutes ago
+    Sporefall
+    BudoBoy07 - (Public) - 2 months ago
+    Sporefall
+    BudoBoy07 - (Public) - 2 months ago
+
+BudoBoy07
+Personal Logs
++
+Skyreach+
++21 [Fortified] [Tyrannical] [Xal'atath's Guile] 1 (1:16) 7:40 PM
+
+    + Bosses and Trash
+        Bosses and Trash
+        Bosses
+        Trash
+        Ranjit
+        Araknath
+        Rukhran
+        High Save Viryx
+        Pull 1 (1:06) +0:09
+        Dread Raven
+
+Entire Dungeon
+
+    + All Friendlies
+        +Grâvêyârd
+            Abomination
+
+            ID: 149555
+            Carrionhead
+            High Inquisitor Whitemane
+
+            ID: 221633
+            Highlord Darion Mograine
+
+            ID: 221632
+            King Thoras Trollbane
+
+            ID: 221635
+            +Lesser Ghoul
+                1
+
+                2
+
+                3
+
+                4
+
+                5
+
+                6
+
+                7
+
+                8
+
+                9
+
+                10
+                11
+
+                12
+
+                13
+
+                14
+
+            ID: 237409
+            +Lesser Ghoul
+                1
+
+                2
+
+                3
+
+                4
+
+            ID: 258578
+            +Magus of the Dead
+                1
+
+                2
+
+                3
+
+                4
+
+                5
+
+                6
+
+            ID: 163366
+            Nazgrim
+
+            ID: 221634
+        +Sýth
+            +Dread Shade
+                1
+
+                2
+
+            ID: 251422
+        +Powerpegging
+            +Dracthyr Commando
+                1
+
+                2
+
+            ID: 219827
+            +Future Self
+                1
+
+                2
+
+            ID: 253466
+        +Сугробикх
+            Chi-Ji
+
+            ID: 166949
+        +Idano
+            +Antoran Inquisitor
+                1
+
+                2
+
+                3
+
+                4
+
+            ID: 258242
+            +Charhound
+                1
+
+                2
+
+                3
+
+            ID: 226269
+            Demonic Tyrant
+
+            ID: 250289
+            +Dreadstalker
+                1
+
+                2
+
+                3
+
+                4
+
+                5
+
+                6
+
+            ID: 98035
+            Imp Lord
+
+            ID: 258584
+            Lady Sacrolash
+
+            ID: 260076
+            Mother of Chaos
+
+            ID: 228576
+            +Overlord
+                1
+
+                2
+
+            ID: 228575
+            Pit Lord
+
+            ID: 228574
+            SkreeZugul
+            +Wild Imp (Hand of Gul'dan)
+                1
+
+                2
+
+                3
+
+                4
+
+                5
+
+                6
+
+                7
+
+                8
+
+                9
+
+                10
+                11
+
+                12
+
+                13
+
+                14
+
+                15
+
+                16
+
+                17
+
+                18
+
+                19
+
+                20
+                21
+
+                22
+
+                23
+
+                24
+
+                25
+
+                26
+
+                27
+
+                28
+
+                29
+
+                30
+                31
+
+                32
+
+                33
+
+                34
+
+                35
+
+                36
+
+                37
+
+                38
+
+                39
+
+                40
+                41
+
+                42
+
+            ID: 55659
+            +Wild Imp (Inner Demons/To Hell and Back)
+                1
+
+                2
+
+                3
+
+                4
+
+                5
+
+                6
+
+            ID: 143622
+
+
+
+
+
+Friendlies Enemies
+Summary
+Damage Done
+Damage Taken
+Healing
+Threat
+Buffs
+Debuffs
+Deaths
+Interrupts
+Dispels
+Resources
+Casts
+
+    +Ignore Events After Player Deaths
+        Ignore Events After Player Deaths
+        Ignore Events After A Called Wipe
+
+Filter Expression:
+
+    +
+        Heroism
+        Downtime
+        Player Deaths
+        Player Resurrections
+        Boss Deaths
+        NPC Deaths
+        Show All Entries
+        Hide All Entries
+
+ZoomPer Second AmountDamage DoneDamage TakenHealing Done00:0000:1000:2000:3000:4000:5001:0001:100M1M2M3M4M5M
+Group Composition Item Level: 289.60
+Tanks:	Sýth
+DPS:	Grâvêyârd Powerpegging Idano
+Healers:	Сугробикх
+Damage Done By Source
+Name
+
+Amount
+
+DPS
+
+Idano
+40.54%
+43.82m 	574,771.1
+Powerpegging
+23.17%
+25.04m 	328,517.8
+Sýth
+22.79%
+24.63m 	323,108.1
+Grâvêyârd
+7.94%
+8.58m 	112,499.5
+Сугробикх
+5.55%
+6.00m 	78,733.5
+Healing Done By Source
+Name
+
+Amount
+
+HPS
+
+Sýth
+47.99%
+16.78m 	220,152.3
+Сугробикх
+39.31%
+13.75m 	180,331.3
+Powerpegging
+7.49%
+2.62m 	34,372.4
+Grâvêyârd
+2.61%
+911.5k 	11,957.3
+Idano
+2.60%
+908.1k 	11,912.8
+Damage Taken By Ability
+Name
+
+Amount
+
+DTPS
+
+Melee
+44.59%
+17.11m 	224,486.9
+Dire Screech
+14.66%
+5.63m 	73,798.9
+Blade Rush
+10.87%
+4.17m 	54,729.7
+Wrathful Wind
+9.44%
+3.62m 	47,546.1
+Ricocheting Chakram
+6.40%
+2.46m 	32,237.6
+Wind Claws
+5.72%
+2.20m 	28,804.3
+Dread Wind
+4.63%
+1.78m 	23,324.5
+Shear
+2.88%
+1.11m 	14,522.3
+Stretch Time
+0.42%
+162.7k 	2,133.6
+Burning Rush
+0.24%
+93.0k 	1,219.8
+Fel Armor
+0.14%
+52.0k 	681.6
+Deaths
+Name
+
+Killing Blow
+
+Time
+
+Grâvêyârd 		0:34
+Grâvêyârd 	Wrathful Wind 	0:51
+Powerpegging 	Ricocheting Chakram 	1:07
+Idano 	Dire Screech 	1:07
+Sýth 	Melee 	1:14
+Сугробикх 	Melee 	1:16
+Characters
+Tanks
+
+Class Talents
+
+Spec Talents
+
+Gear
+
+Combat Potions
+
+Healthstones & Potions
+Sýth
+Druid (Guardian)
+289 Item Level
+Rake
+Rejuvenation
+Frenzied Regeneration
+Ursoc's Spirit
+Grievous Wounds
+Swipe
+Remove Corruption
+Verdant Heart
+Nurturing Instinct 2
+Killer Instinct 2
+Ironfur
+Improved Barkskin
+Natural Recovery
+Thick Hide
+Skull Bash
+Wild Charge
+Soothe
+Aessina's Renewal
+Typhoon
+Stampeding Roar
+Well-Honed Instincts
+Feline Swiftness
+Matted Fur 2
+Ursol's Vortex
+Lycara's Teachings 2
+Gift of the Wild
+Oakskin
+Lore of the Grove
+Incapacitating Roar
+Forestwalk 2
+Circle of the Wild
+Heart of the Wild
+
+Maul
+Gore
+Survival Instincts
+Persistence
+Dream Guide
+Vulnerable Flesh
+Berserk
+Innate Resolve
+After the Wildfire
+Survival of the Fittest 2
+Scintillating Moonlight 2
+Reinvigoration 1
+Ursol's Warding
+Natural Resilience
+Reinforced Fur
+Gift of an Ancient Guardian
+Ursoc's Endurance
+Rend and Tear
+Lunar Beam
+Fury of Nature 2
+Blood Frenzy
+Twin Moonfire
+Flashing Claws 2
+Ursoc's Fury
+Elune's Favored
+Incarnation: Guardian of Ursoc
+Ursoc's Guidance
+Galactic Guardian
+Sundering Roar
+Waking Nightmare
+		2 	0
+DPS
+
+Class Talents
+
+Spec Talents
+
+Gear
+
+Combat Potions
+
+Healthstones & Potions
+Grâvêyârd
+Death Knight (Unholy)
+290 Item Level
+Death Strike
+Icebound Fortitude
+Raise Dead
+Runic Attenuation
+Improved Death Strike
+Cleaving Strikes
+Blinding Sleet
+Gloom Ward 2
+Unholy Momentum 2
+March of Darkness
+Mind Freeze
+Enfeeble
+Brittle
+Permafrost
+Veteran of the Third War
+Coldthirst
+Anti-Magic Zone
+Unholy Bond
+Icy Talons
+Anti-Magic Barrier
+Assimilation
+Grip of the Dead
+Asphyxiate
+Blood Scent
+Suppression
+Insidious Chill
+Runic Protection
+Will of the Necropolis 2
+Rune Mastery 2
+Death's Echo
+Null Magic
+
+Outbreak
+Scourge Strike
+Sudden Doom
+Dark Transformation
+Putrefy
+Clawing Shadows
+Foul Infections
+Grave Mastery
+Necromancer's Cunning
+Magus of the Dead
+Soul Reaper
+Festering Scythe
+Ebon Fever
+Cycle of Death
+Ghoulish Frenzy
+Army of the Dead
+Menacing Magus
+Reaping
+Raise Abomination
+Harbinger of Doom
+Unholy Devotion
+Doomed Bidding
+Blightburst
+Putrid Echoes
+Commander of the Dead 2
+Unholy Aura 2
+Outnumber
+Reanimation
+Forbidden Knowledge 1
+Forbidden Knowledge 2
+Forbidden Knowledge 1
+		2 	1
+Powerpegging
+Evoker (Augmentation)
+290 Item Level
+Expunge
+Obsidian Scales
+Landslide
+Natural Convergence
+Verdant Embrace
+Heavy Wingbeats
+Obsidian Bulwark
+Innate Magic 2
+Cauterizing Flame
+Inner Radiance
+Clobbering Sweep
+Attuned to the Dream 2
+Sleep Walk
+Instinctive Arcana 2
+Tip the Scales
+Draconic Legacy
+Extended Flight 2
+Inherent Resistance 2
+Blast Furnace
+Panacea
+Renewing Blaze
+Rescue
+Stretch Time
+Source of Magic
+Foci of Life
+Leaping Flames
+Aerial Mastery
+Potent Mana
+Terror of the Skies
+Zephyr
+Spatial Paradox
+
+Ebon Might
+Eruption
+Essence Burst
+Ricocheting Pyroclast
+Essence Attunement
+Pupil of Alexstrasza
+Quell
+Upheaval
+Defy Fate
+Breath of Eons
+Power Nexus
+Volcanism
+Bestow Weyrnstone
+Ignition Rush
+Chrono Ward
+Draconic Attunements
+Prescience
+Tectonic Locus
+Momentum Shift
+Fate Mirror
+Hoarded Power
+Anachronism
+Inferno's Blessing
+Accretion
+Time Skip
+Imminent Destruction
+Rumbling Earth
+Plot the Future
+Interwoven Threads
+Mighty Inferno
+Duplicate 1
+Duplicate 2
+Duplicate 1
+		2 	0
+Idano
+Warlock (Demonology)
+290 Item Level
+Fel Domination
+Burning Rush
+Soul Leech
+Fiendish Stride
+Fel Armor 2
+Demon Skin 2
+Demonic Fortitude
+Demonic Embrace
+Mortal Coil
+Banish
+Curse of Tongues
+Demonic Circle
+Pact of the Annihilan
+Pact of the Satyr
+Dark Pact
+Abyss Walker
+Foul Mouth
+Fortified Soul
+Empowered Healthstone
+Frequent Donor
+Pact of the Eredar
+Pact of the Nathrezim
+Shadowfury
+Demonic Gateway
+Strength of Will
+Swift Artifice
+Fel Synergy 2
+Soul Link 2
+Pact of Gluttony
+Soulburn
+Blight of Tongues
+
+Hand of Gul'dan
+Call Dreadstalkers
+Demoniac
+Dreadlash
+Fel Intellect
+Implosion
+Imp-erator
+Summon Felguard
+Carnivorous Stalkers 2
+Rune of Shadows 2
+Infernal Rapidity
+Summon Demonic Tyrant
+Demonic Brutality
+Blighted Maw
+Imp Gang Boss
+Flametouched
+Antoran Armaments
+Tyrant's Oblation
+Spiteful Reconstitution
+Demonic Calling 2
+Master Summoner
+Reign of Tyranny
+Summon Vilefiend
+Grimoire: Imp Lord
+Hellbent Commander
+Mark of F'harg
+To Hell and Back
+Dominion of Argus 1
+Dominion of Argus 2
+Dominion of Argus 1
+		1 	0
+Healers
+
+Class Talents
+
+Spec Talents
+
+Gear
+
+Combat Potions
+
+Healthstones & Potions
+Сугробикх
+Monk (Mistweaver)
+289 Item Level
+Soothing Mist
+Paralysis
+Rising Sun Kick
+Elusive Mists
+Tiger's Lust
+Fast Feet
+Improved Detox
+Grace of the Crane
+Calming Presence
+Jade Walk
+Ancient Arts 2
+Vivacious Vivification
+Chi Warding
+Transcendence
+Celerity
+Chi Wave
+Ring of Peace
+Ferocity of Xuen 2
+Tiger Tail Sweep
+Dance of the Wind
+Yu'lon's Grace
+Fortifying Brew
+Mist Caller
+Save Them All
+Expeditious Fortification
+Chi Proficiency 2
+Martial Instincts 2
+Windwalking
+Lighter Than Air
+Flow of Chi
+Fatal Touch
+Transcendence: Linked Spirits
+
+Enveloping Mist
+Misty Coalescence
+Thunder Focus Tea
+Life Cocoon
+Invigorating Mists
+Mana Tea
+Crane Style
+Healing Elixir
+Revival
+Calming Coalescence
+Energizing Brew
+Way of the Crane
+Mists of Life
+Rapid Diffusion 2
+Invoke Chi-Ji, the Red Crane
+Mist Wrap
+Chrysalis
+Lotus Infusion
+Celestial Harmony
+Gift of the Celestials
+Focused Thunder
+Sheilun's Gift
+Morning Breeze
+Pool of Mists
+Jadefire Teachings
+Tranquil Tea
+Secret Infusion 2
+Emperor's Elixir
+Dance of Chi-Ji
+Rising Mist
+Legacy of Wisdom
+Mistline
+		1 	0
+Warcraft Logs Logo
+HEY THERE.We all want Warcraft Logs to remain free.
+We work hard to offer you the best possible experience.
+Help us by disabling your Adblock or supporting us on Patreon.
+Guild logo
+Warcraft Logs
+Contact Us
+-
+Privacy Policy
+-
+Video Terms of Service
+-
+Careers
+twitter's Icon Logo
+discord's Icon Logo
+patreon's Icon Logo
+Latest Article
+Archon App: Cloud Video Released!
+4 days ago
+Resources
+Forums
+Subscribe
+Help and Info
+Brand
+Our Websites
+Archon
+WoW Retail
+WoW Classic
+WoW SoD
+WoW Classic Fresh
+WoW Vanilla
+Final Fantasy XIV
+Elder Scrolls Online
+SWTOR
+Latest Raid
+Statistics
+Rankings
+Progress
+All Reports
+Our Tools
+Download App
+WoWAnalyzer
+Wipefest
+Recruitment
+© 2013-2026 Warcraft Logs

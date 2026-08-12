@@ -1,0 +1,595 @@
+log_guid,fight_id,outcome,duration,duration_in_sec,wcl_boss_id,boss_text,zone_name,boss_level,affix_icon,fight_time
+y4wWbB83LmA7TpGt,,kill,57:08,3428,12652,The Stonevault,The Stonevault,10,Xal'atath's Bargain: Oblivion,2:56 PM
+nc6PFX3arQZf4yvA,,kill,31:30,1890,12652,The Stonevault,The Stonevault,10,Xal'atath's Bargain: Voidbound,1:22 AM
+3QPh9b7vcZJ6zkYj,,kill,31:29,1889,12652,The Stonevault,The Stonevault,10,Xal'atath's Bargain: Oblivion,5:18 PM
+7LYkXfbhdCRwB94m,,kill,31:29,1889,12652,The Stonevault,The Stonevault,10,Xal'atath's Bargain: Oblivion,5:18 PM
+6JGRLMT8qpvQ4PVn,,wipe,54:57,3297,12652,The Stonevault,The Stonevault,10,Xal'atath's Bargain: Oblivion,10:43 AM
+wCpNcT8abfg6zjx1,,wipe,1:03:12,3792,12652,The Stonevault,The Stonevault,5,Xal'atath's Bargain: Oblivion,2:26 AM
+qpYtPH4bxgk2Cdhf,,wipe,44:33,2673,12652,The Stonevault,The Stonevault,10,Xal'atath's Bargain: Oblivion,6:03 PM
+Vd2wgWQKA8zDaYM1,,wipe,27:26,1646,12652,The Stonevault,The Stonevault,3,Xal'atath's Bargain: Ascendant,3:20 AM
+yvDZ4BGcCq2t8W9K,2,kill,1:07:05,4025,12652,The Stonevault,The Stonevault,,,2:20 PM
+yvDZ4BGcCq2t8W9K,1,wipe,5:13,313,12652,The Stonevault,The Stonevault,,,2:14 PM
+phLYGCnDrR9kb8XP,25,kill,47:43,2863,12652,The Stonevault,The Stonevault,,,2:28 PM
+phLYGCnDrR9kb8XP,16,wipe,29:08,1748,12652,The Stonevault,The Stonevault,,,10:31 AM
+7KwkD8dQmjARvb1M,11,kill,47:48,2868,12652,The Stonevault,The Stonevault,,,5:59 AM
+7KwkD8dQmjARvb1M,2,wipe,1:41:20,6080,12652,The Stonevault,The Stonevault,,,4:24 AM
+AYdHRMfa3X76Bmgv,6,kill,31:40,1900,12652,The Stonevault,The Stonevault,,,10:55 AM
+AYdHRMfa3X76Bmgv,8,kill,34:29,2069,12652,The Stonevault,The Stonevault,,,12:52 PM
+yjhxkPMFZgL2CKV7,15,kill,48:06,2886,12652,The Stonevault,The Stonevault,,,6:17 PM
+yjhxkPMFZgL2CKV7,6,wipe,20:14,1214,12652,The Stonevault,The Stonevault,,,11:38 AM
+p4rvYRy9dgxqHMFB,1,wipe,11:35,695,12652,The Stonevault,The Stonevault,,,5:24 AM
+p4rvYRy9dgxqHMFB,2,wipe,43:51,2631,12652,The Stonevault,The Stonevault,,,5:36 AM
+p4rvYRy9dgxqHMFB,1,wipe,11:35,695,12652,The Stonevault,The Stonevault,,,5:24 AM
+p4rvYRy9dgxqHMFB,2,wipe,43:51,2631,12652,The Stonevault,The Stonevault,,,5:36 AM
+KQM7qJGVcxLhdz41,,kill,39:54,2394,12652,The Stonevault,The Stonevault,8,Xal'atath's Bargain: Ascendant,10:56 AM
+DF1qbKdHXGBP8rWN,2,wipe,0:59,59,12652,The Stonevault,The Stonevault,,,3:04 PM
+DF1qbKdHXGBP8rWN,3,wipe,14:36,876,12652,The Stonevault,The Stonevault,,,3:06 PM
+DF1qbKdHXGBP8rWN,6,wipe,34:11,2051,12652,The Stonevault,The Stonevault,,,5:34 PM
+DF1qbKdHXGBP8rWN,2,wipe,0:59,59,12652,The Stonevault,The Stonevault,,,3:04 PM
+DF1qbKdHXGBP8rWN,3,wipe,14:36,876,12652,The Stonevault,The Stonevault,,,3:06 PM
+DF1qbKdHXGBP8rWN,6,wipe,34:11,2051,12652,The Stonevault,The Stonevault,,,5:34 PM
+T8aYft2NXVgKLrnv,,kill,45:09,2709,12652,The Stonevault,The Stonevault,10,Xal'atath's Bargain: Voidbound,4:14 PM
+BTG2g8HW3wzRXPct,19,wipe,17:02,1022,12652,The Stonevault,The Stonevault,,,10:44 AM
+BTG2g8HW3wzRXPct,20,wipe,38:16,2296,12652,The Stonevault,The Stonevault,,,11:01 AM
+BTG2g8HW3wzRXPct,32,wipe,50:54,3054,12652,The Stonevault,The Stonevault,,,2:34 PM
+BTG2g8HW3wzRXPct,19,wipe,17:02,1022,12652,The Stonevault,The Stonevault,,,10:44 AM
+BTG2g8HW3wzRXPct,20,wipe,38:16,2296,12652,The Stonevault,The Stonevault,,,11:01 AM
+BTG2g8HW3wzRXPct,32,wipe,50:54,3054,12652,The Stonevault,The Stonevault,,,2:34 PM
+cQ3YFwNyLVAqbHMv,4,wipe,24:30,1470,12652,The Stonevault,The Stonevault,,,7:00 AM
+cQ3YFwNyLVAqbHMv,8,wipe,33:48,2028,12652,The Stonevault,The Stonevault,,,1:12 AM
+cQ3YFwNyLVAqbHMv,4,wipe,24:30,1470,12652,The Stonevault,The Stonevault,,,7:00 AM
+cQ3YFwNyLVAqbHMv,8,wipe,33:48,2028,12652,The Stonevault,The Stonevault,,,1:12 AM
+tyRBPLZY1cDhvdmF,4,wipe,3:56,236,12652,The Stonevault,The Stonevault,,,11:23 AM
+tyRBPLZY1cDhvdmF,5,wipe,32:28,1948,12652,The Stonevault,The Stonevault,,,11:27 AM
+tyRBPLZY1cDhvdmF,4,wipe,3:56,236,12652,The Stonevault,The Stonevault,,,11:23 AM
+tyRBPLZY1cDhvdmF,5,wipe,32:28,1948,12652,The Stonevault,The Stonevault,,,11:27 AM
+wzyJ7BFWmQRxdH3G,13,kill,33:43,2023,12652,The Stonevault,The Stonevault,,,10:25 PM
+wzyJ7BFWmQRxdH3G,6,wipe,0:00,0,12652,The Stonevault,The Stonevault,,,8:37 PM
+wzyJ7BFWmQRxdH3G,7,wipe,30:58,1858,12652,The Stonevault,The Stonevault,,,8:38 PM
+wzyJ7BFWmQRxdH3G,10,wipe,0:00,0,12652,The Stonevault,The Stonevault,,,10:18 PM
+wzyJ7BFWmQRxdH3G,11,wipe,6:43,403,12652,The Stonevault,The Stonevault,,,10:18 PM
+wzyJ7BFWmQRxdH3G,12,wipe,0:00,0,12652,The Stonevault,The Stonevault,,,10:25 PM
+wzyJ7BFWmQRxdH3G,6,wipe,0:00,0,12652,The Stonevault,The Stonevault,,,8:37 PM
+wzyJ7BFWmQRxdH3G,7,wipe,30:58,1858,12652,The Stonevault,The Stonevault,,,8:38 PM
+wzyJ7BFWmQRxdH3G,10,wipe,0:00,0,12652,The Stonevault,The Stonevault,,,10:18 PM
+wzyJ7BFWmQRxdH3G,11,wipe,6:43,403,12652,The Stonevault,The Stonevault,,,10:18 PM
+wzyJ7BFWmQRxdH3G,12,wipe,0:00,0,12652,The Stonevault,The Stonevault,,,10:25 PM
+X4knPWaNCx6HRZwz,,kill,38:04,2284,12652,The Stonevault,The Stonevault,10,Xal'atath's Bargain: Frenzied,5:57 AM
+Kk1QTx96nzvZXGLV,11,kill,28:26,1706,12652,The Stonevault,The Stonevault,,,11:52 AM
+Kk1QTx96nzvZXGLV,19,kill,22:14,1334,12652,The Stonevault,The Stonevault,,,8:11 PM
+Kk1QTx96nzvZXGLV,10,wipe,4:47,287,12652,The Stonevault,The Stonevault,,,11:47 AM
+CY2zRZFrNgpjq7at,8,kill,22:04,1324,12652,The Stonevault,The Stonevault,,,7:12 PM
+CY2zRZFrNgpjq7at,11,wipe,23:13,1393,12652,The Stonevault,The Stonevault,,,8:20 PM
+D3LWBjnCR6af7pgA,,kill,24:28,1468,12652,The Stonevault,The Stonevault,12,Fortified,6:11 PM
+CNzT4nQ23HwkK7Z6,,wipe,25:40,1540,12652,The Stonevault,The Stonevault,12,Tyrannical,4:39 PM
+qfQTAwjGrHdNhn2K,,kill,29:36,1776,12652,The Stonevault,The Stonevault,12,Tyrannical,4:07 PM
+JYfKt3Aph6QW8cGV,,kill,43:01,2581,12652,The Stonevault,The Stonevault,10,Xal'atath's Bargain: Ascendant,11:18 PM
+pNM81VhX7bY2t4yC,,kill,29:15,1755,12652,The Stonevault,The Stonevault,11,Xal'atath's Bargain: Ascendant,7:40 PM
+naDhgQHCyp7FNz1q,,kill,24:14,1454,12652,The Stonevault,The Stonevault,10,Xal'atath's Bargain: Ascendant,7:43 PM
+HF4ZrjkCYxmw9pMh,,kill,38:04,2284,12652,The Stonevault,The Stonevault,10,Xal'atath's Bargain: Frenzied,5:57 AM
+87yrQgafTcNwRYkJ,,wipe,1:04:42,3882,12652,The Stonevault,The Stonevault,5,Tyrannical,3:46 PM
+9jYGbwXga1JDKcyr,13,wipe,0:44,44,12652,The Stonevault,The Stonevault,,,12:43 PM
+9jYGbwXga1JDKcyr,14,wipe,20:42,1242,12652,The Stonevault,The Stonevault,,,12:44 PM
+9jYGbwXga1JDKcyr,13,wipe,0:44,44,12652,The Stonevault,The Stonevault,,,12:43 PM
+9jYGbwXga1JDKcyr,14,wipe,20:42,1242,12652,The Stonevault,The Stonevault,,,12:44 PM
+Mv3jCLzwXbF27cKq,,kill,25:00,1500,12652,The Stonevault,The Stonevault,7,Xal'atath's Bargain: Frenzied,8:58 AM
+HkQNhVpq4PmGxaBb,,kill,25:07,1507,12652,The Stonevault,The Stonevault,10,Xal'atath's Bargain: Ascendant,6:35 AM
+8gnPNp4FHC3hd2wG,,kill,25:07,1507,12652,The Stonevault,The Stonevault,10,Xal'atath's Bargain: Ascendant,6:35 AM
+BCtVxaMhyLXmAjfW,,wipe,1:07:42,4062,12652,The Stonevault,The Stonevault,3,Xal'atath's Bargain: Ascendant,3:17 AM
+LWfyK68GdJMYXBzb,2,kill,47:50,2870,12652,The Stonevault,The Stonevault,,,12:51 AM
+LWfyK68GdJMYXBzb,1,wipe,19:47,1187,12652,The Stonevault,The Stonevault,,,3:39 AM
+YHAMw6VTJjqpm4zx,,kill,28:18,1698,12652,The Stonevault,The Stonevault,10,Xal'atath's Bargain: Ascendant,8:20 PM
+4Ck7GyKZrf23WTzw,17,kill,36:30,2190,12652,The Stonevault,The Stonevault,,,8:16 PM
+4Ck7GyKZrf23WTzw,7,wipe,4:42,282,12652,The Stonevault,The Stonevault,,,3:03 PM
+4Ck7GyKZrf23WTzw,8,wipe,17:56,1076,12652,The Stonevault,The Stonevault,,,3:10 PM
+4Ck7GyKZrf23WTzw,9,wipe,19:36,1176,12652,The Stonevault,The Stonevault,,,3:28 PM
+4Ck7GyKZrf23WTzw,18,wipe,0:00,0,12652,The Stonevault,The Stonevault,,,9:25 PM
+4Ck7GyKZrf23WTzw,7,wipe,4:42,282,12652,The Stonevault,The Stonevault,,,3:03 PM
+4Ck7GyKZrf23WTzw,8,wipe,17:56,1076,12652,The Stonevault,The Stonevault,,,3:10 PM
+4Ck7GyKZrf23WTzw,9,wipe,19:36,1176,12652,The Stonevault,The Stonevault,,,3:28 PM
+4Ck7GyKZrf23WTzw,18,wipe,0:00,0,12652,The Stonevault,The Stonevault,,,9:25 PM
+VHZTQ1pwLj6fnPFt,,kill,22:25,1345,12652,The Stonevault,The Stonevault,10,Xal'atath's Bargain: Ascendant,3:57 PM
+NqH1JWXpvg4yhmAz,,wipe,45:44,2744,12652,The Stonevault,The Stonevault,7,Xal'atath's Bargain: Ascendant,4:59 AM
+dQ7htfzN3xRy6Vgk,,kill,26:55,1615,12652,The Stonevault,The Stonevault,6,Xal'atath's Bargain: Frenzied,8:00 PM
+nRkZty49pjYvm7qQ,5,kill,52:32,3152,12652,The Stonevault,The Stonevault,,,5:38 PM
+nRkZty49pjYvm7qQ,3,wipe,5:13,313,12652,The Stonevault,The Stonevault,,,5:03 PM
+nRkZty49pjYvm7qQ,4,wipe,29:43,1783,12652,The Stonevault,The Stonevault,,,5:09 PM
+nRkZty49pjYvm7qQ,6,wipe,16:13,973,12652,The Stonevault,The Stonevault,,,6:38 PM
+nRkZty49pjYvm7qQ,7,wipe,10:32,632,12652,The Stonevault,The Stonevault,,,6:54 PM
+nRkZty49pjYvm7qQ,8,wipe,3:46,226,12652,The Stonevault,The Stonevault,,,7:05 PM
+nRkZty49pjYvm7qQ,3,wipe,5:13,313,12652,The Stonevault,The Stonevault,,,5:03 PM
+nRkZty49pjYvm7qQ,4,wipe,29:43,1783,12652,The Stonevault,The Stonevault,,,5:09 PM
+nRkZty49pjYvm7qQ,6,wipe,16:13,973,12652,The Stonevault,The Stonevault,,,6:38 PM
+nRkZty49pjYvm7qQ,7,wipe,10:32,632,12652,The Stonevault,The Stonevault,,,6:54 PM
+nRkZty49pjYvm7qQ,8,wipe,3:46,226,12652,The Stonevault,The Stonevault,,,7:05 PM
+FPtqwKAbfYWrZ4Gp,,kill,25:23,1523,12652,The Stonevault,The Stonevault,7,Xal'atath's Bargain: Ascendant,2:54 AM
+Gdpx1LjgqWJnav73,,kill,21:32,1292,12652,The Stonevault,The Stonevault,4,Xal'atath's Bargain: Frenzied,4:58 PM
+acrQ3hLwdk71DXW9,,kill,26:29,1589,12652,The Stonevault,The Stonevault,7,Xal'atath's Bargain: Frenzied,1:53 PM
+7zRpn4hjAxm8TZ2c,,wipe,30:04,1804,12652,The Stonevault,The Stonevault,2,Xal'atath's Bargain: Frenzied,9:16 AM
+bfzKxdWnyGYRgMmZ,,wipe,15:13,913,12652,The Stonevault,The Stonevault,4,Xal'atath's Bargain: Ascendant,9:09 PM
+ndPRyjbq91M2zZJN,,wipe,17:16,1036,12652,The Stonevault,The Stonevault,10,Xal'atath's Bargain: Ascendant,10:08 PM
+QtZpVyAMNr3XL6jD,,wipe,17:37,1057,12652,The Stonevault,The Stonevault,6,Fortified,7:13 PM
+TKPryQCjfJ2tRpH9,4,kill,51:13,3073,12652,The Stonevault,The Stonevault,,,5:41 PM
+TKPryQCjfJ2tRpH9,12,kill,23:44,1424,12652,The Stonevault,The Stonevault,,,12:48 AM
+TKPryQCjfJ2tRpH9,3,wipe,6:55,415,12652,The Stonevault,The Stonevault,,,5:34 PM
+GxqjDtnBCZzhH6cJ,,wipe,6:38,398,12652,The Stonevault,The Stonevault,3,Tyrannical,6:33 AM
+tryBGzA4bPDVdwQ9,,wipe,22:49,1369,12652,The Stonevault,The Stonevault,3,Tyrannical,8:46 AM
+qP8LHG7ypNtkm3Dn,,kill,35:10,2110,12652,The Stonevault,The Stonevault,2,Fortified,6:06 AM
+pHxPD8rVZ79Xzcwy,,wipe,31:37,1897,12652,The Stonevault,The Stonevault,4,Fortified,8:30 PM
+axzpX9trZMTmD73P,,wipe,15:17,917,12652,The Stonevault,The Stonevault,4,Fortified,7:16 PM
+yCp1YgkLdTGZhwtV,,kill,41:40,2500,12652,The Stonevault,The Stonevault,5,Fortified,1:45 PM
+Qdpt6xHK4DYBb8gz,2,kill,31:41,1901,12652,The Stonevault,The Stonevault,,,7:50 AM
+Qdpt6xHK4DYBb8gz,1,wipe,42:30,2550,12652,The Stonevault,The Stonevault,,,4:39 AM
+fdJP9pWvcZ7Dhzwt,,kill,39:04,2344,12652,The Stonevault,The Stonevault,3,Fortified,5:20 AM
+YDcpjzGmrZ4tq3KA,,kill,43:22,2602,12652,The Stonevault,The Stonevault,3,Fortified,9:21 PM
+Vbf4q3x2vQpXjDPw,1,wipe,16:55,1015,12652,The Stonevault,The Stonevault,,,4:11 PM
+Vbf4q3x2vQpXjDPw,2,wipe,45:47,2747,12652,The Stonevault,The Stonevault,,,4:28 PM
+Vbf4q3x2vQpXjDPw,1,wipe,16:55,1015,12652,The Stonevault,The Stonevault,,,4:11 PM
+Vbf4q3x2vQpXjDPw,2,wipe,45:47,2747,12652,The Stonevault,The Stonevault,,,4:28 PM
+LYAb1h4tkmQGc7KJ,4,wipe,2:52,172,12652,The Stonevault,The Stonevault,,,2:53 PM
+LYAb1h4tkmQGc7KJ,5,wipe,47:23,2843,12652,The Stonevault,The Stonevault,,,2:56 PM
+LYAb1h4tkmQGc7KJ,4,wipe,2:52,172,12652,The Stonevault,The Stonevault,,,2:53 PM
+LYAb1h4tkmQGc7KJ,5,wipe,47:23,2843,12652,The Stonevault,The Stonevault,,,2:56 PM
+XJAnbp1VtgMwjmLT,,kill,1:12:42,4362,12652,The Stonevault,The Stonevault,3,Fortified,8:57 AM
+PR9G6FpQhnCHjmDw,,kill,38:18,2298,12652,The Stonevault,The Stonevault,2,Tyrannical,2:17 AM
+QnmDcx8216K4ZvTz,,wipe,34:05,2045,12652,The Stonevault,The Stonevault,4,Tyrannical,12:57 AM
+3b4yhHcTaMf7vRCA,,wipe,42:43,2563,12652,The Stonevault,The Stonevault,5,Fortified,2:23 PM
+KJmkXVRW3TLH4Cv2,,kill,23:04,1384,12652,The Stonevault,The Stonevault,4,Fortified,5:23 AM
+rjbtXR73dzLVCcP6,,wipe,8:04,484,12652,The Stonevault,The Stonevault,2,Fortified,4:53 AM
+VRkH97W1xmtFgcNp,,wipe,47:54,2874,12652,The Stonevault,The Stonevault,3,Fortified,3:32 AM
+yTjNZDMH6FQKP47k,,kill,37:18,2238,12652,The Stonevault,The Stonevault,4,Fortified,1:26 AM
+XqtTy3GWFnzApaJc,,kill,36:42,2202,12652,The Stonevault,The Stonevault,5,Fortified,11:59 PM
+xXnbk7MJYjZ6BKCq,,wipe,27:57,1677,12652,The Stonevault,The Stonevault,10,Xal'atath's Bargain: Voidbound,5:08 AM
+3FATRGhfP6x8XWMd,,kill,46:06,2766,12652,The Stonevault,The Stonevault,10,Xal'atath's Bargain: Voidbound,4:01 AM
+jKnYpkLm4FVc291r,,kill,46:06,2766,12652,The Stonevault,The Stonevault,10,Xal'atath's Bargain: Voidbound,4:01 AM
+btpQdx4A2VFqyWHj,,kill,46:06,2766,12652,The Stonevault,The Stonevault,10,Xal'atath's Bargain: Voidbound,4:01 AM
+mc6D3AZ8XbKJwajF,,wipe,35:53,2153,12652,The Stonevault,The Stonevault,10,Xal'atath's Bargain: Ascendant,2:06 AM
+xGVv3W1T6LwZfcCt,11,wipe,29:08,1748,12652,The Stonevault,The Stonevault,,,11:37 AM
+xGVv3W1T6LwZfcCt,13,wipe,8:26,506,12652,The Stonevault,The Stonevault,,,12:59 PM
+xGVv3W1T6LwZfcCt,14,wipe,8:05,485,12652,The Stonevault,The Stonevault,,,1:07 PM
+xGVv3W1T6LwZfcCt,15,wipe,2:22,142,12652,The Stonevault,The Stonevault,,,1:15 PM
+xGVv3W1T6LwZfcCt,16,wipe,29:58,1798,12652,The Stonevault,The Stonevault,,,1:18 PM
+xGVv3W1T6LwZfcCt,11,wipe,29:08,1748,12652,The Stonevault,The Stonevault,,,11:37 AM
+xGVv3W1T6LwZfcCt,13,wipe,8:26,506,12652,The Stonevault,The Stonevault,,,12:59 PM
+xGVv3W1T6LwZfcCt,14,wipe,8:05,485,12652,The Stonevault,The Stonevault,,,1:07 PM
+xGVv3W1T6LwZfcCt,15,wipe,2:22,142,12652,The Stonevault,The Stonevault,,,1:15 PM
+xGVv3W1T6LwZfcCt,16,wipe,29:58,1798,12652,The Stonevault,The Stonevault,,,1:18 PM
+Y1qzphFKAc4fb6NG,5,wipe,39:22,2362,12652,The Stonevault,The Stonevault,,,9:22 PM
+Y1qzphFKAc4fb6NG,8,wipe,35:53,2153,12652,The Stonevault,The Stonevault,,,2:06 AM
+Y1qzphFKAc4fb6NG,5,wipe,39:22,2362,12652,The Stonevault,The Stonevault,,,9:22 PM
+Y1qzphFKAc4fb6NG,8,wipe,35:53,2153,12652,The Stonevault,The Stonevault,,,2:06 AM
+YyNXTpZJB7v8wqVn,,wipe,25:51,1551,12652,The Stonevault,The Stonevault,10,Xal'atath's Bargain: Voidbound,3:57 PM
+p7ch39yJH2CRfLtN,2,wipe,32:05,1925,12652,The Stonevault,The Stonevault,,,2:11 PM
+p7ch39yJH2CRfLtN,3,wipe,0:30,30,12652,The Stonevault,The Stonevault,,,2:57 PM
+p7ch39yJH2CRfLtN,2,wipe,32:05,1925,12652,The Stonevault,The Stonevault,,,2:11 PM
+p7ch39yJH2CRfLtN,3,wipe,0:30,30,12652,The Stonevault,The Stonevault,,,2:57 PM
+6rQMCpL3G2JNqva7,,kill,52:36,3156,12652,The Stonevault,The Stonevault,10,Xal'atath's Bargain: Voidbound,3:54 PM
+KCQ74M1Hy83YjhLX,,kill,1:11:43,4303,12652,The Stonevault,The Stonevault,5,Xal'atath's Bargain: Voidbound,7:07 AM
+gKvafNJwmH1D3LGZ,,kill,44:48,2688,12652,The Stonevault,The Stonevault,5,Xal'atath's Bargain: Ascendant,6:43 AM
+vAFHTWNJLCbV7dYn,1,wipe,45:31,2731,12652,The Stonevault,The Stonevault,,,1:27 PM
+vAFHTWNJLCbV7dYn,3,wipe,35:28,2128,12652,The Stonevault,The Stonevault,,,2:42 PM
+vAFHTWNJLCbV7dYn,1,wipe,45:31,2731,12652,The Stonevault,The Stonevault,,,1:27 PM
+vAFHTWNJLCbV7dYn,3,wipe,35:28,2128,12652,The Stonevault,The Stonevault,,,2:42 PM
+Af8pGPm6wzZ1N7vL,,kill,33:52,2032,12652,The Stonevault,The Stonevault,12,Fortified,3:24 PM
+dNMPkV6K9hrXbTmp,2,wipe,7:25,445,12652,The Stonevault,The Stonevault,,,2:05 PM
+dNMPkV6K9hrXbTmp,3,wipe,29:51,1791,12652,The Stonevault,The Stonevault,,,2:12 PM
+dNMPkV6K9hrXbTmp,2,wipe,7:25,445,12652,The Stonevault,The Stonevault,,,2:05 PM
+dNMPkV6K9hrXbTmp,3,wipe,29:51,1791,12652,The Stonevault,The Stonevault,,,2:12 PM
+n18A2mjGkrtPVRM4,2,wipe,7:25,445,12652,The Stonevault,The Stonevault,,,2:05 PM
+n18A2mjGkrtPVRM4,3,wipe,29:51,1791,12652,The Stonevault,The Stonevault,,,2:12 PM
+n18A2mjGkrtPVRM4,2,wipe,7:25,445,12652,The Stonevault,The Stonevault,,,2:05 PM
+n18A2mjGkrtPVRM4,3,wipe,29:51,1791,12652,The Stonevault,The Stonevault,,,2:12 PM
+bg13Baqh8jATGtnL,1,wipe,28:25,1705,12652,The Stonevault,The Stonevault,,,2:28 PM
+bg13Baqh8jATGtnL,2,wipe,40:42,2442,12652,The Stonevault,The Stonevault,,,2:56 PM
+bg13Baqh8jATGtnL,1,wipe,28:25,1705,12652,The Stonevault,The Stonevault,,,2:28 PM
+bg13Baqh8jATGtnL,2,wipe,40:42,2442,12652,The Stonevault,The Stonevault,,,2:56 PM
+j3CwHXWb1KgBy2F9,,kill,25:07,1507,12652,The Stonevault,The Stonevault,10,Xal'atath's Bargain: Ascendant,6:35 AM
+HFjC3mdKvrnkA2qc,,kill,25:07,1507,12652,The Stonevault,The Stonevault,10,Xal'atath's Bargain: Ascendant,6:35 AM
+GxgBbm4XL1hYtypa,,wipe,46:14,2774,12652,The Stonevault,The Stonevault,3,Xal'atath's Bargain: Ascendant,4:33 AM
+Dw7VjC9FmpxJy3Xv,17,kill,36:30,2190,12652,The Stonevault,The Stonevault,,,8:16 PM
+Dw7VjC9FmpxJy3Xv,7,wipe,4:42,282,12652,The Stonevault,The Stonevault,,,3:03 PM
+Dw7VjC9FmpxJy3Xv,8,wipe,17:56,1076,12652,The Stonevault,The Stonevault,,,3:10 PM
+Dw7VjC9FmpxJy3Xv,9,wipe,19:36,1176,12652,The Stonevault,The Stonevault,,,3:28 PM
+Dw7VjC9FmpxJy3Xv,18,wipe,0:00,0,12652,The Stonevault,The Stonevault,,,9:25 PM
+Dw7VjC9FmpxJy3Xv,7,wipe,4:42,282,12652,The Stonevault,The Stonevault,,,3:03 PM
+Dw7VjC9FmpxJy3Xv,8,wipe,17:56,1076,12652,The Stonevault,The Stonevault,,,3:10 PM
+Dw7VjC9FmpxJy3Xv,9,wipe,19:36,1176,12652,The Stonevault,The Stonevault,,,3:28 PM
+Dw7VjC9FmpxJy3Xv,18,wipe,0:00,0,12652,The Stonevault,The Stonevault,,,9:25 PM
+6DQjWANHbt3LZBYq,5,kill,57:46,3466,12652,The Stonevault,The Stonevault,,,6:01 PM
+6DQjWANHbt3LZBYq,4,wipe,17:33,1053,12652,The Stonevault,The Stonevault,,,5:44 PM
+jMCHXPh9byD1GmzT,4,kill,49:02,2942,12652,The Stonevault,The Stonevault,,,3:15 PM
+jMCHXPh9byD1GmzT,5,kill,31:53,1913,12652,The Stonevault,The Stonevault,,,4:13 PM
+jMCHXPh9byD1GmzT,3,wipe,10:30,630,12652,The Stonevault,The Stonevault,,,3:04 PM
+X8Tmv3q7fznj9QdD,,kill,38:29,2309,12652,The Stonevault,The Stonevault,5,Xal'atath's Bargain: Ascendant,12:31 PM
+pYjFrDZntGV8H6wc,,kill,46:27,2787,12652,The Stonevault,The Stonevault,7,Xal'atath's Bargain: Ascendant,7:25 AM
+12fxMtPrGFvnJy4j,,kill,39:04,2344,12652,The Stonevault,The Stonevault,4,Xal'atath's Bargain: Ascendant,12:21 AM
+hZLfAwjMg4Pa6H3n,4,kill,1:12:15,4335,12652,The Stonevault,The Stonevault,,,8:57 AM
+hZLfAwjMg4Pa6H3n,3,wipe,3:50,230,12652,The Stonevault,The Stonevault,,,8:54 AM
+Dw81VPYgrKvAMRc9,,kill,34:33,2073,12652,The Stonevault,The Stonevault,10,Xal'atath's Bargain: Frenzied,1:52 PM
+rfvqbRtWhPXaJcV4,,wipe,14:57,897,12652,The Stonevault,The Stonevault,5,Xal'atath's Bargain: Ascendant,5:07 PM
+afJ79qFWjdhtPLZV,,wipe,14:57,897,12652,The Stonevault,The Stonevault,5,Xal'atath's Bargain: Ascendant,5:07 PM
+pnMfdCNywVk7R1Qz,,wipe,14:57,897,12652,The Stonevault,The Stonevault,5,Xal'atath's Bargain: Ascendant,5:07 PM
+gx8jhR1fvpFDCWZr,,wipe,20:26,1226,12652,The Stonevault,The Stonevault,7,Fortified,3:47 AM
+vzkCd6AaH1YKycBF,,wipe,1:33:38,5618,12652,The Stonevault,The Stonevault,4,Fortified,4:11 PM
+gLBF2fhwC18VbqPW,1,wipe,7:20,440,12652,The Stonevault,The Stonevault,,,1:22 PM
+gLBF2fhwC18VbqPW,2,wipe,16:15,975,12652,The Stonevault,The Stonevault,,,1:30 PM
+gLBF2fhwC18VbqPW,3,wipe,29:07,1747,12652,The Stonevault,The Stonevault,,,1:46 PM
+gLBF2fhwC18VbqPW,1,wipe,7:20,440,12652,The Stonevault,The Stonevault,,,1:22 PM
+gLBF2fhwC18VbqPW,2,wipe,16:15,975,12652,The Stonevault,The Stonevault,,,1:30 PM
+gLBF2fhwC18VbqPW,3,wipe,29:07,1747,12652,The Stonevault,The Stonevault,,,1:46 PM
+qFx6yCa3AtvMbkDK,,kill,30:26,1826,12652,The Stonevault,The Stonevault,3,Fortified,3:16 AM
+DTW6bcZyR1rqQhFv,,wipe,45:01,2701,12652,The Stonevault,The Stonevault,4,Fortified,4:03 PM
+3Vht61pzQHFCNw4G,,kill,25:47,1547,12652,The Stonevault,The Stonevault,5,Fortified,6:36 AM
+vAKbRTnHVgY6qFBZ,,kill,47:21,2841,12652,The Stonevault,The Stonevault,5,Fortified,3:02 AM
+nDMc7w2XKy6drFk1,4,kill,23:55,1435,12652,The Stonevault,The Stonevault,,,10:36 PM
+nDMc7w2XKy6drFk1,3,wipe,1:04:14,3854,12652,The Stonevault,The Stonevault,,,9:32 PM
+w1b9a3CZgD2NxPA7,4,kill,23:55,1435,12652,The Stonevault,The Stonevault,,,10:36 PM
+w1b9a3CZgD2NxPA7,3,wipe,1:04:14,3854,12652,The Stonevault,The Stonevault,,,9:32 PM
+DNmAcgh4x3aQZYbK,,wipe,12:21,741,12652,The Stonevault,The Stonevault,6,Fortified,7:51 PM
+vwqdxh9mLVCGp6tD,12,wipe,12:23,743,12652,The Stonevault,The Stonevault,,,2:55 PM
+vwqdxh9mLVCGp6tD,13,wipe,14:47,887,12652,The Stonevault,The Stonevault,,,3:08 PM
+vwqdxh9mLVCGp6tD,12,wipe,12:23,743,12652,The Stonevault,The Stonevault,,,2:55 PM
+vwqdxh9mLVCGp6tD,13,wipe,14:47,887,12652,The Stonevault,The Stonevault,,,3:08 PM
+8dtaMypf6A3c2zLH,,wipe,36:24,2184,12652,The Stonevault,The Stonevault,3,Fortified,3:29 PM
+1bKR96nJwcFx3TgN,,wipe,14:40,880,12652,The Stonevault,The Stonevault,3,Fortified,11:51 AM
+2hkWzLf1KaV7FqwP,,kill,28:34,1714,12652,The Stonevault,The Stonevault,10,Xal'atath's Bargain: Voidbound,7:45 AM
+hM6gZD3kPHxBrVpn,,wipe,25:23,1523,12652,The Stonevault,The Stonevault,3,Xal'atath's Bargain: Ascendant,10:02 AM
+wrPCDTcK9AXGyHhp,,wipe,0:00,0,12652,The Stonevault,The Stonevault,10,Xal'atath's Bargain: Frenzied,9:37 AM
+7qVhAdQJxybmg16H,,wipe,4:59,299,12652,The Stonevault,The Stonevault,10,Xal'atath's Bargain: Frenzied,4:48 PM
+z8px1tdCFgKfAwyD,,wipe,23:06,1386,12652,The Stonevault,The Stonevault,9,Fortified,6:44 PM
+p6PDVtqTmr1M4AvX,,wipe,13:59,839,12652,The Stonevault,The Stonevault,3,Fortified,4:23 AM
+HpPhdmFKAavW6wGj,,kill,33:36,2016,12652,The Stonevault,The Stonevault,4,Xal'atath's Bargain: Frenzied,10:09 PM
+VDtmYR4pkCGXbyaQ,,wipe,18:48,1128,12652,The Stonevault,The Stonevault,10,Xal'atath's Bargain: Ascendant,10:08 PM
+1MGxgQcN9fyKvwTJ,,wipe,21:54,1314,12652,The Stonevault,The Stonevault,7,Xal'atath's Bargain: Ascendant,5:47 PM
+3j8cvhLwpKHWJQ62,,wipe,21:54,1314,12652,The Stonevault,The Stonevault,7,Xal'atath's Bargain: Ascendant,5:47 PM
+av6JV7mpLjMHrbdF,14,wipe,26:40,1600,12652,The Stonevault,The Stonevault,,,1:23 AM
+av6JV7mpLjMHrbdF,15,wipe,38:47,2327,12652,The Stonevault,The Stonevault,,,1:49 AM
+av6JV7mpLjMHrbdF,14,wipe,26:40,1600,12652,The Stonevault,The Stonevault,,,1:23 AM
+av6JV7mpLjMHrbdF,15,wipe,38:47,2327,12652,The Stonevault,The Stonevault,,,1:49 AM
+NZpA6x4Q8r7VDXWF,,wipe,1:56:57,7017,12652,The Stonevault,The Stonevault,5,Fortified,5:47 PM
+bK7tJAMdH3NzrTWk,,wipe,1:56:57,7017,12652,The Stonevault,The Stonevault,5,Fortified,5:47 PM
+fL6pRwQK1qJjg4NT,3,kill,33:53,2033,12652,The Stonevault,The Stonevault,,,6:31 PM
+fL6pRwQK1qJjg4NT,2,wipe,9:31,571,12652,The Stonevault,The Stonevault,,,6:22 PM
+fqHJj6xLTA41Xn3z,,wipe,17:23,1043,12652,The Stonevault,The Stonevault,4,Tyrannical,5:02 PM
+XPjrMQHtCxvTNAqb,,wipe,36:24,2184,12652,The Stonevault,The Stonevault,3,Fortified,3:29 PM
+hMq8y2TmFBYNbJ3z,,wipe,10:11,611,12652,The Stonevault,The Stonevault,5,Xal'atath's Bargain: Oblivion,3:22 PM
+4r8YhtNWcLaJb6ym,,kill,59:14,3554,12652,The Stonevault,The Stonevault,8,Xal'atath's Bargain: Voidbound,7:08 PM
+FbKQT4rP6qzjRV3h,,wipe,48:01,2881,12652,The Stonevault,The Stonevault,10,Xal'atath's Bargain: Voidbound,6:30 PM
+YCKPXT9W8BQ6cyjV,,wipe,35:53,2153,12652,The Stonevault,The Stonevault,10,Xal'atath's Bargain: Oblivion,4:59 AM
+QzXha8AZ3H2PTcFB,,wipe,50:08,3008,12652,The Stonevault,The Stonevault,10,Xal'atath's Bargain: Ascendant,9:16 AM
+ALp3CxkbNX69jRW7,5,wipe,10:53,653,12652,The Stonevault,The Stonevault,,,3:46 PM
+ALp3CxkbNX69jRW7,6,wipe,26:55,1615,12652,The Stonevault,The Stonevault,,,3:57 PM
+ALp3CxkbNX69jRW7,5,wipe,10:53,653,12652,The Stonevault,The Stonevault,,,3:46 PM
+ALp3CxkbNX69jRW7,6,wipe,26:55,1615,12652,The Stonevault,The Stonevault,,,3:57 PM
+KAj2BXYp16kmn7t3,,wipe,1:00:42,3642,12652,The Stonevault,The Stonevault,10,Xal'atath's Bargain: Voidbound,2:03 PM
+4Ga9w1JNKbQcZTn6,,wipe,47:14,2834,12652,The Stonevault,The Stonevault,10,Xal'atath's Bargain: Voidbound,10:28 AM
+tMDw1FyBQRT2jLrC,,wipe,30:53,1853,12652,The Stonevault,The Stonevault,10,Xal'atath's Bargain: Ascendant,11:58 PM
+C8RDtWvwrA1BMmnT,,kill,1:07:47,4067,12652,The Stonevault,The Stonevault,5,Xal'atath's Bargain: Ascendant,11:32 PM
+c4t6wgmxDTPWGMvX,,kill,1:06:46,4006,12652,The Stonevault,The Stonevault,7,Xal'atath's Bargain: Voidbound,9:26 PM
+r2RFq9MkNxy7Q461,,kill,1:52:50,6770,12652,The Stonevault,The Stonevault,8,Xal'atath's Bargain: Ascendant,1:42 PM
+cGtnv9zwB3XrNTAJ,,wipe,28:26,1706,12652,The Stonevault,The Stonevault,5,Xal'atath's Bargain: Voidbound,5:35 PM
+fbCVNZ1zD7BaFQ9K,,wipe,17:33,1053,12652,The Stonevault,The Stonevault,7,Xal'atath's Bargain: Ascendant,4:38 PM
+qxtnC2ZbkyPzvd6A,,wipe,37:07,2227,12652,The Stonevault,The Stonevault,4,Xal'atath's Bargain: Voidbound,3:35 AM
+bvpjK4HhLfDkMWta,,kill,42:05,2525,12652,The Stonevault,The Stonevault,3,Fortified,7:50 PM
+JDx7Wab3mdR2Krgk,,wipe,15:57,957,12652,The Stonevault,The Stonevault,8,Xal'atath's Bargain: Ascendant,4:44 AM
+VJMqgc6fzDL7PjF1,,wipe,1:59:06,7146,12652,The Stonevault,The Stonevault,10,Xal'atath's Bargain: Frenzied,3:17 AM
+tXcBPqMwnmhDvfa4,,kill,30:43,1843,12652,The Stonevault,The Stonevault,4,Xal'atath's Bargain: Ascendant,9:56 PM
+wZFBY29v8cfJHVjt,13,wipe,52:11,3131,12652,The Stonevault,The Stonevault,,,5:12 PM
+wZFBY29v8cfJHVjt,14,wipe,56:32,3392,12652,The Stonevault,The Stonevault,,,6:06 PM
+wZFBY29v8cfJHVjt,16,wipe,0:00,0,12652,The Stonevault,The Stonevault,,,7:20 PM
+wZFBY29v8cfJHVjt,13,wipe,52:11,3131,12652,The Stonevault,The Stonevault,,,5:12 PM
+wZFBY29v8cfJHVjt,14,wipe,56:32,3392,12652,The Stonevault,The Stonevault,,,6:06 PM
+wZFBY29v8cfJHVjt,16,wipe,0:00,0,12652,The Stonevault,The Stonevault,,,7:20 PM
+PDbWqhV6fXHRc9AB,,wipe,1:59:06,7146,12652,The Stonevault,The Stonevault,10,Xal'atath's Bargain: Frenzied,3:17 AM
+ThJRkr4PWp9cyVMw,,wipe,55:42,3342,12652,The Stonevault,The Stonevault,7,Xal'atath's Bargain: Ascendant,9:16 PM
+z4rL8qVKvbJ9Gant,,kill,32:12,1932,12652,The Stonevault,The Stonevault,2,Fortified,7:30 PM
+GTFrVbC7wgafQpKH,,wipe,17:44,1064,12652,The Stonevault,The Stonevault,4,Tyrannical,12:22 PM
+PjFXN8tYwnmGHDf2,,kill,33:13,1993,12652,The Stonevault,The Stonevault,4,Fortified,4:22 AM
+AdKB7aQCfMqk4hmw,,kill,31:14,1874,12652,The Stonevault,The Stonevault,4,Fortified,12:31 AM
+2bApwDjWK3RMdHNk,,kill,32:12,1932,12652,The Stonevault,The Stonevault,2,Fortified,7:30 PM
+tm6MPLFjhX4gxTcn,,kill,1:03:02,3782,12652,The Stonevault,The Stonevault,2,Tyrannical,8:39 AM
+xtgGrHmaPCLBATQj,,wipe,37:59,2279,12652,The Stonevault,The Stonevault,7,Fortified,7:12 AM
+yCHfGVmwnMD4aQNr,,kill,56:39,3399,12652,The Stonevault,The Stonevault,10,Xal'atath's Bargain: Ascendant,8:57 PM
+Pa4Zyk9wftmRJ2QL,1,kill,45:39,2739,12652,The Stonevault,The Stonevault,,,5:28 PM
+Pa4Zyk9wftmRJ2QL,9,kill,35:20,2120,12652,The Stonevault,The Stonevault,,,6:27 PM
+Pa4Zyk9wftmRJ2QL,16,kill,35:42,2142,12652,The Stonevault,The Stonevault,,,8:50 PM
+Pa4Zyk9wftmRJ2QL,12,wipe,19:01,1141,12652,The Stonevault,The Stonevault,,,7:19 PM
+Pa4Zyk9wftmRJ2QL,13,wipe,44:11,2651,12652,The Stonevault,The Stonevault,,,7:38 PM
+Pa4Zyk9wftmRJ2QL,14,wipe,6:33,393,12652,The Stonevault,The Stonevault,,,8:22 PM
+Pa4Zyk9wftmRJ2QL,15,wipe,21:08,1268,12652,The Stonevault,The Stonevault,,,8:29 PM
+Pa4Zyk9wftmRJ2QL,12,wipe,19:01,1141,12652,The Stonevault,The Stonevault,,,7:19 PM
+Pa4Zyk9wftmRJ2QL,13,wipe,44:11,2651,12652,The Stonevault,The Stonevault,,,7:38 PM
+Pa4Zyk9wftmRJ2QL,14,wipe,6:33,393,12652,The Stonevault,The Stonevault,,,8:22 PM
+Pa4Zyk9wftmRJ2QL,15,wipe,21:08,1268,12652,The Stonevault,The Stonevault,,,8:29 PM
+pFkajn71f94m8Mhw,,kill,56:39,3399,12652,The Stonevault,The Stonevault,10,Xal'atath's Bargain: Ascendant,8:57 PM
+TdJgjCWZtVPAB9Fq,,kill,45:58,2758,12652,The Stonevault,The Stonevault,10,Xal'atath's Bargain: Ascendant,5:16 PM
+a2r31p6bYVmKQyXN,3,kill,41:03,2463,12652,The Stonevault,The Stonevault,,,1:44 AM
+a2r31p6bYVmKQyXN,2,wipe,18:39,1119,12652,The Stonevault,The Stonevault,,,1:26 AM
+ctmyJnjZ2TxKBkbg,,kill,32:38,1958,12652,The Stonevault,The Stonevault,10,Xal'atath's Bargain: Ascendant,9:28 AM
+rv6HzXD1n7fZxJYy,,kill,32:38,1958,12652,The Stonevault,The Stonevault,10,Xal'atath's Bargain: Ascendant,9:28 AM
+ZmcpLDxnqyTPgHr1,22,wipe,11:31,691,12652,The Stonevault,The Stonevault,,,8:26 PM
+ZmcpLDxnqyTPgHr1,23,wipe,9:57,597,12652,The Stonevault,The Stonevault,,,8:39 PM
+ZmcpLDxnqyTPgHr1,22,wipe,11:31,691,12652,The Stonevault,The Stonevault,,,8:26 PM
+ZmcpLDxnqyTPgHr1,23,wipe,9:57,597,12652,The Stonevault,The Stonevault,,,8:39 PM
+2tgbDpFAyjP3H7wq,,wipe,0:00,0,12652,The Stonevault,The Stonevault,8,Xal'atath's Bargain: Frenzied,11:30 AM
+NFRPwyqpfdBQArWz,,kill,29:36,1776,12652,The Stonevault,The Stonevault,4,Xal'atath's Bargain: Frenzied,10:24 PM
+mRVFGktrMK67YaPB,,wipe,9:09,549,12652,The Stonevault,The Stonevault,10,Xal'atath's Bargain: Ascendant,6:33 PM
+Tj6RkWcyGxf2np4F,,wipe,18:46,1126,12652,The Stonevault,The Stonevault,7,Fortified,6:42 AM
+r6kFMBnCZycKJ7fP,,wipe,18:46,1126,12652,The Stonevault,The Stonevault,7,Fortified,6:42 AM
+4GPdMTtJm783cHwr,,wipe,18:46,1126,12652,The Stonevault,The Stonevault,7,Fortified,6:42 AM
+vjTCL23BDgJhNbFk,,kill,30:07,1807,12652,The Stonevault,The Stonevault,5,Fortified,11:25 PM
+BtRb1h3kgwrANH7y,,wipe,20:46,1246,12652,The Stonevault,The Stonevault,4,Tyrannical,3:04 AM
+HNMRPWgvQ2yzfGxh,,wipe,1:51,111,12652,The Stonevault,The Stonevault,3,Fortified,12:59 AM
+37d9f2rHFyBbjGQn,,wipe,49:33,2973,12652,The Stonevault,The Stonevault,3,Xal'atath's Bargain: Ascendant,3:07 AM
+fzr9jwMLa6HFGkTN,,kill,40:40,2440,12652,The Stonevault,The Stonevault,10,Xal'atath's Bargain: Ascendant,1:55 PM
+YNwGV6XMfWgcdTRD,2,kill,1:15:59,4559,12652,The Stonevault,The Stonevault,,,11:11 AM
+YNwGV6XMfWgcdTRD,1,wipe,11:07,667,12652,The Stonevault,The Stonevault,,,11:00 AM
+VNACatPZJjyRGpwf,,kill,39:17,2357,12652,The Stonevault,The Stonevault,7,Fortified,8:22 AM
+V6BC1Lmv4KbZXa3w,,wipe,33:27,2007,12652,The Stonevault,The Stonevault,4,Fortified,7:27 PM
+d7V3YTMLtXynzA8c,,kill,22:51,1371,12652,The Stonevault,The Stonevault,5,Tyrannical,3:10 PM
+jDLfmQ1kNhpJwz7B,,kill,22:51,1371,12652,The Stonevault,The Stonevault,5,Tyrannical,3:10 PM
+vH4NLt9VQw8y6XYx,,wipe,42:32,2552,12652,The Stonevault,The Stonevault,3,Tyrannical,11:33 PM
+k1f8FL24zMTpVCmc,,wipe,1:05:00,3900,12652,The Stonevault,The Stonevault,5,Tyrannical,6:43 PM
+FxhaQpJBGtbV1vWf,,wipe,36:28,2188,12652,The Stonevault,The Stonevault,10,Xal'atath's Bargain: Voidbound,4:33 AM
+YMTZ7Pr6pFV8jvRx,,wipe,42:21,2541,12652,The Stonevault,The Stonevault,7,Xal'atath's Bargain: Ascendant,11:02 AM
+7K6QbzZwjYqGnyJR,,kill,35:27,2127,12652,The Stonevault,The Stonevault,4,Xal'atath's Bargain: Ascendant,9:54 AM
+nJhYT1Vp3wkg9tC7,,kill,38:16,2296,12652,The Stonevault,The Stonevault,7,Xal'atath's Bargain: Voidbound,5:22 AM
+2NthjAgGfDwTmLF7,,wipe,13:31,811,12652,The Stonevault,The Stonevault,5,Xal'atath's Bargain: Voidbound,5:23 AM
+yZdk3j1haCtTNR8f,,wipe,20:05,1205,12652,The Stonevault,The Stonevault,10,Xal'atath's Bargain: Voidbound,5:15 AM
+TYPwBmdDLbFKGNaX,,kill,24:24,1464,12652,The Stonevault,The Stonevault,10,Xal'atath's Bargain: Frenzied,1:39 PM
+wXK2nvJmtMyVqg36,,kill,35:12,2112,12652,The Stonevault,The Stonevault,5,Fortified,1:54 AM
+23Dm9AQT6gLtjPNG,,kill,23:47,1427,12652,The Stonevault,The Stonevault,3,Fortified,2:26 AM
+ADPwTNvzbtgC6Rkj,,wipe,19:56,1196,12652,The Stonevault,The Stonevault,4,Fortified,2:05 AM
+V64kFqD1w7m3RJ2g,5,kill,1:02:13,3733,12652,The Stonevault,The Stonevault,,,6:32 AM
+V64kFqD1w7m3RJ2g,2,wipe,44:17,2657,12652,The Stonevault,The Stonevault,,,5:21 AM
+V64kFqD1w7m3RJ2g,3,wipe,14:44,884,12652,The Stonevault,The Stonevault,,,6:05 AM
+V64kFqD1w7m3RJ2g,4,wipe,12:38,758,12652,The Stonevault,The Stonevault,,,6:20 AM
+V64kFqD1w7m3RJ2g,2,wipe,44:17,2657,12652,The Stonevault,The Stonevault,,,5:21 AM
+V64kFqD1w7m3RJ2g,3,wipe,14:44,884,12652,The Stonevault,The Stonevault,,,6:05 AM
+V64kFqD1w7m3RJ2g,4,wipe,12:38,758,12652,The Stonevault,The Stonevault,,,6:20 AM
+Pdmq16VCnF4wQc7b,10,kill,1:15:21,4521,12652,The Stonevault,The Stonevault,,,4:19 AM
+Pdmq16VCnF4wQc7b,9,wipe,12:29,749,12652,The Stonevault,The Stonevault,,,4:07 AM
+2Q6Kt1PZCGp4Lbrg,,kill,28:34,1714,12652,The Stonevault,The Stonevault,10,Xal'atath's Bargain: Voidbound,7:45 AM
+Fw8G3jh1g9zvcY2M,,wipe,41:29,2489,12652,The Stonevault,The Stonevault,7,Xal'atath's Bargain: Oblivion,5:43 PM
+2xaT8Dtf3NrgRdwP,,kill,40:43,2443,12652,The Stonevault,The Stonevault,10,Xal'atath's Bargain: Oblivion,1:39 AM
+J2LxmHvGQhPBDrtM,,wipe,5:18,318,12652,The Stonevault,The Stonevault,10,Xal'atath's Bargain: Voidbound,5:26 PM
+jaCRH1KxLDPXNZdy,,kill,49:14,2954,12652,The Stonevault,The Stonevault,10,Xal'atath's Bargain: Voidbound,3:44 PM
+8fDQnw1B7TbxmFdW,,kill,1:07:05,4025,12652,The Stonevault,The Stonevault,13,Tyrannical,2:20 PM
+dhjPZXfJYQHrRaT1,,kill,53:47,3227,12652,The Stonevault,The Stonevault,10,Xal'atath's Bargain: Voidbound,5:40 AM
+xAfpwQN41dZRGXr8,,wipe,20:10,1210,12652,The Stonevault,The Stonevault,15,Tyrannical,5:24 PM
+L4fV3w91rgFJymAK,2,kill,54:48,3288,12652,The Stonevault,The Stonevault,,,4:53 PM
+L4fV3w91rgFJymAK,1,wipe,24:01,1441,12652,The Stonevault,The Stonevault,,,4:29 PM
+grTqnA2Q37KzMm9W,,kill,36:58,2218,12652,The Stonevault,The Stonevault,10,Xal'atath's Bargain: Ascendant,4:23 PM
+nkwb8Z6MzTWBcqpL,,kill,31:48,1908,12652,The Stonevault,The Stonevault,5,Xal'atath's Bargain: Voidbound,4:29 PM
+RfBAdqJWyjMxrav8,,wipe,3:55,235,12652,The Stonevault,The Stonevault,15,Fortified,4:33 PM
+h7Daxt3kKVX49Mrw,,wipe,16:25,985,12652,The Stonevault,The Stonevault,15,Fortified,4:14 PM
+BqCYz8VA9LkdFHNK,1,wipe,11:41,701,12652,The Stonevault,The Stonevault,,,3:10 PM
+BqCYz8VA9LkdFHNK,2,wipe,19:49,1189,12652,The Stonevault,The Stonevault,,,3:22 PM
+BqCYz8VA9LkdFHNK,1,wipe,11:41,701,12652,The Stonevault,The Stonevault,,,3:10 PM
+BqCYz8VA9LkdFHNK,2,wipe,19:49,1189,12652,The Stonevault,The Stonevault,,,3:22 PM
+1rNg4T9YcPq8VaXJ,,wipe,21:48,1308,12652,The Stonevault,The Stonevault,15,Fortified,2:26 PM
+nAchCwjZK6gqYaPR,,wipe,4:06,246,12652,The Stonevault,The Stonevault,15,Fortified,12:40 PM
+p7A29Gh1Vd3fXYRm,,wipe,17:10,1030,12652,The Stonevault,The Stonevault,15,Fortified,11:54 AM
+21GbhCXV4pgB3z9t,,kill,1:02:21,3741,12652,The Stonevault,The Stonevault,5,Xal'atath's Bargain: Voidbound,8:41 PM
+KaJ9mgTx3Fq8ZB1j,1,wipe,16:21,981,12652,The Stonevault,The Stonevault,,,6:58 PM
+KaJ9mgTx3Fq8ZB1j,2,wipe,3:28,208,12652,The Stonevault,The Stonevault,,,7:14 PM
+KaJ9mgTx3Fq8ZB1j,3,wipe,26:52,1612,12652,The Stonevault,The Stonevault,,,7:18 PM
+KaJ9mgTx3Fq8ZB1j,1,wipe,16:21,981,12652,The Stonevault,The Stonevault,,,6:58 PM
+KaJ9mgTx3Fq8ZB1j,2,wipe,3:28,208,12652,The Stonevault,The Stonevault,,,7:14 PM
+KaJ9mgTx3Fq8ZB1j,3,wipe,26:52,1612,12652,The Stonevault,The Stonevault,,,7:18 PM
+q3pxZFkhTBAwWM7V,,wipe,1:43,103,12652,The Stonevault,The Stonevault,7,Xal'atath's Bargain: Voidbound,4:29 PM
+rgtn3AvhxywLJZz6,,wipe,7:09,429,12652,The Stonevault,The Stonevault,7,Xal'atath's Bargain: Frenzied,8:12 AM
+mJwHNXCDnP7VcjtM,,wipe,9:53,593,12652,The Stonevault,The Stonevault,6,Xal'atath's Bargain: Ascendant,10:00 AM
+DZ3WAGvq9HCgnjtd,,kill,37:39,2259,12652,The Stonevault,The Stonevault,4,Xal'atath's Bargain: Voidbound,12:35 AM
+zR3AH1Kmk9xY26aJ,1,wipe,6:30,390,12652,The Stonevault,The Stonevault,,,12:58 PM
+zR3AH1Kmk9xY26aJ,2,wipe,4:15,255,12652,The Stonevault,The Stonevault,,,1:04 PM
+zR3AH1Kmk9xY26aJ,3,wipe,49:25,2965,12652,The Stonevault,The Stonevault,,,1:09 PM
+zR3AH1Kmk9xY26aJ,1,wipe,6:30,390,12652,The Stonevault,The Stonevault,,,12:58 PM
+zR3AH1Kmk9xY26aJ,2,wipe,4:15,255,12652,The Stonevault,The Stonevault,,,1:04 PM
+zR3AH1Kmk9xY26aJ,3,wipe,49:25,2965,12652,The Stonevault,The Stonevault,,,1:09 PM
+NtYgpRzqcd7Bhrnw,,wipe,8:36,516,12652,The Stonevault,The Stonevault,3,Xal'atath's Bargain: Voidbound,6:42 PM
+W6CjA8G4bLqhnYFr,,wipe,2:17,137,12652,The Stonevault,The Stonevault,3,Xal'atath's Bargain: Voidbound,6:42 PM
+W9q6PGTYLmRA8dvD,,kill,43:07,2587,12652,The Stonevault,The Stonevault,10,Xal'atath's Bargain: Voidbound,4:07 PM
+JFVAxhf1QCjRMGdb,,kill,26:39,1599,12652,The Stonevault,The Stonevault,4,Xal'atath's Bargain: Voidbound,1:02 AM
+JzW7m9fvnrA6KPxL,,kill,32:40,1960,12652,The Stonevault,The Stonevault,10,Xal'atath's Bargain: Voidbound,3:02 AM
+7MQ4CNXzkZgdHjpW,,wipe,10:12,612,12652,The Stonevault,The Stonevault,10,Xal'atath's Bargain: Voidbound,10:56 AM
+MQmRGz2P1HtdNJYW,,kill,1:02:34,3754,12652,The Stonevault,The Stonevault,8,Xal'atath's Bargain: Voidbound,7:48 AM
+t91rgpJjGD7xvqLR,,kill,32:40,1960,12652,The Stonevault,The Stonevault,10,Xal'atath's Bargain: Voidbound,3:02 AM
+pjrmZWLtkYb82BVz,,kill,40:07,2407,12652,The Stonevault,The Stonevault,10,Xal'atath's Bargain: Voidbound,2:18 AM
+DBPZ97tN8Kz3xyjr,,kill,36:37,2197,12652,The Stonevault,The Stonevault,10,Xal'atath's Bargain: Ascendant,5:48 PM
+vkhZaxNJ8TFKWpM4,,wipe,2:14,134,12652,The Stonevault,The Stonevault,5,Xal'atath's Bargain: Ascendant,4:57 PM
+bm4HCFD8zrG1gNZn,1,wipe,26:41,1601,12652,The Stonevault,The Stonevault,,,7:07 PM
+bm4HCFD8zrG1gNZn,2,wipe,10:44,644,12652,The Stonevault,The Stonevault,,,7:33 PM
+bm4HCFD8zrG1gNZn,1,wipe,26:41,1601,12652,The Stonevault,The Stonevault,,,7:07 PM
+bm4HCFD8zrG1gNZn,2,wipe,10:44,644,12652,The Stonevault,The Stonevault,,,7:33 PM
+DbzZHaNqp2TPyRt6,1,wipe,0:32,32,12652,The Stonevault,The Stonevault,,,7:43 PM
+DbzZHaNqp2TPyRt6,2,wipe,0:39,39,12652,The Stonevault,The Stonevault,,,7:43 PM
+DbzZHaNqp2TPyRt6,3,wipe,0:28,28,12652,The Stonevault,The Stonevault,,,7:44 PM
+DbzZHaNqp2TPyRt6,4,wipe,1:08,68,12652,The Stonevault,The Stonevault,,,7:45 PM
+DbzZHaNqp2TPyRt6,5,wipe,0:47,47,12652,The Stonevault,The Stonevault,,,7:46 PM
+DbzZHaNqp2TPyRt6,6,wipe,0:43,43,12652,The Stonevault,The Stonevault,,,7:47 PM
+DbzZHaNqp2TPyRt6,7,wipe,0:37,37,12652,The Stonevault,The Stonevault,,,7:48 PM
+DbzZHaNqp2TPyRt6,1,wipe,0:32,32,12652,The Stonevault,The Stonevault,,,7:43 PM
+DbzZHaNqp2TPyRt6,2,wipe,0:39,39,12652,The Stonevault,The Stonevault,,,7:43 PM
+DbzZHaNqp2TPyRt6,3,wipe,0:28,28,12652,The Stonevault,The Stonevault,,,7:44 PM
+DbzZHaNqp2TPyRt6,4,wipe,1:08,68,12652,The Stonevault,The Stonevault,,,7:45 PM
+DbzZHaNqp2TPyRt6,5,wipe,0:47,47,12652,The Stonevault,The Stonevault,,,7:46 PM
+DbzZHaNqp2TPyRt6,6,wipe,0:43,43,12652,The Stonevault,The Stonevault,,,7:47 PM
+DbzZHaNqp2TPyRt6,7,wipe,0:37,37,12652,The Stonevault,The Stonevault,,,7:48 PM
+CKcpWRVf6hY9vdy7,,kill,34:26,2066,12652,The Stonevault,The Stonevault,10,Xal'atath's Bargain: Voidbound,7:50 AM
+p6cwPavbnmzd9Atq,,wipe,8:03,483,12652,The Stonevault,The Stonevault,7,Xal'atath's Bargain: Ascendant,5:19 AM
+b6xBnaGmM3VCptQh,,kill,1:11:00,4260,12652,The Stonevault,The Stonevault,10,Xal'atath's Bargain: Ascendant,1:29 AM
+Lg16Gmn8FpRYWB72,,kill,1:11:00,4260,12652,The Stonevault,The Stonevault,10,Xal'atath's Bargain: Ascendant,1:29 AM
+Y3HmDV8MTgcfZ1jW,1,wipe,3:39,219,12652,The Stonevault,The Stonevault,,,9:25 AM
+Y3HmDV8MTgcfZ1jW,2,wipe,9:08,548,12652,The Stonevault,The Stonevault,,,9:28 AM
+Y3HmDV8MTgcfZ1jW,1,wipe,3:39,219,12652,The Stonevault,The Stonevault,,,9:25 AM
+Y3HmDV8MTgcfZ1jW,2,wipe,9:08,548,12652,The Stonevault,The Stonevault,,,9:28 AM
+Gv2HD1Rc8ZQWVPLY,,kill,47:04,2824,12652,The Stonevault,The Stonevault,10,Xal'atath's Bargain: Ascendant,9:49 AM
+VjZ1y9kp7qXDxw2n,,kill,33:04,1984,12652,The Stonevault,The Stonevault,10,Xal'atath's Bargain: Ascendant,5:15 PM
+B3HPapQ8m1AdRTfg,,wipe,0:00,0,12652,The Stonevault,The Stonevault,10,Xal'atath's Bargain: Ascendant,10:55 PM
+QHkwVjFYZW7m2Khp,,wipe,8:21,501,12652,The Stonevault,The Stonevault,10,Xal'atath's Bargain: Voidbound,2:22 AM
+DJ1j7dQZyPgkbVxC,,kill,44:25,2665,12652,The Stonevault,The Stonevault,10,Xal'atath's Bargain: Ascendant,10:03 PM
+wRJpz789YNmhBXGf,,kill,42:05,2525,12652,The Stonevault,The Stonevault,3,Fortified,7:50 PM
+CrPtbZwcdHJzgxA3,2,kill,1:04:29,3869,12652,The Stonevault,The Stonevault,,,3:39 AM
+CrPtbZwcdHJzgxA3,1,wipe,2:51,171,12652,The Stonevault,The Stonevault,,,3:36 AM
+qZk6JHyMv8RF7mdG,1,wipe,18:00,1080,12652,The Stonevault,The Stonevault,,,2:24 AM
+qZk6JHyMv8RF7mdG,2,wipe,35:28,2128,12652,The Stonevault,The Stonevault,,,2:42 AM
+qZk6JHyMv8RF7mdG,1,wipe,18:00,1080,12652,The Stonevault,The Stonevault,,,2:24 AM
+qZk6JHyMv8RF7mdG,2,wipe,35:28,2128,12652,The Stonevault,The Stonevault,,,2:42 AM
+bpPLhZ37cBKDGCkR,,kill,47:12,2832,12652,The Stonevault,The Stonevault,10,Xal'atath's Bargain: Ascendant,11:42 AM
+GzhCrgpt9DNXafAY,,kill,26:17,1577,12652,The Stonevault,The Stonevault,13,Fortified,5:51 PM
+yAbP8W3nZ9kfD2qg,,kill,24:21,1461,12652,The Stonevault,The Stonevault,12,Tyrannical,5:15 PM
+Qacf1DL26RXAM4zK,2,kill,45:58,2758,12652,The Stonevault,The Stonevault,,,3:34 PM
+Qacf1DL26RXAM4zK,1,wipe,20:11,1211,12652,The Stonevault,The Stonevault,,,3:14 PM
+1CFk8MVR2daKA7cZ,1,wipe,38:32,2312,12652,The Stonevault,The Stonevault,,,9:08 AM
+1CFk8MVR2daKA7cZ,2,wipe,57:20,3440,12652,The Stonevault,The Stonevault,,,9:46 AM
+1CFk8MVR2daKA7cZ,3,wipe,12:43,763,12652,The Stonevault,The Stonevault,,,10:45 AM
+1CFk8MVR2daKA7cZ,1,wipe,38:32,2312,12652,The Stonevault,The Stonevault,,,9:08 AM
+1CFk8MVR2daKA7cZ,2,wipe,57:20,3440,12652,The Stonevault,The Stonevault,,,9:46 AM
+1CFk8MVR2daKA7cZ,3,wipe,12:43,763,12652,The Stonevault,The Stonevault,,,10:45 AM
+43AbWhvJg7tRkxzn,,wipe,22:52,1372,12652,The Stonevault,The Stonevault,8,Xal'atath's Bargain: Frenzied,9:08 AM
+HVCpzAgvh1xtwKcJ,,wipe,0:00,0,12652,The Stonevault,The Stonevault,10,Xal'atath's Bargain: Frenzied,6:12 PM
+ZFLAPj7fNm9hvwp1,,wipe,39:42,2382,12652,The Stonevault,The Stonevault,10,Xal'atath's Bargain: Ascendant,3:10 AM
+2njkR9hgyQp3JcX6,,kill,28:52,1732,12652,The Stonevault,The Stonevault,6,Xal'atath's Bargain: Ascendant,4:40 AM
+NyFpGj3KmnAd4b8D,,kill,27:18,1638,12652,The Stonevault,The Stonevault,4,Xal'atath's Bargain: Ascendant,4:11 AM
+MDYX83TCPxnb7Kwg,,wipe,18:56,1136,12652,The Stonevault,The Stonevault,5,Xal'atath's Bargain: Frenzied,9:57 AM
+PR7kW81XJvC4d2zK,,wipe,25:12,1512,12652,The Stonevault,The Stonevault,3,Xal'atath's Bargain: Frenzied,10:35 AM
+FAMV2HZxzKbtphTm,2,kill,38:46,2326,12652,The Stonevault,The Stonevault,,,6:52 PM
+FAMV2HZxzKbtphTm,1,wipe,8:20,500,12652,The Stonevault,The Stonevault,,,6:43 PM
+g16CAnpJa8xzMDmP,3,wipe,13:39,819,12652,The Stonevault,The Stonevault,,,5:55 PM
+g16CAnpJa8xzMDmP,4,wipe,8:32,512,12652,The Stonevault,The Stonevault,,,6:10 PM
+g16CAnpJa8xzMDmP,3,wipe,13:39,819,12652,The Stonevault,The Stonevault,,,5:55 PM
+g16CAnpJa8xzMDmP,4,wipe,8:32,512,12652,The Stonevault,The Stonevault,,,6:10 PM
+a3JvyNgTGApHkM7q,,wipe,2:10,130,12652,The Stonevault,The Stonevault,10,Xal'atath's Bargain: Ascendant,4:25 PM
+LTqZjvD78GHRCFcr,,kill,38:29,2309,12652,The Stonevault,The Stonevault,5,Xal'atath's Bargain: Ascendant,12:31 PM
+1cRCVjaT9zhwGqK6,3,kill,1:15:59,4559,12652,The Stonevault,The Stonevault,,,11:12 AM
+1cRCVjaT9zhwGqK6,1,wipe,16:16,976,12652,The Stonevault,The Stonevault,,,10:44 AM
+1cRCVjaT9zhwGqK6,2,wipe,11:07,667,12652,The Stonevault,The Stonevault,,,11:00 AM
+1cRCVjaT9zhwGqK6,1,wipe,16:16,976,12652,The Stonevault,The Stonevault,,,10:44 AM
+1cRCVjaT9zhwGqK6,2,wipe,11:07,667,12652,The Stonevault,The Stonevault,,,11:00 AM
+6gDQJXxwVBmFyMfd,,wipe,9:31,571,12652,The Stonevault,The Stonevault,9,Fortified,10:44 AM
+faLjR8Y1pWVhxwA2,,wipe,3:28,208,12652,The Stonevault,The Stonevault,10,Xal'atath's Bargain: Ascendant,8:58 AM
+prbLtvVJPYFcq9Df,,wipe,5:38,338,12652,The Stonevault,The Stonevault,3,Xal'atath's Bargain: Frenzied,10:51 AM
+2dAqMZpFKvj647Dx,,kill,25:29,1529,12652,The Stonevault,The Stonevault,3,Fortified,5:43 AM
+Zj9PqFpK7VGM16tR,,wipe,16:21,981,12652,The Stonevault,The Stonevault,4,Xal'atath's Bargain: Frenzied,12:14 AM
+agVxPwZ16j7vrkfL,,kill,34:33,2073,12652,The Stonevault,The Stonevault,10,Xal'atath's Bargain: Frenzied,1:52 PM
+baVBFmD7R8T2tAkv,,kill,34:33,2073,12652,The Stonevault,The Stonevault,10,Xal'atath's Bargain: Frenzied,1:52 PM
+W72B6HF4NZwr1tqD,,kill,33:36,2016,12652,The Stonevault,The Stonevault,4,Xal'atath's Bargain: Frenzied,10:09 PM
+Xa12LwgK9G7JZF6p,,kill,32:35,1955,12652,The Stonevault,The Stonevault,3,Fortified,6:45 AM
+MWT3L1VhZm9NX6kx,,wipe,22:22,1342,12652,The Stonevault,The Stonevault,3,Xal'atath's Bargain: Ascendant,12:39 AM
+frNWcYaktmw1x6FB,,wipe,1:05:05,3905,12652,The Stonevault,The Stonevault,12,Tyrannical,9:55 PM
+Lkhz9QVxNc1M4BTw,,kill,41:50,2510,12652,The Stonevault,The Stonevault,4,Xal'atath's Bargain: Ascendant,11:45 AM
+TvrAwVLt7MnhKNWk,,wipe,7:20,440,12652,The Stonevault,The Stonevault,7,Xal'atath's Bargain: Ascendant,5:47 PM
+nKmLFGyxrZqHQP8a,,wipe,1:11,71,12652,The Stonevault,The Stonevault,2,Xal'atath's Bargain: Ascendant,5:33 PM
+ZRXzkPrfxKdCAtLV,,wipe,17:15,1035,12652,The Stonevault,The Stonevault,8,Xal'atath's Bargain: Ascendant,5:40 PM
+LDk6VRYaZ9CBdmWP,1,wipe,18:36,1116,12652,The Stonevault,The Stonevault,,,2:58 PM
+LDk6VRYaZ9CBdmWP,2,wipe,10:43,643,12652,The Stonevault,The Stonevault,,,3:17 PM
+LDk6VRYaZ9CBdmWP,3,wipe,31:07,1867,12652,The Stonevault,The Stonevault,,,3:29 PM
+LDk6VRYaZ9CBdmWP,1,wipe,18:36,1116,12652,The Stonevault,The Stonevault,,,2:58 PM
+LDk6VRYaZ9CBdmWP,2,wipe,10:43,643,12652,The Stonevault,The Stonevault,,,3:17 PM
+LDk6VRYaZ9CBdmWP,3,wipe,31:07,1867,12652,The Stonevault,The Stonevault,,,3:29 PM
+yxVqFKRYNbwA7BDQ,,kill,23:31,1411,12652,The Stonevault,The Stonevault,7,Xal'atath's Bargain: Ascendant,4:48 AM
+r79TC6MfcaqRWHBp,,wipe,11:09,669,12652,The Stonevault,The Stonevault,5,Xal'atath's Bargain: Ascendant,1:50 AM
+dGtjfAYDn3QLm2Kq,,wipe,9:04,544,12652,The Stonevault,The Stonevault,7,Fortified,3:37 AM
+qzb2Dv1yHXNBQKPn,,kill,32:30,1950,12652,The Stonevault,The Stonevault,3,Fortified,12:55 AM
+TWa7f3nRKzx2A1FX,,kill,32:30,1950,12652,The Stonevault,The Stonevault,3,Fortified,12:55 AM
+Bt2f8GcR4yPLvF7z,,kill,32:40,1960,12652,The Stonevault,The Stonevault,4,Fortified,7:39 PM
+xjP7qQdcgnYhkvyb,,kill,45:47,2747,12652,The Stonevault,The Stonevault,5,Fortified,11:13 AM
+FR9Af1K6Gb4pwBr3,,wipe,5:24,324,12652,The Stonevault,The Stonevault,7,Fortified,6:42 AM
+CgTYdyjB3Rw9Q28k,,wipe,20:30,1230,12652,The Stonevault,The Stonevault,4,Fortified,2:59 AM
+6Zckva1R7WtjCdTA,1,wipe,27:12,1632,12652,The Stonevault,The Stonevault,,,6:33 AM
+6Zckva1R7WtjCdTA,2,wipe,14:03,843,12652,The Stonevault,The Stonevault,,,7:00 AM
+6Zckva1R7WtjCdTA,3,wipe,35:14,2114,12652,The Stonevault,The Stonevault,,,7:14 AM
+6Zckva1R7WtjCdTA,4,wipe,5:58,358,12652,The Stonevault,The Stonevault,,,7:49 AM
+6Zckva1R7WtjCdTA,1,wipe,27:12,1632,12652,The Stonevault,The Stonevault,,,6:33 AM
+6Zckva1R7WtjCdTA,2,wipe,14:03,843,12652,The Stonevault,The Stonevault,,,7:00 AM
+6Zckva1R7WtjCdTA,3,wipe,35:14,2114,12652,The Stonevault,The Stonevault,,,7:14 AM
+6Zckva1R7WtjCdTA,4,wipe,5:58,358,12652,The Stonevault,The Stonevault,,,7:49 AM
+MmT9djyrFvahc7p3,,wipe,2:53,173,12652,The Stonevault,The Stonevault,5,Fortified,11:44 AM
+h6ftgRAnzYqTpGrP,4,kill,47:42,2862,12652,The Stonevault,The Stonevault,,,9:50 PM
+h6ftgRAnzYqTpGrP,1,wipe,7:13,433,12652,The Stonevault,The Stonevault,,,9:06 PM
+h6ftgRAnzYqTpGrP,2,wipe,15:25,925,12652,The Stonevault,The Stonevault,,,9:13 PM
+h6ftgRAnzYqTpGrP,3,wipe,22:08,1328,12652,The Stonevault,The Stonevault,,,9:28 PM
+h6ftgRAnzYqTpGrP,1,wipe,7:13,433,12652,The Stonevault,The Stonevault,,,9:06 PM
+h6ftgRAnzYqTpGrP,2,wipe,15:25,925,12652,The Stonevault,The Stonevault,,,9:13 PM
+h6ftgRAnzYqTpGrP,3,wipe,22:08,1328,12652,The Stonevault,The Stonevault,,,9:28 PM
+2KYJqrA3cPxHNbRX,,kill,47:34,2854,12652,The Stonevault,The Stonevault,6,Tyrannical,8:52 PM
+GraymhRW6gYKHQM7,,kill,1:30:58,5458,12652,The Stonevault,The Stonevault,10,Tyrannical,5:32 PM
+LnrJkgdmQRxvTzyG,1,wipe,57:40,3460,12652,The Stonevault,The Stonevault,,,5:32 PM
+LnrJkgdmQRxvTzyG,2,wipe,28:16,1696,12652,The Stonevault,The Stonevault,,,6:35 PM
+LnrJkgdmQRxvTzyG,1,wipe,57:40,3460,12652,The Stonevault,The Stonevault,,,5:32 PM
+LnrJkgdmQRxvTzyG,2,wipe,28:16,1696,12652,The Stonevault,The Stonevault,,,6:35 PM
+1rPWZk3vjQ8nLyqz,,wipe,10:04,604,12652,The Stonevault,The Stonevault,3,Fortified,2:09 PM
+N2BR4DMWaYG7z8Cd,,wipe,16:17,977,12652,The Stonevault,The Stonevault,5,Fortified,5:45 AM
+K12NkBvdA9VzPR4Z,,wipe,11:27,687,12652,The Stonevault,The Stonevault,3,Tyrannical,4:59 AM
+cnQKZvpqL9xNf7md,4,kill,32:53,1973,12652,The Stonevault,The Stonevault,,,1:46 AM
+cnQKZvpqL9xNf7md,2,wipe,7:26,446,12652,The Stonevault,The Stonevault,,,12:56 AM
+81Z2NJHGrzM9cBPW,,kill,33:17,1997,12652,The Stonevault,The Stonevault,3,Fortified,1:50 AM
+dYHaD79AGbJQRmBj,4,kill,32:53,1973,12652,The Stonevault,The Stonevault,,,1:46 AM
+dYHaD79AGbJQRmBj,2,wipe,7:26,446,12652,The Stonevault,The Stonevault,,,12:56 AM
+3Dhzp9gCVH64JM2j,,kill,30:53,1853,12652,The Stonevault,The Stonevault,5,Fortified,1:28 AM
+8gCDZQa3JcFWN79h,4,kill,23:55,1435,12652,The Stonevault,The Stonevault,,,10:36 PM
+8gCDZQa3JcFWN79h,3,wipe,1:04:14,3854,12652,The Stonevault,The Stonevault,,,9:32 PM
+npYmGXWjL1Zkt9RT,,wipe,10:58,658,12652,The Stonevault,The Stonevault,3,Fortified,9:21 PM
+Jbdt12mzqF34ThRK,1,wipe,16:55,1015,12652,The Stonevault,The Stonevault,,,4:11 PM
+Jbdt12mzqF34ThRK,2,wipe,38:27,2307,12652,The Stonevault,The Stonevault,,,4:28 PM
+Jbdt12mzqF34ThRK,1,wipe,16:55,1015,12652,The Stonevault,The Stonevault,,,4:11 PM
+Jbdt12mzqF34ThRK,2,wipe,38:27,2307,12652,The Stonevault,The Stonevault,,,4:28 PM
+kYVgCf6KMGZQqnzm,,wipe,3:56,236,12652,The Stonevault,The Stonevault,4,Tyrannical,4:11 PM
+RKby9GAdDr7L1gZw,,wipe,9:09,549,12652,The Stonevault,The Stonevault,2,Tyrannical,2:55 PM
+gCXjvPQ9mnh7d6RZ,,kill,34:26,2066,12652,The Stonevault,The Stonevault,5,Tyrannical,12:23 PM
+CfMyjZzYxQP1BDN9,,kill,1:12:42,4362,12652,The Stonevault,The Stonevault,3,Fortified,8:57 AM
+YdcJGxvaHfA48yPM,,wipe,38:06,2286,12652,The Stonevault,The Stonevault,4,Tyrannical,4:50 AM
+LMVNcytPQbqRHT8f,1,wipe,22:21,1341,12652,The Stonevault,The Stonevault,,,2:41 AM
+LMVNcytPQbqRHT8f,2,wipe,9:26,566,12652,The Stonevault,The Stonevault,,,3:03 AM
+LMVNcytPQbqRHT8f,1,wipe,22:21,1341,12652,The Stonevault,The Stonevault,,,2:41 AM
+LMVNcytPQbqRHT8f,2,wipe,9:26,566,12652,The Stonevault,The Stonevault,,,3:03 AM
+CMkZN9wyGRzf2qQL,1,wipe,22:21,1341,12652,The Stonevault,The Stonevault,,,2:41 AM
+CMkZN9wyGRzf2qQL,2,wipe,9:26,566,12652,The Stonevault,The Stonevault,,,3:03 AM
+CMkZN9wyGRzf2qQL,3,wipe,9:33,573,12652,The Stonevault,The Stonevault,,,3:13 AM
+CMkZN9wyGRzf2qQL,1,wipe,22:21,1341,12652,The Stonevault,The Stonevault,,,2:41 AM
+CMkZN9wyGRzf2qQL,2,wipe,9:26,566,12652,The Stonevault,The Stonevault,,,3:03 AM
+CMkZN9wyGRzf2qQL,3,wipe,9:33,573,12652,The Stonevault,The Stonevault,,,3:13 AM
+Vmt3GPXFNAMc24Ha,,wipe,13:22,802,12652,The Stonevault,The Stonevault,3,Tyrannical,2:41 AM
+habWkxvV4p1nXgdj,,wipe,39:33,2373,12652,The Stonevault,The Stonevault,3,Tyrannical,9:29 PM
+6ykrxYBmLnPV4fZq,1,wipe,23:00,1380,12652,The Stonevault,The Stonevault,,,9:29 PM
+6ykrxYBmLnPV4fZq,2,wipe,21:46,1306,12652,The Stonevault,The Stonevault,,,9:52 PM
+6ykrxYBmLnPV4fZq,1,wipe,23:00,1380,12652,The Stonevault,The Stonevault,,,9:29 PM
+6ykrxYBmLnPV4fZq,2,wipe,21:46,1306,12652,The Stonevault,The Stonevault,,,9:52 PM
+LvhtG63RQdYMWnkj,,kill,37:01,2221,12652,The Stonevault,The Stonevault,2,Fortified,7:46 PM
+afNVLjKDGcgA9mkX,2,wipe,20:01,1201,12652,The Stonevault,The Stonevault,,,6:15 PM
+afNVLjKDGcgA9mkX,3,wipe,6:29,389,12652,The Stonevault,The Stonevault,,,6:42 PM
+afNVLjKDGcgA9mkX,4,wipe,10:16,616,12652,The Stonevault,The Stonevault,,,6:49 PM
+afNVLjKDGcgA9mkX,2,wipe,20:01,1201,12652,The Stonevault,The Stonevault,,,6:15 PM
+afNVLjKDGcgA9mkX,3,wipe,6:29,389,12652,The Stonevault,The Stonevault,,,6:42 PM
+afNVLjKDGcgA9mkX,4,wipe,10:16,616,12652,The Stonevault,The Stonevault,,,6:49 PM
+CWqMyHV6LxRf8D49,,wipe,1:05:00,3900,12652,The Stonevault,The Stonevault,5,Tyrannical,6:43 PM
+hnRFkqC72zVXLmZf,,wipe,20:01,1201,12652,The Stonevault,The Stonevault,5,Tyrannical,6:15 PM
+wg73CjTqyzaFXKZ8,2,kill,30:51,1851,12652,The Stonevault,The Stonevault,,,10:20 AM
+wg73CjTqyzaFXKZ8,1,wipe,8:57,537,12652,The Stonevault,The Stonevault,,,10:11 AM
+vhnGWMQkVZNtqyP3,,wipe,48:37,2917,12652,The Stonevault,The Stonevault,2,Fortified,3:27 PM
+xbXcGgpR8PvYCVjt,,wipe,0:00,0,12652,The Stonevault,The Stonevault,5,Fortified,4:24 PM
+LKtRfnm8GkQ3yj7V,,kill,58:23,3503,12652,The Stonevault,The Stonevault,6,Fortified,1:05 PM
+8PrpzLqXMfxC9VZg,7,kill,1:12:24,4344,12652,The Stonevault,The Stonevault,,,7:06 AM
+8PrpzLqXMfxC9VZg,6,wipe,14:32,872,12652,The Stonevault,The Stonevault,,,6:52 AM
+vrT8wbL4K7dY3q6B,8,kill,1:12:24,4344,12652,The Stonevault,The Stonevault,,,7:06 AM
+vrT8wbL4K7dY3q6B,7,wipe,14:32,872,12652,The Stonevault,The Stonevault,,,6:52 AM
+VYBgtTRw1rLaPz8q,,wipe,10:31,631,12652,The Stonevault,The Stonevault,3,Fortified,6:52 AM
+hL3H4GcmQpXnK9Fj,,wipe,10:31,631,12652,The Stonevault,The Stonevault,3,Fortified,6:52 AM
+72ZJkcBjv3Fh9fxD,,kill,32:30,1950,12652,The Stonevault,The Stonevault,3,Fortified,12:55 AM
+ZwRLbP8DKmpJVXFn,,wipe,19:28,1168,12652,The Stonevault,The Stonevault,4,Fortified,12:46 AM
+Hgt24ZJNzrCKRLVF,,wipe,5:36,336,12652,The Stonevault,The Stonevault,4,Fortified,12:23 AM
+Y1gBp4CbaP2mV8Hr,,wipe,0:00,0,12652,The Stonevault,The Stonevault,5,Fortified,11:59 PM
+HLDrqc3bxTP6aA8C,1,wipe,21:02,1262,12652,The Stonevault,The Stonevault,,,10:43 PM
+HLDrqc3bxTP6aA8C,2,wipe,15:08,908,12652,The Stonevault,The Stonevault,,,11:04 PM
+HLDrqc3bxTP6aA8C,1,wipe,21:02,1262,12652,The Stonevault,The Stonevault,,,10:43 PM
+HLDrqc3bxTP6aA8C,2,wipe,15:08,908,12652,The Stonevault,The Stonevault,,,11:04 PM
+w1vGhktmYCzdjxA3,1,wipe,21:02,1262,12652,The Stonevault,The Stonevault,,,10:43 PM
+w1vGhktmYCzdjxA3,2,wipe,15:08,908,12652,The Stonevault,The Stonevault,,,11:04 PM
+w1vGhktmYCzdjxA3,1,wipe,21:02,1262,12652,The Stonevault,The Stonevault,,,10:43 PM
+w1vGhktmYCzdjxA3,2,wipe,15:08,908,12652,The Stonevault,The Stonevault,,,11:04 PM
+zCTpYFXB6MKVtg3H,,kill,1:05:25,3925,12652,The Stonevault,The Stonevault,4,Fortified,10:45 PM
+KRdj4r9VDGfCmBcT,,wipe,0:00,0,12652,The Stonevault,The Stonevault,5,Fortified,10:37 PM
+yK1XPQd8jbqaYNBD,,wipe,10:26,626,12652,The Stonevault,The Stonevault,10,,7:36 PM
+73wRr1KhnMJjpvF8,,wipe,5:19,319,12652,The Stonevault,The Stonevault,3,Fortified,7:45 PM
+fcCqnp281WY7z3Gj,,wipe,13:59,839,12652,The Stonevault,The Stonevault,5,,7:25 PM

@@ -1,0 +1,996 @@
+
+
+    Midnight
+    Mists of Pandaria
+    Classic Fresh
+    Season of Discovery
+    Vanilla
+
+Warcraft Logs
+Enter a player, guild, or realm
+Enter a player, guild, or realm
+Search
+128
+Download Archon App
+
+    Deutsch
+    English
+    Español
+    Français
+    Italiano
+    Português (Brasil)
+    Русский
+    한국어
+    繁體中文
+    简体中文
+
+Mythic+ Season 1
+Created by BudoBoy07 on Sun May 24 2026
+
+    Edit Report
+    Delete Report
+    Make Private
+    View in Anonymous Mode
+
+Settings
++
+
+    VS / DR / MQD
+    BudoBoy07 - (Public) - 1 hour ago
+    Mythic+ Season 1
+    BudoBoy07 - (Public) - 1 hour ago
+    Sporefall
+    BudoBoy07 - (Public) - 2 months ago
+    Sporefall
+    BudoBoy07 - (Public) - 2 months ago
+
+BudoBoy07
+Personal Logs
++
+Pit of Saron+
++21 [Fortified] [Tyrannical] [Xal'atath's Guile] 2 (2:18) 6:04 PM
+
+    + Bosses and Trash
+        Bosses and Trash
+        Bosses
+        Trash
+        Forgemaster Garforst
+        Krick and Ick
+        Scourgelord Tyrannus
+        Pull 1 (0:54) +0:09
+        Ymirjar Graveblade
+        Pull 2 (0:58) +1:09
+        Lumbering Plaguehorror
+        Pull 3 (0:06) +2:11
+        Lumbering Plaguehorror
+
+Entire Dungeon
+
+    + All Friendlies
+        +Adinorx
+            +Abomination
+                1
+
+                2
+
+            ID: 149555
+            +High Inquisitor Whitemane
+                1
+
+                2
+
+                3
+
+            ID: 221633
+            +Highlord Darion Mograine
+                1
+
+                2
+
+                3
+
+                4
+
+            ID: 221632
+            +King Thoras Trollbane
+                1
+
+                2
+
+                3
+
+            ID: 221635
+            +Lesser Ghoul
+                1
+
+                2
+
+                3
+
+                4
+
+                5
+
+                6
+
+                7
+
+                8
+
+                9
+
+                10
+                11
+
+                12
+
+                13
+
+                14
+
+                15
+
+                16
+
+                17
+
+                18
+
+                19
+
+                20
+                21
+
+                22
+
+                23
+
+                24
+
+                25
+
+                26
+
+                27
+
+                28
+
+                29
+
+                30
+                31
+
+                32
+
+                33
+
+                34
+
+                35
+
+                36
+
+                37
+
+                38
+
+                39
+
+                40
+                41
+
+                42
+
+                43
+
+                44
+
+                45
+
+                46
+
+                47
+
+                48
+
+                49
+
+                50
+                51
+
+                52
+
+                53
+
+                54
+
+                55
+
+                56
+
+                57
+
+                58
+
+                59
+
+                60
+                61
+
+                62
+
+                63
+
+                64
+
+                65
+
+                66
+
+                67
+
+                68
+
+                69
+
+                70
+                71
+
+            ID: 237409
+            +Lesser Ghoul
+                1
+
+                2
+
+                3
+
+                4
+
+                5
+
+                6
+
+                7
+
+                8
+
+                9
+
+                10
+                11
+
+                12
+
+                13
+
+                14
+
+                15
+
+                16
+
+                17
+
+                18
+
+                19
+
+                20
+                21
+
+                22
+
+                23
+
+                24
+
+                25
+
+                26
+
+            ID: 258578
+            +Magus of the Dead
+                1
+
+                2
+
+                3
+
+                4
+
+                5
+
+                6
+
+                7
+
+                8
+
+                9
+
+                10
+                11
+
+                12
+
+                13
+
+                14
+
+                15
+
+                16
+
+                17
+
+                18
+
+                19
+
+                20
+                21
+
+                22
+
+                23
+
+                24
+
+                25
+
+                26
+
+                27
+
+                28
+
+                29
+
+                30
+                31
+
+            ID: 163366
+            Marrowmuncher
+            +Nazgrim
+                1
+
+                2
+
+                3
+
+                4
+
+            ID: 221634
+        Nerfdevourer
+        +Softdudu
+            +Dread Shade
+                1
+
+                2
+
+                3
+
+            ID: 251422
+        +Powerpegging
+            +Dracthyr Commando
+                1
+
+                2
+
+                3
+
+                4
+
+            ID: 219827
+            +Future Self
+                1
+
+                2
+
+                3
+
+            ID: 253466
+        +Yonuts
+            +Earthbind Totem
+                1
+
+                2
+
+            ID: 2630
+            +Healing Stream Totem
+                1
+
+                2
+
+                3
+
+                4
+
+                5
+
+                6
+
+                7
+
+            ID: 3527
+            Healing Tide Totem
+
+            ID: 59764
+            +Stormstream Totem
+                1
+
+                2
+
+            ID: 256196
+            +Surging Totem
+                1
+
+                2
+
+                3
+
+                4
+
+            ID: 225409
+
+
+
+
+
+Friendlies Enemies
+Summary
+Damage Done
+Damage Taken
+Healing
+Threat
+Buffs
+Debuffs
+Deaths
+Interrupts
+Dispels
+Resources
+Casts
+
+    +Ignore Events After Player Deaths
+        Ignore Events After Player Deaths
+        Ignore Events After A Called Wipe
+
+Filter Expression:
+
+    +
+        Heroism
+        Downtime
+        Player Deaths
+        Player Resurrections
+        Boss Deaths
+        NPC Deaths
+        Show All Entries
+        Hide All Entries
+
+ZoomPer Second AmountDamage DoneDamage TakenHealing Done00:0000:1500:3000:4501:0001:1501:3001:4502:0002:150M10M2.5M5M7.5M
+Group Composition Item Level: 289.00
+Tanks:	Softdudu
+DPS:	Adinorx Nerfdevourer Powerpegging
+Healers:	Yonuts
+Damage Done By Source
+Name
+
+Amount
+
+DPS
+
+Adinorx
+30.99%
+61.17m 	441,927.0
+Powerpegging
+27.23%
+53.75m 	388,328.0
+Nerfdevourer
+23.27%
+45.94m 	331,872.6
+Softdudu
+16.38%
+32.33m 	233,551.5
+Yonuts
+2.14%
+4.22m 	30,495.9
+Healing Done By Source
+Name
+
+Amount
+
+HPS
+
+Softdudu
+55.06%
+17.39m 	125,665.4
+Yonuts
+33.36%
+10.54m 	76,147.5
+Powerpegging
+6.33%
+2.00m 	14,447.7
+Adinorx
+2.93%
+924.2k 	6,677.0
+Nerfdevourer
+2.32%
+732.0k 	5,288.6
+Damage Taken By Ability
+Name
+
+Amount
+
+DTPS
+
+Melee
+52.81%
+18.44m 	133,208.3
+Dread Pulse
+16.37%
+5.72m 	41,299.3
+Tormenting Blade
+7.50%
+2.62m 	18,915.5
+Shadow Bolt
+3.62%
+1.26m 	9,120.9
+Torrent of Misery
+3.60%
+1.26m 	9,072.1
+Leaping Maul
+2.72%
+948.7k 	6,853.5
+Curse of Torment
+2.70%
+943.1k 	6,813.1
+Sunderstrike
+2.27%
+792.5k 	5,725.0
+Charging Slash
+2.13%
+743.6k 	5,372.3
+Plague Spew
+2.10%
+732.8k 	5,294.1
+Icy Blast
+1.16%
+406.4k 	2,936.3
+Blight Splatter
+1.06%
+371.5k 	2,683.8
+Frostbane Slash
+0.86%
+299.8k 	2,165.8
+Frostbane Slash
+0.76%
+263.8k 	1,905.8
+Plungegrip
+0.35%
+120.6k 	871.0
+Deaths
+Name
+
+Killing Blow
+
+Time
+
+Softdudu 	Melee 	2:02
+Nerfdevourer 	Melee 	2:03
+Adinorx 	Melee 	2:04
+Characters
+Tanks
+
+Class Talents
+
+Spec Talents
+
+Gear
+
+Combat Potions
+
+Healthstones & Potions
+Softdudu
+Druid (Guardian)
+288 Item Level
+Rake
+Frenzied Regeneration
+Ursoc's Spirit
+Grievous Wounds
+Swipe
+Remove Corruption
+Verdant Heart
+Nurturing Instinct 2
+Killer Instinct 2
+Ironfur
+Improved Barkskin
+Natural Recovery
+Astral Influence
+Thick Hide
+Skull Bash
+Wild Charge
+Soothe
+Aessina's Renewal
+Typhoon
+Stampeding Roar
+Well-Honed Instincts
+Feline Swiftness
+Matted Fur 2
+Ursol's Vortex
+Lycara's Teachings 2
+Gift of the Wild
+Oakskin
+Lore of the Grove
+Improved Stampeding Roar
+Incapacitating Roar
+Circle of the Wild
+Heart of the Wild
+Fluid Form
+
+Maul
+Gore
+Survival Instincts
+Persistence
+Dream of Cenarius
+Vulnerable Flesh
+Berserk
+Innate Resolve
+After the Wildfire
+Survival of the Fittest 2
+Scintillating Moonlight 2
+Reinvigoration 1
+Ursol's Warding
+Reinforced Fur
+Gift of an Ancient Guardian
+Ursoc's Endurance
+Brambles
+Rend and Tear
+Lunar Beam
+Fury of Nature 2
+Blood Frenzy
+Twin Moonfire
+Flashing Claws 2
+Ursoc's Fury
+Elune's Favored
+Incarnation: Guardian of Ursoc
+Ursoc's Guidance
+Galactic Guardian
+Sundering Roar
+Waking Nightmare
+		1 	1
+DPS
+
+Class Talents
+
+Spec Talents
+
+Gear
+
+Combat Potions
+
+Healthstones & Potions
+Adinorx
+Death Knight (Unholy)
+290 Item Level
+Death Strike
+Icebound Fortitude
+Raise Dead
+Runic Attenuation
+Improved Death Strike
+Cleaving Strikes
+Blinding Sleet
+Gloom Ward 2
+Unholy Momentum 2
+Mind Freeze
+Wraith Walk
+Brittle
+Veteran of the Third War
+Death Pact
+Coldthirst
+Anti-Magic Zone
+Unholy Bond
+Icy Talons
+Death Defiance
+Anti-Magic Barrier
+Grip of the Dead
+Asphyxiate
+Unholy Endurance
+Blood Scent
+Suppression
+Insidious Chill
+Blood Draw
+Will of the Necropolis 2
+Rune Mastery 2
+Death's Echo
+Null Magic
+
+Outbreak
+Scourge Strike
+Sudden Doom
+Dark Transformation
+Putrefy
+Clawing Shadows
+Foul Infections
+Grave Mastery
+Necromancer's Cunning
+Magus of the Dead
+Soul Reaper
+Festering Scythe
+Ebon Fever
+Cycle of Death
+Ghoulish Frenzy
+Army of the Dead
+Menacing Magus
+Reaping
+Raise Abomination
+Harbinger of Doom
+Unholy Devotion
+Doomed Bidding
+Blightburst
+Putrid Echoes
+Commander of the Dead 2
+Unholy Aura 2
+Outnumber
+Reanimation
+Forbidden Knowledge 1
+Forbidden Knowledge 2
+Forbidden Knowledge 1
+		1 	0
+Nerfdevourer
+Demon Hunter (Devourer)
+288 Item Level
+Vengeful Retreat
+Sigil of Misery
+Voidblade
+Unrestrained Fury
+Shattered Restoration
+Bouncing Glaives
+Imprison
+Improved Disrupt
+Consume Magic
+Void Nova
+Aura of Pain
+Disrupting Fury
+Swallowed Anger
+Blazing Path
+Focused Ire
+Soul Rending 2
+Pursuit
+Soul Cleanse
+Illidari Knowledge 2
+Will of the Illidari 2
+Guile
+Remorseless
+Internal Struggle
+First In, Last Out
+Furious
+Demon Muzzle
+Soul Splitter 2
+Darkness
+Final Breath
+Pitch Black
+Demonic Resilience
+
+Void Ray
+Soul Immolation
+Predator's Thirst
+Void Metamorphosis
+Feast of Souls
+Tempered Soul
+Collapsing Star
+Moment of Craving
+Soulshaper
+Waste Not
+Entropy
+Sweet Suffering 2
+Sweet Release 2
+Improved Consume
+Voidpurge
+Focused Ray
+Voidrage 2
+Devourer's Edge 2
+Demonic Instinct 2
+Rolling Torment
+Impending Apocalypse
+Calamitous
+Star Fragments
+Eradicate
+Emptiness
+Midnight 1
+Midnight 2
+Midnight 1
+		1 	0
+Powerpegging
+Evoker (Augmentation)
+290 Item Level
+Expunge
+Obsidian Scales
+Landslide
+Natural Convergence
+Verdant Embrace
+Heavy Wingbeats
+Obsidian Bulwark
+Innate Magic 2
+Cauterizing Flame
+Inner Radiance
+Clobbering Sweep
+Attuned to the Dream 2
+Instinctive Arcana 2
+Tip the Scales
+Draconic Legacy
+Extended Flight 2
+Inherent Resistance 2
+Blast Furnace
+Panacea
+Renewing Blaze
+Exuberance
+Rescue
+Source of Magic
+Foci of Life
+Stretch Time
+Leaping Flames
+Aerial Mastery
+Potent Mana
+Zephyr
+Spatial Paradox
+Terror of the Skies
+
+Ebon Might
+Eruption
+Essence Burst
+Ricocheting Pyroclast
+Essence Attunement
+Pupil of Alexstrasza
+Quell
+Upheaval
+Defy Fate
+Breath of Eons
+Power Nexus
+Volcanism
+Ignition Rush
+Chrono Ward
+Bestow Weyrnstone
+Draconic Attunements
+Prescience
+Tectonic Locus
+Momentum Shift
+Fate Mirror
+Hoarded Power
+Anachronism
+Inferno's Blessing
+Accretion
+Time Skip
+Imminent Destruction
+Rumbling Earth
+Plot the Future
+Interwoven Threads
+Mighty Inferno
+Duplicate 1
+Duplicate 2
+Duplicate 1
+		2 	0
+Healers
+
+Class Talents
+
+Spec Talents
+
+Gear
+
+Combat Potions
+
+Healthstones & Potions
+Yonuts
+Shaman (Restoration)
+289 Item Level
+Chain Lightning
+Lava Burst
+Chain Heal
+Thunderous Paws
+Earth Shield
+Spirit Walk
+Elemental Orbit
+Nature's Guardian
+Astral Shift
+Brimming with Life 2
+Healing Stream Totem
+Planes Traveler
+Wind Shear
+Capacitor Totem
+Elemental Resistance
+Enhanced Imbues
+Spiritual Awakening
+Improved Purify Spirit
+Earth Elemental
+Refreshing Waters
+Wind Rush Totem
+Jet Stream
+Nature's Fury 2
+Purge
+Spiritwalker's Grace
+Elemental Warding
+Totemic Focus
+Totemic Projection
+Therazane's Resilience
+Graceful Spirit
+Nature's Swiftness
+Instinctive Imbuements
+Totemic Surge
+
+Riptide
+Healing Stream Totem
+Healing Rain
+Water Totem Mastery
+Acid Rain
+Healing Tide Totem
+Living Stream
+Resurgence
+First Ascendant
+Ancestral Vigor 2
+White Water
+Quickstream
+Earthliving Weapon
+Unleash Life
+Torrent
+Ancestral Reach
+Deluge
+Tidal Waves
+Improved Earthliving Weapon
+Earthen Accord
+Spirit Link Totem
+Echo of the Elements
+Earthen Harmony
+Ancestral Awakening 2
+Spouting Spirits
+Primal Tide Core
+Coalescing Water
+Deeply Rooted Elements
+Stormstream Totem 1
+Stormstream Totem 2
+Stormstream Totem 1
+		1 	0
+Warcraft Logs Logo
+HEY THERE.We all want Warcraft Logs to remain free.
+We work hard to offer you the best possible experience.
+Help us by disabling your Adblock or supporting us on Patreon.
+Guild logo
+Warcraft Logs
+Contact Us
+-
+Privacy Policy
+-
+Video Terms of Service
+-
+Careers
+twitter's Icon Logo
+discord's Icon Logo
+patreon's Icon Logo
+Latest Article
+Archon App: Cloud Video Released!
+4 days ago
+Resources
+Forums
+Subscribe
+Help and Info
+Brand
+Our Websites
+Archon
+WoW Retail
+WoW Classic
+WoW SoD
+WoW Classic Fresh
+WoW Vanilla
+Final Fantasy XIV
+Elder Scrolls Online
+SWTOR
+Latest Raid
+Statistics
+Rankings
+Progress
+All Reports
+Our Tools
+Download App
+WoWAnalyzer
+Wipefest
+Recruitment
+© 2013-2026 Warcraft Logs

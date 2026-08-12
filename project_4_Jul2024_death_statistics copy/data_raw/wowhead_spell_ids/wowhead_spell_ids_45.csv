@@ -1,0 +1,790 @@
+spell_id,page_source,page_source_is_valid,spell_name,icon_id,cast_time,cast_value_is_channeled,cast_value_is_instant,npc_id,npc_name,zone_id,zone_page_source,zone_page_source_is_valid,zone_name,zone_name_was_found
+115203,,True,Fortifying Brew,615341,Instant,False,True,63195,Blackguard Brewmaster,-1,,False,Zone Name Not Found,False
+451605,,True,Holy Flame,135973,3 seconds,False,False,207940,Prioress Murrpray,14954,,True,Zone Name Not Found,False
+1242993,,True,Shadow Expulsion,895887,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+434793,,True,Resonant Barrage,136128,Channeled,True,False,216293,"Trilling Attendant"",""Discordant Attendant",-1,,False,Zone Name Not Found,False
+1236615,,True,Display of Power,3528307,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+356967,,True,Hyperlight Backhand,4037122,3 seconds,False,False,180348,Cartel Muscle,13577,,True,Zone Name Not Found,False
+427357,,True,Holy Smite,135924,2.5 seconds,False,False,206697,Devout Priest,14954,,True,Zone Name Not Found,False
+461796,,True,Reload,511727,7 seconds,False,False,229212,Darkfuse Demolitionist,15452,,True,Zone Name Not Found,False
+462508,,True,Dark Prayer,136198,1.5 seconds,False,False,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+431365,,True,Tormenting Ray,1386548,Instant,False,True,214761,Nightfall Ritualist,14971,,True,Zone Name Not Found,False
+1231252,,True,Unstable Core,135734,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+355057,,True,Cry of Mrrggllrrgg,1058933,3 seconds,False,False,178139,Murkbrine Shellcrusher,13577,,True,Zone Name Not Found,False
+357029,,True,Hyperlight Bomb,4037123,1.5 seconds,False,False,180335,Cartel Smuggler,13577,,True,Zone Name Not Found,False
+434830,,True,Vile Webbing,136113,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+356324,,True,Empowered Glyph of Restraint,4037120,1 second,False,False,179334,"Portalmancer Zo'honn"",""Portalmancer Zo'dahh"",""Portalmancer Zo'nyy",13577,,True,Zone Name Not Found,False
+431364,,True,Tormenting Ray,1386548,2.5 seconds,False,False,214761,Nightfall Ritualist,-1,,False,Zone Name Not Found,False
+1223000,,True,Embrace of K'aresh,237580,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+435156,,True,Light Expulsion,135921,Instant,False,True,212835,Risen Footman,14954,,True,Zone Name Not Found,False
+463061,,True,Bloodthirsty Cackle,132117,Instant,False,True,229252,Darkfuse Hyena,15452,,True,Zone Name Not Found,False
+356404,,True,Lava Breath,135831,3 seconds,False,False,180091,Ancient Core Hound,13577,,True,Zone Name Not Found,False
+5394,,True,Healing Stream Totem,135127,Instant,False,True,3527,Healing Stream Totem,6720,,True,Zone Name Not Found,False
+465408,,True,Rapid Construction,135436,2.5 seconds,False,False,231176,Scaffolding,15452,,True,Zone Name Not Found,False
+432031,,True,Grasping Blood,3459799,Channeled,True,False,215968,Black Blood,15093,,True,Zone Name Not Found,False
+1235368,,True,Arcane Slash,135739,3 seconds,False,False,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+1235245,,True,Ankle Bite,458967,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+448485,,True,Shield Slam,132357,1.5 seconds,False,False,212826,Guard Captain Suleyman,14954,,True,Zone Name Not Found,False
+326997,,True,Powerful Swipe,1396978,1.5 seconds,False,False,167607,Stoneborn Slasher,12831,,True,Zone Name Not Found,False
+460814,,True,Deflagration,459026,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+469981,,True,Kill-o-Block Barrier,136051,1.5 seconds,False,False,226398,Big M.O.M.M.A.,15452,,True,Zone Name Not Found,False
+473836,,True,Electrocrush,252174,Instant,False,True,226398,Big M.O.M.M.A.,15452,,True,Zone Name Not Found,False
+434083,,True,Ambush,1817485,Instant,False,True,216336,"Ravenous Crawler"",""Starved Crawler",14979,,True,Zone Name Not Found,False
+451101,,True,Shadowy Decay,633004,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+1229474,,True,Gorge,4914668,3.5 seconds,False,False,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+355637,,True,Quelling Strike,132307,500 milliseconds,False,False,179840,Market Peacekeeper,13577,,True,Zone Name Not Found,False
+1227152,,True,Warp Strike,135736,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+355934,,True,Hard Light Barrier,134122,4 seconds,False,False,177817,Support Officer,13577,,True,Zone Name Not Found,False
+366155,,True,Reversion,4630467,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+1237215,,True,Path of the Eco-Dome,6921877,10 seconds,False,False,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+1215850,,True,Earthcrusher,136025,1 second,False,False,167538,Dokigg the Brutalizer,12841,,True,Zone Name Not Found,False
+322936,,True,Crumbling Slam,134459,1 second,False,False,165408,Halkias,12831,,True,Zone Name Not Found,False
+453461,,True,Caltrops,461122,Instant,False,True,206694,Fervent Sharpshooter,14954,,True,Zone Name Not Found,False
+1220511,,True,Arcane Overload,429383,3 seconds,False,False,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+1217456,,True,Jettison Kelp,960692,Instant,False,True,231223,Disturbed Kelp,15452,,True,Zone Name Not Found,False
+472452,,True,Doom Storm,1035038,2.5 seconds,False,False,228424,Darkfuse Mechadrone,15452,,True,Zone Name Not Found,False
+275699,,True,Apocalypse,1392565,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+431349,,True,Tormenting Eruption,132851,2.5 seconds,False,False,213885,Nightfall Dark Architect,-1,,False,Zone Name Not Found,False
+1235326,,True,Disrupting Screech,132182,3 seconds,False,False,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+228260,,True,Void Eruption,1386548,1.5 seconds,False,False,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+181113,,True,Encounter Spawn,-1,Instant,False,True,78623,Cho'gall,6996,,True,Zone Name Not Found,False
+6201,,True,Create Healthstone,538745,3 seconds,False,False,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+546,,True,Water Walking,135863,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+451107,,True,Bursting Cocoon,5764932,2 seconds,False,False,210966,Sureki Webmage,-1,,False,Zone Name Not Found,False
+1217232,,True,Devour,252996,5 seconds,False,False,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+1240102,,True,Time Bombs,5199633,2 seconds,False,False,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+444728,,True,Templar's Wrath,135875,Instant,False,True,207949,Zealous Templar,14954,,True,Zone Name Not Found,False
+465813,,True,Lethargic Venom,132108,2 seconds,False,False,-1,Undercrawler,15452,,True,Zone Name Not Found,False
+1235762,,True,Turn to Stone,458241,3.5 seconds,False,False,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+349797,,True,Grand Consumption,3528279,1.5 seconds,False,False,176556,Alcruux,13577,,True,Zone Name Not Found,False
+346962,,True,Money Order,370211,Instant,False,True,175646,P.O.S.T. Master,13577,,True,Zone Name Not Found,False
+347903,,True,Junk Mail,237246,1.5 seconds,False,False,176395,Overloaded Mailemental,13577,,True,Zone Name Not Found,False
+346947,,True,Unstable Goods,451164,2 seconds,False,False,175646,P.O.S.T. Master,13577,,True,Zone Name Not Found,False
+465463,,True,Turbo Charge,4548867,4 seconds,False,False,226404,Geezle Gigazap,15452,,True,Zone Name Not Found,False
+427001,,True,Terrifying Slam,1508516,3 seconds,False,False,211089,Anub'ikkaj,14971,,True,Zone Name Not Found,False
+329113,,True,Telekinetic Onslaught,135822,Channeled,True,False,164218,Lord Chamberlain,12831,,True,Zone Name Not Found,False
+434786,,True,Web Bolt,237430,1.5 seconds,False,False,216293,"Trilling Attendant"",""Discordant Attendant",14979,,True,Zone Name Not Found,False
+444608,,True,Inner Fire,5764903,2 seconds,False,False,207940,Prioress Murrpray,14954,,True,Zone Name Not Found,False
+356548,,True,Radiant Pulse,4037122,2 seconds,False,False,178392,Gatewarden Zo'mazz,13577,,True,Zone Name Not Found,False
+465666,,True,Sparkslam,136050,2.5 seconds,False,False,231325,Darkfuse Jumpstarter,15452,,True,Zone Name Not Found,False
+350090,,True,Whirling Annihilation,3528301,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+1236512,,True,Unstable Anima,3528309,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+181089,,True,Encounter Event,-1,Instant,False,True,40825,Erunak Stonespeaker,5004,,True,Zone Name Not Found,False
+432565,,True,Black Hail,237244,2 seconds,False,False,211341,Manifested Shadow,-1,,False,Zone Name Not Found,False
+465604,,True,Battery Bolt,132488,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+431985,,True,Black Blood,3459799,Instant,False,True,215826,Bloodworker,-1,,False,Zone Name Not Found,False
+468616,,True,Leaping Spark,841383,Channeled,True,False,232690,Leaping Spark,-1,,False,Zone Name Not Found,False
+349987,,True,Venting Protocol,3528283,3 seconds,False,False,176555,Achillite,13577,,True,Zone Name Not Found,False
+350922,,True,Menacing Shout,132333,3 seconds,False,False,176563,Zo'gron,13577,,True,Zone Name Not Found,False
+462854,,True,Skyfury,4630367,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+440313,,True,Devouring Rift,5927657,Instant,False,True,230937,Xal'atath,-1,,False,Zone Name Not Found,False
+465462,,True,Turbo Charge,4548867,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+329104,,True,Door of Shadows,134430,1.5 seconds,False,False,164218,Lord Chamberlain,12831,,True,Zone Name Not Found,False
+351961,,True,Static Mace,3922561,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+351124,,True,Summon Assassins,413583,1 second,False,False,177269,So'leah,13577,,True,Zone Name Not Found,False
+1236614,,True,Display of Power,3528307,2 seconds,False,False,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+355464,,True,Boulder Throw,135239,3 seconds,False,False,178165,Coastwalker Goliath,13577,,True,Zone Name Not Found,False
+325876,,True,Mark of Obliteration,132094,Instant,False,True,165414,Depraved Obliterator,12831,,True,Zone Name Not Found,False
+353783,,True,Teleport,3847780,2 seconds,False,False,176565,Disruptive Patron,13577,,True,Zone Name Not Found,False
+1217241,,True,Feast,3086045,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+353424,,True,Security Measure,4037124,Instant,False,True,175576,Containment Cell,13577,,True,Zone Name Not Found,False
+427898,,True,Molten Pool,136243,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+451764,,True,Radiant Flame,135872,Instant,False,True,217658,Sir Braunpyke,14954,,True,Zone Name Not Found,False
+357508,,True,Wild Thrash,1033474,1.5 seconds,False,False,180495,Enraged Direhorn,13577,,True,Zone Name Not Found,False
+1237642,,True,Telekinetic Onslaught,3528311,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+356549,,True,Refraction Shield,4037125,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+348366,,True,Armed Security,3889765,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+351096,,True,Energy Fragmentation,4037123,2.5 seconds,False,False,177269,So'leah,13577,,True,Zone Name Not Found,False
+446525,,True,Unleashed Pyre,535593,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+432135,,True,Bonk!,5559854,2 seconds,False,False,212536,Flickerflame Kobold,14795,,True,Zone Name Not Found,False
+356482,,True,Rotten Food,132098,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+1225179,,True,Ceremonial Dagger,457655,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+357042,,True,Hyperlight Bomb,4037123,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+434089,,True,Spinneret's Strands,5764929,2.5 seconds,False,False,213937,Rasha'nan,-1,,False,Zone Name Not Found,False
+473070,,True,Awaken the Swamp,1020380,4 seconds,False,False,226396,Swampface,15452,,True,Zone Name Not Found,False
+428169,,True,Blinding Light,5764907,4 seconds,False,False,207940,Prioress Murrpray,14954,,True,Zone Name Not Found,False
+349663,,True,Grip of Hunger,3528281,4 seconds,False,False,176556,Alcruux,13577,,True,Zone Name Not Found,False
+1221484,,True,Arcing Energy,1041233,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+473526,,True,Big Bada BOOM!,133710,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+1231850,,True,Invading Shriek,252188,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+167381,,True,Dummy Strike,589119,Instant,False,True,87329,Raider's Training Dummy,7332,,True,Zone Name Not Found,False
+358919,,True,Static Mace,3922561,Instant,False,True,178388,Bazaar Strongarm,13577,,True,Zone Name Not Found,False
+340446,,True,Mark of Envy,841383,2 seconds,False,False,167898,Manifestation of Envy,12831,,True,Zone Name Not Found,False
+438826,,True,Poisonous Cloud,132108,1.5 seconds,False,False,217533,Atik,-1,,False,Zone Name Not Found,False
+427378,,True,Dark Scars,132095,Instant,False,True,211089,Anub'ikkaj,14971,,True,Zone Name Not Found,False
+453161,,True,Impale,1418495,3 seconds,False,False,216338,Hulking Bloodguard,-1,,False,Zone Name Not Found,False
+328125,,True,Volatile Transformation,136025,Instant,False,True,164363,Undying Stonefiend,12831,,True,Zone Name Not Found,False
+345990,,True,Containment Cell,294477,Channeled,True,False,175616,Zo'phex,13577,,True,Zone Name Not Found,False
+347481,,True,Shuri,1041235,Instant,False,True,175806,So'azmi,13577,,True,Zone Name Not Found,False
+373861,,True,Temporal Anomaly,4630480,1.5 seconds,False,False,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+431491,,True,Tainted Slash,236304,1 second,False,False,214762,Nightfall Commander,-1,,False,Zone Name Not Found,False
+357197,,True,Lightshard Retreat,4037122,1.5 seconds,False,False,180336,Cartel Wiseguy,13577,,True,Zone Name Not Found,False
+356537,,True,Empowered Glyph of Restraint,4037120,4 seconds,False,False,179334,"Portalmancer Zo'honn"",""Portalmancer Zo'dahh"",""Portalmancer Zo'nyy",13577,,True,Zone Name Not Found,False
+357281,,True,Energy Slash,3954409,1.5 seconds,False,False,180432,Devoted Accomplice,13577,,True,Zone Name Not Found,False
+355644,,True,Hyperlight Salvo,4037123,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+355888,,True,Hard Light Baton,3894441,1 second,False,False,177807,Customs Security,13577,,True,Zone Name Not Found,False
+434576,,True,Acidic Stupor,135860,Instant,False,True,213937,Rasha'nan,14971,,True,Zone Name Not Found,False
+1222202,,True,Arcane Burn,136010,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+358947,,True,Burning Tar,252172,Instant,False,True,176178,Hourglass Cannon,-1,,False,Zone Name Not Found,False
+1235052,,True,Crackle,136243,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+1217316,,True,Devour,252996,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+6673,,True,Battle Shout,132333,Instant,False,True,215517,Warlord Breka Grimaxe,-1,,False,Zone Name Not Found,False
+326409,,True,Thrash,451165,2 seconds,False,False,164557,Shard of Halkias,12831,,True,Zone Name Not Found,False
+453584,,True,Charge,132337,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+346028,,True,Interrogation,3889768,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+350919,,True,Crowd Control,3931763,1 second,False,False,176563,Zo'gron,13577,,True,Zone Name Not Found,False
+1235070,,True,Spirit Bond,236202,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+348566,,True,Throw Drink,134785,1.5 seconds,False,False,176562,Brawling Patron,13577,,True,Zone Name Not Found,False
+8936,,True,Regrowth,136085,1.5 seconds,False,False,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+433740,,True,Infestation,136045,Instant,False,True,215405,Anub'zekt,15093,,True,Zone Name Not Found,False
+355640,,True,Phalanx Field,252184,1.5 seconds,False,False,179840,Market Peacekeeper,13577,,True,Zone Name Not Found,False
+1242783,,True,Blinding Light,136243,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+434824,,True,Web Spray,5764933,4 seconds,False,False,217531,Ixin,14979,,True,Zone Name Not Found,False
+347632,,True,Energy Blade,3755058,Instant,False,True,175806,So'azmi,13577,,True,Zone Name Not Found,False
+355440,,True,Suppression Spark,4037124,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+350086,,True,Whirling Annihilation,3528301,3 seconds,False,False,176705,Venza Goldfuse,13577,,True,Zone Name Not Found,False
+1237195,,True,Burrow Charge,5260435,4 seconds,False,False,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+355331,,True,Rift Blasts,4037119,Instant,False,True,178545,Watch-Agent Summon Stalker,-1,,False,Zone Name Not Found,False
+329340,,True,Anima Fountain,1392546,2 seconds,False,False,165410,High Adjudicator Aleez,12831,,True,Zone Name Not Found,False
+452099,,True,Congealed Darkness,1035040,3 seconds,False,False,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+463428,,True,Lingering Erosion,5764920,Instant,False,True,213937,Rasha'nan,14971,,True,Zone Name Not Found,False
+473287,,True,Excessive Electrification,136050,Instant,False,True,226398,Big M.O.M.M.A.,15452,,True,Zone Name Not Found,False
+235313,,True,Blazing Barrier,132221,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+119582,,True,Purifying Brew,133701,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+359222,,True,Rotten Food,132098,1.5 seconds,False,False,176561,Unruly Patron,13577,,True,Zone Name Not Found,False
+357512,,True,Frenzied Charge,791593,3 seconds,False,False,180495,Enraged Direhorn,13577,,True,Zone Name Not Found,False
+431443,,True,Chrono Flames,5927617,2 seconds,False,False,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+466190,,True,Thunder Punch,839974,2.5 seconds,False,False,226404,Geezle Gigazap,15452,,True,Zone Name Not Found,False
+469799,,True,Overcharge,136050,Instant,False,True,231312,Venture Co. Electrician,15452,,True,Zone Name Not Found,False
+1223007,,True,Burrowing Eruption,136025,4 seconds,False,False,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+439832,,True,Bloody Miasma,1117884,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+322943,,True,Heave Debris,1500971,1.5 seconds,False,False,165408,Halkias,12831,,True,Zone Name Not Found,False
+423665,,True,Embrace the Light,4667420,Instant,False,True,207940,Prioress Murrpray,14954,,True,Zone Name Not Found,False
+464655,,True,Snipe,236201,2.5 seconds,False,False,229069,Mechadrone Sniper,15452,,True,Zone Name Not Found,False
+442210,,True,Silken Restraints,5764929,2 seconds,False,False,220599,Bloodstained Webmage,15093,,True,Zone Name Not Found,False
+423015,,True,Castigator's Shield,135874,1 second,False,False,207939,Baron Braunpyke,14954,,True,Zone Name Not Found,False
+435793,,True,Tacky Burst,5764930,Instant,False,True,213937,Rasha'nan,-1,,False,Zone Name Not Found,False
+124255,,True,Stagger,132285,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+1225308,,True,Dread of the Unknown,458727,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+1217383,,True,Engorge,3155460,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+344874,,True,Shattered,2101174,Instant,False,True,164185,Echelon,12831,,True,Zone Name Not Found,False
+1224868,,True,Splinters of Fate,425955,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+192249,,True,Storm Elemental,2065626,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+338012,,True,Anima Fountain,1392546,Instant,False,True,166497,Anima Fountain,-1,,False,Zone Name Not Found,False
+383269,,True,Legion of Souls,3578196,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+355438,,True,Suppression Spark,4037124,6 seconds,False,False,176563,Zo'gron,13577,,True,Zone Name Not Found,False
+319702,,True,Blood Torrent,1394887,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+453141,,True,Collapsing Night,132886,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+434093,,True,Spinneret's Strands,5764929,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+423536,,True,Holy Smite,135924,1.5 seconds,False,False,207940,Prioress Murrpray,14954,,True,Zone Name Not Found,False
+444609,,True,Stoke the Flame,1022948,2 seconds,False,False,207940,Prioress Murrpray,14954,,True,Zone Name Not Found,False
+451119,,True,Abyssal Blast,608955,1.5 seconds,False,False,211261,Ascendant Vis'coxria,-1,,False,Zone Name Not Found,False
+1237220,,True,Stinging Sandstorm,796638,1 second,False,False,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+1234698,,True,Desecrate,236305,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+350796,,True,Hyperlight Spark,4037120,500 milliseconds,False,False,177269,So'leah,13577,,True,Zone Name Not Found,False
+426793,,True,Shadowy Decay,633004,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+356260,,True,Tidal Burst,132852,Instant,False,True,179388,Hourglass Tidesage,13577,,True,Zone Name Not Found,False
+427596,,True,Seal of Light's Fury,135969,Instant,False,True,206704,Ardent Paladin,14954,,True,Zone Name Not Found,False
+1242153,,True,Bleeding Jab,136243,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+465595,,True,Lightning Bolt,136049,2.5 seconds,False,False,231312,Venture Co. Electrician,15452,,True,Zone Name Not Found,False
+1221174,,True,Gorging Smash,135784,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+464240,,True,Reflective Shield,458412,2 seconds,False,False,212827,High Priest Aemya,14954,,True,Zone Name Not Found,False
+423682,,True,Embrace the Light,458225,Instant,False,True,207940,Prioress Murrpray,14954,,True,Zone Name Not Found,False
+453345,,True,Abyssal Rot,608955,1.5 seconds,False,False,211341,Manifested Shadow,-1,,False,Zone Name Not Found,False
+427609,,True,Disrupting Shout,589118,3 seconds,False,False,206696,Arathi Knight,14954,,True,Zone Name Not Found,False
+319592,,True,Stone Shattering Leap,1016245,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+423062,,True,Hammer of Purity,236253,2 seconds,False,False,207939,Baron Braunpyke,14954,,True,Zone Name Not Found,False
+1216815,,True,Void Pulsar,4914669,4 seconds,False,False,236933,Xal'atath,-1,,False,Zone Name Not Found,False
+473046,,True,Skewering Root,5351059,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+450756,,True,Abyssal Howl,136192,1.5 seconds,False,False,214762,Nightfall Commander,-1,,False,Zone Name Not Found,False
+451026,,True,Darkness Comes,1097742,3 seconds,False,False,211087,Speaker Shadowcrown,14971,,True,Zone Name Not Found,False
+438473,,True,Gossamer Onslaught,237431,4 seconds,False,False,213179,Avanoxx,15093,,True,Zone Name Not Found,False
+1238782,,True,Earthshattering Spear,451165,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+438618,,True,Venomous Spit,136016,1.5 seconds,False,False,214840,Engorged Crawler,14979,,True,Zone Name Not Found,False
+461487,,True,Cultivated Poisons,5764924,1 second,False,False,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+468815,,True,Gigazap,1370984,Instant,False,True,226404,Geezle Gigazap,15452,,True,Zone Name Not Found,False
+205523,,True,Blackout Kick,574575,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+108270,,True,Stone Bulwark Totem,538572,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+438476,,True,Alerting Shrill,252188,1.5 seconds,False,False,213179,Avanoxx,15093,,True,Zone Name Not Found,False
+326438,,True,Sin Quake,136025,Instant,False,True,164557,Shard of Halkias,12831,,True,Zone Name Not Found,False
+446368,,True,Sacrificial Pyre,236249,3 seconds,False,False,207939,Baron Braunpyke,14954,,True,Zone Name Not Found,False
+357509,,True,Wild Thrash,1033474,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+326794,,True,Dark Communion,3528308,1.5 seconds,False,False,167876,Inquisitor Sigar,12831,,True,Zone Name Not Found,False
+328791,,True,Ritual of Woe,237536,3 seconds,False,False,164218,Lord Chamberlain,12831,,True,Zone Name Not Found,False
+326440,,True,Sin Quake,136025,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+348451,,True,Bypass Code: Morke,1323037,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+1236693,,True,Shadowy Dissolution,4914666,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+372610,,True,Skyward Ascent,4640498,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+451102,,True,Shadowy Decay,633004,2 seconds,False,False,211261,Ascendant Vis'coxria,-1,,False,Zone Name Not Found,False
+423121,,True,Hammer of Purity,236253,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+1221483,,True,Arcing Energy,1041233,1.5 seconds,False,False,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+288229,,True,Set Keystone Level: 12,136243,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+323126,,True,Telekinetic Collision,236305,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+1221533,,True,Erratic Ritual,451167,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+1235809,,True,Stone Watcher,3852566,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+351086,,True,Power Overwhelming,1033914,Instant,False,True,177269,So'leah,13577,,True,Zone Name Not Found,False
+1235766,,True,Mortal Strike,3486356,2 seconds,False,False,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+424423,,True,Lunging Strike,135134,2.5 seconds,False,False,211291,Sergeant Shaynemail,14954,,True,Zone Name Not Found,False
+355577,,True,Crackle,839979,2.5 seconds,False,False,178171,Stormforged Guardian,13577,,True,Zone Name Not Found,False
+424431,,True,Holy Radiance,236252,2 seconds,False,False,211290,Elaena Emberlanz,14954,,True,Zone Name Not Found,False
+350101,,True,Chains of Damnation,463560,2.5 seconds,False,False,176705,Venza Goldfuse,13577,,True,Zone Name Not Found,False
+451032,,True,Darkness Comes,1097742,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+326849,,True,Dispersed Sin,3528310,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+450860,,True,Dark Orb,136210,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+355581,,True,Crackle,839979,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+127801,,True,Composting,134012,Instant,False,True,65310,Turnip Punching Bag,-1,,False,Zone Name Not Found,False
+85948,,True,Festering Strike,879926,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+448888,,True,Erosive Spray,5764922,1.5 seconds,False,False,213937,Rasha'nan,-1,,False,Zone Name Not Found,False
+448213,,True,Expel Webs,5764927,2 seconds,False,False,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+466188,,True,Thunder Punch,839974,Instant,False,True,226404,Geezle Gigazap,15452,,True,Zone Name Not Found,False
+434284,,True,Burrow Charge,5260435,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+473220,,True,Sonic Boom,6238558,3 seconds,False,False,226398,Big M.O.M.M.A.,15452,,True,Zone Name Not Found,False
+453583,,True,Charge,132337,Instant,False,True,216337,"Bloodworker"",""Off-Duty Bloodworker",-1,,False,Zone Name Not Found,False
+434119,,True,Spinneret's Websnap,5764931,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+434407,,True,Rolling Acid,5764925,3 seconds,False,False,213937,Rasha'nan,-1,,False,Zone Name Not Found,False
+465051,,True,Xal'atath's Bargain: Devour,5927657,4 seconds,False,False,230937,Xal'atath,-1,,False,Zone Name Not Found,False
+355889,,True,Hard Light Baton,3894441,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+346980,,True,Empowered Defense,236254,3 seconds,False,False,176551,Vault Purifier,13577,,True,Zone Name Not Found,False
+426734,,True,Burning Shadows,136181,2 seconds,False,False,211087,Speaker Shadowcrown,14971,,True,Zone Name Not Found,False
+473719,,True,Kinetic Explosive Gel,132386,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+315341,,True,Between the Eyes,135610,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+1237071,,True,Stone Fist,366938,3 seconds,False,False,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+1222183,,True,Farstalker's Leap,236171,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+424621,,True,Brutal Smash,136025,4.5 seconds,False,False,211291,Sergeant Shaynemail,14954,,True,Zone Name Not Found,False
+468647,,True,Leaping Spark,252174,Instant,False,True,232690,Leaping Spark,-1,,False,Zone Name Not Found,False
+1236973,,True,Erupting Torment,3528311,3.5 seconds,False,False,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+8042,,True,Earth Shock,136026,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+77575,,True,Outbreak,348565,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+474337,,True,Shreddation,134427,3 seconds,False,False,230740,Shreddinator 3000,15452,,True,Zone Name Not Found,False
+1216611,,True,Battery Discharge,132488,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+427002,,True,Terrifying Slam,1508516,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+346876,,True,Shearing Swings,970853,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+224729,,True,Bursting Shot,1376038,Instant,False,True,68,Stormwind City Guard,-1,,False,Zone Name Not Found,False
+1236964,,True,Erupting Torment,3528311,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+326441,,True,Sin Quake,136025,1.5 seconds,False,False,164557,Shard of Halkias,12831,,True,Zone Name Not Found,False
+1217381,,True,Engorge,3155460,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+326891,,True,Anguish,3528308,Instant,False,True,167876,Inquisitor Sigar,12831,,True,Zone Name Not Found,False
+346297,,True,Unstable Explosion,1044088,Instant,False,True,186159,Unstable Goods,13577,,True,Zone Name Not Found,False
+346961,,True,Purging Field,135903,Instant,False,True,175663,Hylbrande,13577,,True,Zone Name Not Found,False
+974,,True,Earth Shield,136089,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+348276,,True,Arming,3610506,Instant,False,True,176438,Arm Left,-1,,False,Zone Name Not Found,False
+372608,,True,Surge Forward,4640490,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+27827,,False,Name Not Found,-1,Cast Time Not Found,False,False,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+1239281,,True,Warp Strike,135736,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+116888,,True,Shroud of Purgatory,134430,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+464294,,True,Weapons Stockpile Explosion,986484,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+472755,,True,Shrapnel,2115301,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+119381,,True,Leg Sweep,642414,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+473351,,True,Electrocrush,252174,1.5 seconds,False,False,226398,Big M.O.M.M.A.,15452,,True,Zone Name Not Found,False
+351646,,True,Hyperlight Nova,4037124,3.5 seconds,False,False,177269,So'leah,13577,,True,Zone Name Not Found,False
+426736,,True,Shadow Shroud,457655,Instant,False,True,211087,Speaker Shadowcrown,14971,,True,Zone Name Not Found,False
+434655,,True,Arathi Bombs,2115301,Instant,False,True,213937,Rasha'nan,14971,,True,Zone Name Not Found,False
+463058,,True,Bloodthirsty Cackle,132117,2.5 seconds,False,False,229252,Darkfuse Hyena,15452,,True,Zone Name Not Found,False
+356001,,True,Beam Splicer,4037119,1.5 seconds,False,False,179954,Beam Splicer,13577,,True,Zone Name Not Found,False
+468680,,True,Crabsplosion,5874196,Instant,False,True,231497,Bombshell Crab,15452,,True,Zone Name Not Found,False
+355900,,True,Disruption Grenade,4037124,500 milliseconds,False,False,177807,Customs Security,13577,,True,Zone Name Not Found,False
+346957,,True,Purged by Fire,612968,3 seconds,False,False,176126,Purged by Fire Stalker,-1,,False,Zone Name Not Found,False
+357238,,True,Wandering Pulsar,1717106,1.5 seconds,False,False,180429,Adorned Starseer,13577,,True,Zone Name Not Found,False
+349999,,True,Anima Detonation,3528288,Instant,False,True,176555,Achillite,13577,,True,Zone Name Not Found,False
+424426,,True,Lunging Strike,135134,Instant,False,True,211291,Sergeant Shaynemail,14954,,True,Zone Name Not Found,False
+431309,,True,Ensnaring Shadows,615100,2.5 seconds,False,False,213892,Nightfall Shadowmage,-1,,False,Zone Name Not Found,False
+465820,,True,Vicious Chomp,462994,1.5 seconds,False,False,227145,Waterworks Crocolisk,15452,,True,Zone Name Not Found,False
+447439,,True,Savage Mauling,5689901,Channeled,True,False,207946,Captain Dailcry,14954,,True,Zone Name Not Found,False
+461904,,True,Cosmic Ascension,5976939,6.5 seconds,False,False,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+347822,,True,Mail Shoot,1506462,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+325701,,True,Siphon Life,132096,Channeled,True,False,165529,Depraved Collector,12831,,True,Zone Name Not Found,False
+1225174,,True,Ceremonial Dagger,457655,5 seconds,False,False,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+438827,,True,Poisonous Cloud,132108,Instant,False,True,217533,Atik,-1,,False,Zone Name Not Found,False
+438877,,True,Call of the Brood,2027945,1.5 seconds,False,False,218324,Nakt,14979,,True,Zone Name Not Found,False
+460393,,True,Shoot,236201,1.5 seconds,False,False,228424,Darkfuse Mechadrone,15452,,True,Zone Name Not Found,False
+1222356,,True,Warp,135736,3 seconds,False,False,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+357243,,True,Pulse,4037124,1.5 seconds,False,False,180433,Wandering Pulsar,13577,,True,Zone Name Not Found,False
+1245579,,True,Shuri,1041235,2 seconds,False,False,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+451099,,True,Entwining Threads,5764926,1 second,False,False,213932,Sureki Militant,-1,,False,Zone Name Not Found,False
+460965,,True,Barreling Charge,4667427,Instant,False,True,226402,Bront,15452,,True,Zone Name Not Found,False
+465128,,True,Wind Up,2437249,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+468813,,True,Gigazap,1370984,3 seconds,False,False,226404,Geezle Gigazap,15452,,True,Zone Name Not Found,False
+423547,,True,Inner Fire,5764903,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+123040,,True,Mindbender,136214,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+8122,,True,Psychic Scream,136184,Instant,False,True,225672,Shadow,-1,,False,Zone Name Not Found,False
+1248211,,True,Phase Slash,1373907,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+468672,,True,Pinch,1508491,1 second,False,False,231497,Bombshell Crab,15452,,True,Zone Name Not Found,False
+423416,,True,Potion of Withering Dreams,5088843,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+452127,,True,Animate Shadows,1500911,1.5 seconds,False,False,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+427469,,True,Fireball,135812,2.5 seconds,False,False,206698,Fanatical Conjuror,14954,,True,Zone Name Not Found,False
+471585,,True,Mobilize Mechadrones,132241,2 seconds,False,False,226398,Big M.O.M.M.A.,15452,,True,Zone Name Not Found,False
+1242006,,True,Echoes of Fate,136096,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+357827,,True,Frantic Rip,135853,Instant,False,True,180567,Frenzied Nightclaw,13577,,True,Zone Name Not Found,False
+460135,,True,Dark Scars,132095,Instant,False,True,211263,Deathscreamer Iken'tak,14971,,True,Zone Name Not Found,False
+326829,,True,Wicked Bolt,876915,2 seconds,False,False,167876,Inquisitor Sigar,12831,,True,Zone Name Not Found,False
+1241785,,True,Tainted Blood,1035037,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+346742,,True,Fan Mail,413580,2 seconds,False,False,175646,P.O.S.T. Master,13577,,True,Zone Name Not Found,False
+433443,,True,Impale,1418495,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+432130,,True,Erupting Webs,237431,3 seconds,False,False,215407,Ki'katal the Harvester,15093,,True,Zone Name Not Found,False
+435165,,True,Blazing Strike,135891,2.5 seconds,False,False,217658,Sir Braunpyke,14954,,True,Zone Name Not Found,False
+319703,,True,Blood Torrent,1394887,Instant,False,True,164185,Echelon,12831,,True,Zone Name Not Found,False
+355473,,True,Shock Mines,4037125,1 second,False,False,179821,Commander Zo'far,13577,,True,Zone Name Not Found,False
+427635,,True,Grievous Rip,132127,Instant,False,True,206699,War Lynx,14954,,True,Zone Name Not Found,False
+451098,,True,Tacky Nova,5764931,4 seconds,False,False,213932,Sureki Militant,-1,,False,Zone Name Not Found,False
+424414,,True,Pierce Armor,5501775,2.5 seconds,False,False,207946,Captain Dailcry,14954,,True,Zone Name Not Found,False
+472454,,True,Doom Storm,1035038,Instant,False,True,228424,Darkfuse Mechadrone,15452,,True,Zone Name Not Found,False
+448887,,True,Erosive Spray,5764922,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+465120,,True,Wind Up,841383,2 seconds,False,False,231014,Loaderbot,15452,,True,Zone Name Not Found,False
+347842,,True,Pounce,1817485,Instant,False,True,175677,Smuggled Creature,13577,,True,Zone Name Not Found,False
+325797,,True,Rapid Fire,1081719,Channeled,True,False,164562,Depraved Houndmaster,12831,,True,Zone Name Not Found,False
+1231497,,True,Overgorged,3155460,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+1220497,,True,Arcane Overload,429383,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+350037,,True,Exposed Anima Core,3528288,Instant,False,True,176555,Achillite,13577,,True,Zone Name Not Found,False
+355234,,True,Volatile Pufferfish,970833,Instant,False,True,178142,Murkbrine Fishmancer,13577,,True,Zone Name Not Found,False
+356942,,True,Lockdown,4037121,1.5 seconds,False,False,179837,Tracker Zo'korss,13577,,True,Zone Name Not Found,False
+1229510,,True,Arcing Zap,429383,3.5 seconds,False,False,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+323142,,True,Telekinetic Toss,136243,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+1245634,,True,Divide,2065615,2 seconds,False,False,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+426735,,True,Burning Shadows,136181,Instant,False,True,211087,Speaker Shadowcrown,14971,,True,Zone Name Not Found,False
+356929,,True,Chain of Custody,135834,2 seconds,False,False,179837,Tracker Zo'korss,13577,,True,Zone Name Not Found,False
+451117,,True,Terrifying Slam,1508516,3 seconds,False,False,211262,Ixkreten the Unbreakable,-1,,False,Zone Name Not Found,False
+347370,,True,Cannon Barrage,252185,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+350885,,True,Hyperlight Jolt,3528282,Instant,False,True,177269,So'leah,13577,,True,Zone Name Not Found,False
+358267,,True,Hover,4622463,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+350921,,True,Crowd Control,3931763,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+1221191,,True,Gluttonous Miasma,1390943,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+431494,,True,Black Edge,236296,3 seconds,False,False,213934,Nightfall Tactician,-1,,False,Zone Name Not Found,False
+326879,,True,Ankle Bites,132292,Instant,False,True,167610,Stonefiend Anklebiter,12831,,True,Zone Name Not Found,False
+207289,,True,Unholy Assault,136224,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+1239691,,True,Dread of the Unknown,458727,Channeled,True,False,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+1248699,,True,Consume Spirit,3154546,2 seconds,False,False,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+431333,,True,Tormenting Beam,1022950,2 seconds,False,False,213893,Nightfall Darkcaster,-1,,False,Zone Name Not Found,False
+1219535,,True,Rift Claws,237524,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+469796,,True,EZ-Thro Dynamite III,4203197,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+355132,,True,Invigorating Fish Stick,643285,Instant,False,True,179733,Invigorating Fish Stick,13577,,True,Zone Name Not Found,False
+323743,,True,Spectral Procession,796703,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+473713,,True,Kinetic Explosive Gel,132386,Instant,False,True,226403,Keeza Quickfuse,15452,,True,Zone Name Not Found,False
+115181,,True,Breath of Fire,615339,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+347949,,True,Interrogation,132284,Channeled,True,False,175616,Zo'phex,13577,,True,Zone Name Not Found,False
+207311,,True,Clawing Shadows,615099,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+1217439,,True,Toxic Regurgitation,135786,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+1220890,,True,Engorge,3155460,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+427007,,True,Terrifying Slam,1508516,Instant,False,True,211089,Anub'ikkaj,14971,,True,Zone Name Not Found,False
+322945,,True,Heave Debris,1500971,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+431637,,True,Umbral Rush,132303,1.5 seconds,False,False,213895,Nightfall Shadowalker,-1,,False,Zone Name Not Found,False
+121253,,True,Keg Smash,594274,Instant,False,True,60491,Sha of Anger,5841,,True,Zone Name Not Found,False
+353836,,True,Hyperlight Bolt,4037123,2 seconds,False,False,176565,Disruptive Patron,13577,,True,Zone Name Not Found,False
+426787,,True,Shadowy Decay,633004,2 seconds,False,False,211089,Anub'ikkaj,14971,,True,Zone Name Not Found,False
+349498,,True,Gluttonous Feast,3528275,1.5 seconds,False,False,176556,Alcruux,13577,,True,Zone Name Not Found,False
+449335,,True,Encroaching Shadows,136194,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+347841,,True,Pounce,132133,Instant,False,True,175677,Smuggled Creature,13577,,True,Zone Name Not Found,False
+1237602,,True,Gushing Wound,3565724,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+438495,,True,Alerting Shrill,252188,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+325509,,True,Halkias's Anima,1003591,Instant,False,True,164557,Shard of Halkias,12831,,True,Zone Name Not Found,False
+1220390,,True,Warp Strike,135736,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+433781,,True,Ceaseless Swarm,538518,Instant,False,True,215405,Anub'zekt,15093,,True,Zone Name Not Found,False
+1221152,,True,Gorging Smash,135784,1.75 seconds,False,False,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+319941,,True,Stone Shattering Leap,1016245,5 seconds,False,False,164185,Echelon,12831,,True,Zone Name Not Found,False
+355439,,True,Suppression Spark,4037124,Instant,False,True,176563,Zo'gron,13577,,True,Zone Name Not Found,False
+465830,,True,Warp Blood,460857,Instant,False,True,230748,Darkfuse Bloodwarper,15452,,True,Zone Name Not Found,False
+356812,,True,Frustrated Disjoint,132345,1 second,False,False,180286,Leader Xy'viler,13577,,True,Zone Name Not Found,False
+355476,,True,Shock Mines,4037125,Instant,False,True,179821,Commander Zo'far,13577,,True,Zone Name Not Found,False
+443461,,True,Barrel of Fireworks,134284,Instant,False,True,221183,Barrel of Fireworks,-1,,False,Zone Name Not Found,False
+338013,,True,Anima Fountain,1392546,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+1240811,,True,Energized Slam,4037123,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+423019,,True,Castigator's Detonation,5764905,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+438825,,True,Poisonous Cloud,132108,Instant,False,True,217533,Atik,15093,,True,Zone Name Not Found,False
+432868,,True,Bulwark of the Weak,5764927,Instant,False,True,216338,Hulking Bloodguard,-1,,False,Zone Name Not Found,False
+1225218,,True,Dread of the Unknown,458727,4 seconds,False,False,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+429091,,True,Inner Fire,237539,2 seconds,False,False,207940,Prioress Murrpray,14954,,True,Zone Name Not Found,False
+453173,,True,Collapsing Night,132886,Instant,False,True,211087,Speaker Shadowcrown,14971,,True,Zone Name Not Found,False
+326638,,True,Hurl Glaive,3150768,Instant,False,True,167611,Stoneborn Eviscerator,12831,,True,Zone Name Not Found,False
+353312,,True,Purifying Burst,236246,2 seconds,False,False,175663,Hylbrande,13577,,True,Zone Name Not Found,False
+433895,,True,Vampiric Strike,5927645,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+1231234,,True,Protected Core,132860,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+160772,,True,Bandage,135915,Channeled,True,False,225601,"Mereldar Citizen"",""Webbed Victim",14971,,True,Zone Name Not Found,False
+472338,,True,Surveyed Ground,237588,Instant,False,True,229686,Venture Co. Surveyor,15452,,True,Zone Name Not Found,False
+448248,,True,Revolting Volley,5094557,3 seconds,False,False,223253,Bloodstained Webmage,15093,,True,Zone Name Not Found,False
+351070,,True,Venting Concussion,3528283,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+1226165,,True,Volatile Ejection,342917,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+323853,,True,Pulse from Beyond,511651,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+355048,,True,Shellcracker,132340,1.5 seconds,False,False,178139,Murkbrine Shellcrusher,13577,,True,Zone Name Not Found,False
+357229,,True,Chronolight Enhancer,4037120,3 seconds,False,False,180348,Cartel Muscle,13577,,True,Zone Name Not Found,False
+446649,,True,Castigator's Shield,135874,1 second,False,False,207939,Baron Braunpyke,14954,,True,Zone Name Not Found,False
+1221532,,True,Erratic Ritual,451167,2.5 seconds,False,False,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+451115,,True,Terrifying Slam,1508516,Instant,False,True,211262,Ixkreten the Unbreakable,14971,,True,Zone Name Not Found,False
+471736,,True,Jettison Kelp,960692,Channeled,True,False,231223,Disturbed Kelp,15452,,True,Zone Name Not Found,False
+325535,,True,Shoot,386406,2 seconds,False,False,164562,Depraved Houndmaster,12831,,True,Zone Name Not Found,False
+465827,,True,Warp Blood,460857,2.5 seconds,False,False,230748,Darkfuse Bloodwarper,15452,,True,Zone Name Not Found,False
+355641,,True,Scintillate,4037119,2.5 seconds,False,False,179841,Veteran Sparkcaster,13577,,True,Zone Name Not Found,False
+8004,,True,Healing Surge,136044,1.5 seconds,False,False,-1,Demolitionist Legoso,3525,,True,Zone Name Not Found,False
+347721,,True,Open Cage,348554,3 seconds,False,False,176396,Defective Sorter,13577,,True,Zone Name Not Found,False
+1240912,,True,Pierce,3894441,1.5 seconds,False,False,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+432132,,True,Erupting Webs,237431,Instant,False,True,215407,Ki'katal the Harvester,15093,,True,Zone Name Not Found,False
+355479,,True,Lethal Force,4037119,750 milliseconds,False,False,179821,Commander Zo'far,13577,,True,Zone Name Not Found,False
+361509,,True,Living Flame,4622464,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+460158,,True,Jumpstart,132489,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+438956,,True,Acid Pool,5764921,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+462771,,True,Surveying Beam,236216,1.5 seconds,False,False,229686,Venture Co. Surveyor,15452,,True,Zone Name Not Found,False
+338003,,True,Wicked Bolt,876915,2.5 seconds,False,False,165414,Depraved Obliterator,12831,,True,Zone Name Not Found,False
+427342,,True,Defend,132110,Channeled,True,False,206705,Arathi Footman,14954,,True,Zone Name Not Found,False
+347636,,True,Energy Star,134427,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+432520,,True,Umbral Barrier,135945,2.5 seconds,False,False,213893,Nightfall Darkcaster,-1,,False,Zone Name Not Found,False
+473114,,True,Mudslide,1385913,3.5 seconds,False,False,226396,Swampface,15452,,True,Zone Name Not Found,False
+453140,,True,Collapsing Night,132886,1.5 seconds,False,False,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+427897,,True,Heat Wave,524794,2.5 seconds,False,False,212831,Forge Master Damian,14954,,True,Zone Name Not Found,False
+433821,,True,Dashing Strike,2103876,Instant,False,True,216365,Winged Carrier,-1,,False,Zone Name Not Found,False
+61295,,True,Riptide,252995,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+316072,,True,Throw Muck,1500940,2 seconds,False,False,156064,Darkhaven Dredger,10413,,True,Zone Name Not Found,False
+351098,,True,Energy Fragmentation,3528289,Instant,False,True,177821,Progenitor Relic,-1,,False,Zone Name Not Found,False
+450854,,True,Dark Orb,136210,4 seconds,False,False,211263,Deathscreamer Iken'tak,-1,,False,Zone Name Not Found,False
+424421,,True,Fireball,135812,2.5 seconds,False,False,211289,Taener Duelmal,14954,,True,Zone Name Not Found,False
+355147,,True,Fish Invigoration,533422,Instant,False,True,178133,Murkbrine Wavejumper,13577,,True,Zone Name Not Found,False
+351101,,True,Energy Fragmentation,3528289,Instant,False,True,177269,So'leah,13577,,True,Zone Name Not Found,False
+51505,,True,Lava Burst,237582,2 seconds,False,False,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+1241694,,True,Locust Swarm,136128,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+427629,,True,Shoot,304333,2 seconds,False,False,206694,Fervent Sharpshooter,14954,,True,Zone Name Not Found,False
+465682,,True,Surprise Inspection,132308,2.5 seconds,False,False,231385,Darkfuse Inspector,15452,,True,Zone Name Not Found,False
+427951,,True,Seal of Flame,236289,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+468727,,True,Seaforium Charge,133710,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+434113,,True,Spinneret's Strands,5764929,Instant,False,True,217188,Spinnerette's Strands,-1,,False,Zone Name Not Found,False
+349934,,True,Flagellation Protocol,3528286,1 second,False,False,176555,Achillite,13577,,True,Zone Name Not Found,False
+346741,,True,Fan Mail,413580,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+346877,,True,Shearing Swings,970853,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+1248701,,True,Consume Spirit,3154546,Channeled,True,False,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+50464,,True,Nourish,236162,2 seconds,False,False,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+428151,,True,Reflective Shield,458412,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+435012,,True,Impale,1418495,2.5 seconds,False,False,215405,Anub'zekt,15093,,True,Zone Name Not Found,False
+1236514,,True,Unstable Anima,3528309,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+432117,,True,Cosmic Singularity,4914670,7 seconds,False,False,215407,Ki'katal the Harvester,15093,,True,Zone Name Not Found,False
+451104,,True,Bursting Cocoon,5764932,Instant,False,True,210966,"Sureki Webmage"",""Abandoned Loot",14971,,True,Zone Name Not Found,False
+1226444,,True,Wounded Fate,463286,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+325799,,True,Rapid Fire,1081719,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+324044,,True,Refracted Sinlight,537468,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+1241032,,True,Final Warning,4037119,20 seconds,False,False,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+453458,,True,Caltrops,461122,Instant,False,True,206694,Fervent Sharpshooter,14954,,True,Zone Name Not Found,False
+1231224,,True,Arcane Slash,135739,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+10060,,True,Power Infusion,135939,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+453286,,True,Set Fire to the Pain,135801,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+109132,,True,Roll,574574,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+427597,,True,Seal of Light's Fury,135969,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+1240821,,True,Energized Slam,4037123,3 seconds,False,False,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+355423,,True,Exploding Pufferfish,970833,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+424460,,True,Ember Storm,136186,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+346959,,True,Purged by Fire,612968,Channeled,True,False,175667,Titanic Defense Turret,-1,,False,Zone Name Not Found,False
+428150,,True,Reflective Shield,458412,2 seconds,False,False,212827,High Priest Aemya,14954,,True,Zone Name Not Found,False
+1217446,,True,Digestive Spittle,576310,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+355477,,True,Power Kick,1724000,1.25 seconds,False,False,179821,Commander Zo'far,13577,,True,Zone Name Not Found,False
+1233112,,True,Devour,252996,Channeled,True,False,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+1221190,,True,Gluttonous Miasma,1390943,3 seconds,False,False,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+1240099,,True,Time Bomb,5199633,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+438957,,True,Acid Pools,5764921,Instant,False,True,213937,Rasha'nan,14971,,True,Zone Name Not Found,False
+423664,,True,Embrace the Light,135905,1.5 seconds,False,False,207940,Prioress Murrpray,14954,,True,Zone Name Not Found,False
+444546,,True,Purify,1360764,3 seconds,False,False,207940,Prioress Murrpray,14954,,True,Zone Name Not Found,False
+351119,,True,Shuriken Blitz,236174,3.25 seconds,False,False,177716,So' Cartel Assassin,13577,,True,Zone Name Not Found,False
+1219700,,True,Arcane Blitz,135735,4 seconds,False,False,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+468631,,True,Harpoon,1911518,2.5 seconds,False,False,231496,Venture Co. Diver,15452,,True,Zone Name Not Found,False
+350875,,True,Hyperlight Jolt,3528282,6 seconds,False,False,177269,So'leah,13577,,True,Zone Name Not Found,False
+1213803,,True,Nailed,986493,Instant,False,True,229251,Venture Co. Architect,15452,,True,Zone Name Not Found,False
+350468,,True,Purification,3528285,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+108271,,True,Astral Shift,538565,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+18562,,True,Swiftmend,134914,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+1214468,,True,Trickshot,1035040,4 seconds,False,False,229069,Mechadrone Sniper,15452,,True,Zone Name Not Found,False
+468723,,True,Shock Water,136050,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+368661,,True,Sword Toss,135369,Instant,False,True,179386,Corsair Officer,13577,,True,Zone Name Not Found,False
+468841,,True,Leaping Sparks,252174,4 seconds,False,False,226404,Geezle Gigazap,15452,,True,Zone Name Not Found,False
+350045,,True,Corrosive Anima,3528287,Instant,False,True,176555,Achillite,13577,,True,Zone Name Not Found,False
+43265,,True,Death and Decay,136144,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+427360,,True,Shattered Defenses,132363,Instant,False,True,206705,Arathi Footman,14954,,True,Zone Name Not Found,False
+359028,,True,Security Slam,3922561,1.5 seconds,False,False,176563,Zo'gron,13577,,True,Zone Name Not Found,False
+423051,,True,Burning Light,535593,3 seconds,False,False,207939,Baron Braunpyke,14954,,True,Zone Name Not Found,False
+1227900,,True,Warp Strike,135736,4 seconds,False,False,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+348128,,True,Fully Armed,133860,1.5 seconds,False,False,175616,Zo'phex,13577,,True,Zone Name Not Found,False
+431303,,True,Night Bolt,631519,2 seconds,False,False,213885,Nightfall Dark Architect,-1,,False,Zone Name Not Found,False
+1214801,,True,Maximum Distortion,6238561,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+448787,,True,Purification,5764902,2 seconds,False,False,206710,Lightspawn,14954,,True,Zone Name Not Found,False
+427950,,True,Seal of Flame,236289,2.5 seconds,False,False,212831,Forge Master Damian,14954,,True,Zone Name Not Found,False
+328206,,True,Curse of Stone,516666,1.5 seconds,False,False,164185,Echelon,12831,,True,Zone Name Not Found,False
+346967,,True,Money Order,370211,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+451116,,True,Terrifying Slam,1508516,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+448215,,True,Expel Webs,5764927,Instant,False,True,213937,Rasha'nan,14971,,True,Zone Name Not Found,False
+347149,,True,Infinite Breath,1029007,2 seconds,False,False,175546,Timecap'n Hooktail,13577,,True,Zone Name Not Found,False
+305483,,True,Lightning Lasso,1385911,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+352796,,True,Proxy Strike,3922561,3 seconds,False,False,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+461507,,True,Cultivated Poisons,5764924,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+433731,,True,Burrow Charge,1418495,Instant,False,True,215405,Anub'zekt,15093,,True,Zone Name Not Found,False
+472794,,True,Razorchoke Vines,134197,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+131347,,True,Glide,1305157,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+1227918,,True,Warp Strike,135736,4 seconds,False,False,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+87023,,True,Cauterize,252268,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+346960,,True,Purged by Fire,612968,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+473224,,True,Sonic Boom,6238558,Instant,False,True,226398,Big M.O.M.M.A.,15452,,True,Zone Name Not Found,False
+353706,,True,Rowdy,136146,1.5 seconds,False,False,176562,Brawling Patron,13577,,True,Zone Name Not Found,False
+427356,,True,Greater Heal,135913,3.5 seconds,False,False,206697,Devout Priest,14954,,True,Zone Name Not Found,False
+1225162,,True,Ceremonial Dagger,457655,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+432606,,True,Black Hail,237244,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+448791,,True,Sacred Toll,3565448,2.5 seconds,False,False,206704,Ardent Paladin,14954,,True,Zone Name Not Found,False
+1225221,,True,Dread of the Unknown,458727,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+329299,,True,Disengage,136243,Instant,False,True,157464,Malevolent Stonekeeper,10413,,True,Zone Name Not Found,False
+451112,,True,Tactician's Rage,5764928,Instant,False,True,213934,Nightfall Tactician,-1,,False,Zone Name Not Found,False
+1232802,,True,Araz's Ritual Forge,7137585,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+205448,,True,Void Bolt,1035040,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+323852,,True,Pulse from Beyond,511651,Instant,False,True,165913,Ghastly Parishioner,12831,,True,Zone Name Not Found,False
+446776,,True,Pounce,5689902,Instant,False,True,206699,War Lynx,14954,,True,Zone Name Not Found,False
+326846,,True,Disperse Sin,136243,Instant,False,True,167876,Inquisitor Sigar,12831,,True,Zone Name Not Found,False
+433766,,True,Eye of the Swarm,136224,7 seconds,False,False,215405,Anub'zekt,15093,,True,Zone Name Not Found,False
+473051,,True,Rushing Tide,971078,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+355981,,True,Earthshaking Leap,136243,Instant,False,True,176556,Alcruux,13577,,True,Zone Name Not Found,False
+448492,,True,Thunderclap,132326,1 second,False,False,212826,Guard Captain Suleyman,14954,,True,Zone Name Not Found,False
+427472,,True,Flamestrike,135826,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+355071,,True,Keeper's Focus,1526019,Instant,False,True,176551,Vault Purifier,13577,,True,Zone Name Not Found,False
+1235121,,True,Flee!,136183,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+47541,,True,Death Coil,136145,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+438599,,True,Bleeding Jab,136168,Instant,False,True,216341,Jabbing Flyer,14979,,True,Zone Name Not Found,False
+1227745,,True,Toxic Regurgitation,135786,5 seconds,False,False,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+357799,,True,Bounced!,132219,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+1242681,,True,Shadowblades,132304,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+466124,,True,Turbo Charge,4548867,Instant,False,True,226404,Geezle Gigazap,15452,,True,Zone Name Not Found,False
+355832,,True,Quickblade,236273,Instant,False,True,179893,Cartel Skulker,13577,,True,Zone Name Not Found,False
+469478,,True,Sludge Claws,1392563,2.5 seconds,False,False,226396,Swampface,15452,,True,Zone Name Not Found,False
+448515,,True,Divine Judgment,135959,2.5 seconds,False,False,211290,Elaena Emberlanz,14954,,True,Zone Name Not Found,False
+428916,,True,Inner Fire,237539,2 seconds,False,False,206697,Devout Priest,14954,,True,Zone Name Not Found,False
+1219457,,True,Incorporeal,136177,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+348350,,True,Interrogation,841383,1.5 seconds,False,False,175616,Zo'phex,13577,,True,Zone Name Not Found,False
+444743,,True,Fireball Volley,135808,3.5 seconds,False,False,221760,Risen Mage,14954,,True,Zone Name Not Found,False
+1236130,,True,Binding Javelin,132218,3 seconds,False,False,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+323437,,True,Stigma of Pride,538039,1.5 seconds,False,False,164218,Lord Chamberlain,12831,,True,Zone Name Not Found,False
+1214780,,True,Maximum Distortion,6238561,4 seconds,False,False,228424,Darkfuse Mechadrone,15452,,True,Zone Name Not Found,False
+361029,,True,Time Dilation,4622478,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+326426,,True,Thrash,451165,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+431972,,True,Flask of Tempered Swiftness,5931172,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+1216039,,True,R.P.G.G.,133032,2.5 seconds,False,False,229212,Darkfuse Demolitionist,15452,,True,Zone Name Not Found,False
+460602,,True,Quick Shot,236201,1.5 seconds,False,False,226403,Keeza Quickfuse,15452,,True,Zone Name Not Found,False
+446615,,True,Usher Reinforcements,1445238,2 seconds,False,False,213885,Nightfall Dark Architect,-1,,False,Zone Name Not Found,False
+427484,,True,Flamestrike,135826,3.5 seconds,False,False,206698,Fanatical Conjuror,14954,,True,Zone Name Not Found,False
+356011,,True,Beam Splicer,4037122,Instant,False,True,179954,Beam Splicer,-1,,False,Zone Name Not Found,False
+326450,,True,Loyal Beasts,458967,3 seconds,False,False,164562,Depraved Houndmaster,12831,,True,Zone Name Not Found,False
+426826,,True,Dark Orb,136210,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+473081,,True,Awaken the Swamp,1020380,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+350013,,True,Gluttonous Feast,3528278,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+438966,,True,Gossamer Onslaught,237431,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+438960,,True,Gossamer Onslaught,237431,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+145629,,True,Anti-Magic Zone,237510,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+469480,,True,Sludge Claws,1392563,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+355465,,True,Boulder Throw,135239,Instant,False,True,178165,Coastwalker Goliath,13577,,True,Zone Name Not Found,False
+353635,,True,Collapsing Star,4037125,2.5 seconds,False,False,177269,So'leah,13577,,True,Zone Name Not Found,False
+357260,,True,Unstable Rift,4037124,4 seconds,False,False,180431,Focused Ritualist,13577,,True,Zone Name Not Found,False
+347716,,True,Letter Opener,132297,1.5 seconds,False,False,176394,P.O.S.T. Worker,13577,,True,Zone Name Not Found,False
+1215504,,True,Kill-o-Block Barrier,136051,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+444296,,True,Impale,135128,Instant,False,True,206696,Arathi Knight,14954,,True,Zone Name Not Found,False
+1248209,,True,Phase Slash,1373907,1 second,False,False,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+466197,,True,Thunder Punch,839974,Instant,False,True,226404,Geezle Gigazap,15452,,True,Zone Name Not Found,False
+355638,,True,Quelling Strike,132307,Instant,False,True,179840,Market Peacekeeper,13577,,True,Zone Name Not Found,False
+323538,,True,Bolt of Power,1392546,1.5 seconds,False,False,165410,High Adjudicator Aleez,12831,,True,Zone Name Not Found,False
+346006,,True,Impound Contraband,132343,1 second,False,False,175616,Zo'phex,13577,,True,Zone Name Not Found,False
+355938,,True,Earthshaking Leap,136243,Instant,False,True,176556,Alcruux,13577,,True,Zone Name Not Found,False
+1245669,,True,Double Technique,132148,15 seconds,False,False,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+188196,,True,Lightning Bolt,136048,2.5 seconds,False,False,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+348447,,True,Bypass Code: Lys,1323038,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+468846,,True,Leaping Sparks,252174,Instant,False,True,226404,Geezle Gigazap,15452,,True,Zone Name Not Found,False
+424432,,True,Holy Radiance,236252,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+471733,,True,Restorative Algae,348566,2 seconds,False,False,231223,Disturbed Kelp,15452,,True,Zone Name Not Found,False
+474350,,True,Shreddation Sawblade,134427,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+424419,,True,Battle Cry,589118,2.5 seconds,False,False,207946,Captain Dailcry,14954,,True,Zone Name Not Found,False
+355642,,True,Hyperlight Salvo,4037123,1 second,False,False,179841,Veteran Sparkcaster,13577,,True,Zone Name Not Found,False
+355891,,True,Teleport,136075,Instant,False,True,177807,Customs Security,13577,,True,Zone Name Not Found,False
+356407,,True,Ancient Dread,136140,2 seconds,False,False,180091,Ancient Core Hound,13577,,True,Zone Name Not Found,False
+460867,,True,Big Bada BOOM!,133710,2 seconds,False,False,226403,Keeza Quickfuse,15452,,True,Zone Name Not Found,False
+351057,,True,Relocation,4038106,500 milliseconds,False,False,177269,So'leah,13577,,True,Zone Name Not Found,False
+433841,,True,Venom Volley,132108,2 seconds,False,False,216364,Blood Overseer,-1,,False,Zone Name Not Found,False
+100780,,True,Tiger Palm,606551,Instant,False,True,69791,"Fire Spirit"",""Bangari"",""Bloodtrance"",""Chüp"",""Dragore"",""Fungpu"",""Hikaru"",""Klatch"",""Murakk"",""Møønny"",""Pakalaru"",""Pomfrei"",""Ripto"",""Riverpanda"",""Tazarra"",""Uunknown"",""Velly"",""Wimplei"",""Öbara",-1,,False,Zone Name Not Found,False
+325700,,True,Collect Sins,571321,2 seconds,False,False,165529,Depraved Collector,12831,,True,Zone Name Not Found,False
+468726,,True,Plant Seaforium Charge,133710,2.5 seconds,False,False,231496,Venture Co. Diver,15452,,True,Zone Name Not Found,False
+473240,,True,Sonic Boom,6238559,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+425011,,True,Embrace the Light,135905,Channeled,True,False,210851,Eternal Flame,-1,,False,Zone Name Not Found,False
+358733,,True,Glide,4622484,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+364342,,True,Blessing of the Bronze,4622448,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+1239487,,True,Binding Javelin,132218,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+347814,,True,Mail Shoot,1506462,Instant,False,True,176396,Defective Sorter,13577,,True,Zone Name Not Found,False
+346329,,True,Spilled Liquids,576312,Instant,False,True,175796,Mailroom Portal,-1,,False,Zone Name Not Found,False
+462620,,True,Earthquake,451165,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+355584,,True,Charged Pulse,136099,3.5 seconds,False,False,178171,Stormforged Guardian,13577,,True,Zone Name Not Found,False
+424429,,True,Consecration,135926,2.75 seconds,False,False,206704,Ardent Paladin,14954,,True,Zone Name Not Found,False
+434096,,True,Sticky Webs,5764929,Instant,False,True,213937,Rasha'nan,14971,,True,Zone Name Not Found,False
+356843,,True,Brackish Bolt,1698701,2.5 seconds,False,False,179388,Hourglass Tidesage,13577,,True,Zone Name Not Found,False
+325879,,True,Curse of Obliteration,132094,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+347094,,True,Titanic Crash,236312,2 seconds,False,False,175663,Hylbrande,13577,,True,Zone Name Not Found,False
+424430,,True,Consecration,135926,Instant,False,True,206704,Ardent Paladin,14954,,True,Zone Name Not Found,False
+355306,,True,Rift Blast,3528282,3 seconds,False,False,179778,Rift Blast Portal,-1,,False,Zone Name Not Found,False
+1227250,,True,Phase Step,136189,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+462855,,True,Bound by Fate,442272,Instant,False,True,207946,Captain Dailcry,14954,,True,Zone Name Not Found,False
+347633,,True,Energy Blade,3755058,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+2645,,True,Ghost Wolf,136095,Instant,False,True,109448,Thrall,5844,,True,Zone Name Not Found,False
+453310,,True,Obsidian Beam,132851,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+116670,,True,Vivify,1360980,1.5 seconds,False,False,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+474388,,True,Flamethrower,4548850,Instant,False,True,230740,Shreddinator 3000,15452,,True,Zone Name Not Found,False
+1217653,,True,B.B.B.F.G.,451169,3.5 seconds,False,False,226403,Keeza Quickfuse,15452,,True,Zone Name Not Found,False
+355830,,True,Quickblade,236273,1 second,False,False,179893,Cartel Skulker,13577,,True,Zone Name Not Found,False
+357019,,True,Lightshard Retreat,4037122,Instant,False,True,180336,Cartel Wiseguy,13577,,True,Zone Name Not Found,False
+355903,,True,Disruption Grenade,4037124,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+347958,,True,Keeper's Protection,458412,Channeled,True,False,176551,Vault Purifier,13577,,True,Zone Name Not Found,False
+323236,,True,Unleashed Suffering,1035037,3 seconds,False,False,164218,Lord Chamberlain,12831,,True,Zone Name Not Found,False
+462859,,True,Pot Shot,5740012,2.5 seconds,False,False,206694,Fervent Sharpshooter,14954,,True,Zone Name Not Found,False
+1216894,,True,&quot;Remodeling&quot;,4203197,2.5 seconds,False,False,229251,Venture Co. Architect,15452,,True,Zone Name Not Found,False
+1236348,,True,Charged Slash,3889765,4 seconds,False,False,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+1247091,,True,Shrouded in Shadows,132331,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+453214,,True,Obsidian Beam,132851,Instant,False,True,211087,Speaker Shadowcrown,14971,,True,Zone Name Not Found,False
+1238780,,True,Earthshattering Spear,451165,3 seconds,False,False,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+436322,,True,Poison Bolt,136016,1.5 seconds,False,False,217533,Atik,-1,,False,Zone Name Not Found,False
+1218149,,True,Sacrificial Pyre,236249,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+438879,,True,Call of the Brood,2027945,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+463169,,True,EZ-Thro Dynamite III,4203197,2 seconds,False,False,229686,Venture Co. Surveyor,15452,,True,Zone Name Not Found,False
+328124,,True,Undying Stone,458241,Instant,False,True,164363,Undying Stonefiend,12831,,True,Zone Name Not Found,False
+355429,,True,Tidal Stomp,893779,2 seconds,False,False,178165,Coastwalker Goliath,13577,,True,Zone Name Not Found,False
+326389,,True,Blood Torrent,1394887,1.5 seconds,False,False,164185,Echelon,12831,,True,Zone Name Not Found,False
+352345,,True,Anchor Shot,1686581,3 seconds,False,False,176178,Hourglass Cannon,-1,,False,Zone Name Not Found,False
+431350,,True,Tormenting Eruption,132851,Instant,False,True,213885,Nightfall Dark Architect,14971,,True,Zone Name Not Found,False
+470039,,True,Razorchoke Vines,134197,Instant,False,True,226396,Swampface,15452,,True,Zone Name Not Found,False
+1213805,,True,Nailgun,986493,2 seconds,False,False,229251,Venture Co. Architect,15452,,True,Zone Name Not Found,False
+427601,,True,Burst of Light,525026,5 seconds,False,False,206710,Lightspawn,14954,,True,Zone Name Not Found,False
+424462,,True,Ember Storm,136186,1.5 seconds,False,False,211289,Taener Duelmal,14954,,True,Zone Name Not Found,False
+433845,,True,Erupting Webs,237431,3 seconds,False,False,216364,Blood Overseer,-1,,False,Zone Name Not Found,False
+190784,,True,Divine Steed,1360759,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+346844,,True,Alchemical Residue,1391773,Instant,False,True,175796,Mailroom Portal,-1,,False,Zone Name Not Found,False
+349801,,True,Grand Consumption,3528279,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+1237199,,True,Burrow Charge,5260435,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+349954,,True,Purification Protocol,3528285,1.5 seconds,False,False,176555,Achillite,13577,,True,Zone Name Not Found,False
+1219536,,True,Binding Javelin,132218,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+431659,,True,Shadow Bolt,136197,2 seconds,False,False,211591,Hevo'myk,14752,,True,Zone Name Not Found,False
+473690,,True,Kinetic Explosive Gel,132386,2 seconds,False,False,226403,Keeza Quickfuse,15452,,True,Zone Name Not Found,False
+459779,,True,Barreling Charge,4667427,3.5 seconds,False,False,226402,Bront,15452,,True,Zone Name Not Found,False
+346116,,True,Shearing Swings,970853,Channeled,True,False,175663,Hylbrande,13577,,True,Zone Name Not Found,False
+1240105,,True,Temporal Detonation,5764907,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+1249985,,True,Whispers of Fate,425955,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+460156,,True,Jumpstart,132489,1.5 seconds,False,False,226398,Big M.O.M.M.A.,15452,,True,Zone Name Not Found,False
+1219704,,True,Binding Javelin,132218,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+1236703,,True,Eternal Weave,1120185,5 seconds,False,False,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+1213695,,True,Earthcrusher,463566,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+345770,,True,Impound Contraband,1724003,Instant,False,True,175616,Zo'phex,13577,,True,Zone Name Not Found,False
+335338,,True,Ritual of Woe,237536,Instant,False,True,164218,Lord Chamberlain,12831,,True,Zone Name Not Found,False
+1238781,,True,Earthshattering Spear,451165,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+433843,,True,Erupting Webs,237431,Instant,False,True,216364,Blood Overseer,15093,,True,Zone Name Not Found,False
+1231494,,True,Overgorged Burst,3155460,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+382266,,True,Fire Breath,4622458,Channeled,True,False,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+465871,,True,Blood Blast,1392546,2.5 seconds,False,False,230748,Darkfuse Bloodwarper,15452,,True,Zone Name Not Found,False
+188389,,True,Flame Shock,135813,Instant,False,True,10813,Balnazzar,2017,,True,Zone Name Not Found,False
+462737,,True,Black Blood Wound,576312,Instant,False,True,228144,Darkfuse Soldier,15452,,True,Zone Name Not Found,False
+453250,,True,Crystallization,4549102,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+461895,,True,Unstable Power,5976939,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+434579,,True,Corrosion,5764919,Instant,False,True,213937,Rasha'nan,14971,,True,Zone Name Not Found,False
+1221133,,True,Hungering Rage,132345,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+430655,,True,Arathi Airship Cannon,252185,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+428086,,True,Shadow Bolt,132843,1.5 seconds,False,False,211087,Speaker Shadowcrown,14971,,True,Zone Name Not Found,False
+349939,,True,Flagellation,3528286,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+431352,,True,Tormenting Eruption,132851,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+1237224,,True,Stinging Sandstorm,796638,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+465982,,True,Turbo Bolt,839983,Instant,False,True,226404,Geezle Gigazap,15452,,True,Zone Name Not Found,False
+1244443,,True,Force Multiplier,136088,4 seconds,False,False,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+323001,,True,Glass Shards,646672,Instant,False,True,165408,Halkias,12831,,True,Zone Name Not Found,False
+30831,,True,Stealth,132320,Instant,False,True,23229,Young Panther,33,,True,Zone Name Not Found,False
+423076,,True,Hammer of Purity,236253,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+432448,,True,Stygian Seed,237566,1.5 seconds,False,False,214761,Nightfall Ritualist,-1,,False,Zone Name Not Found,False
+325793,,True,Rapid Fire,1081719,Instant,False,True,164562,Depraved Houndmaster,12831,,True,Zone Name Not Found,False
+1221679,,True,Farstalker's Leap,236171,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+446403,,True,Sacrificial Flame,236249,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+32409,,True,Shadow Word: Death,136149,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+355225,,True,Waterbolt,135845,2.5 seconds,False,False,178142,Murkbrine Fishmancer,13577,,True,Zone Name Not Found,False
+328322,,True,Villainous Bolt,876915,3 seconds,False,False,164363,Undying Stonefiend,12831,,True,Zone Name Not Found,False
+426860,,True,Dark Orb,136210,4 seconds,False,False,211089,Anub'ikkaj,14971,,True,Zone Name Not Found,False
+1216607,,True,Battery Discharge,132488,2 seconds,False,False,231325,Darkfuse Jumpstarter,15452,,True,Zone Name Not Found,False
+1248702,,True,Spirit Protection,135733,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+346204,,True,Armed Security,132148,1.5 seconds,False,False,175616,Zo'phex,13577,,True,Zone Name Not Found,False
+433002,,True,Extraction Strike,237031,1.5 seconds,False,False,216333,Bloodstained Assistant,-1,,False,Zone Name Not Found,False
+167385,,True,Uber Strike,237244,1 second,False,False,88288,Dungeoneer's Training Dummy,7004,,True,Zone Name Not Found,False
+357211,,True,Pyre,4622468,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+357228,,True,Drifting Star,4037119,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+449734,,True,Acidic Eruption,5764924,5 seconds,False,False,213937,Rasha'nan,-1,,False,Zone Name Not Found,False
+452201,,True,Tempest,5927653,2 seconds,False,False,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+427473,,True,Flamestrike,135826,Instant,False,True,206698,Fanatical Conjuror,14954,,True,Zone Name Not Found,False
+322711,,True,Refracted Sinlight,537468,2 seconds,False,False,165408,Halkias,12831,,True,Zone Name Not Found,False
+453212,,True,Obsidian Beam,132851,3 seconds,False,False,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+378081,,True,Nature's Swiftness,136076,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+1126,,True,Mark of the Wild,136078,Instant,False,True,209072,Tallonkai Swiftroot,141,,True,Zone Name Not Found,False
+459799,,True,Wallop,134919,1.5 seconds,False,False,226402,Bront,15452,,True,Zone Name Not Found,False
+1222815,,True,Arcane Bolt,6891024,2.5 seconds,False,False,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+1219482,,True,Rift Claws,237524,2 seconds,False,False,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+1237634,,True,Telekinetic Toss,3528311,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+438471,,True,Voracious Bite,136231,2 seconds,False,False,213179,Avanoxx,15093,,True,Zone Name Not Found,False
+451113,,True,Web Bolt,5764930,1.5 seconds,False,False,210966,Sureki Webmage,-1,,False,Zone Name Not Found,False
+354297,,True,Hyperlight Bolt,4037123,2.5 seconds,False,False,177817,Support Officer,13577,,True,Zone Name Not Found,False
+352390,,True,Rift Blasts,4037123,3 seconds,False,False,179334,"Portalmancer Zo'honn"",""Portalmancer Zo'dahh"",""Portalmancer Zo'nyy",13577,,True,Zone Name Not Found,False
+357196,,True,Hyperlight Bolt,4037123,2.5 seconds,False,False,180336,Cartel Wiseguy,13577,,True,Zone Name Not Found,False
+1235257,,True,Glaivestorm,132369,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+350916,,True,Security Slam,3922561,1.5 seconds,False,False,179269,Oasis Security,13577,,True,Zone Name Not Found,False
+451763,,True,Radiant Flame,135872,Instant,False,True,217658,Sir Braunpyke,14954,,True,Zone Name Not Found,False
+355915,,True,Glyph of Restraint,4037120,Instant,False,True,177816,Interrogation Specialist,13577,,True,Zone Name Not Found,False
+468604,,True,Dam Rubble,1385913,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+326847,,True,Disperse Sin,3528310,3 seconds,False,False,167876,Inquisitor Sigar,12831,,True,Zone Name Not Found,False
+427621,,True,Impale,135128,Instant,False,True,206696,Arathi Knight,14954,,True,Zone Name Not Found,False
+194509,,True,Power Word: Radiance,1386546,2 seconds,False,False,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+432967,,True,Alarm Shrill,132161,10 seconds,False,False,228015,Hulking Bloodguard,-1,,False,Zone Name Not Found,False
+355502,,True,Shocklight Barrier,4037122,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+1213790,,True,Zeppelin Barrage,252185,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+461994,,True,Deflagration,459026,Instant,False,True,234528,Ticking Time Bomb,-1,,False,Zone Name Not Found,False
+465754,,True,Flamethrower,4548850,3 seconds,False,False,230740,Shreddinator 3000,15452,,True,Zone Name Not Found,False
+438949,,True,Voracious Bite,136231,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+346828,,True,Sanitizing Field,135949,Instant,False,True,175663,Hylbrande,13577,,True,Zone Name Not Found,False
+471652,,True,Broadcast Orders,892830,Channeled,True,False,226398,Big M.O.M.M.A.,15452,,True,Zone Name Not Found,False
+1217664,,True,Thrash,132154,1 second,False,False,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+473126,,True,Mudslide,1385913,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+1241023,,True,Final Warning,4037119,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+1217751,,True,B.B.B.F.G.,451169,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+1217327,,True,Invading Shriek,252188,2 seconds,False,False,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+263165,,True,Void Torrent,1386551,Channeled,True,False,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+319733,,True,Stone Call,463493,1.5 seconds,False,False,164185,Echelon,12831,,True,Zone Name Not Found,False
+49020,,True,Obliterate,135771,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+347775,,True,Spam Filter,132886,2 seconds,False,False,176395,Overloaded Mailemental,13577,,True,Zone Name Not Found,False
+116847,,True,Rushing Jade Wind,606549,Instant,False,True,69791,"Fire Spirit"",""Bangari"",""Bloodtrance"",""Chüp"",""Dragore"",""Fungpu"",""Hikaru"",""Klatch"",""Murakk"",""Møønny"",""Pakalaru"",""Pomfrei"",""Ripto"",""Riverpanda"",""Tazarra"",""Uunknown"",""Velly"",""Wimplei"",""Öbara",-1,,False,Zone Name Not Found,False
+347635,,True,Energy Star,134427,Instant,False,True,175806,So'azmi,13577,,True,Zone Name Not Found,False
+1215071,,True,Electrified Water,136111,Instant,False,True,235848,Electrified Water,-1,,False,Zone Name Not Found,False
+433662,,True,Grasping Blood,3459799,Channeled,True,False,216856,Black Blood,15093,,True,Zone Name Not Found,False
+453856,,True,Webbed Victim,5764927,Channeled,True,False,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+346766,,True,Sanitizing Cycle,135949,2 seconds,False,False,175663,Hylbrande,13577,,True,Zone Name Not Found,False
+357284,,True,Reinvigorate,132125,3.5 seconds,False,False,180432,Devoted Accomplice,13577,,True,Zone Name Not Found,False
+425018,,True,Overwhelming Power,5764904,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+355487,,True,Lethal Force,4037124,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+451606,,True,Holy Flame,5764906,Instant,False,True,207940,Prioress Murrpray,14954,,True,Zone Name Not Found,False
+462776,,True,Surveying Beam,236216,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+425556,,True,Sanctified Ground,5764905,Instant,False,True,207940,Prioress Murrpray,14954,,True,Zone Name Not Found,False
+1220891,,True,Engorge,3155460,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+1226111,,True,Volatile Ejection,342917,4 seconds,False,False,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+432454,,True,Stygian Seed,237566,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+434668,,True,Sparking Arathi Bomb,2065634,Instant,False,True,217124,Arathi Bomb,-1,,False,Zone Name Not Found,False
+1241693,,True,Locust Swarm,136128,2 seconds,False,False,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+453160,,True,Impale,1418495,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+323749,,True,Vessle of Atonement,511651,Instant,False,True,166034,Empty Anima Vessel,-1,,False,Zone Name Not Found,False
+427359,,True,Defend,132110,Instant,False,True,89,Infernal,11462,,True,Zone Name Not Found,False
+357798,,True,Hyperlight Containment Cell,646379,Instant,False,True,180510,Toxic Saurid,13577,,True,Zone Name Not Found,False
+346286,,True,Hazardous Liquids,2057570,2 seconds,False,False,175646,P.O.S.T. Master,13577,,True,Zone Name Not Found,False
+351047,,True,Proxy Strike,3922561,1.5 seconds,False,False,177808,Armored Overseer,13577,,True,Zone Name Not Found,False
+350804,,True,Collapsing Energy,4037121,Instant,False,True,177269,So'leah,13577,,True,Zone Name Not Found,False
+1224793,,True,Whispers of Fate,1387356,3 seconds,False,False,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+356133,,True,Super Saison,516667,2.5 seconds,False,False,180015,Burly Deckhand,13577,,True,Zone Name Not Found,False
+461793,,True,R.P.G.G.,133032,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+352347,,True,Valorous Bolt,461859,2 seconds,False,False,176551,Vault Purifier,13577,,True,Zone Name Not Found,False
+422284,,True,Hearthstone of the Flame,2491064,10 seconds,False,False,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+448385,,True,Bound by Fate,442272,Instant,False,True,207946,Captain Dailcry,14954,,True,Zone Name Not Found,False
+1236910,,True,Eternal Weave,1120185,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+438832,,True,Poisonous Cloud,132108,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+357226,,True,Drifting Star,4037119,3.5 seconds,False,False,180429,Adorned Starseer,13577,,True,Zone Name Not Found,False
+434796,,True,Resonant Barrage,136128,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+427894,,True,Fan the Forge,524794,2 seconds,False,False,212831,Forge Master Damian,14954,,True,Zone Name Not Found,False
+434802,,True,Horrifying Shrill,252188,3 seconds,False,False,217531,Ixin,-1,,False,Zone Name Not Found,False
+1223008,,True,Burrowing Eruption,136025,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+8690,,True,Hearthstone,134414,10 seconds,False,False,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+423588,,True,Barrier of Light,1723996,Instant,False,True,207940,Prioress Murrpray,14954,,True,Zone Name Not Found,False
+357201,,True,Lightshard Retreat,136075,Instant,False,True,180336,Cartel Wiseguy,13577,,True,Zone Name Not Found,False
+439506,,True,Burrow Charge,5260435,4 seconds,False,False,215405,Anub'zekt,15093,,True,Zone Name Not Found,False
+1222341,,True,Gloom Bite,132291,2.5 seconds,False,False,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+461870,,True,Xal'atath's Bargain,4913234,7 seconds,False,False,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+323414,,True,Ritual of Woe,237536,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+107428,,True,Rising Sun Kick,642415,Instant,False,True,69791,"Fire Spirit"",""Bangari"",""Bloodtrance"",""Chüp"",""Dragore"",""Fungpu"",""Hikaru"",""Klatch"",""Murakk"",""Møønny"",""Pakalaru"",""Pomfrei"",""Ripto"",""Riverpanda"",""Tazarra"",""Uunknown"",""Velly"",""Wimplei"",""Öbara",-1,,False,Zone Name Not Found,False
+427900,,True,Molten Pool,524794,Instant,False,True,212831,Forge Master Damian,14954,,True,Zone Name Not Found,False
+339235,,True,Light of Atonement,876915,Instant,False,True,165408,Halkias,12831,,True,Zone Name Not Found,False
+357214,,True,Wing Buffet,4622488,Instant,False,True,-1,NPC Name Not Found,-1,,False,Zone Name Not Found,False
+422969,,True,Vindictive Wrath,236262,2.5 seconds,False,False,207939,Baron Braunpyke,14954,,True,Zone Name Not Found,False

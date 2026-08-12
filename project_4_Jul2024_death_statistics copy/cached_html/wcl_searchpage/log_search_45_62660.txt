@@ -1,0 +1,2117 @@
+<table cellpadding="0" cellspacing="0" class="dataTable no-footer collapsed" id="reports-table" role="grid" style="width: 391px;">
+<thead>
+<tr role="row"><th aria-controls="reports-table" aria-label="Description
+: activate to sort column ascending" class="all sorting ui-state-default" colspan="1" rowspan="1" style="width: 115px;" tabindex="0"><div class="DataTables_sort_wrapper">Description
+<span class="DataTables_sort_icon css_right ui-icon ui-icon-caret-2-n-s"></span></div></th><th aria-controls="reports-table" aria-label="Guild
+: activate to sort column ascending" class="all sorting ui-state-default" colspan="1" rowspan="1" style="width: 106px;" tabindex="0"><div class="DataTables_sort_wrapper">Guild
+<span class="DataTables_sort_icon css_right ui-icon ui-icon-caret-2-n-s"></span></div></th><th aria-controls="reports-table" aria-label="Owner
+: activate to sort column ascending" class="sorting ui-state-default" colspan="1" rowspan="1" style="width: 152px;" tabindex="0"><div class="DataTables_sort_wrapper">Owner
+<span class="DataTables_sort_icon css_right ui-icon ui-icon-caret-2-n-s"></span></div></th><th aria-controls="reports-table" aria-label="Uploaded
+: activate to sort column ascending" aria-sort="descending" class="sorting ui-state-default sorting_desc" colspan="1" rowspan="1" style="width: 0px; display: none;" tabindex="0"><div class="DataTables_sort_wrapper">Uploaded
+<span class="DataTables_sort_icon css_right ui-icon ui-icon-triangle-1-s"></span></div></th><th aria-controls="reports-table" aria-label="Duration
+: activate to sort column ascending" class="sorting ui-state-default" colspan="1" rowspan="1" style="width: 0px; display: none;" tabindex="0"><div class="DataTables_sort_wrapper">Duration
+<span class="DataTables_sort_icon css_right ui-icon ui-icon-caret-2-n-s"></span></div></th><th aria-controls="reports-table" aria-label="Visibility
+: activate to sort column ascending" class="sorting ui-state-default" colspan="1" rowspan="1" style="width: 0px; display: none;" tabindex="0"><div class="DataTables_sort_wrapper">Visibility
+<span class="DataTables_sort_icon css_right ui-icon ui-icon-caret-2-n-s"></span></div></th></tr></thead>
+<tbody>
+<tr class="odd" role="row">
+<td class="description-cell">
+<a href="/reports/BcJzT2QD3qFrG1CX">Mythic+ Season 3</a>
+</td>
+<td class="description-cell">
+                Personal Logs
+            </td>
+<td class="white">
+        nomerC
+    </td>
+<td class="sorting_1" style="display: none;">
+<span style="display:none">1772993766$</span>
+<span class="moment-format" data-timestamp="1772993766">March 8, 2026 7:16 PM</span>
+</td>
+<td style="display: none;">
+<span style="display:none">000875136942$</span>
+<span class="moment-duration" data-duration="875136942">10 days</span>
+</td>
+<td style="display: none;">
+        Public
+    </td>
+</tr><tr class="even" role="row">
+<td class="description-cell">
+<a href="/reports/QPhtJwZvqYLAWxgr">Mythic+ Season 3</a>
+</td>
+<td class="description-cell">
+                Personal Logs
+            </td>
+<td class="white">
+        Thistime
+    </td>
+<td class="sorting_1" style="display: none;">
+<span style="display:none">1772890225$</span>
+<span class="moment-format" data-timestamp="1772890225">March 7, 2026 2:30 PM</span>
+</td>
+<td style="display: none;">
+<span style="display:none">000003271306$</span>
+<span class="moment-duration" data-duration="3271306">an hour</span>
+</td>
+<td style="display: none;">
+        Public
+    </td>
+</tr><tr class="odd" role="row">
+<td class="description-cell">
+<a href="/reports/jrMvB4yXwP81g9p6">Mythic+ Season 3</a>
+</td>
+<td class="description-cell">
+                Personal Logs
+            </td>
+<td class="white">
+        Naesam
+    </td>
+<td class="sorting_1" style="display: none;">
+<span style="display:none">1772782687$</span>
+<span class="moment-format" data-timestamp="1772782687">March 6, 2026 8:38 AM</span>
+</td>
+<td style="display: none;">
+<span style="display:none">000014379507$</span>
+<span class="moment-duration" data-duration="14379507">4 hours</span>
+</td>
+<td style="display: none;">
+        Public
+    </td>
+</tr><tr class="even" role="row">
+<td class="description-cell">
+<a href="/reports/NRdwn2mfXaxPHFtc">Mythic+ Season 3</a>
+</td>
+<td class="description-cell">
+                Personal Logs
+            </td>
+<td class="white">
+        avp.mizzou
+    </td>
+<td class="sorting_1" style="display: none;">
+<span style="display:none">1772767391$</span>
+<span class="moment-format" data-timestamp="1772767391">March 6, 2026 4:23 AM</span>
+</td>
+<td style="display: none;">
+<span style="display:none">000724147387$</span>
+<span class="moment-duration" data-duration="724147387">8 days</span>
+</td>
+<td style="display: none;">
+        Public
+    </td>
+</tr><tr class="odd" role="row">
+<td class="description-cell">
+<a href="/reports/YgkWyja3XFBz8pDm">Mythic+ Season 3</a>
+</td>
+<td class="description-cell">
+                Personal Logs
+            </td>
+<td class="white">
+        realCool
+    </td>
+<td class="sorting_1" style="display: none;">
+<span style="display:none">1772744629$</span>
+<span class="moment-format" data-timestamp="1772744629">March 5, 2026 10:03 PM</span>
+</td>
+<td style="display: none;">
+<span style="display:none">000010330061$</span>
+<span class="moment-duration" data-duration="10330061">3 hours</span>
+</td>
+<td style="display: none;">
+        Public
+    </td>
+</tr><tr class="even" role="row">
+<td class="description-cell">
+<a href="/reports/BCnFrLRHGdVKXtq1">Mythic+ Season 3</a>
+</td>
+<td class="description-cell">
+                Personal Logs
+            </td>
+<td class="white">
+        norrisman
+    </td>
+<td class="sorting_1" style="display: none;">
+<span style="display:none">1772740372$</span>
+<span class="moment-format" data-timestamp="1772740372">March 5, 2026 8:52 PM</span>
+</td>
+<td style="display: none;">
+<span style="display:none">000002930891$</span>
+<span class="moment-duration" data-duration="2930891">an hour</span>
+</td>
+<td style="display: none;">
+        Public
+    </td>
+</tr><tr class="odd" role="row">
+<td class="description-cell">
+<a href="/reports/Q61gv9xCHKbPqcf8">Mythic+ Season 3</a>
+</td>
+<td class="description-cell">
+                Personal Logs
+            </td>
+<td class="white">
+        FelipepS
+    </td>
+<td class="sorting_1" style="display: none;">
+<span style="display:none">1772734173$</span>
+<span class="moment-format" data-timestamp="1772734173">March 5, 2026 7:09 PM</span>
+</td>
+<td style="display: none;">
+<span style="display:none">000003652213$</span>
+<span class="moment-duration" data-duration="3652213">an hour</span>
+</td>
+<td style="display: none;">
+        Public
+    </td>
+</tr><tr class="even" role="row">
+<td class="description-cell">
+<a href="/reports/h4t6y8M3fKBCWw97">Mythic+ Season 3</a>
+</td>
+<td class="description-cell">
+                Personal Logs
+            </td>
+<td class="white">
+        FelipepS
+    </td>
+<td class="sorting_1" style="display: none;">
+<span style="display:none">1772733866$</span>
+<span class="moment-format" data-timestamp="1772733866">March 5, 2026 7:04 PM</span>
+</td>
+<td style="display: none;">
+<span style="display:none">000004563582$</span>
+<span class="moment-duration" data-duration="4563582">an hour</span>
+</td>
+<td style="display: none;">
+        Public
+    </td>
+</tr><tr class="odd" role="row">
+<td class="description-cell">
+<a href="/reports/PGH8pR1MtQ4YT9JA">Mythic+ Season 3</a>
+</td>
+<td class="description-cell">
+                Personal Logs
+            </td>
+<td class="white">
+        Nougatmums
+    </td>
+<td class="sorting_1" style="display: none;">
+<span style="display:none">1772713957$</span>
+<span class="moment-format" data-timestamp="1772713957">March 5, 2026 1:32 PM</span>
+</td>
+<td style="display: none;">
+<span style="display:none">000013065074$</span>
+<span class="moment-duration" data-duration="13065074">4 hours</span>
+</td>
+<td style="display: none;">
+        Public
+    </td>
+</tr><tr class="even" role="row">
+<td class="description-cell">
+<a href="/reports/XpRzQZAYbHV9Kd4P">Mythic+ Season 3</a>
+</td>
+<td class="description-cell">
+                Personal Logs
+            </td>
+<td class="white">
+        darkfire303
+    </td>
+<td class="sorting_1" style="display: none;">
+<span style="display:none">1772667148$</span>
+<span class="moment-format" data-timestamp="1772667148">March 5, 2026 12:32 AM</span>
+</td>
+<td style="display: none;">
+<span style="display:none">000029066080$</span>
+<span class="moment-duration" data-duration="29066080">8 hours</span>
+</td>
+<td style="display: none;">
+        Public
+    </td>
+</tr><tr class="odd" role="row">
+<td class="description-cell">
+<a href="/reports/VXDFN4hxZqnzBYCf">Mythic+ Season 3</a>
+</td>
+<td class="description-cell">
+                Personal Logs
+            </td>
+<td class="white">
+        Ulusoy
+    </td>
+<td class="sorting_1" style="display: none;">
+<span style="display:none">1772656212$</span>
+<span class="moment-format" data-timestamp="1772656212">March 4, 2026 9:30 PM</span>
+</td>
+<td style="display: none;">
+<span style="display:none">001684741997$</span>
+<span class="moment-duration" data-duration="1684741997">19 days</span>
+</td>
+<td style="display: none;">
+        Public
+    </td>
+</tr><tr class="even" role="row">
+<td class="description-cell">
+<a href="/reports/1PCJ8ZDW3zXQNnB6">M0 Run</a>
+</td>
+<td class="description-cell">
+                Personal Logs
+            </td>
+<td class="white">
+        MaxiV
+    </td>
+<td class="sorting_1" style="display: none;">
+<span style="display:none">1772655243$</span>
+<span class="moment-format" data-timestamp="1772655243">March 4, 2026 9:14 PM</span>
+</td>
+<td style="display: none;">
+<span style="display:none">000006963058$</span>
+<span class="moment-duration" data-duration="6963058">2 hours</span>
+</td>
+<td style="display: none;">
+        Public
+    </td>
+</tr><tr class="odd" role="row">
+<td class="description-cell">
+<a href="/reports/zDmCj1ckBFb2ZKay">hc</a>
+</td>
+<td class="description-cell">
+                Personal Logs
+            </td>
+<td class="white">
+        lstcktn
+    </td>
+<td class="sorting_1" style="display: none;">
+<span style="display:none">1772636896$</span>
+<span class="moment-format" data-timestamp="1772636896">March 4, 2026 4:08 PM</span>
+</td>
+<td style="display: none;">
+<span style="display:none">000007694298$</span>
+<span class="moment-duration" data-duration="7694298">2 hours</span>
+</td>
+<td style="display: none;">
+        Public
+    </td>
+</tr><tr class="even" role="row">
+<td class="description-cell">
+<a href="/reports/GX7dAPHTnaR49Kb6">Mythic+ Season 3</a>
+</td>
+<td class="description-cell">
+                Personal Logs
+            </td>
+<td class="white">
+        q491547140
+    </td>
+<td class="sorting_1" style="display: none;">
+<span style="display:none">1772631198$</span>
+<span class="moment-format" data-timestamp="1772631198">March 4, 2026 2:33 PM</span>
+</td>
+<td style="display: none;">
+<span style="display:none">000001754806$</span>
+<span class="moment-duration" data-duration="1754806">29 minutes</span>
+</td>
+<td style="display: none;">
+        Public
+    </td>
+</tr><tr class="odd" role="row">
+<td class="description-cell">
+<a href="/reports/H6hz7Qdw41FbyAfc">Mythic+ Season 3</a>
+</td>
+<td class="description-cell">
+                Personal Logs
+            </td>
+<td class="white">
+        Sarg12
+    </td>
+<td class="sorting_1" style="display: none;">
+<span style="display:none">1772615001$</span>
+<span class="moment-format" data-timestamp="1772615001">March 4, 2026 10:03 AM</span>
+</td>
+<td style="display: none;">
+<span style="display:none">000006752136$</span>
+<span class="moment-duration" data-duration="6752136">2 hours</span>
+</td>
+<td style="display: none;">
+        Public
+    </td>
+</tr><tr class="even" role="row">
+<td class="description-cell">
+<a href="/reports/hTHjM8rZqWD6fbCv">Mythic+ Season 3</a>
+</td>
+<td class="description-cell">
+                Personal Logs
+            </td>
+<td class="white">
+        psaycko
+    </td>
+<td class="sorting_1" style="display: none;">
+<span style="display:none">1772600633$</span>
+<span class="moment-format" data-timestamp="1772600633">March 4, 2026 6:03 AM</span>
+</td>
+<td style="display: none;">
+<span style="display:none">000003397087$</span>
+<span class="moment-duration" data-duration="3397087">an hour</span>
+</td>
+<td style="display: none;">
+        Public
+    </td>
+</tr><tr class="odd" role="row">
+<td class="description-cell">
+<a href="/reports/YF4BbhJLrnm61XzZ">Mythic+ Season 3</a>
+</td>
+<td class="description-cell">
+                Personal Logs
+            </td>
+<td class="white">
+        kieran36
+    </td>
+<td class="sorting_1" style="display: none;">
+<span style="display:none">1772511526$</span>
+<span class="moment-format" data-timestamp="1772511526">March 3, 2026 5:18 AM</span>
+</td>
+<td style="display: none;">
+<span style="display:none">001124958328$</span>
+<span class="moment-duration" data-duration="1124958328">13 days</span>
+</td>
+<td style="display: none;">
+        Public
+    </td>
+</tr><tr class="even" role="row">
+<td class="description-cell">
+<a href="/reports/mRFrBah7MDHwxQyZ">Mythic+ Season 3</a>
+</td>
+<td class="description-cell">
+                Personal Logs
+            </td>
+<td class="white">
+        Terokon
+    </td>
+<td class="sorting_1" style="display: none;">
+<span style="display:none">1772480953$</span>
+<span class="moment-format" data-timestamp="1772480953">March 2, 2026 8:49 PM</span>
+</td>
+<td style="display: none;">
+<span style="display:none">000081796130$</span>
+<span class="moment-duration" data-duration="81796130">a day</span>
+</td>
+<td style="display: none;">
+        Public
+    </td>
+</tr><tr class="odd" role="row">
+<td class="description-cell">
+<a href="/reports/dZzV4wLHMJKPnQm2">Mythic+ Season 3</a>
+</td>
+<td class="description-cell">
+                Personal Logs
+            </td>
+<td class="white">
+        BatCroco
+    </td>
+<td class="sorting_1" style="display: none;">
+<span style="display:none">1772477012$</span>
+<span class="moment-format" data-timestamp="1772477012">March 2, 2026 7:43 PM</span>
+</td>
+<td style="display: none;">
+<span style="display:none">000329367436$</span>
+<span class="moment-duration" data-duration="329367436">4 days</span>
+</td>
+<td style="display: none;">
+        Public
+    </td>
+</tr><tr class="even" role="row">
+<td class="description-cell">
+<a href="/reports/yZGtNYndmJXTF1gz">20260228</a>
+</td>
+<td class="description-cell">
+                Personal Logs
+            </td>
+<td class="white">
+        jaz997
+    </td>
+<td class="sorting_1" style="display: none;">
+<span style="display:none">1772476720$</span>
+<span class="moment-format" data-timestamp="1772476720">March 2, 2026 7:38 PM</span>
+</td>
+<td style="display: none;">
+<span style="display:none">000220619833$</span>
+<span class="moment-duration" data-duration="220619833">3 days</span>
+</td>
+<td style="display: none;">
+        Public
+    </td>
+</tr><tr class="odd" role="row">
+<td class="description-cell">
+<a href="/reports/bcDmBdnMGHKPjyLt">Mythic+ Season 3</a>
+</td>
+<td class="description-cell">
+<a class="white faction-1" href="/guild/id/769519/">喵呜小窝</a>
+</td>
+<td class="white">
+        GodMeowIceSun
+    </td>
+<td class="sorting_1" style="display: none;">
+<span style="display:none">1772470356$</span>
+<span class="moment-format" data-timestamp="1772470356">March 2, 2026 5:52 PM</span>
+</td>
+<td style="display: none;">
+<span style="display:none">000007501874$</span>
+<span class="moment-duration" data-duration="7501874">2 hours</span>
+</td>
+<td style="display: none;">
+        Public
+    </td>
+</tr><tr class="even" role="row">
+<td class="description-cell">
+<a href="/reports/qfCFpD4bRrLJ1Gc2">Mythic+ Season 3</a>
+</td>
+<td class="description-cell">
+                Personal Logs
+            </td>
+<td class="white">
+        dawn2014330@gmail.com
+    </td>
+<td class="sorting_1" style="display: none;">
+<span style="display:none">1772470319$</span>
+<span class="moment-format" data-timestamp="1772470319">March 2, 2026 5:51 PM</span>
+</td>
+<td style="display: none;">
+<span style="display:none">000020505391$</span>
+<span class="moment-duration" data-duration="20505391">6 hours</span>
+</td>
+<td style="display: none;">
+        Public
+    </td>
+</tr><tr class="odd" role="row">
+<td class="description-cell">
+<a href="/reports/7dyBgXRGw38rAQ4K">Mythic+ Season 3</a>
+</td>
+<td class="description-cell">
+                Personal Logs
+            </td>
+<td class="white">
+        rakcoon
+    </td>
+<td class="sorting_1" style="display: none;">
+<span style="display:none">1772469114$</span>
+<span class="moment-format" data-timestamp="1772469114">March 2, 2026 5:31 PM</span>
+</td>
+<td style="display: none;">
+<span style="display:none">000250455374$</span>
+<span class="moment-duration" data-duration="250455374">3 days</span>
+</td>
+<td style="display: none;">
+        Public
+    </td>
+</tr><tr class="even" role="row">
+<td class="description-cell">
+<a href="/reports/dnpmKyg9BDrazf8Q">Mythic+ Season 3</a>
+</td>
+<td class="description-cell">
+                Personal Logs
+            </td>
+<td class="alchemical-society">
+        ortarchon
+    </td>
+<td class="sorting_1" style="display: none;">
+<span style="display:none">1772459350$</span>
+<span class="moment-format" data-timestamp="1772459350">March 2, 2026 2:49 PM</span>
+</td>
+<td style="display: none;">
+<span style="display:none">000001097539$</span>
+<span class="moment-duration" data-duration="1097539">18 minutes</span>
+</td>
+<td style="display: none;">
+        Public
+    </td>
+</tr><tr class="odd" role="row">
+<td class="description-cell">
+<a href="/reports/1TxhvVcjHX6JwBdt">Mythic+ Season 3</a>
+</td>
+<td class="description-cell">
+                Personal Logs
+            </td>
+<td class="white">
+        choi영준
+    </td>
+<td class="sorting_1" style="display: none;">
+<span style="display:none">1772444586$</span>
+<span class="moment-format" data-timestamp="1772444586">March 2, 2026 10:43 AM</span>
+</td>
+<td style="display: none;">
+<span style="display:none">000029605449$</span>
+<span class="moment-duration" data-duration="29605449">8 hours</span>
+</td>
+<td style="display: none;">
+        Public
+    </td>
+</tr><tr class="even" role="row">
+<td class="description-cell">
+<a href="/reports/j9h7dL3yBtMvprHY">Mythic+ Season 3</a>
+</td>
+<td class="description-cell">
+                Personal Logs
+            </td>
+<td class="white">
+        jwshaw
+    </td>
+<td class="sorting_1" style="display: none;">
+<span style="display:none">1772436945$</span>
+<span class="moment-format" data-timestamp="1772436945">March 2, 2026 8:35 AM</span>
+</td>
+<td style="display: none;">
+<span style="display:none">000015743164$</span>
+<span class="moment-duration" data-duration="15743164">4 hours</span>
+</td>
+<td style="display: none;">
+        Public
+    </td>
+</tr><tr class="odd" role="row">
+<td class="description-cell">
+<a href="/reports/4NPThaFHJCqGyY3v">Mythic+ Season 3</a>
+</td>
+<td class="description-cell">
+                Personal Logs
+            </td>
+<td class="white">
+        jwshaw
+    </td>
+<td class="sorting_1" style="display: none;">
+<span style="display:none">1772436525$</span>
+<span class="moment-format" data-timestamp="1772436525">March 2, 2026 8:28 AM</span>
+</td>
+<td style="display: none;">
+<span style="display:none">000015743164$</span>
+<span class="moment-duration" data-duration="15743164">4 hours</span>
+</td>
+<td style="display: none;">
+        Public
+    </td>
+</tr><tr class="even" role="row">
+<td class="description-cell">
+<a href="/reports/L2hzX9acF3dn7bAJ">Mythic+ Season 3</a>
+</td>
+<td class="description-cell">
+                Personal Logs
+            </td>
+<td class="white">
+        Scrotalgoose
+    </td>
+<td class="sorting_1" style="display: none;">
+<span style="display:none">1772425856$</span>
+<span class="moment-format" data-timestamp="1772425856">March 2, 2026 5:30 AM</span>
+</td>
+<td style="display: none;">
+<span style="display:none">000007974822$</span>
+<span class="moment-duration" data-duration="7974822">2 hours</span>
+</td>
+<td style="display: none;">
+        Public
+    </td>
+</tr><tr class="odd" role="row">
+<td class="description-cell">
+<a href="/reports/Wq9J1VkawdpvRrmY">Mythic+ Season 3</a>
+</td>
+<td class="description-cell">
+                Personal Logs
+            </td>
+<td class="alchemical-society">
+        ortarchon
+    </td>
+<td class="sorting_1" style="display: none;">
+<span style="display:none">1772421428$</span>
+<span class="moment-format" data-timestamp="1772421428">March 2, 2026 4:17 AM</span>
+</td>
+<td style="display: none;">
+<span style="display:none">000004264599$</span>
+<span class="moment-duration" data-duration="4264599">an hour</span>
+</td>
+<td style="display: none;">
+        Public
+    </td>
+</tr><tr class="even" role="row">
+<td class="description-cell">
+<a href="/reports/q9y6avCVRrXx8NJg">Mythic+ Season 3</a>
+</td>
+<td class="description-cell">
+                Personal Logs
+            </td>
+<td class="alchemical-society">
+        ortarchon
+    </td>
+<td class="sorting_1" style="display: none;">
+<span style="display:none">1772420708$</span>
+<span class="moment-format" data-timestamp="1772420708">March 2, 2026 4:05 AM</span>
+</td>
+<td style="display: none;">
+<span style="display:none">000003705162$</span>
+<span class="moment-duration" data-duration="3705162">an hour</span>
+</td>
+<td style="display: none;">
+        Public
+    </td>
+</tr><tr class="odd" role="row">
+<td class="description-cell">
+<a href="/reports/rYZfBGRcmq8aAxn7">Mythic+ Season 3</a>
+</td>
+<td class="description-cell">
+                Personal Logs
+            </td>
+<td class="alchemical-society">
+        ortarchon
+    </td>
+<td class="sorting_1" style="display: none;">
+<span style="display:none">1772420182$</span>
+<span class="moment-format" data-timestamp="1772420182">March 2, 2026 3:56 AM</span>
+</td>
+<td style="display: none;">
+<span style="display:none">000001381815$</span>
+<span class="moment-duration" data-duration="1381815">23 minutes</span>
+</td>
+<td style="display: none;">
+        Public
+    </td>
+</tr><tr class="even" role="row">
+<td class="description-cell">
+<a href="/reports/AayTj3dzMDVFCpQX">m+</a>
+</td>
+<td class="description-cell">
+<a class="platinum faction-1" href="/guild/id/751623/">The Illiterate Ducks</a>
+</td>
+<td class="white">
+        cabronsote
+    </td>
+<td class="sorting_1" style="display: none;">
+<span style="display:none">1772417645$</span>
+<span class="moment-format" data-timestamp="1772417645">March 2, 2026 3:14 AM</span>
+</td>
+<td style="display: none;">
+<span style="display:none">000012890959$</span>
+<span class="moment-duration" data-duration="12890959">4 hours</span>
+</td>
+<td style="display: none;">
+        Public
+    </td>
+</tr><tr class="odd" role="row">
+<td class="description-cell">
+<a href="/reports/41BGqCxcPWy2HAn8">Mythic+ Season 3</a>
+</td>
+<td class="description-cell">
+                Personal Logs
+            </td>
+<td class="gold">
+        Jazende
+    </td>
+<td class="sorting_1" style="display: none;">
+<span style="display:none">1772407680$</span>
+<span class="moment-format" data-timestamp="1772407680">March 2, 2026 12:28 AM</span>
+</td>
+<td style="display: none;">
+<span style="display:none">000007024966$</span>
+<span class="moment-duration" data-duration="7024966">2 hours</span>
+</td>
+<td style="display: none;">
+        Public
+    </td>
+</tr><tr class="even" role="row">
+<td class="description-cell">
+<a href="/reports/Qn1PBv37WKdk98mM">Log</a>
+</td>
+<td class="description-cell">
+                Personal Logs
+            </td>
+<td class="white">
+        DittyPink
+    </td>
+<td class="sorting_1" style="display: none;">
+<span style="display:none">1772401402$</span>
+<span class="moment-format" data-timestamp="1772401402">March 1, 2026 10:43 PM</span>
+</td>
+<td style="display: none;">
+<span style="display:none">000011851595$</span>
+<span class="moment-duration" data-duration="11851595">3 hours</span>
+</td>
+<td style="display: none;">
+        Public
+    </td>
+</tr><tr class="odd" role="row">
+<td class="description-cell">
+<a href="/reports/pmWC6ZhBbn2rXVP3">Mythic+ Season 3</a>
+</td>
+<td class="description-cell">
+                Personal Logs
+            </td>
+<td class="white">
+        37Alexi88
+    </td>
+<td class="sorting_1" style="display: none;">
+<span style="display:none">1772399184$</span>
+<span class="moment-format" data-timestamp="1772399184">March 1, 2026 10:06 PM</span>
+</td>
+<td style="display: none;">
+<span style="display:none">000003812930$</span>
+<span class="moment-duration" data-duration="3812930">an hour</span>
+</td>
+<td style="display: none;">
+        Public
+    </td>
+</tr><tr class="even" role="row">
+<td class="description-cell">
+<a href="/reports/f1LChvwya2PQpYgN">Log</a>
+</td>
+<td class="description-cell">
+                Personal Logs
+            </td>
+<td class="white">
+        DittyPink
+    </td>
+<td class="sorting_1" style="display: none;">
+<span style="display:none">1772396565$</span>
+<span class="moment-format" data-timestamp="1772396565">March 1, 2026 9:22 PM</span>
+</td>
+<td style="display: none;">
+<span style="display:none">000007207237$</span>
+<span class="moment-duration" data-duration="7207237">2 hours</span>
+</td>
+<td style="display: none;">
+        Public
+    </td>
+</tr><tr class="odd" role="row">
+<td class="description-cell">
+<a href="/reports/Vq3mH7XJpGQvZMBy">Log</a>
+</td>
+<td class="description-cell">
+                Personal Logs
+            </td>
+<td class="white">
+        DittyPink
+    </td>
+<td class="sorting_1" style="display: none;">
+<span style="display:none">1772392317$</span>
+<span class="moment-format" data-timestamp="1772392317">March 1, 2026 8:11 PM</span>
+</td>
+<td style="display: none;">
+<span style="display:none">000002905060$</span>
+<span class="moment-duration" data-duration="2905060">an hour</span>
+</td>
+<td style="display: none;">
+        Public
+    </td>
+</tr><tr class="even" role="row">
+<td class="description-cell">
+<a href="/reports/FQX1Ldrbt6vC8qfG">Mythic+ Season 3</a>
+</td>
+<td class="description-cell">
+                Personal Logs
+            </td>
+<td class="white">
+        Tarrass
+    </td>
+<td class="sorting_1" style="display: none;">
+<span style="display:none">1772388994$</span>
+<span class="moment-format" data-timestamp="1772388994">March 1, 2026 7:16 PM</span>
+</td>
+<td style="display: none;">
+<span style="display:none">000007699680$</span>
+<span class="moment-duration" data-duration="7699680">2 hours</span>
+</td>
+<td style="display: none;">
+        Public
+    </td>
+</tr><tr class="odd" role="row">
+<td class="description-cell">
+<a href="/reports/wtfm3VHMPX6apZ7v">Mythic+ Season 3</a>
+</td>
+<td class="description-cell">
+                Personal Logs
+            </td>
+<td class="white">
+        ngc7023
+    </td>
+<td class="sorting_1" style="display: none;">
+<span style="display:none">1772381019$</span>
+<span class="moment-format" data-timestamp="1772381019">March 1, 2026 5:03 PM</span>
+</td>
+<td style="display: none;">
+<span style="display:none">000024251449$</span>
+<span class="moment-duration" data-duration="24251449">7 hours</span>
+</td>
+<td style="display: none;">
+        Public
+    </td>
+</tr><tr class="even" role="row">
+<td class="description-cell">
+<a href="/reports/TzjR3Ch6GKBPv4a7">Mythic+ Season 3</a>
+</td>
+<td class="description-cell">
+                Personal Logs
+            </td>
+<td class="white">
+        dawn2014330@gmail.com
+    </td>
+<td class="sorting_1" style="display: none;">
+<span style="display:none">1772379326$</span>
+<span class="moment-format" data-timestamp="1772379326">March 1, 2026 4:35 PM</span>
+</td>
+<td style="display: none;">
+<span style="display:none">000010434861$</span>
+<span class="moment-duration" data-duration="10434861">3 hours</span>
+</td>
+<td style="display: none;">
+        Public
+    </td>
+</tr><tr class="odd" role="row">
+<td class="description-cell">
+<a href="/reports/pP3w1HFGacMbt6Y9">Mythic+ Season 3</a>
+</td>
+<td class="description-cell">
+                Personal Logs
+            </td>
+<td class="white">
+        tim99520
+    </td>
+<td class="sorting_1" style="display: none;">
+<span style="display:none">1772377419$</span>
+<span class="moment-format" data-timestamp="1772377419">March 1, 2026 4:03 PM</span>
+</td>
+<td style="display: none;">
+<span style="display:none">000005381457$</span>
+<span class="moment-duration" data-duration="5381457">an hour</span>
+</td>
+<td style="display: none;">
+        Public
+    </td>
+</tr><tr class="even" role="row">
+<td class="description-cell">
+<a href="/reports/RPFHrD4aVQZhjN7d">Mythic+ Season 3</a>
+</td>
+<td class="description-cell">
+                Personal Logs
+            </td>
+<td class="white">
+        DAXeXL
+    </td>
+<td class="sorting_1" style="display: none;">
+<span style="display:none">1772375878$</span>
+<span class="moment-format" data-timestamp="1772375878">March 1, 2026 3:37 PM</span>
+</td>
+<td style="display: none;">
+<span style="display:none">000005446595$</span>
+<span class="moment-duration" data-duration="5446595">2 hours</span>
+</td>
+<td style="display: none;">
+        Public
+    </td>
+</tr><tr class="odd" role="row">
+<td class="description-cell">
+<a href="/reports/bGx8RMFqQgvCaYcH">Mythic+ Season 3</a>
+</td>
+<td class="description-cell">
+                Personal Logs
+            </td>
+<td class="white">
+        LaxKK
+    </td>
+<td class="sorting_1" style="display: none;">
+<span style="display:none">1772374894$</span>
+<span class="moment-format" data-timestamp="1772374894">March 1, 2026 3:21 PM</span>
+</td>
+<td style="display: none;">
+<span style="display:none">000001590219$</span>
+<span class="moment-duration" data-duration="1590219">27 minutes</span>
+</td>
+<td style="display: none;">
+        Public
+    </td>
+</tr><tr class="even" role="row">
+<td class="description-cell">
+<a href="/reports/FaBhr6xg8LMjKRPd">Mythic+ Season 3</a>
+</td>
+<td class="description-cell">
+                Personal Logs
+            </td>
+<td class="white">
+        cindi823
+    </td>
+<td class="sorting_1" style="display: none;">
+<span style="display:none">1772366193$</span>
+<span class="moment-format" data-timestamp="1772366193">March 1, 2026 12:56 PM</span>
+</td>
+<td style="display: none;">
+<span style="display:none">000001952819$</span>
+<span class="moment-duration" data-duration="1952819">33 minutes</span>
+</td>
+<td style="display: none;">
+        Public
+    </td>
+</tr><tr class="odd" role="row">
+<td class="description-cell">
+<a href="/reports/3VtyX7hCLB8Mzqrd">Mythic+ Season 3</a>
+</td>
+<td class="description-cell">
+                Personal Logs
+            </td>
+<td class="white">
+        ngc7023
+    </td>
+<td class="sorting_1" style="display: none;">
+<span style="display:none">1772358879$</span>
+<span class="moment-format" data-timestamp="1772358879">March 1, 2026 10:54 AM</span>
+</td>
+<td style="display: none;">
+<span style="display:none">000004557463$</span>
+<span class="moment-duration" data-duration="4557463">an hour</span>
+</td>
+<td style="display: none;">
+        Public
+    </td>
+</tr><tr class="even" role="row">
+<td class="description-cell">
+<a href="/reports/jczbAq4CvaDJkf8P">Mythic+ Season 3</a>
+</td>
+<td class="description-cell">
+                Personal Logs
+            </td>
+<td class="white">
+        doppelst
+    </td>
+<td class="sorting_1" style="display: none;">
+<span style="display:none">1772354868$</span>
+<span class="moment-format" data-timestamp="1772354868">March 1, 2026 9:47 AM</span>
+</td>
+<td style="display: none;">
+<span style="display:none">000009594800$</span>
+<span class="moment-duration" data-duration="9594800">3 hours</span>
+</td>
+<td style="display: none;">
+        Public
+    </td>
+</tr><tr class="odd" role="row">
+<td class="description-cell">
+<a href="/reports/dFcv8AWHYD1x7BG2">Mythic+ Season 3</a>
+</td>
+<td class="description-cell">
+                Personal Logs
+            </td>
+<td class="white">
+        leojhltd
+    </td>
+<td class="sorting_1" style="display: none;">
+<span style="display:none">1772350126$</span>
+<span class="moment-format" data-timestamp="1772350126">March 1, 2026 8:28 AM</span>
+</td>
+<td style="display: none;">
+<span style="display:none">000006929533$</span>
+<span class="moment-duration" data-duration="6929533">2 hours</span>
+</td>
+<td style="display: none;">
+        Public
+    </td>
+</tr><tr class="even" role="row">
+<td class="description-cell">
+<a href="/reports/1JFrjQGPXymWMLKv">Mythic+ Season 3</a>
+</td>
+<td class="description-cell">
+                Personal Logs
+            </td>
+<td class="white">
+        estapeluo
+    </td>
+<td class="sorting_1" style="display: none;">
+<span style="display:none">1772349240$</span>
+<span class="moment-format" data-timestamp="1772349240">March 1, 2026 8:14 AM</span>
+</td>
+<td style="display: none;">
+<span style="display:none">000011901605$</span>
+<span class="moment-duration" data-duration="11901605">3 hours</span>
+</td>
+<td style="display: none;">
+        Public
+    </td>
+</tr><tr class="odd" role="row">
+<td class="description-cell">
+<a href="/reports/hmykCW68a7D4cdVG">Mythic+ Season 3</a>
+</td>
+<td class="description-cell">
+                Personal Logs
+            </td>
+<td class="white">
+        estapeluo
+    </td>
+<td class="sorting_1" style="display: none;">
+<span style="display:none">1772349173$</span>
+<span class="moment-format" data-timestamp="1772349173">March 1, 2026 8:12 AM</span>
+</td>
+<td style="display: none;">
+<span style="display:none">000012767460$</span>
+<span class="moment-duration" data-duration="12767460">4 hours</span>
+</td>
+<td style="display: none;">
+        Public
+    </td>
+</tr><tr class="even" role="row">
+<td class="description-cell">
+<a href="/reports/qXtCdyAvmQkhRxH6">Mythic+ Season 3</a>
+</td>
+<td class="description-cell">
+                Personal Logs
+            </td>
+<td class="white">
+        jwshaw
+    </td>
+<td class="sorting_1" style="display: none;">
+<span style="display:none">1772344717$</span>
+<span class="moment-format" data-timestamp="1772344717">March 1, 2026 6:58 AM</span>
+</td>
+<td style="display: none;">
+<span style="display:none">000015743164$</span>
+<span class="moment-duration" data-duration="15743164">4 hours</span>
+</td>
+<td style="display: none;">
+        Public
+    </td>
+</tr><tr class="odd" role="row">
+<td class="description-cell">
+<a href="/reports/DXzpYgCAd9Rvkb6x">Heroics</a>
+</td>
+<td class="description-cell">
+                Personal Logs
+            </td>
+<td class="white">
+        bigpappaj9906@gmail.com
+    </td>
+<td class="sorting_1" style="display: none;">
+<span style="display:none">1772341585$</span>
+<span class="moment-format" data-timestamp="1772341585">March 1, 2026 6:06 AM</span>
+</td>
+<td style="display: none;">
+<span style="display:none">000001702922$</span>
+<span class="moment-duration" data-duration="1702922">28 minutes</span>
+</td>
+<td style="display: none;">
+        Public
+    </td>
+</tr><tr class="even" role="row">
+<td class="description-cell">
+<a href="/reports/VBxd86cPwrCaQb9h">Mythic+ Season 3</a>
+</td>
+<td class="description-cell">
+                Personal Logs
+            </td>
+<td class="white">
+        Scrotalgoose
+    </td>
+<td class="sorting_1" style="display: none;">
+<span style="display:none">1772341006$</span>
+<span class="moment-format" data-timestamp="1772341006">March 1, 2026 5:56 AM</span>
+</td>
+<td style="display: none;">
+<span style="display:none">000011914248$</span>
+<span class="moment-duration" data-duration="11914248">3 hours</span>
+</td>
+<td style="display: none;">
+        Public
+    </td>
+</tr><tr class="odd" role="row">
+<td class="description-cell">
+<a href="/reports/axpKkB9Rc4M6Jtvh">Mythic+ Season 3</a>
+</td>
+<td class="description-cell">
+                Personal Logs
+            </td>
+<td class="white">
+        Terokon
+    </td>
+<td class="sorting_1" style="display: none;">
+<span style="display:none">1772340822$</span>
+<span class="moment-format" data-timestamp="1772340822">March 1, 2026 5:53 AM</span>
+</td>
+<td style="display: none;">
+<span style="display:none">000166128882$</span>
+<span class="moment-duration" data-duration="166128882">2 days</span>
+</td>
+<td style="display: none;">
+        Public
+    </td>
+</tr><tr class="even" role="row">
+<td class="description-cell">
+<a href="/reports/XcvbZwKN9YaprDhV">Mythic+ Season 3</a>
+</td>
+<td class="description-cell">
+                Personal Logs
+            </td>
+<td class="white">
+        zeratool2
+    </td>
+<td class="sorting_1" style="display: none;">
+<span style="display:none">1772339383$</span>
+<span class="moment-format" data-timestamp="1772339383">March 1, 2026 5:29 AM</span>
+</td>
+<td style="display: none;">
+<span style="display:none">000001439156$</span>
+<span class="moment-duration" data-duration="1439156">24 minutes</span>
+</td>
+<td style="display: none;">
+        Public
+    </td>
+</tr><tr class="odd" role="row">
+<td class="description-cell">
+<a href="/reports/dGbBFkJzPTh3vAqg">Mythic+ Season 3</a>
+</td>
+<td class="description-cell">
+                Personal Logs
+            </td>
+<td class="white">
+        zeratool2
+    </td>
+<td class="sorting_1" style="display: none;">
+<span style="display:none">1772339341$</span>
+<span class="moment-format" data-timestamp="1772339341">March 1, 2026 5:29 AM</span>
+</td>
+<td style="display: none;">
+<span style="display:none">000012650618$</span>
+<span class="moment-duration" data-duration="12650618">4 hours</span>
+</td>
+<td style="display: none;">
+        Public
+    </td>
+</tr><tr class="even" role="row">
+<td class="description-cell">
+<a href="/reports/nKtHr64j8CfRZmzG">Mythic+ Season 3</a>
+</td>
+<td class="description-cell">
+                Personal Logs
+            </td>
+<td class="white">
+        Szoxie
+    </td>
+<td class="sorting_1" style="display: none;">
+<span style="display:none">1772329947$</span>
+<span class="moment-format" data-timestamp="1772329947">March 1, 2026 2:52 AM</span>
+</td>
+<td style="display: none;">
+<span style="display:none">000007931378$</span>
+<span class="moment-duration" data-duration="7931378">2 hours</span>
+</td>
+<td style="display: none;">
+        Public
+    </td>
+</tr><tr class="odd" role="row">
+<td class="description-cell">
+<a href="/reports/vhJnkqR91gDHVbCX">Mythic+ Season 3</a>
+</td>
+<td class="description-cell">
+                Personal Logs
+            </td>
+<td class="white">
+        Szoxie
+    </td>
+<td class="sorting_1" style="display: none;">
+<span style="display:none">1772329879$</span>
+<span class="moment-format" data-timestamp="1772329879">March 1, 2026 2:51 AM</span>
+</td>
+<td style="display: none;">
+<span style="display:none">000025739629$</span>
+<span class="moment-duration" data-duration="25739629">7 hours</span>
+</td>
+<td style="display: none;">
+        Public
+    </td>
+</tr><tr class="even" role="row">
+<td class="description-cell">
+<a href="/reports/VQ87kcX1pH9CtvGP">Mythic+ Season 3</a>
+</td>
+<td class="description-cell">
+                Personal Logs
+            </td>
+<td class="white">
+        choi영준
+    </td>
+<td class="sorting_1" style="display: none;">
+<span style="display:none">1772328085$</span>
+<span class="moment-format" data-timestamp="1772328085">March 1, 2026 2:21 AM</span>
+</td>
+<td style="display: none;">
+<span style="display:none">000092264770$</span>
+<span class="moment-duration" data-duration="92264770">a day</span>
+</td>
+<td style="display: none;">
+        Public
+    </td>
+</tr><tr class="odd" role="row">
+<td class="description-cell">
+<a href="/reports/nwdKXB3hLcyGYr68">Mythic+ Season 3</a>
+</td>
+<td class="description-cell">
+                Personal Logs
+            </td>
+<td class="white">
+        123hunt123
+    </td>
+<td class="sorting_1" style="display: none;">
+<span style="display:none">1772321784$</span>
+<span class="moment-format" data-timestamp="1772321784">March 1, 2026 12:36 AM</span>
+</td>
+<td style="display: none;">
+<span style="display:none">000002222033$</span>
+<span class="moment-duration" data-duration="2222033">37 minutes</span>
+</td>
+<td style="display: none;">
+        Public
+    </td>
+</tr><tr class="even" role="row">
+<td class="description-cell">
+<a href="/reports/A1b39nh48CPz7MBd">Mythic+ Season 3</a>
+</td>
+<td class="description-cell">
+                Personal Logs
+            </td>
+<td class="white">
+        lordnyquist
+    </td>
+<td class="sorting_1" style="display: none;">
+<span style="display:none">1772320417$</span>
+<span class="moment-format" data-timestamp="1772320417">March 1, 2026 12:13 AM</span>
+</td>
+<td style="display: none;">
+<span style="display:none">000498058493$</span>
+<span class="moment-duration" data-duration="498058493">6 days</span>
+</td>
+<td style="display: none;">
+        Public
+    </td>
+</tr><tr class="odd" role="row">
+<td class="description-cell">
+<a href="/reports/YADw2LRHmZGyhdxV">Mythic+ Season 3</a>
+</td>
+<td class="description-cell">
+                Personal Logs
+            </td>
+<td class="white">
+        Timaeus552
+    </td>
+<td class="sorting_1" style="display: none;">
+<span style="display:none">1772318932$</span>
+<span class="moment-format" data-timestamp="1772318932">February 28, 2026 11:48 PM</span>
+</td>
+<td style="display: none;">
+<span style="display:none">000008610590$</span>
+<span class="moment-duration" data-duration="8610590">2 hours</span>
+</td>
+<td style="display: none;">
+        Public
+    </td>
+</tr><tr class="even" role="row">
+<td class="description-cell">
+<a href="/reports/DtHqZNgcpFQhfT12">Mythic+ Season 3</a>
+</td>
+<td class="description-cell">
+                Personal Logs
+            </td>
+<td class="white">
+        iKhaoz
+    </td>
+<td class="sorting_1" style="display: none;">
+<span style="display:none">1772317937$</span>
+<span class="moment-format" data-timestamp="1772317937">February 28, 2026 11:32 PM</span>
+</td>
+<td style="display: none;">
+<span style="display:none">000006407430$</span>
+<span class="moment-duration" data-duration="6407430">2 hours</span>
+</td>
+<td style="display: none;">
+        Public
+    </td>
+</tr><tr class="odd" role="row">
+<td class="description-cell">
+<a href="/reports/ryJz76B9X3hKG2Q1">Mythic+ Season 3</a>
+</td>
+<td class="description-cell">
+                Personal Logs
+            </td>
+<td class="white">
+        Timaeus552
+    </td>
+<td class="sorting_1" style="display: none;">
+<span style="display:none">1772314020$</span>
+<span class="moment-format" data-timestamp="1772314020">February 28, 2026 10:27 PM</span>
+</td>
+<td style="display: none;">
+<span style="display:none">000003618180$</span>
+<span class="moment-duration" data-duration="3618180">an hour</span>
+</td>
+<td style="display: none;">
+        Public
+    </td>
+</tr><tr class="even" role="row">
+<td class="description-cell">
+<a href="/reports/91CKrtMTPbNBQVgA">Mythic+ Season 3</a>
+</td>
+<td class="description-cell">
+                Personal Logs
+            </td>
+<td class="white">
+        candahead
+    </td>
+<td class="sorting_1" style="display: none;">
+<span style="display:none">1772305237$</span>
+<span class="moment-format" data-timestamp="1772305237">February 28, 2026 8:00 PM</span>
+</td>
+<td style="display: none;">
+<span style="display:none">000001563242$</span>
+<span class="moment-duration" data-duration="1563242">26 minutes</span>
+</td>
+<td style="display: none;">
+        Public
+    </td>
+</tr><tr class="odd" role="row">
+<td class="description-cell">
+<a href="/reports/8pMwv47VQfy9DLTA">Mythic+ Season 3</a>
+</td>
+<td class="description-cell">
+                Personal Logs
+            </td>
+<td class="white">
+        fbg04
+    </td>
+<td class="sorting_1" style="display: none;">
+<span style="display:none">1772301340$</span>
+<span class="moment-format" data-timestamp="1772301340">February 28, 2026 6:55 PM</span>
+</td>
+<td style="display: none;">
+<span style="display:none">000001142646$</span>
+<span class="moment-duration" data-duration="1142646">19 minutes</span>
+</td>
+<td style="display: none;">
+        Public
+    </td>
+</tr><tr class="even" role="row">
+<td class="description-cell">
+<a href="/reports/3xWakADtRPprMjJG">Mythic+ Season 3</a>
+</td>
+<td class="description-cell">
+                Personal Logs
+            </td>
+<td class="white">
+        RendorTX
+    </td>
+<td class="sorting_1" style="display: none;">
+<span style="display:none">1772300166$</span>
+<span class="moment-format" data-timestamp="1772300166">February 28, 2026 6:36 PM</span>
+</td>
+<td style="display: none;">
+<span style="display:none">000008829889$</span>
+<span class="moment-duration" data-duration="8829889">2 hours</span>
+</td>
+<td style="display: none;">
+        Public
+    </td>
+</tr><tr class="odd" role="row">
+<td class="description-cell">
+<a href="/reports/cYXrjQMazJHkKCxt">Mythic+ Season 3</a>
+</td>
+<td class="description-cell">
+                Personal Logs
+            </td>
+<td class="white">
+        RendorTX
+    </td>
+<td class="sorting_1" style="display: none;">
+<span style="display:none">1772298010$</span>
+<span class="moment-format" data-timestamp="1772298010">February 28, 2026 6:00 PM</span>
+</td>
+<td style="display: none;">
+<span style="display:none">000006752738$</span>
+<span class="moment-duration" data-duration="6752738">2 hours</span>
+</td>
+<td style="display: none;">
+        Public
+    </td>
+</tr><tr class="even" role="row">
+<td class="description-cell">
+<a href="/reports/MZtbWrAN3vFgwqT7">Mythic+ Season 3</a>
+</td>
+<td class="description-cell">
+                Personal Logs
+            </td>
+<td class="white">
+        jullian
+    </td>
+<td class="sorting_1" style="display: none;">
+<span style="display:none">1772296511$</span>
+<span class="moment-format" data-timestamp="1772296511">February 28, 2026 5:35 PM</span>
+</td>
+<td style="display: none;">
+<span style="display:none">000913108947$</span>
+<span class="moment-duration" data-duration="913108947">11 days</span>
+</td>
+<td style="display: none;">
+        Public
+    </td>
+</tr><tr class="odd" role="row">
+<td class="description-cell">
+<a href="/reports/8wMr9mnzbGXLAapW">Mythic+ Season 3</a>
+</td>
+<td class="description-cell">
+                Personal Logs
+            </td>
+<td class="white">
+        RendorTX
+    </td>
+<td class="sorting_1" style="display: none;">
+<span style="display:none">1772294724$</span>
+<span class="moment-format" data-timestamp="1772294724">February 28, 2026 5:05 PM</span>
+</td>
+<td style="display: none;">
+<span style="display:none">000003437282$</span>
+<span class="moment-duration" data-duration="3437282">an hour</span>
+</td>
+<td style="display: none;">
+        Public
+    </td>
+</tr><tr class="even" role="row">
+<td class="description-cell">
+<a href="/reports/vXqmtMgCYVaHPWZx">Mythic+ Season 3</a>
+</td>
+<td class="description-cell">
+                Personal Logs
+            </td>
+<td class="white">
+        HunterYem
+    </td>
+<td class="sorting_1" style="display: none;">
+<span style="display:none">1772291533$</span>
+<span class="moment-format" data-timestamp="1772291533">February 28, 2026 4:12 PM</span>
+</td>
+<td style="display: none;">
+<span style="display:none">000260223433$</span>
+<span class="moment-duration" data-duration="260223433">3 days</span>
+</td>
+<td style="display: none;">
+        Public
+    </td>
+</tr><tr class="odd" role="row">
+<td class="description-cell">
+<a href="/reports/LqrMbPxFV4jXpc8n">1</a>
+</td>
+<td class="description-cell">
+                Personal Logs
+            </td>
+<td class="white">
+        sakhroman
+    </td>
+<td class="sorting_1" style="display: none;">
+<span style="display:none">1772281365$</span>
+<span class="moment-format" data-timestamp="1772281365">February 28, 2026 1:22 PM</span>
+</td>
+<td style="display: none;">
+<span style="display:none">000001805285$</span>
+<span class="moment-duration" data-duration="1805285">30 minutes</span>
+</td>
+<td style="display: none;">
+        Public
+    </td>
+</tr><tr class="even" role="row">
+<td class="description-cell">
+<a href="/reports/MGRxmnPWf8VBv16H">Final Mythic Dungies</a>
+</td>
+<td class="description-cell">
+<a class="white faction-1" href="/guild/id/764796/">Narcoleptics</a>
+</td>
+<td class="white">
+        shanoga
+    </td>
+<td class="sorting_1" style="display: none;">
+<span style="display:none">1772265621$</span>
+<span class="moment-format" data-timestamp="1772265621">February 28, 2026 9:00 AM</span>
+</td>
+<td style="display: none;">
+<span style="display:none">000005635789$</span>
+<span class="moment-duration" data-duration="5635789">2 hours</span>
+</td>
+<td style="display: none;">
+        Public
+    </td>
+</tr><tr class="odd" role="row">
+<td class="description-cell">
+<a href="/reports/GnkxqPQw4yb8LW3A">Mythic+ Season 3</a>
+</td>
+<td class="description-cell">
+                Personal Logs
+            </td>
+<td class="white">
+        YonZZZ
+    </td>
+<td class="sorting_1" style="display: none;">
+<span style="display:none">1772264819$</span>
+<span class="moment-format" data-timestamp="1772264819">February 28, 2026 8:46 AM</span>
+</td>
+<td style="display: none;">
+<span style="display:none">000001629139$</span>
+<span class="moment-duration" data-duration="1629139">27 minutes</span>
+</td>
+<td style="display: none;">
+        Public
+    </td>
+</tr><tr class="even" role="row">
+<td class="description-cell">
+<a href="/reports/fHbaw7WxPhZ4RGrj">Mythic+ Season 3</a>
+</td>
+<td class="description-cell">
+                Personal Logs
+            </td>
+<td class="white">
+        Tritheia
+    </td>
+<td class="sorting_1" style="display: none;">
+<span style="display:none">1772262715$</span>
+<span class="moment-format" data-timestamp="1772262715">February 28, 2026 8:11 AM</span>
+</td>
+<td style="display: none;">
+<span style="display:none">000015333755$</span>
+<span class="moment-duration" data-duration="15333755">4 hours</span>
+</td>
+<td style="display: none;">
+        Public
+    </td>
+</tr><tr class="odd" role="row">
+<td class="description-cell">
+<a href="/reports/dtpmQ6q2Jkc1YvA9">Mythic+ Season 3</a>
+</td>
+<td class="description-cell">
+                Personal Logs
+            </td>
+<td class="white">
+        Six-J
+    </td>
+<td class="sorting_1" style="display: none;">
+<span style="display:none">1772262658$</span>
+<span class="moment-format" data-timestamp="1772262658">February 28, 2026 8:10 AM</span>
+</td>
+<td style="display: none;">
+<span style="display:none">000246264474$</span>
+<span class="moment-duration" data-duration="246264474">3 days</span>
+</td>
+<td style="display: none;">
+        Public
+    </td>
+</tr><tr class="even" role="row">
+<td class="description-cell">
+<a href="/reports/CbnfG8NtF1x2g3HY">Mythic+ Season 3</a>
+</td>
+<td class="description-cell">
+                Personal Logs
+            </td>
+<td class="white">
+        shakax
+    </td>
+<td class="sorting_1" style="display: none;">
+<span style="display:none">1772243100$</span>
+<span class="moment-format" data-timestamp="1772243100">February 28, 2026 2:45 AM</span>
+</td>
+<td style="display: none;">
+<span style="display:none">000007180468$</span>
+<span class="moment-duration" data-duration="7180468">2 hours</span>
+</td>
+<td style="display: none;">
+        Public
+    </td>
+</tr><tr class="odd" role="row">
+<td class="description-cell">
+<a href="/reports/HPCtA9Rr4VYJhyjF">Mythic+ Season 3</a>
+</td>
+<td class="description-cell">
+                Personal Logs
+            </td>
+<td class="white">
+        Osebek
+    </td>
+<td class="sorting_1" style="display: none;">
+<span style="display:none">1772241152$</span>
+<span class="moment-format" data-timestamp="1772241152">February 28, 2026 2:12 AM</span>
+</td>
+<td style="display: none;">
+<span style="display:none">000510390870$</span>
+<span class="moment-duration" data-duration="510390870">6 days</span>
+</td>
+<td style="display: none;">
+        Public
+    </td>
+</tr><tr class="even" role="row">
+<td class="description-cell">
+<a href="/reports/qfnmc9LHjKvaWBQb">Mythic+ Season 3</a>
+</td>
+<td class="description-cell">
+                Personal Logs
+            </td>
+<td class="white">
+        Melez
+    </td>
+<td class="sorting_1" style="display: none;">
+<span style="display:none">1772231631$</span>
+<span class="moment-format" data-timestamp="1772231631">February 27, 2026 11:33 PM</span>
+</td>
+<td style="display: none;">
+<span style="display:none">000125743941$</span>
+<span class="moment-duration" data-duration="125743941">a day</span>
+</td>
+<td style="display: none;">
+        Public
+    </td>
+</tr><tr class="odd" role="row">
+<td class="description-cell">
+<a href="/reports/W3tV8gTmfKQ7qLkC">Mythic+ Season 3</a>
+</td>
+<td class="description-cell">
+                Personal Logs
+            </td>
+<td class="white">
+        Wolfenya
+    </td>
+<td class="sorting_1" style="display: none;">
+<span style="display:none">1772230340$</span>
+<span class="moment-format" data-timestamp="1772230340">February 27, 2026 11:12 PM</span>
+</td>
+<td style="display: none;">
+<span style="display:none">000007889199$</span>
+<span class="moment-duration" data-duration="7889199">2 hours</span>
+</td>
+<td style="display: none;">
+        Public
+    </td>
+</tr><tr class="even" role="row">
+<td class="description-cell">
+<a href="/reports/bmQRfkn4qFXLtYA6">Mythic+ Season 3</a>
+</td>
+<td class="description-cell">
+                Personal Logs
+            </td>
+<td class="white">
+        shibaketeryaao
+    </td>
+<td class="sorting_1" style="display: none;">
+<span style="display:none">1772226356$</span>
+<span class="moment-format" data-timestamp="1772226356">February 27, 2026 10:05 PM</span>
+</td>
+<td style="display: none;">
+<span style="display:none">000002039715$</span>
+<span class="moment-duration" data-duration="2039715">34 minutes</span>
+</td>
+<td style="display: none;">
+        Public
+    </td>
+</tr><tr class="odd" role="row">
+<td class="description-cell">
+<a href="/reports/6tqgyxABHTVr3mPa">Mythic+ Season 3</a>
+</td>
+<td class="description-cell">
+                Personal Logs
+            </td>
+<td class="white">
+        rakcoon
+    </td>
+<td class="sorting_1" style="display: none;">
+<span style="display:none">1772222582$</span>
+<span class="moment-format" data-timestamp="1772222582">February 27, 2026 9:03 PM</span>
+</td>
+<td style="display: none;">
+<span style="display:none">000003945330$</span>
+<span class="moment-duration" data-duration="3945330">an hour</span>
+</td>
+<td style="display: none;">
+        Public
+    </td>
+</tr><tr class="even" role="row">
+<td class="description-cell">
+<a href="/reports/VrPQZ6wRHGDTqbMc">Mythic+ Season 3</a>
+</td>
+<td class="description-cell">
+                Personal Logs
+            </td>
+<td class="white">
+        user9527
+    </td>
+<td class="sorting_1" style="display: none;">
+<span style="display:none">1772222262$</span>
+<span class="moment-format" data-timestamp="1772222262">February 27, 2026 8:57 PM</span>
+</td>
+<td style="display: none;">
+<span style="display:none">000003614174$</span>
+<span class="moment-duration" data-duration="3614174">an hour</span>
+</td>
+<td style="display: none;">
+        Public
+    </td>
+</tr><tr class="odd" role="row">
+<td class="description-cell">
+<a href="/reports/w82r3ThfdCaFqA41">20260227</a>
+</td>
+<td class="description-cell">
+                Personal Logs
+            </td>
+<td class="white">
+        jaz997
+    </td>
+<td class="sorting_1" style="display: none;">
+<span style="display:none">1772221566$</span>
+<span class="moment-format" data-timestamp="1772221566">February 27, 2026 8:46 PM</span>
+</td>
+<td style="display: none;">
+<span style="display:none">000147629895$</span>
+<span class="moment-duration" data-duration="147629895">2 days</span>
+</td>
+<td style="display: none;">
+        Public
+    </td>
+</tr><tr class="even" role="row">
+<td class="description-cell">
+<a href="/reports/dXxrLBp6RWK2YJk4">adsadasd</a>
+</td>
+<td class="description-cell">
+                Personal Logs
+            </td>
+<td class="white">
+        Fireybeard
+    </td>
+<td class="sorting_1" style="display: none;">
+<span style="display:none">1772220564$</span>
+<span class="moment-format" data-timestamp="1772220564">February 27, 2026 8:29 PM</span>
+</td>
+<td style="display: none;">
+<span style="display:none">000087743972$</span>
+<span class="moment-duration" data-duration="87743972">a day</span>
+</td>
+<td style="display: none;">
+        Public
+    </td>
+</tr><tr class="odd" role="row">
+<td class="description-cell">
+<a href="/reports/QHdrg7pnVja3K4TG">Mythic+ Season 3</a>
+</td>
+<td class="description-cell">
+                Personal Logs
+            </td>
+<td class="white">
+        dercovane
+    </td>
+<td class="sorting_1" style="display: none;">
+<span style="display:none">1772218055$</span>
+<span class="moment-format" data-timestamp="1772218055">February 27, 2026 7:47 PM</span>
+</td>
+<td style="display: none;">
+<span style="display:none">000028414849$</span>
+<span class="moment-duration" data-duration="28414849">8 hours</span>
+</td>
+<td style="display: none;">
+        Public
+    </td>
+</tr><tr class="even" role="row">
+<td class="description-cell">
+<a href="/reports/YhAt6pv3NZMJ1y8k">Mythic+ Season 3</a>
+</td>
+<td class="description-cell">
+                Personal Logs
+            </td>
+<td class="white">
+        Sacalll
+    </td>
+<td class="sorting_1" style="display: none;">
+<span style="display:none">1772215915$</span>
+<span class="moment-format" data-timestamp="1772215915">February 27, 2026 7:11 PM</span>
+</td>
+<td style="display: none;">
+<span style="display:none">000003221475$</span>
+<span class="moment-duration" data-duration="3221475">an hour</span>
+</td>
+<td style="display: none;">
+        Public
+    </td>
+</tr><tr class="odd" role="row">
+<td class="description-cell">
+<a href="/reports/y9bRJwYkxgp8Vrah">Mythic+ Season 3</a>
+</td>
+<td class="description-cell">
+                Personal Logs
+            </td>
+<td class="white">
+        Hagora
+    </td>
+<td class="sorting_1" style="display: none;">
+<span style="display:none">1772210171$</span>
+<span class="moment-format" data-timestamp="1772210171">February 27, 2026 5:36 PM</span>
+</td>
+<td style="display: none;">
+<span style="display:none">000010479602$</span>
+<span class="moment-duration" data-duration="10479602">3 hours</span>
+</td>
+<td style="display: none;">
+        Public
+    </td>
+</tr><tr class="even" role="row">
+<td class="description-cell">
+<a href="/reports/CR4gzwaqLh8QJWxf">Mythic+ Season 3</a>
+</td>
+<td class="description-cell">
+                Personal Logs
+            </td>
+<td class="white">
+        sochra
+    </td>
+<td class="sorting_1" style="display: none;">
+<span style="display:none">1772208911$</span>
+<span class="moment-format" data-timestamp="1772208911">February 27, 2026 5:15 PM</span>
+</td>
+<td style="display: none;">
+<span style="display:none">000442592767$</span>
+<span class="moment-duration" data-duration="442592767">5 days</span>
+</td>
+<td style="display: none;">
+        Public
+    </td>
+</tr><tr class="odd" role="row">
+<td class="description-cell">
+<a href="/reports/zwp28Ph1TNmLravJ">chillsunday</a>
+</td>
+<td class="description-cell">
+                Personal Logs
+            </td>
+<td class="white">
+        db5b
+    </td>
+<td class="sorting_1" style="display: none;">
+<span style="display:none">1772207850$</span>
+<span class="moment-format" data-timestamp="1772207850">February 27, 2026 4:57 PM</span>
+</td>
+<td style="display: none;">
+<span style="display:none">000285533049$</span>
+<span class="moment-duration" data-duration="285533049">3 days</span>
+</td>
+<td style="display: none;">
+        Public
+    </td>
+</tr><tr class="even" role="row">
+<td class="description-cell">
+<a href="/reports/8DJM3ghftNxbnqBv">Mythic+ Season 3</a>
+</td>
+<td class="description-cell">
+                Personal Logs
+            </td>
+<td class="white">
+        tim99520
+    </td>
+<td class="sorting_1" style="display: none;">
+<span style="display:none">1772207353$</span>
+<span class="moment-format" data-timestamp="1772207353">February 27, 2026 4:49 PM</span>
+</td>
+<td style="display: none;">
+<span style="display:none">000008098648$</span>
+<span class="moment-duration" data-duration="8098648">2 hours</span>
+</td>
+<td style="display: none;">
+        Public
+    </td>
+</tr><tr class="odd" role="row">
+<td class="description-cell">
+<a href="/reports/br73yYdBVam6QZzj">Mythic+ Season 3</a>
+</td>
+<td class="description-cell">
+                Personal Logs
+            </td>
+<td class="white">
+        RightHandAbuzer
+    </td>
+<td class="sorting_1" style="display: none;">
+<span style="display:none">1772205537$</span>
+<span class="moment-format" data-timestamp="1772205537">February 27, 2026 4:18 PM</span>
+</td>
+<td style="display: none;">
+<span style="display:none">000002499015$</span>
+<span class="moment-duration" data-duration="2499015">42 minutes</span>
+</td>
+<td style="display: none;">
+        Public
+    </td>
+</tr><tr class="even" role="row">
+<td class="description-cell">
+<a href="/reports/ZBh1VfYDbKGHqvT2">Mythic+ Season 3</a>
+</td>
+<td class="description-cell">
+                Personal Logs
+            </td>
+<td class="white">
+        sonando1108@gmail.com
+    </td>
+<td class="sorting_1" style="display: none;">
+<span style="display:none">1772203352$</span>
+<span class="moment-format" data-timestamp="1772203352">February 27, 2026 3:42 PM</span>
+</td>
+<td style="display: none;">
+<span style="display:none">000090031961$</span>
+<span class="moment-duration" data-duration="90031961">a day</span>
+</td>
+<td style="display: none;">
+        Public
+    </td>
+</tr><tr class="odd" role="row">
+<td class="description-cell">
+<a href="/reports/N9cRXhF3bKQwj4TL">Mythic+ Season 3</a>
+</td>
+<td class="description-cell">
+                Personal Logs
+            </td>
+<td class="white">
+        goobbels
+    </td>
+<td class="sorting_1" style="display: none;">
+<span style="display:none">1772203277$</span>
+<span class="moment-format" data-timestamp="1772203277">February 27, 2026 3:41 PM</span>
+</td>
+<td style="display: none;">
+<span style="display:none">000001791826$</span>
+<span class="moment-duration" data-duration="1791826">30 minutes</span>
+</td>
+<td style="display: none;">
+        Public
+    </td>
+</tr><tr class="even" role="row">
+<td class="description-cell">
+<a href="/reports/MTxnN3Qva16kjfwV">Mythic+ Season 3</a>
+</td>
+<td class="description-cell">
+                Personal Logs
+            </td>
+<td class="white">
+        lastt
+    </td>
+<td class="sorting_1" style="display: none;">
+<span style="display:none">1772202432$</span>
+<span class="moment-format" data-timestamp="1772202432">February 27, 2026 3:27 PM</span>
+</td>
+<td style="display: none;">
+<span style="display:none">000007256302$</span>
+<span class="moment-duration" data-duration="7256302">2 hours</span>
+</td>
+<td style="display: none;">
+        Public
+    </td>
+</tr><tr class="odd" role="row">
+<td class="description-cell">
+<a href="/reports/xBCbFKZ2N7M8rGTV">Mythic+ Season 3</a>
+</td>
+<td class="description-cell">
+                Personal Logs
+            </td>
+<td class="white">
+        破壞龍神王
+    </td>
+<td class="sorting_1" style="display: none;">
+<span style="display:none">1772201590$</span>
+<span class="moment-format" data-timestamp="1772201590">February 27, 2026 3:13 PM</span>
+</td>
+<td style="display: none;">
+<span style="display:none">000017616402$</span>
+<span class="moment-duration" data-duration="17616402">5 hours</span>
+</td>
+<td style="display: none;">
+        Public
+    </td>
+</tr><tr class="even" role="row">
+<td class="description-cell">
+<a href="/reports/tdBDrF4jmnPz2ZyG">Mythic+ Season 3</a>
+</td>
+<td class="description-cell">
+                Personal Logs
+            </td>
+<td class="white">
+        zeratool2
+    </td>
+<td class="sorting_1" style="display: none;">
+<span style="display:none">1772200399$</span>
+<span class="moment-format" data-timestamp="1772200399">February 27, 2026 2:53 PM</span>
+</td>
+<td style="display: none;">
+<span style="display:none">000025697867$</span>
+<span class="moment-duration" data-duration="25697867">7 hours</span>
+</td>
+<td style="display: none;">
+        Public
+    </td>
+</tr><tr class="odd" role="row">
+<td class="description-cell">
+<a href="/reports/P86VzxDyLHZGj49Y">Mythic+ Season 3</a>
+</td>
+<td class="description-cell">
+                Personal Logs
+            </td>
+<td class="white">
+        油炸棒棒糖
+    </td>
+<td class="sorting_1" style="display: none;">
+<span style="display:none">1772195788$</span>
+<span class="moment-format" data-timestamp="1772195788">February 27, 2026 1:36 PM</span>
+</td>
+<td style="display: none;">
+<span style="display:none">000266892359$</span>
+<span class="moment-duration" data-duration="266892359">3 days</span>
+</td>
+<td style="display: none;">
+        Public
+    </td>
+</tr><tr class="even" role="row">
+<td class="description-cell">
+<a href="/reports/TGMCZXxpzBykcj9V">Mythic+ Season 3</a>
+</td>
+<td class="description-cell">
+                Personal Logs
+            </td>
+<td class="white">
+        Thirtyninjas
+    </td>
+<td class="sorting_1" style="display: none;">
+<span style="display:none">1772192049$</span>
+<span class="moment-format" data-timestamp="1772192049">February 27, 2026 12:34 PM</span>
+</td>
+<td style="display: none;">
+<span style="display:none">000001571313$</span>
+<span class="moment-duration" data-duration="1571313">26 minutes</span>
+</td>
+<td style="display: none;">
+        Public
+    </td>
+</tr><tr class="odd" role="row">
+<td class="description-cell">
+<a href="/reports/rntagKDLcNypAqXC">Mythic+ Season 3</a>
+</td>
+<td class="description-cell">
+                Personal Logs
+            </td>
+<td class="white">
+        Age_Reza
+    </td>
+<td class="sorting_1" style="display: none;">
+<span style="display:none">1772188000$</span>
+<span class="moment-format" data-timestamp="1772188000">February 27, 2026 11:26 AM</span>
+</td>
+<td style="display: none;">
+<span style="display:none">000004054211$</span>
+<span class="moment-duration" data-duration="4054211">an hour</span>
+</td>
+<td style="display: none;">
+        Public
+    </td>
+</tr><tr class="even" role="row">
+<td class="description-cell">
+<a href="/reports/TwGPcQV1CNfDMmAj">Mythic+ Season 3</a>
+</td>
+<td class="description-cell">
+                Personal Logs
+            </td>
+<td class="white">
+        Age_Reza
+    </td>
+<td class="sorting_1" style="display: none;">
+<span style="display:none">1772187429$</span>
+<span class="moment-format" data-timestamp="1772187429">February 27, 2026 11:17 AM</span>
+</td>
+<td style="display: none;">
+<span style="display:none">000009709620$</span>
+<span class="moment-duration" data-duration="9709620">3 hours</span>
+</td>
+<td style="display: none;">
+        Public
+    </td>
+</tr></tbody></table>███████████████████

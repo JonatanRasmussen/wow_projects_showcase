@@ -1,0 +1,785 @@
+
+
+    Midnight
+    Mists of Pandaria
+    Classic Fresh
+    Season of Discovery
+    Vanilla
+
+Warcraft Logs
+Enter a player, guild, or realm
+Enter a player, guild, or realm
+Search
+102
+Download Archon App
+
+    Deutsch
+    English
+    Español
+    Français
+    Italiano
+    Português (Brasil)
+    Русский
+    한국어
+    繁體中文
+    简体中文
+
+Mythic+ Season 1
+Created by BudoBoy07 on Thu May 21 2026
+
+    Edit Report
+    Delete Report
+    Make Private
+    View in Anonymous Mode
+
+Settings
++
+
+    VS / DR / MQD
+    BudoBoy07 - (Public) - 26 minutes ago
+    Mythic+ Season 1
+    BudoBoy07 - (Public) - 27 minutes ago
+    Sporefall
+    BudoBoy07 - (Public) - 2 months ago
+    Sporefall
+    BudoBoy07 - (Public) - 2 months ago
+
+BudoBoy07
+Personal Logs
++
+Magisters' Terrace+
++20 [Fortified] [Tyrannical] [Xal'atath's Guile] 2 (6:05) 11:43 PM
+
+    + Bosses and Trash
+        Bosses and Trash
+        Bosses
+        Trash
+        Arcanotron Custos
+        Seranel Sunlash
+        Gemellus
+        Degentrius
+        Pull 1 (1:03) +0:14
+        Arcane Sentry
+        Pull 2 (1:06) +1:21
+        Sunblade Enforcer
+        Pull 3 (0:59) +2:32
+        Blazing Pyromancer
+        Pull 4 (1:02) +3:41
+        Sunblade Enforcer
+        Pull 5 (0:15) +4:51
+        Arcane Sentry
+        Pull 6 (0:58) +5:07
+        Arcanotron Custos
+
+Entire Dungeon
+
+    + All Friendlies
+        Nheji
+        Søbbøc
+        +Føurset
+            Treant
+
+            ID: 54983
+        +Powerpegging
+            +Dracthyr Commando
+                1
+
+                2
+
+                3
+
+                4
+
+                5
+
+                6
+
+                7
+
+                8
+
+                9
+
+                10
+
+            ID: 219827
+            +Future Self
+                1
+
+                2
+
+                3
+
+                4
+
+                5
+
+                6
+
+            ID: 253466
+        +Maggez
+            +Mirror Image
+                1
+
+                2
+
+                3
+
+                4
+
+                5
+
+                6
+
+                7
+
+                8
+
+                9
+
+            ID: 31216
+        +Ginjuk
+            +Capacitor Totem
+                1
+
+                2
+
+                3
+
+                4
+
+            ID: 61245
+            +Healing Stream Totem
+                1
+
+                2
+
+                3
+
+                4
+
+                5
+
+                6
+
+                7
+
+                8
+
+                9
+
+                10
+                11
+
+                12
+
+                13
+
+                14
+
+                15
+
+                16
+
+                17
+
+            ID: 3527
+            Healing Tide Totem
+
+            ID: 59764
+            +Spirit Link Totem
+                1
+
+                2
+
+            ID: 53006
+            +Stormstream Totem
+                1
+
+                2
+
+                3
+
+                4
+
+                5
+
+                6
+
+                7
+
+                8
+
+            ID: 256196
+            +Surging Totem
+                1
+
+                2
+
+                3
+
+                4
+
+                5
+
+                6
+
+                7
+
+                8
+
+                9
+
+            ID: 225409
+        Agarethx
+        Hörufflueche
+        +Paradotz
+            Unknown
+        Shishkarev
+        Talliim
+
+
+
+
+
+
+
+Friendlies Enemies
+Summary
+Damage Done
+Damage Taken
+Healing
+Threat
+Buffs
+Debuffs
+Deaths
+Interrupts
+Dispels
+Resources
+Casts
+
+    +Ignore Events After Player Deaths
+        Ignore Events After Player Deaths
+        Ignore Events After A Called Wipe
+
+Filter Expression:
+
+    +
+        Heroism
+        Downtime
+        Player Deaths
+        Player Resurrections
+        Boss Deaths
+        NPC Deaths
+        Show All Entries
+        Hide All Entries
+
+ZoomPer Second AmountDamage DoneDamage TakenHealing Done00:0000:3001:0001:3002:0002:3003:0003:3004:0004:3005:0005:3006:000k500k1,000k1,500k2,000k
+Group Composition Item Level: 279.55
+Tanks:	Søbbøc
+DPS:	Nheji Powerpegging Maggez
+Healers:	Føurset Ginjuk
+Damage Done By Source
+Name
+
+Amount
+
+DPS
+
+Powerpegging
+29.63%
+74.45m 	203,681.9
+Nheji
+26.86%
+67.49m 	184,633.6
+Maggez
+24.23%
+60.87m 	166,518.8
+Søbbøc
+16.22%
+40.76m 	111,497.4
+Ginjuk
+3.06%
+7.69m 	21,033.2
+Healing Done By Source
+Name
+
+Amount
+
+HPS
+
+Ginjuk
+46.71%
+31.48m 	86,108.9
+Søbbøc
+38.02%
+25.62m 	70,094.6
+Powerpegging
+6.67%
+4.49m 	12,292.1
+Nheji
+4.16%
+2.80m 	7,662.6
+Maggez
+4.01%
+2.70m 	7,390.8
+Lightward Healer
+0.44%
+298.3k 	816.1
+Damage Taken By Ability
+Name
+
+Amount
+
+DTPS
+
+Melee
+31.71%
+21.48m 	58,750.2
+Ignition
+17.12%
+11.59m 	31,712.4
+Arcane Volley
+8.33%
+5.64m 	15,436.5
+Crowd Dispersal
+8.24%
+5.58m 	15,271.0
+Holy Fire
+7.67%
+5.20m 	14,216.6
+Arcane Blade
+5.81%
+3.94m 	10,766.0
+Blink
+4.44%
+3.00m 	8,220.1
+Arcane Beam
+4.09%
+2.77m 	7,579.8
+Arcane Expulsion
+2.65%
+1.79m 	4,909.1
+Arcane Bolt
+2.54%
+1.72m 	4,696.7
+Arcane Eruption
+1.76%
+1.19m 	3,255.2
+Ethereal Shackles
+1.34%
+909.6k 	2,488.5
+Energy Release
+1.23%
+834.4k 	2,282.8
+Ethereal Shackles
+1.23%
+833.2k 	2,279.3
+Repulsing Slam
+0.80%
+544.8k 	1,490.6
+Stretch Time
+0.40%
+270.1k 	738.9
+Arcane Residue
+0.36%
+245.0k 	670.3
+Unstable Energy
+0.15%
+101.5k 	277.6
+Falling
+0.09%
+62.6k 	171.2
+Arcane Residue
+0.03%
+19.0k 	51.9
+Deaths
+Name
+
+Killing Blow
+
+Time
+
+Powerpegging 	Arcane Beam 	5:39
+Maggez 	Ethereal Shackles 	5:43
+Nheji 	Crowd Dispersal 	5:50
+Ginjuk 	Crowd Dispersal 	5:50
+Søbbøc 	Arcane Eruption 	6:05
+Characters
+Tanks
+
+Class Talents
+
+Spec Talents
+
+Gear
+
+Combat Potions
+
+Healthstones & Potions
+Søbbøc
+Demon Hunter (Vengeance)
+288 Item Level
+Vengeful Retreat
+Felblade
+Sigil of Misery
+Unrestrained Fury
+Shattered Restoration
+Bouncing Glaives
+Charred Warblades
+Imprison
+Improved Disrupt
+Aldrachi Design
+Consume Magic
+Chaos Nova
+Aura of Pain
+Disrupting Fury
+Blazing Path
+Live by the Glaive
+Champion of the Glaive
+Soul Rending 2
+Infernal Armor 2
+Illidari Knowledge 2
+Will of the Illidari 2
+Remorseless
+Internal Struggle
+First In, Last Out
+Furious
+Demon Muzzle
+Soul Splitter 2
+Darkness
+Pitch Black
+Demonic Resilience
+
+Fel Devastation
+Fiery Brand
+Spirit Bomb
+Perfectly Balanced Glaive
+Quickened Sigils
+Calcified Spikes
+Tempered Steel
+Sigil of Silence
+Feed the Demon
+Agonizing Flames
+Sigil of Spite
+Burning Blood
+Fel Flame Fortification
+Soul Barrier
+Fallout
+Frailty
+Fiery Demise 2
+Void Reaver
+Painbringer 1
+Burning Alive
+Focused Cleave
+Charred Flesh 2
+Vulnerability 2
+Vengeful Beast
+Down in Flames
+Last Resort
+Soulcrush
+Untethered Rage 1
+Untethered Rage 2
+Untethered Rage 1
+		2 	1
+DPS
+
+Class Talents
+
+Spec Talents
+
+Gear
+
+Combat Potions
+
+Healthstones & Potions
+Nheji
+Demon Hunter (Devourer)
+286 Item Level
+Vengeful Retreat
+Sigil of Misery
+Voidblade
+Unrestrained Fury
+Shattered Restoration
+Bouncing Glaives
+Imprison
+Improved Disrupt
+Consume Magic
+Void Nova
+Aura of Pain
+Disrupting Fury
+Swallowed Anger
+Blazing Path
+Focused Ire
+Soul Rending 2
+Pursuit
+Soul Cleanse
+Illidari Knowledge 2
+Will of the Illidari 2
+Guile
+Remorseless
+Internal Struggle
+First In, Last Out
+Furious
+Demon Muzzle
+Soul Splitter 2
+Darkness
+Final Breath
+Pitch Black
+Demonic Resilience
+
+Void Ray
+Soul Immolation
+Predator's Thirst
+Void Metamorphosis
+Feast of Souls
+Tempered Soul
+Collapsing Star
+Moment of Craving
+Soulshaper
+Waste Not
+Entropy
+Sweet Suffering 2
+Sweet Release 2
+Improved Consume
+Voidpurge
+Focused Ray
+Voidrage 2
+Devourer's Edge 2
+Demonic Instinct 2
+Rolling Torment
+Impending Apocalypse
+Calamitous
+Star Fragments
+Eradicate
+Emptiness
+Midnight 1
+Midnight 2
+Midnight 1
+		0 	0
+Powerpegging
+Evoker (Augmentation)
+290 Item Level
+Expunge
+Obsidian Scales
+Landslide
+Natural Convergence
+Verdant Embrace
+Heavy Wingbeats
+Obsidian Bulwark
+Innate Magic 2
+Cauterizing Flame
+Inner Radiance
+Clobbering Sweep
+Attuned to the Dream 2
+Instinctive Arcana 2
+Tip the Scales
+Draconic Legacy
+Extended Flight 2
+Inherent Resistance 2
+Exuberance
+Blast Furnace
+Panacea
+Renewing Blaze
+Rescue
+Stretch Time
+Source of Magic
+Foci of Life
+Leaping Flames
+Aerial Mastery
+Potent Mana
+Terror of the Skies
+Zephyr
+Spatial Paradox
+
+Ebon Might
+Eruption
+Essence Burst
+Ricocheting Pyroclast
+Essence Attunement
+Pupil of Alexstrasza
+Quell
+Upheaval
+Defy Fate
+Breath of Eons
+Power Nexus
+Volcanism
+Ignition Rush
+Chrono Ward
+Bestow Weyrnstone
+Draconic Attunements
+Prescience
+Tectonic Locus
+Momentum Shift
+Fate Mirror
+Hoarded Power
+Anachronism
+Inferno's Blessing
+Accretion
+Time Skip
+Imminent Destruction
+Rumbling Earth
+Plot the Future
+Interwoven Threads
+Mighty Inferno
+Duplicate 1
+Duplicate 2
+Duplicate 1
+		1 	1
+Maggez
+Mage (Frost)
+288 Item Level
+Ice Barrier
+Alter Time
+Ice Block
+Winter's Protection 2
+Time Walk
+Frost Conditioning
+Arcane Warding 2
+Inspired Intellect
+Mirror Image
+Quick Witted
+Remove Curse
+Supernova
+Spellsteal
+Shimmer
+Greater Invisibility
+Overflowing Energy
+Improved Counterspell
+Tome of Antonidas
+Tome of Rhonin
+Captured Thoughts
+Master of Escape
+Improved Frost Nova
+Flow of Time
+Charm of Medivh
+Charm of Aegwynn
+Brainstorm
+Permafrost Bauble
+Barrier Diffusion
+Energized Barriers
+Mass Invisibility
+Ice Cold
+Spatial Manipulation
+Improved Ice Barrier
+
+Ice Lance
+Fingers of Frost
+Blizzard
+Frostbite
+Icicles
+Frozen Orb
+Flurry
+Glacial Bulwark
+Ray of Frost
+Permafrost Lances
+Brain Freeze
+Everlasting Frost
+Splitting Ice
+Splintering Ray
+Flash Freeze
+Winter's Blessing
+Freezing Rain
+Fractured Frost
+Wintertide
+Improved Shatter
+Deep Shatter
+Glacial Attunement 2
+Heart of Ice
+Glacial Assault
+Improved Flurry
+Crystalline Refraction
+Lonely Winter
+Thermal Void
+Glaciate
+Hand of Frost 1
+Hand of Frost 2
+Hand of Frost 1
+		2 	1
+Healers
+
+Class Talents
+
+Spec Talents
+
+Gear
+
+Combat Potions
+
+Healthstones & Potions
+Føurset
+Druid (Restoration)
+237 Item Level 				0 	0
+Ginjuk
+Shaman (Restoration)
+285 Item Level
+Lava Burst
+Chain Heal
+Chain Lightning
+Thunderous Paws
+Earth Shield
+Spirit Walk
+Elemental Orbit
+Nature's Guardian
+Astral Shift
+Brimming with Life 2
+Healing Stream Totem
+Planes Traveler
+Winds of Al'Akir 1
+Wind Shear
+Elemental Resistance
+Enhanced Imbues
+Spiritual Awakening
+Capacitor Totem
+Windveil
+Refreshing Waters
+Wind Rush Totem
+Improved Purify Spirit
+Nature's Fury 2
+Jet Stream
+Purge
+Spiritwalker's Grace
+Elemental Warding
+Totemic Projection
+Therazane's Resilience
+Graceful Spirit
+Nature's Swiftness
+Instinctive Imbuements
+Totemic Surge
+
+Riptide
+Healing Stream Totem
+Healing Rain
+Water Totem Mastery
+Healing Tide Totem
+Acid Rain
+Living Stream
+Resurgence
+First Ascendant
+Ancestral Vigor 2
+White Water
+Quickstream
+Earthliving Weapon
+Unleash Life
+Torrent
+Flow of the Tides
+Deluge
+Tidal Waves
+Improved Earthliving Weapon
+Earthen Accord
+Spirit Link Totem
+Echo of the Elements
+Earthen Harmony
+Ancestral Awakening 2
+Spouting Spirits
+Primal Tide Core
+Coalescing Water
+Deeply Rooted Elements
+Stormstream Totem 1
+Stormstream Totem 2
+Stormstream Totem 1
+		0 	1
+Warcraft Logs Logo
+HEY THERE.We all want Warcraft Logs to remain free.
+We work hard to offer you the best possible experience.
+Help us by disabling your Adblock or supporting us on Patreon.

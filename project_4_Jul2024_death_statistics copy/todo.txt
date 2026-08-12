@@ -1,0 +1,17 @@
+Ability casts:
+https://www.warcraftlogs.com/reports/3w9g1HB6Rbaq2YLk#fight=last&type=casts&hostility=1&by=ability
+
+Enemies killed (kill order)
+https://www.warcraftlogs.com/reports/3w9g1HB6Rbaq2YLk#fight=last&type=deaths&hostility=1
+
+Allies killed (lethal abilities)
+https://www.warcraftlogs.com/reports/3w9g1HB6Rbaq2YLk#fight=last&type=deaths
+
+Summary Events (Encounter ID, player Specs)
+https://www.warcraftlogs.com/reports/hA3zJr19qwgFaQDN#fight=last&view=events
+
+Log encounters (Find correct dungeon / encounter)
+https://www.warcraftlogs.com/reports/AQtwx8MDV43KTFrP
+
+Logs (find logs)
+https://www.warcraftlogs.com/zone/reports?zone=39&boss=12660&page=2

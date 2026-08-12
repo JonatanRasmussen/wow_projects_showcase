@@ -1,0 +1,54 @@
+I have generated loot tables covering what each spec is capable of acquiring from M+ and Raid in Season 2 of Dragonflight.
+
+These tables can help you target specific gear slots / stats, making it easier to plan out which dungeons are worth running. It also shows what type of gear you are most likely to loot; for example, some classes will really struggle to see a Two Hand weapon drop in M+, and these tables highlight that. This can impact how you spend your sparks, which loot spec you choose when running your dungeons, and maybe even what you pick from your vault.
+
+About the formatting: Item names have been replaced by its secondary stats. C is Crit, H is Haste, M is Mastery, and V is Vers. For example, M>H should be read as Mastery>Haste, signalling that the item contains more Mastery than Haste. For trinkets, a shortened name is used.
+
+The 'Vault' column shows how likely each gear type is to show up in your vault (assuming everything is weighted equally). NOTE: I have included the 5 tier-set pieces from the raid in these calculations, as tier-set gear can show up in your M+ vault (equal weight is assumed).
+
+I have shortened the dungeon names and boss names as follows:
+
+**Dungeons:**
+
+* BH = Brackenhide Hollow
+* HoI = Halls of Infusion
+* Nel = Neltharus
+* Ul = Uldaman
+* Fh = Freehold
+* NL = Neltharion's Lair
+* TU = The Underrot
+* VP = Vortex Pinnacle
+* Vault = The Great Vault (Weekly)
+
+**Raid bosses (in order):**
+
+* Kaz = Kazzara
+* Ama = The Amalgamation Chamber
+* Zaq = Assault on the Zaqali
+* Exp = The Forgotten Experiments
+* Ras = Rashok
+* Zsk = Zskarn
+* Mag = Magmorax
+* Nel = Echo of Neltharion
+* Sar = Sarkareth
+
+Major credit goes to /u/Amasoful for creating an amazing [loot spreadsheet](https://www.reddit.com/r/CompetitiveWoW/comments/12mkq19/df_season2_loot_spreadsheet/).
+
+The tables have been automatically generated (but manually verified; let me know if you find a bug). Scroll down to find your class/spec, they are listed in alphabetical order based on class name:
+
+* 🔴Death Knight
+* 🟣Demon Hunter
+* 🔵Evoker
+* 🟢Hunter
+* 🔵Mage
+* 🟢Monk
+* 🔴Paladin
+* ⚪Priest
+* 🟡Rogue
+* 🔵Shaman
+* 🟣Warlock
+* 🟤Warrior
+
+If multiple specs within a class share the same loot table, they have been grouped together.
+
+**If the tables are unreadable on your device, please let me know!**

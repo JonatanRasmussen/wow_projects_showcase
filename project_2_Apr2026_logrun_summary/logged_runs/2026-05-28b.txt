@@ -1,0 +1,607 @@
+
+
+    Midnight
+    Mists of Pandaria
+    Classic Fresh
+    Season of Discovery
+    Vanilla
+
+Warcraft Logs
+Enter a player, guild, or realm
+Enter a player, guild, or realm
+Search
+135
+Download Archon App
+
+    Deutsch
+    English
+    Español
+    Français
+    Italiano
+    Português (Brasil)
+    Русский
+    한국어
+    繁體中文
+    简体中文
+
+Mythic+ Season 1
+Created by BudoBoy07 on Thu May 28 2026
+
+    Edit Report
+    Delete Report
+    Make Private
+    View in Anonymous Mode
+
+Settings
++
+
+    VS / DR / MQD
+    BudoBoy07 - (Public) - 1 hour ago
+    Mythic+ Season 1
+    BudoBoy07 - (Public) - 1 hour ago
+    Sporefall
+    BudoBoy07 - (Public) - 2 months ago
+    Sporefall
+    BudoBoy07 - (Public) - 2 months ago
+
+BudoBoy07
+Personal Logs
++
+Skyreach+
++22 [Tyrannical] [Fortified] [Xal'atath's Guile] 1 (5:44) 1:04 AM
+
+    + Bosses and Trash
+        Bosses and Trash
+        Bosses
+        Trash
+        Ranjit
+        Araknath
+        Rukhran
+        High Save Viryx
+        Pull 1 (0:36) +0:09
+        Dread Raven
+
+Entire Dungeon
+
+    + All Friendlies
+        Jamesv
+        +Nepholdru
+            Dread Shade
+
+            ID: 251422
+        +Powerpegging
+            +Dracthyr Commando
+                1
+
+                2
+
+                3
+
+                4
+
+            ID: 219827
+            +Future Self
+                1
+
+                2
+
+            ID: 253466
+        Zazzïn
+        +Alextotem
+            +Healing Stream Totem
+                1
+
+                2
+
+            ID: 3527
+            Stormstream Totem
+
+            ID: 256196
+            Surging Totem
+
+            ID: 225409
+        Ashashammy
+        Cyberpower
+        Holdmychi
+
+
+
+
+
+
+Friendlies Enemies
+Summary
+Damage Done
+Damage Taken
+Healing
+Threat
+Buffs
+Debuffs
+Deaths
+Interrupts
+Dispels
+Resources
+Casts
+
+    +Ignore Events After Player Deaths
+        Ignore Events After Player Deaths
+        Ignore Events After A Called Wipe
+
+Filter Expression:
+
+    +
+        Heroism
+        Downtime
+        Player Deaths
+        Player Resurrections
+        Boss Deaths
+        NPC Deaths
+        Show All Entries
+        Hide All Entries
+
+ZoomPer Second AmountDamage DoneDamage TakenHealing Done00:0000:3001:0001:3002:0002:3003:0003:3004:0004:3005:0005:300M1M2M3M4M
+Group Composition Item Level: 286.38
+Tanks:	Nepholdru
+DPS:	Jamesv Powerpegging Zazzïn
+Healers:	Alextotem
+Damage Done By Source
+Name
+
+Amount
+
+DPS
+
+Zazzïn
+39.34%
+19.80m 	57,524.5
+Powerpegging
+29.30%
+14.74m 	42,847.6
+Jamesv
+19.60%
+9.86m 	28,660.6
+Nepholdru
+10.51%
+5.29m 	15,373.7
+Alextotem
+1.24%
+626.4k 	1,820.3
+Healing Done By Source
+Name
+
+Amount
+
+HPS
+
+Nepholdru
+40.74%
+4.39m 	12,757.5
+Alextotem
+35.30%
+3.80m 	11,053.3
+Powerpegging
+10.71%
+1.15m 	3,354.1
+Jamesv
+10.12%
+1.09m 	3,169.5
+Zazzïn
+3.13%
+337.3k 	980.3
+Damage Taken By Ability
+Name
+
+Amount
+
+DTPS
+
+Melee
+61.39%
+9.09m 	26,429.0
+Blade Rush
+15.06%
+2.23m 	6,485.2
+Wind Claws
+8.24%
+1.22m 	3,545.9
+Ricocheting Chakram
+7.44%
+1.10m 	3,203.9
+Shear
+3.50%
+518.8k 	1,507.6
+Dire Screech
+2.53%
+374.6k 	1,088.5
+Dread Wind
+1.84%
+272.2k 	790.9
+Deaths
+Name
+
+Killing Blow
+
+Time
+
+Nepholdru 	Melee 	0:34
+Jamesv 	Melee 	0:35
+Powerpegging 	Melee 	0:38
+Alextotem 	Melee 	0:39
+Zazzïn 	Melee 	0:46
+Characters
+Tanks
+
+Class Talents
+
+Spec Talents
+
+Gear
+
+Combat Potions
+
+Healthstones & Potions
+Nepholdru
+Druid (Guardian)
+288 Item Level
+Rake
+Frenzied Regeneration
+Ursoc's Spirit
+Grievous Wounds
+Swipe
+Remove Corruption
+Verdant Heart
+Nurturing Instinct 2
+Killer Instinct 2
+Ironfur
+Improved Barkskin
+Natural Recovery
+Thick Hide
+Skull Bash
+Wild Charge
+Soothe
+Aessina's Renewal
+Typhoon
+Stampeding Roar
+Well-Honed Instincts
+Feline Swiftness
+Lingering Healing
+Matted Fur 1
+Ursol's Vortex
+Lycara's Teachings 2
+Gift of the Wild
+Oakskin
+Lore of the Grove
+Improved Stampeding Roar
+Incapacitating Roar
+Lycara's Inspiration
+Circle of the Wild
+Heart of the Wild
+Fluid Form
+
+Maul
+Gore
+Survival Instincts
+Persistence
+Dream Guide
+Vulnerable Flesh
+Berserk
+Innate Resolve
+After the Wildfire
+Survival of the Fittest 2
+Scintillating Moonlight 2
+Reinvigoration 1
+Ursol's Warding
+Natural Resilience
+Reinforced Fur
+Gift of an Ancient Guardian
+Ursoc's Endurance
+Rend and Tear
+Lunar Beam
+Fury of Nature 2
+Blood Frenzy
+Twin Moonfire
+Flashing Claws 2
+Ursoc's Fury
+Elune's Favored
+Incarnation: Guardian of Ursoc
+Ursoc's Guidance
+Galactic Guardian
+Sundering Roar
+Waking Nightmare
+		2 	0
+DPS
+
+Class Talents
+
+Spec Talents
+
+Gear
+
+Combat Potions
+
+Healthstones & Potions
+Jamesv
+Demon Hunter (Devourer)
+288 Item Level
+Vengeful Retreat
+Sigil of Misery
+Voidblade
+Unrestrained Fury
+Shattered Restoration
+Bouncing Glaives
+Imprison
+Improved Disrupt
+Consume Magic
+Void Nova
+Aura of Pain
+Disrupting Fury
+Blazing Path
+Focused Ire
+Swallowed Anger
+Soul Rending 2
+Pursuit
+Soul Cleanse
+Illidari Knowledge 2
+Will of the Illidari 2
+Guile
+Remorseless
+Internal Struggle
+First In, Last Out
+Furious
+Demon Muzzle
+Soul Splitter 2
+Darkness
+Final Breath
+Pitch Black
+Demonic Resilience
+
+Void Ray
+Soul Immolation
+Predator's Thirst
+Void Metamorphosis
+Feast of Souls
+Tempered Soul
+Collapsing Star
+Moment of Craving
+Soulshaper
+Waste Not
+Entropy
+Sweet Suffering 2
+Sweet Release 2
+Improved Consume
+Voidpurge
+Focused Ray
+Voidrage 2
+Devourer's Edge 2
+Demonic Instinct 2
+Rolling Torment
+Impending Apocalypse
+Calamitous
+Star Fragments
+Eradicate
+Emptiness
+Midnight 1
+Midnight 2
+Midnight 1
+		3 	0
+Powerpegging
+Evoker (Augmentation)
+290 Item Level
+Expunge
+Obsidian Scales
+Landslide
+Natural Convergence
+Verdant Embrace
+Heavy Wingbeats
+Obsidian Bulwark
+Innate Magic 2
+Cauterizing Flame
+Inner Radiance
+Clobbering Sweep
+Attuned to the Dream 2
+Sleep Walk
+Instinctive Arcana 2
+Tip the Scales
+Draconic Legacy
+Extended Flight 2
+Inherent Resistance 2
+Blast Furnace
+Panacea
+Renewing Blaze
+Rescue
+Source of Magic
+Foci of Life
+Oppressing Roar
+Leaping Flames
+Aerial Mastery
+Potent Mana
+Overawe
+Zephyr
+Spatial Paradox
+
+Ebon Might
+Eruption
+Essence Burst
+Ricocheting Pyroclast
+Essence Attunement
+Pupil of Alexstrasza
+Quell
+Upheaval
+Defy Fate
+Breath of Eons
+Power Nexus
+Volcanism
+Bestow Weyrnstone
+Ignition Rush
+Chrono Ward
+Draconic Attunements
+Prescience
+Tectonic Locus
+Momentum Shift
+Fate Mirror
+Hoarded Power
+Anachronism
+Inferno's Blessing
+Accretion
+Time Skip
+Imminent Destruction
+Rumbling Earth
+Plot the Future
+Interwoven Threads
+Mighty Inferno
+Duplicate 1
+Duplicate 2
+Duplicate 1
+		3 	0
+Zazzïn
+Paladin (Retribution)
+290 Item Level
+Lay on Hands
+Auras of the Resolute
+Hammer of Wrath
+Cleanse Toxins
+Blinding Light
+Fist of Justice
+Divine Steed
+Healing Hands
+Guided Prayer
+Greater Judgment
+Cavalier
+Blessing of Freedom
+Shield of Vengeance
+Rebuke
+Obduracy 2
+Sanctified Plates 2
+Unbound Freedom
+Divine Toll
+Punishment
+Consecrated Ground
+Blessing of Sacrifice
+Blessing of Protection
+Quickened Invocation
+Holy Aegis
+Unbreakable Spirit
+Divine Purpose
+Inspired Guard
+Lead the Charge
+Light's Revocation
+Seal of Might 2
+Vengeful Wrath 2
+Lightbearer
+Blessing of Dusk
+
+Blade of Justice
+Divine Storm
+Expurgation
+Avenging Wrath
+Light of Justice
+Art of War
+Final Verdict
+Holy Blade
+Holy Flames
+Tempest of the Lightbringer
+Rush of Light
+Sanctify
+Improved Judgment
+Blade of Vengeance
+Zealot's Fervor 2
+Highlord's Wrath
+Blessed Champion
+Burning Crusade
+Crusading Strikes
+Wake of Ashes
+Divine Wrath 2
+Blades of Light 2
+Seething Flames
+Execution Sentence
+Empyrean Legacy
+Burn to Ash
+Crusade
+Light Within 1
+Light Within 2
+Light Within 1
+		3 	0
+Healers
+
+Class Talents
+
+Spec Talents
+
+Gear
+
+Combat Potions
+
+Healthstones & Potions
+Alextotem
+Shaman (Restoration)
+286 Item Level
+Lava Burst
+Chain Heal
+Chain Lightning
+Thunderous Paws
+Earth Shield
+Gust of Wind
+Elemental Orbit
+Nature's Guardian
+Astral Shift
+Brimming with Life 2
+Healing Stream Totem
+Planes Traveler
+Wind Shear
+Elemental Resistance
+Enhanced Imbues
+Spiritual Awakening
+Capacitor Totem
+Windveil
+Refreshing Waters
+Wind Rush Totem
+Earth Elemental
+Nature's Fury 2
+Primordial Bond
+Purge
+Spiritwalker's Grace
+Elemental Warding
+Totemic Focus
+Totemic Projection
+Therazane's Resilience
+Graceful Spirit
+Nature's Swiftness
+Instinctive Imbuements
+Totemic Surge
+
+Riptide
+Healing Stream Totem
+Healing Rain
+Water Totem Mastery
+Healing Tide Totem
+Acid Rain
+Living Stream
+Resurgence
+First Ascendant
+Ancestral Vigor 2
+White Water
+Quickstream
+Earthliving Weapon
+Unleash Life
+Torrent
+Ancestral Reach
+Deluge
+Tidal Waves
+Improved Earthliving Weapon
+Earthen Accord
+Spirit Link Totem
+Echo of the Elements
+Earthen Harmony
+Ancestral Awakening 2
+Spouting Spirits
+Primal Tide Core
+Coalescing Water
+Deeply Rooted Elements
+Stormstream Totem 1
+Stormstream Totem 2
+Stormstream Totem 1
+		2 	0
+Warcraft Logs Logo
+HEY THERE.We all want Warcraft Logs to remain free.
+We work hard to offer you the best possible experience.
+Help us by disabling your Adblock or supporting us on Patreon.

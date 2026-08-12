@@ -1,0 +1,1237 @@
+
+***
+&nbsp;
+#🔴Blood Death Knight  
+  
+M+ s2|BH|HoI|Nel|Ul|Fh|NL|TU|VP|Vault|
+---|---|---|---|---|---|---|---|---|---
+Head|V>H|M>V|-|H>C|-|M>H|-|M>C, C>H|9%|
+Shoulder|-|V>M|-|C>H|-|M>C|-|-|5%|
+Chest|-|-|-|-|-|H>V|C>H|-|4%|
+Hand|-|M>C|H>V|C>M|V>H|V>H|-|-|7%|
+Legs|-|-|M>H|-|M>H|H>M|H>C|M>C|7%|
+Wrist|V>H|-|-|H>C|V>C|C>H|C>M|-|6%|
+Waist|H>V|C>M|-|-|H>V|H>C|M>V|-|6%|
+Feet|-|-|-|-|-|H>V|H>V|C>M|4%|
+Two Hand|M>C|C>M|H>C|-|H>V|H>V|M>V|M>H|9%|
+Neck|C>V|-|-|H>M|-|C>M, C>V|-|V>H, M>H, C>M|9%|
+Back|-|-|M>C|-|C>M|M>C|V>C|V>M, C>H, C>M|9%|
+Ring|M>V|H>V|M>C|C>H|H>C|H>M, C>V|H>M|V>C, C>H|12%|
+Trinket|Tree, Fren|Irid|Muta|Home, Inex|-|Shar, Mark, Tali|Ling, Vial|Hear|15%|
+  
+&nbsp;  
+  
+Raid s2|Kaz|Ama|Zaq|Exp|Ras|Zsk|Mag|Nel|Sar|
+---|---|---|---|---|---|---|---|---|---
+Head|-|-|-|-|M>V|-|Tier|-|-|
+Shoulder|-|C>M|-|-|-|-|-|Tier|-|
+Chest|-|-|-|-|-|Tier|-|-|M>C|
+Hand|-|-|Tier|-|-|-|-|V>M|-|
+Legs|-|-|-|H>V|Tier|-|-|-|-|
+Wrist|-|-|H>M|-|-|-|-|-|H>C|
+Waist|-|-|-|H>C|-|H>M|-|-|-|
+Feet|C>V|-|-|-|-|-|C>H|-|-|
+Two Hand|H>M|-|-|-|-|-|-|M>C|-|
+Neck|-|-|-|C>H|-|-|M>V|-|-|
+Back|C>H|-|-|-|-|V>M|-|-|C>H|
+Ring|-|M>H|-|-|V>C|-|-|C>H|-|
+Trinket|Endu, Scre|Elem|Omin|Zaqa|-|-|-|Ward, Nelt|Beac|
+
+***
+&nbsp;
+#🔴Frost Death Knight  
+  
+M+ s2|BH|HoI|Nel|Ul|Fh|NL|TU|VP|Vault|
+---|---|---|---|---|---|---|---|---|---
+Head|V>H|M>V|-|H>C|-|M>H|-|M>C, C>H|9%|
+Shoulder|-|V>M|-|C>H|-|M>C|-|-|5%|
+Chest|-|-|-|-|-|H>V|C>H|-|4%|
+Hand|-|M>C|H>V|C>M|V>H|V>H|-|-|8%|
+Legs|-|-|M>H|-|M>H|H>M|H>C|M>C|8%|
+Wrist|V>H|-|-|H>C|V>C|C>H|C>M|-|6%|
+Waist|H>V|C>M|-|-|H>V|H>C|M>V|-|6%|
+Feet|-|-|-|-|-|H>V|H>V|C>M|4%|
+One Hand|-|V>H|H>C|-|V>C|-|-|M>C|5%|
+Two Hand|M>C|C>M|H>C|-|H>V|H>V|M>V|M>H|9%|
+Neck|C>V|-|-|H>M|-|C>M, C>V|-|V>H, M>H, C>M|9%|
+Back|-|-|M>C|-|C>M|M>C|V>C|V>M, C>H, C>M|9%|
+Ring|M>V|H>V|M>C|C>H|H>C|H>M, C>V|H>M|V>C, C>H|12%|
+Trinket|Fren|Irid|Muta|Home|-|Mark|Vial|-|8%|
+  
+&nbsp;  
+  
+Raid s2|Kaz|Ama|Zaq|Exp|Ras|Zsk|Mag|Nel|Sar|
+---|---|---|---|---|---|---|---|---|---
+Head|-|-|-|-|M>V|-|Tier|-|-|
+Shoulder|-|C>M|-|-|-|-|-|Tier|-|
+Chest|-|-|-|-|-|Tier|-|-|M>C|
+Hand|-|-|Tier|-|-|-|-|V>M|-|
+Legs|-|-|-|H>V|Tier|-|-|-|-|
+Wrist|-|-|H>M|-|-|-|-|-|H>C|
+Waist|-|-|-|H>C|-|H>M|-|-|-|
+Feet|C>V|-|-|-|-|-|C>H|-|-|
+One Hand|-|V>H|-|-|-|H>C|-|-|-|
+Two Hand|H>M|-|-|-|-|-|-|M>C|-|
+Neck|-|-|-|C>H|-|-|M>V|-|-|
+Back|C>H|-|-|-|-|V>M|-|-|C>H|
+Ring|-|M>H|-|-|V>C|-|-|C>H|-|
+Trinket|Scre|Elem|Omin|Zaqa|-|-|-|Nelt|Beac|
+
+***
+&nbsp;
+#🔴Unholy Death Knight  
+  
+M+ s2|BH|HoI|Nel|Ul|Fh|NL|TU|VP|Vault|
+---|---|---|---|---|---|---|---|---|---
+Head|V>H|M>V|-|H>C|-|M>H|-|M>C, C>H|9%|
+Shoulder|-|V>M|-|C>H|-|M>C|-|-|5%|
+Chest|-|-|-|-|-|H>V|C>H|-|4%|
+Hand|-|M>C|H>V|C>M|V>H|V>H|-|-|8%|
+Legs|-|-|M>H|-|M>H|H>M|H>C|M>C|8%|
+Wrist|V>H|-|-|H>C|V>C|C>H|C>M|-|7%|
+Waist|H>V|C>M|-|-|H>V|H>C|M>V|-|7%|
+Feet|-|-|-|-|-|H>V|H>V|C>M|4%|
+Two Hand|M>C|C>M|H>C|-|H>V|H>V|M>V|M>H|9%|
+Neck|C>V|-|-|H>M|-|C>M, C>V|-|V>H, M>H, C>M|9%|
+Back|-|-|M>C|-|C>M|M>C|V>C|V>M, C>H, C>M|9%|
+Ring|M>V|H>V|M>C|C>H|H>C|H>M, C>V|H>M|V>C, C>H|13%|
+Trinket|Fren|Irid|Muta|Home|-|Mark|Vial|-|8%|
+  
+&nbsp;  
+  
+Raid s2|Kaz|Ama|Zaq|Exp|Ras|Zsk|Mag|Nel|Sar|
+---|---|---|---|---|---|---|---|---|---
+Head|-|-|-|-|M>V|-|Tier|-|-|
+Shoulder|-|C>M|-|-|-|-|-|Tier|-|
+Chest|-|-|-|-|-|Tier|-|-|M>C|
+Hand|-|-|Tier|-|-|-|-|V>M|-|
+Legs|-|-|-|H>V|Tier|-|-|-|-|
+Wrist|-|-|H>M|-|-|-|-|-|H>C|
+Waist|-|-|-|H>C|-|H>M|-|-|-|
+Feet|C>V|-|-|-|-|-|C>H|-|-|
+Two Hand|H>M|-|-|-|-|-|-|M>C|-|
+Neck|-|-|-|C>H|-|-|M>V|-|-|
+Back|C>H|-|-|-|-|V>M|-|-|C>H|
+Ring|-|M>H|-|-|V>C|-|-|C>H|-|
+Trinket|Scre|Elem|Omin|Zaqa|-|-|-|Nelt|Beac|
+
+***
+&nbsp;
+#🟣Havoc Demon Hunter  
+  
+M+ s2|BH|HoI|Nel|Ul|Fh|NL|TU|VP|Vault|
+---|---|---|---|---|---|---|---|---|---
+Head|-|-|-|H>M|-|H>V|-|-|4%|
+Shoulder|-|H>V|-|M>C|-|H>V|-|M>H|7%|
+Chest|-|-|V>H|-|-|C>V|H>M|-|6%|
+Hand|C>H|-|-|-|M>V|H>C|H>C|C>M|8%|
+Legs|-|-|M>V|V>H|M>H|M>C|C>V|-|8%|
+Wrist|V>C|-|-|-|V>H|M>H|C>M|-|6%|
+Waist|-|V>M|-|C>V|-|C>M|H>M|-|6%|
+Feet|C>M|V>M|-|M>C|C>M|H>C|-|-|7%|
+One Hand|-|-|C>V|-|-|-|X>X|-|3%|
+Neck|C>V|-|-|H>M|-|C>M, C>V|-|V>H, M>H, C>M|10%|
+Back|-|-|M>C|-|C>M|M>C|V>C|V>M, C>H, C>M|10%|
+Ring|M>V|H>V|M>C|C>H|H>C|H>M, C>V|H>M|V>C, C>H|14%|
+Trinket|-|Irid, Glob|Erup, Muta|Home|Harl|Mark, Nara|-|-|11%|
+  
+&nbsp;  
+  
+Raid s2|Kaz|Ama|Zaq|Exp|Ras|Zsk|Mag|Nel|Sar|
+---|---|---|---|---|---|---|---|---|---
+Head|M>V|-|-|-|-|-|Tier|-|-|
+Shoulder|-|-|H>V|-|-|-|-|Tier|-|
+Chest|-|-|-|C>M|-|Tier|-|-|-|
+Hand|-|-|Tier|-|-|-|-|-|V>C|
+Legs|-|M>C|-|-|Tier|-|-|-|-|
+Wrist|V>H|-|-|-|-|-|V>M|-|-|
+Waist|-|-|-|-|V>H|-|-|-|C>M|
+Feet|-|-|-|V>M|-|C>V|-|-|-|
+One Hand|-|-|H>C|C>V|-|-|M>H|-|-|
+Neck|-|-|-|C>H|-|-|M>V|-|-|
+Back|C>H|-|-|-|-|V>M|-|-|C>H|
+Ring|-|M>H|-|-|V>C|-|-|C>H|-|
+Trinket|Scre|Elem|Omin|-|-|Drag|Igne|Nelt|Beac|
+
+***
+&nbsp;
+#🟣Vengeance Demon Hunter  
+  
+M+ s2|BH|HoI|Nel|Ul|Fh|NL|TU|VP|Vault|
+---|---|---|---|---|---|---|---|---|---
+Head|-|-|-|H>M|-|H>V|-|-|4%|
+Shoulder|-|H>V|-|M>C|-|H>V|-|M>H|6%|
+Chest|-|-|V>H|-|-|C>V|H>M|-|5%|
+Hand|C>H|-|-|-|M>V|H>C|H>C|C>M|8%|
+Legs|-|-|M>V|V>H|M>H|M>C|C>V|-|8%|
+Wrist|V>C|-|-|-|V>H|M>H|C>M|-|5%|
+Waist|-|V>M|-|C>V|-|C>M|H>M|-|5%|
+Feet|C>M|V>M|-|M>C|C>M|H>C|-|-|6%|
+One Hand|-|-|C>V|-|-|-|X>X|-|3%|
+Neck|C>V|-|-|H>M|-|C>M, C>V|-|V>H, M>H, C>M|9%|
+Back|-|-|M>C|-|C>M|M>C|V>C|V>M, C>H, C>M|9%|
+Ring|M>V|H>V|M>C|C>H|H>C|H>M, C>V|H>M|V>C, C>H|13%|
+Trinket|Tree|Irid, Glob|Erup, Muta|Home, Inex|Harl|Shar, Mark, Tali, Nara|Ling|Hear|18%|
+  
+&nbsp;  
+  
+Raid s2|Kaz|Ama|Zaq|Exp|Ras|Zsk|Mag|Nel|Sar|
+---|---|---|---|---|---|---|---|---|---
+Head|M>V|-|-|-|-|-|Tier|-|-|
+Shoulder|-|-|H>V|-|-|-|-|Tier|-|
+Chest|-|-|-|C>M|-|Tier|-|-|-|
+Hand|-|-|Tier|-|-|-|-|-|V>C|
+Legs|-|M>C|-|-|Tier|-|-|-|-|
+Wrist|V>H|-|-|-|-|-|V>M|-|-|
+Waist|-|-|-|-|V>H|-|-|-|C>M|
+Feet|-|-|-|V>M|-|C>V|-|-|-|
+One Hand|-|-|H>C|C>V|-|-|M>H|-|-|
+Neck|-|-|-|C>H|-|-|M>V|-|-|
+Back|C>H|-|-|-|-|V>M|-|-|C>H|
+Ring|-|M>H|-|-|V>C|-|-|C>H|-|
+Trinket|Endu, Scre|Elem|Omin|-|-|Drag|Igne|Ward, Nelt|Beac|
+
+***
+&nbsp;
+#🟠Balance Druid  
+  
+M+ s2|BH|HoI|Nel|Ul|Fh|NL|TU|VP|Vault|
+---|---|---|---|---|---|---|---|---|---
+Head|-|-|-|H>M|-|H>V|-|-|4%|
+Shoulder|-|H>V|-|M>C|-|H>V|-|M>H|6%|
+Chest|-|-|V>H|-|-|C>V|H>M|-|5%|
+Hand|C>H|-|-|-|M>V|H>C|H>C|C>M|8%|
+Legs|-|-|M>V|V>H|M>H|M>C|C>V|-|8%|
+Wrist|V>C|-|-|-|V>H|M>H|C>M|-|5%|
+Waist|-|V>M|-|C>V|-|C>M|H>M|-|5%|
+Feet|C>M|V>M|-|M>C|C>M|H>C|-|-|6%|
+One Hand|M>C|-|M>V|-|-|-|H>C|C>H|5%|
+Off-hand|-|H>M|C>H|-|-|H>C|-|-|4%|
+Two Hand|M>H|-|-|H>C|-|-|-|-|3%|
+Neck|C>V|-|-|H>M|-|C>M, C>V|-|V>H, M>H, C>M|9%|
+Back|-|-|M>C|-|C>M|M>C|V>C|V>M, C>H, C>M|9%|
+Ring|M>V|H>V|M>C|C>H|H>C|H>M, C>V|H>M|V>C, C>H|13%|
+Trinket|Idol|Irid|Spoi, Erup|Time|-|Nara|Rotc|-|9%|
+  
+&nbsp;  
+  
+Raid s2|Kaz|Ama|Zaq|Exp|Ras|Zsk|Mag|Nel|Sar|
+---|---|---|---|---|---|---|---|---|---
+Head|M>V|-|-|-|-|-|Tier|-|-|
+Shoulder|-|-|H>V|-|-|-|-|Tier|-|
+Chest|-|-|-|C>M|-|Tier|-|-|-|
+Hand|-|-|Tier|-|-|-|-|-|V>C|
+Legs|-|M>C|-|-|Tier|-|-|-|-|
+Wrist|V>H|-|-|-|-|-|V>M|-|-|
+Waist|-|-|-|-|V>H|-|-|-|C>M|
+Feet|-|-|-|V>M|-|C>V|-|-|-|
+One Hand|-|-|-|-|H>V|C>M|H>V|-|-|
+Off-hand|-|-|M>H|-|-|-|-|M>H|-|
+Two Hand|-|-|-|-|-|-|-|-|V>H|
+Neck|-|-|-|C>H|-|-|M>V|-|-|
+Back|C>H|-|-|-|-|V>M|-|-|C>H|
+Ring|-|M>H|-|-|V>C|-|-|C>H|-|
+Trinket|Scre|Vess|Omin|-|-|-|Igne|Nelt|Beac|
+
+***
+&nbsp;
+#🟠Feral Druid  
+  
+M+ s2|BH|HoI|Nel|Ul|Fh|NL|TU|VP|Vault|
+---|---|---|---|---|---|---|---|---|---
+Head|-|-|-|H>M|-|H>V|-|-|4%|
+Shoulder|-|H>V|-|M>C|-|H>V|-|M>H|7%|
+Chest|-|-|V>H|-|-|C>V|H>M|-|6%|
+Hand|C>H|-|-|-|M>V|H>C|H>C|C>M|8%|
+Legs|-|-|M>V|V>H|M>H|M>C|C>V|-|8%|
+Wrist|V>C|-|-|-|V>H|M>H|C>M|-|6%|
+Waist|-|V>M|-|C>V|-|C>M|H>M|-|6%|
+Feet|C>M|V>M|-|M>C|C>M|H>C|-|-|7%|
+Two Hand|C>H|-|-|V>M|-|-|M>H|-|4%|
+Neck|C>V|-|-|H>M|-|C>M, C>V|-|V>H, M>H, C>M|10%|
+Back|-|-|M>C|-|C>M|M>C|V>C|V>M, C>H, C>M|10%|
+Ring|M>V|H>V|M>C|C>H|H>C|H>M, C>V|H>M|V>C, C>H|14%|
+Trinket|-|Irid, Glob|Erup, Muta|Home|Harl|Mark, Nara|-|-|11%|
+  
+&nbsp;  
+  
+Raid s2|Kaz|Ama|Zaq|Exp|Ras|Zsk|Mag|Nel|Sar|
+---|---|---|---|---|---|---|---|---|---
+Head|M>V|-|-|-|-|-|Tier|-|-|
+Shoulder|-|-|H>V|-|-|-|-|Tier|-|
+Chest|-|-|-|C>M|-|Tier|-|-|-|
+Hand|-|-|Tier|-|-|-|-|-|V>C|
+Legs|-|M>C|-|-|Tier|-|-|-|-|
+Wrist|V>H|-|-|-|-|-|V>M|-|-|
+Waist|-|-|-|-|V>H|-|-|-|C>M|
+Feet|-|-|-|V>M|-|C>V|-|-|-|
+Two Hand|-|V>M|-|-|H>M|-|-|-|-|
+Neck|-|-|-|C>H|-|-|M>V|-|-|
+Back|C>H|-|-|-|-|V>M|-|-|C>H|
+Ring|-|M>H|-|-|V>C|-|-|C>H|-|
+Trinket|Scre|Elem|Omin|-|-|Drag|Igne|Nelt|Beac|
+
+***
+&nbsp;
+#🟠Guardian Druid  
+  
+M+ s2|BH|HoI|Nel|Ul|Fh|NL|TU|VP|Vault|
+---|---|---|---|---|---|---|---|---|---
+Head|-|-|-|H>M|-|H>V|-|-|4%|
+Shoulder|-|H>V|-|M>C|-|H>V|-|M>H|6%|
+Chest|-|-|V>H|-|-|C>V|H>M|-|5%|
+Hand|C>H|-|-|-|M>V|H>C|H>C|C>M|8%|
+Legs|-|-|M>V|V>H|M>H|M>C|C>V|-|8%|
+Wrist|V>C|-|-|-|V>H|M>H|C>M|-|5%|
+Waist|-|V>M|-|C>V|-|C>M|H>M|-|5%|
+Feet|C>M|V>M|-|M>C|C>M|H>C|-|-|6%|
+Two Hand|C>H|-|-|V>M|-|-|M>H|-|4%|
+Neck|C>V|-|-|H>M|-|C>M, C>V|-|V>H, M>H, C>M|9%|
+Back|-|-|M>C|-|C>M|M>C|V>C|V>M, C>H, C>M|9%|
+Ring|M>V|H>V|M>C|C>H|H>C|H>M, C>V|H>M|V>C, C>H|13%|
+Trinket|Tree|Irid, Glob|Erup, Muta|Home, Inex|Harl|Shar, Mark, Tali, Nara|Ling|Hear|18%|
+  
+&nbsp;  
+  
+Raid s2|Kaz|Ama|Zaq|Exp|Ras|Zsk|Mag|Nel|Sar|
+---|---|---|---|---|---|---|---|---|---
+Head|M>V|-|-|-|-|-|Tier|-|-|
+Shoulder|-|-|H>V|-|-|-|-|Tier|-|
+Chest|-|-|-|C>M|-|Tier|-|-|-|
+Hand|-|-|Tier|-|-|-|-|-|V>C|
+Legs|-|M>C|-|-|Tier|-|-|-|-|
+Wrist|V>H|-|-|-|-|-|V>M|-|-|
+Waist|-|-|-|-|V>H|-|-|-|C>M|
+Feet|-|-|-|V>M|-|C>V|-|-|-|
+Two Hand|-|V>M|-|-|H>M|-|-|-|-|
+Neck|-|-|-|C>H|-|-|M>V|-|-|
+Back|C>H|-|-|-|-|V>M|-|-|C>H|
+Ring|-|M>H|-|-|V>C|-|-|C>H|-|
+Trinket|Endu, Scre|Elem|Omin|-|-|Drag|Igne|Ward, Nelt|Beac|
+
+***
+&nbsp;
+#🟠Restoration Druid  
+  
+M+ s2|BH|HoI|Nel|Ul|Fh|NL|TU|VP|Vault|
+---|---|---|---|---|---|---|---|---|---
+Head|-|-|-|H>M|-|H>V|-|-|4%|
+Shoulder|-|H>V|-|M>C|-|H>V|-|M>H|6%|
+Chest|-|-|V>H|-|-|C>V|H>M|-|5%|
+Hand|C>H|-|-|-|M>V|H>C|H>C|C>M|8%|
+Legs|-|-|M>V|V>H|M>H|M>C|C>V|-|8%|
+Wrist|V>C|-|-|-|V>H|M>H|C>M|-|5%|
+Waist|-|V>M|-|C>V|-|C>M|H>M|-|5%|
+Feet|C>M|V>M|-|M>C|C>M|H>C|-|-|6%|
+One Hand|M>C|-|M>V|-|-|-|H>C|C>H|5%|
+Off-hand|-|H>M|C>H|-|-|H>C|-|-|4%|
+Two Hand|M>H|-|-|H>C|-|-|-|-|3%|
+Neck|C>V|-|-|H>M|-|C>M, C>V|-|V>H, M>H, C>M|9%|
+Back|-|-|M>C|-|C>M|M>C|V>C|V>M, C>H, C>M|9%|
+Ring|M>V|H>V|M>C|C>H|H>C|H>M, C>V|H>M|V>C, C>H|13%|
+Trinket|Idol|Irid, Wate|Spoi, Erup|Time|-|Nara|Rotc|Rain|11%|
+  
+&nbsp;  
+  
+Raid s2|Kaz|Ama|Zaq|Exp|Ras|Zsk|Mag|Nel|Sar|
+---|---|---|---|---|---|---|---|---|---
+Head|M>V|-|-|-|-|-|Tier|-|-|
+Shoulder|-|-|H>V|-|-|-|-|Tier|-|
+Chest|-|-|-|C>M|-|Tier|-|-|-|
+Hand|-|-|Tier|-|-|-|-|-|V>C|
+Legs|-|M>C|-|-|Tier|-|-|-|-|
+Wrist|V>H|-|-|-|-|-|V>M|-|-|
+Waist|-|-|-|-|V>H|-|-|-|C>M|
+Feet|-|-|-|V>M|-|C>V|-|-|-|
+One Hand|-|-|-|-|H>V|C>M|H>V|-|-|
+Off-hand|-|-|M>H|-|-|-|-|M>H|-|
+Two Hand|-|-|-|-|-|-|-|-|V>H|
+Neck|-|-|-|C>H|-|-|M>V|-|-|
+Back|C>H|-|-|-|-|V>M|-|-|C>H|
+Ring|-|M>H|-|-|V>C|-|-|C>H|-|
+Trinket|Scre|Vess|Omin|-|Rash|-|Igne|Ward, Nelt|Beac|
+
+***
+&nbsp;
+#🔵Devastation Evoker  
+  
+M+ s2|BH|HoI|Nel|Ul|Fh|NL|TU|VP|Vault|
+---|---|---|---|---|---|---|---|---|---
+Head|-|C>M|H>C|-|-|H>V|-|-|5%|
+Shoulder|H>V|-|-|-|-|H>C|-|H>C|5%|
+Chest|-|V>C|H>M|C>V|-|C>H|-|-|6%|
+Hand|-|H>V|-|V>H|V>H|M>C|C>V|-|8%|
+Legs|M>V|-|-|-|-|C>M|H>C|-|5%|
+Wrist|-|-|V>C|H>M|H>V|H>V|-|-|5%|
+Waist|C>H|-|-|C>V|V>M|H>M|H>V|C>M|8%|
+Feet|-|-|C>H, C>H|-|M>C|H>V|M>V|-|6%|
+One Hand|M>C|-|M>V|-|-|-|H>C|C>H|5%|
+Off-hand|-|H>M|C>H|-|-|H>C|-|-|4%|
+Two Hand|M>H|-|-|H>C|-|-|-|-|3%|
+Neck|C>V|-|-|H>M|-|C>M, C>V|-|V>H, M>H, C>M|9%|
+Back|-|-|M>C|-|C>M|M>C|V>C|V>M, C>H, C>M|9%|
+Ring|M>V|H>V|M>C|C>H|H>C|H>M, C>V|H>M|V>C, C>H|13%|
+Trinket|Idol|Irid|Spoi, Erup|Time|-|Nara|Rotc|-|9%|
+  
+&nbsp;  
+  
+Raid s2|Kaz|Ama|Zaq|Exp|Ras|Zsk|Mag|Nel|Sar|
+---|---|---|---|---|---|---|---|---|---
+Head|-|-|-|H>M|-|-|Tier|-|-|
+Shoulder|C>H|-|-|-|-|-|-|Tier|-|
+Chest|-|V>H|-|-|-|Tier|-|-|-|
+Hand|M>H|-|Tier|-|-|-|-|-|-|
+Legs|-|-|-|-|Tier|-|-|-|C>V|
+Wrist|-|-|-|H>C|H>V|-|-|-|-|
+Waist|-|V>M|-|-|-|-|V>C|-|-|
+Feet|-|-|M>C|-|-|-|-|-|M>H|
+One Hand|-|-|-|-|H>V|C>M|H>V|-|-|
+Off-hand|-|-|M>H|-|-|-|-|M>H|-|
+Two Hand|-|-|-|-|-|-|-|-|V>H|
+Neck|-|-|-|C>H|-|-|M>V|-|-|
+Back|C>H|-|-|-|-|V>M|-|-|C>H|
+Ring|-|M>H|-|-|V>C|-|-|C>H|-|
+Trinket|Scre|Vess|Omin|-|-|-|Igne|Nelt|Beac|
+
+***
+&nbsp;
+#🔵Preservation Evoker  
+  
+M+ s2|BH|HoI|Nel|Ul|Fh|NL|TU|VP|Vault|
+---|---|---|---|---|---|---|---|---|---
+Head|-|C>M|H>C|-|-|H>V|-|-|5%|
+Shoulder|H>V|-|-|-|-|H>C|-|H>C|5%|
+Chest|-|V>C|H>M|C>V|-|C>H|-|-|6%|
+Hand|-|H>V|-|V>H|V>H|M>C|C>V|-|8%|
+Legs|M>V|-|-|-|-|C>M|H>C|-|5%|
+Wrist|-|-|V>C|H>M|H>V|H>V|-|-|5%|
+Waist|C>H|-|-|C>V|V>M|H>M|H>V|C>M|8%|
+Feet|-|-|C>H, C>H|-|M>C|H>V|M>V|-|6%|
+One Hand|M>C|-|M>V|-|-|-|H>C|C>H|5%|
+Off-hand|-|H>M|C>H|-|-|H>C|-|-|4%|
+Two Hand|M>H|-|-|H>C|-|-|-|-|2%|
+Neck|C>V|-|-|H>M|-|C>M, C>V|-|V>H, M>H, C>M|9%|
+Back|-|-|M>C|-|C>M|M>C|V>C|V>M, C>H, C>M|9%|
+Ring|M>V|H>V|M>C|C>H|H>C|H>M, C>V|H>M|V>C, C>H|12%|
+Trinket|Idol|Irid, Wate|Spoi, Erup|Time|-|Nara|Rotc|Rain|11%|
+  
+&nbsp;  
+  
+Raid s2|Kaz|Ama|Zaq|Exp|Ras|Zsk|Mag|Nel|Sar|
+---|---|---|---|---|---|---|---|---|---
+Head|-|-|-|H>M|-|-|Tier|-|-|
+Shoulder|C>H|-|-|-|-|-|-|Tier|-|
+Chest|-|V>H|-|-|-|Tier|-|-|-|
+Hand|M>H|-|Tier|-|-|-|-|-|-|
+Legs|-|-|-|-|Tier|-|-|-|C>V|
+Wrist|-|-|-|H>C|H>V|-|-|-|-|
+Waist|-|V>M|-|-|-|-|V>C|-|-|
+Feet|-|-|M>C|-|-|-|-|-|M>H|
+One Hand|-|-|-|-|H>V|C>M|H>V|-|-|
+Off-hand|-|-|M>H|-|-|-|-|M>H|-|
+Two Hand|-|-|-|-|-|-|-|-|V>H|
+Neck|-|-|-|C>H|-|-|M>V|-|-|
+Back|C>H|-|-|-|-|V>M|-|-|C>H|
+Ring|-|M>H|-|-|V>C|-|-|C>H|-|
+Trinket|Scre|Vess|Omin|-|Rash|-|Igne|Ward, Nelt|Beac|
+
+***
+&nbsp;
+#🟢Beast Mastery Hunter + 🟢Marksmanship Hunter  
+  
+M+ s2|BH|HoI|Nel|Ul|Fh|NL|TU|VP|Vault|
+---|---|---|---|---|---|---|---|---|---
+Head|-|C>M|H>C|-|-|H>V|-|-|5%|
+Shoulder|H>V|-|-|-|-|H>C|-|H>C|5%|
+Chest|-|V>C|H>M|C>V|-|C>H|-|-|7%|
+Hand|-|H>V|-|V>H|V>H|M>C|C>V|-|8%|
+Legs|M>V|-|-|-|-|C>M|H>C|-|5%|
+Wrist|-|-|V>C|H>M|H>V|H>V|-|-|5%|
+Waist|C>H|-|-|C>V|V>M|H>M|H>V|C>M|8%|
+Feet|-|-|C>H, C>H|-|M>C|H>V|M>V|-|7%|
+Two Hand|M>H|M>V|-|H>M|V>C|-|-|M>H, C>H|8%|
+Neck|C>V|-|-|H>M|-|C>M, C>V|-|V>H, M>H, C>M|9%|
+Back|-|-|M>C|-|C>M|M>C|V>C|V>M, C>H, C>M|9%|
+Ring|M>V|H>V|M>C|C>H|H>C|H>M, C>V|H>M|V>C, C>H|13%|
+Trinket|-|Irid, Glob|Erup, Muta|Home|Harl|Mark, Nara|-|-|11%|
+  
+&nbsp;  
+  
+Raid s2|Kaz|Ama|Zaq|Exp|Ras|Zsk|Mag|Nel|Sar|
+---|---|---|---|---|---|---|---|---|---
+Head|-|-|-|H>M|-|-|Tier|-|-|
+Shoulder|C>H|-|-|-|-|-|-|Tier|-|
+Chest|-|V>H|-|-|-|Tier|-|-|-|
+Hand|M>H|-|Tier|-|-|-|-|-|-|
+Legs|-|-|-|-|Tier|-|-|-|C>V|
+Wrist|-|-|-|H>C|H>V|-|-|-|-|
+Waist|-|V>M|-|-|-|-|V>C|-|-|
+Feet|-|-|M>C|-|-|-|-|-|M>H|
+Two Hand|-|-|-|C>H|-|H>M|-|-|-|
+Neck|-|-|-|C>H|-|-|M>V|-|-|
+Back|C>H|-|-|-|-|V>M|-|-|C>H|
+Ring|-|M>H|-|-|V>C|-|-|C>H|-|
+Trinket|Scre|Elem|Omin|-|-|Drag|Igne|Nelt|Beac|
+
+***
+&nbsp;
+#🟢Survival Hunter  
+  
+M+ s2|BH|HoI|Nel|Ul|Fh|NL|TU|VP|Vault|
+---|---|---|---|---|---|---|---|---|---
+Head|-|C>M|H>C|-|-|H>V|-|-|5%|
+Shoulder|H>V|-|-|-|-|H>C|-|H>C|5%|
+Chest|-|V>C|H>M|C>V|-|C>H|-|-|7%|
+Hand|-|H>V|-|V>H|V>H|M>C|C>V|-|8%|
+Legs|M>V|-|-|-|-|C>M|H>C|-|5%|
+Wrist|-|-|V>C|H>M|H>V|H>V|-|-|5%|
+Waist|C>H|-|-|C>V|V>M|H>M|H>V|C>M|8%|
+Feet|-|-|C>H, C>H|-|M>C|H>V|M>V|-|7%|
+Two Hand|C>H|-|-|V>M|-|-|M>H|-|4%|
+Neck|C>V|-|-|H>M|-|C>M, C>V|-|V>H, M>H, C>M|10%|
+Back|-|-|M>C|-|C>M|M>C|V>C|V>M, C>H, C>M|10%|
+Ring|M>V|H>V|M>C|C>H|H>C|H>M, C>V|H>M|V>C, C>H|14%|
+Trinket|-|Irid, Glob|Erup, Muta|Home|Harl|Mark, Nara|-|-|11%|
+  
+&nbsp;  
+  
+Raid s2|Kaz|Ama|Zaq|Exp|Ras|Zsk|Mag|Nel|Sar|
+---|---|---|---|---|---|---|---|---|---
+Head|-|-|-|H>M|-|-|Tier|-|-|
+Shoulder|C>H|-|-|-|-|-|-|Tier|-|
+Chest|-|V>H|-|-|-|Tier|-|-|-|
+Hand|M>H|-|Tier|-|-|-|-|-|-|
+Legs|-|-|-|-|Tier|-|-|-|C>V|
+Wrist|-|-|-|H>C|H>V|-|-|-|-|
+Waist|-|V>M|-|-|-|-|V>C|-|-|
+Feet|-|-|M>C|-|-|-|-|-|M>H|
+Two Hand|-|V>M|-|-|H>M|-|-|-|-|
+Neck|-|-|-|C>H|-|-|M>V|-|-|
+Back|C>H|-|-|-|-|V>M|-|-|C>H|
+Ring|-|M>H|-|-|V>C|-|-|C>H|-|
+Trinket|Scre|Elem|Omin|-|-|Drag|Igne|Nelt|Beac|
+
+***
+&nbsp;
+#🔵Arcane Mage + 🔵Fire Mage + 🔵Frost Mage  
+  
+M+ s2|BH|HoI|Nel|Ul|Fh|NL|TU|VP|Vault|
+---|---|---|---|---|---|---|---|---|---
+Head|V>M|-|-|-|-|H>C|-|-|4%|
+Shoulder|V>H|-|H>C|-|-|H>V|-|-|5%|
+Chest|-|C>M|-|-|-|C>M|V>H|-|5%|
+Hand|-|-|M>H|-|V>C|H>M|H>V|-|6%|
+Legs|-|-|-|H>V, C>M|M>C|M>H|C>H|H>C|9%|
+Wrist|-|V>M|-|C>H|V>M|H>C|V>C|-|6%|
+Waist|-|-|V>C|M>H|C>H|H>V|-|M>C|6%|
+Feet|V>H|M>V, H>V|-|H>C|C>M|M>V|V>M|C>M|10%|
+One Hand|-|-|M>V|-|-|-|-|C>H|3%|
+Off-hand|-|H>M|C>H|-|-|H>C|-|-|4%|
+Two Hand|-|-|-|H>C|-|-|-|-|1%|
+Neck|C>V|-|-|H>M|-|C>M, C>V|-|V>H, M>H, C>M|9%|
+Back|-|-|M>C|-|C>M|M>C|V>C|V>M, C>H, C>M|9%|
+Ring|M>V|H>V|M>C|C>H|H>C|H>M, C>V|H>M|V>C, C>H|13%|
+Trinket|Idol|Irid|Spoi, Erup|Time|-|Nara|Rotc|-|9%|
+  
+&nbsp;  
+  
+Raid s2|Kaz|Ama|Zaq|Exp|Ras|Zsk|Mag|Nel|Sar|
+---|---|---|---|---|---|---|---|---|---
+Head|-|H>M|-|-|-|-|Tier|-|-|
+Shoulder|-|-|-|M>V|-|-|-|Tier|-|
+Chest|M>H|-|-|-|-|Tier|-|-|-|
+Hand|-|-|Tier|V>H|-|-|-|-|-|
+Legs|-|-|-|-|Tier|-|-|-|V>M|
+Wrist|-|C>M|-|-|-|C>H|-|-|-|
+Waist|C>V|-|H>V|-|-|-|-|-|-|
+Feet|-|-|-|-|V>C|-|-|V>H|-|
+One Hand|-|-|-|-|-|C>M|-|-|-|
+Off-hand|-|-|M>H|-|-|-|-|M>H|-|
+Two Hand|-|-|-|-|-|-|-|-|V>H|
+Neck|-|-|-|C>H|-|-|M>V|-|-|
+Back|C>H|-|-|-|-|V>M|-|-|C>H|
+Ring|-|M>H|-|-|V>C|-|-|C>H|-|
+Trinket|Scre|Vess|Omin|-|-|-|Igne|Nelt|Beac|
+
+***
+&nbsp;
+#🟢Brewmaster Monk  
+  
+M+ s2|BH|HoI|Nel|Ul|Fh|NL|TU|VP|Vault|
+---|---|---|---|---|---|---|---|---|---
+Head|-|-|-|H>M|-|H>V|-|-|4%|
+Shoulder|-|H>V|-|M>C|-|H>V|-|M>H|6%|
+Chest|-|-|V>H|-|-|C>V|H>M|-|5%|
+Hand|C>H|-|-|-|M>V|H>C|H>C|C>M|7%|
+Legs|-|-|M>V|V>H|M>H|M>C|C>V|-|7%|
+Wrist|V>C|-|-|-|V>H|M>H|C>M|-|5%|
+Waist|-|V>M|-|C>V|-|C>M|H>M|-|5%|
+Feet|C>M|V>M|-|M>C|C>M|H>C|-|-|6%|
+One Hand|-|-|C>V, H>C|V>M|H>C|-|X>X|-|6%|
+Two Hand|C>H|-|-|V>M|-|-|M>H|-|4%|
+Neck|C>V|-|-|H>M|-|C>M, C>V|-|V>H, M>H, C>M|8%|
+Back|-|-|M>C|-|C>M|M>C|V>C|V>M, C>H, C>M|8%|
+Ring|M>V|H>V|M>C|C>H|H>C|H>M, C>V|H>M|V>C, C>H|12%|
+Trinket|Tree|Irid, Glob|Erup, Muta|Home, Inex|Harl|Shar, Mark, Tali, Nara|Ling|Hear|17%|
+  
+&nbsp;  
+  
+Raid s2|Kaz|Ama|Zaq|Exp|Ras|Zsk|Mag|Nel|Sar|
+---|---|---|---|---|---|---|---|---|---
+Head|M>V|-|-|-|-|-|Tier|-|-|
+Shoulder|-|-|H>V|-|-|-|-|Tier|-|
+Chest|-|-|-|C>M|-|Tier|-|-|-|
+Hand|-|-|Tier|-|-|-|-|-|V>C|
+Legs|-|M>C|-|-|Tier|-|-|-|-|
+Wrist|V>H|-|-|-|-|-|V>M|-|-|
+Waist|-|-|-|-|V>H|-|-|-|C>M|
+Feet|-|-|-|V>M|-|C>V|-|-|-|
+One Hand|-|-|-|C>V|-|-|M>H|-|-|
+Two Hand|-|V>M|-|-|H>M|-|-|-|-|
+Neck|-|-|-|C>H|-|-|M>V|-|-|
+Back|C>H|-|-|-|-|V>M|-|-|C>H|
+Ring|-|M>H|-|-|V>C|-|-|C>H|-|
+Trinket|Endu, Scre|Elem|Omin|-|-|Drag|Igne|Ward, Nelt|Beac|
+
+***
+&nbsp;
+#🟢Mistweaver Monk  
+  
+M+ s2|BH|HoI|Nel|Ul|Fh|NL|TU|VP|Vault|
+---|---|---|---|---|---|---|---|---|---
+Head|-|-|-|H>M|-|H>V|-|-|4%|
+Shoulder|-|H>V|-|M>C|-|H>V|-|M>H|7%|
+Chest|-|-|V>H|-|-|C>V|H>M|-|5%|
+Hand|C>H|-|-|-|M>V|H>C|H>C|C>M|8%|
+Legs|-|-|M>V|V>H|M>H|M>C|C>V|-|8%|
+Wrist|V>C|-|-|-|V>H|M>H|C>M|-|5%|
+Waist|-|V>M|-|C>V|-|C>M|H>M|-|5%|
+Feet|C>M|V>M|-|M>C|C>M|H>C|-|-|7%|
+One Hand|M>C|-|-|-|-|-|H>C|-|3%|
+Off-hand|-|H>M|C>H|-|-|H>C|-|-|4%|
+Two Hand|-|-|-|H>C|-|-|-|-|1%|
+Neck|C>V|-|-|H>M|-|C>M, C>V|-|V>H, M>H, C>M|9%|
+Back|-|-|M>C|-|C>M|M>C|V>C|V>M, C>H, C>M|9%|
+Ring|M>V|H>V|M>C|C>H|H>C|H>M, C>V|H>M|V>C, C>H|13%|
+Trinket|Idol|Irid, Wate|Spoi, Erup|Time|-|Nara|Rotc|Rain|12%|
+  
+&nbsp;  
+  
+Raid s2|Kaz|Ama|Zaq|Exp|Ras|Zsk|Mag|Nel|Sar|
+---|---|---|---|---|---|---|---|---|---
+Head|M>V|-|-|-|-|-|Tier|-|-|
+Shoulder|-|-|H>V|-|-|-|-|Tier|-|
+Chest|-|-|-|C>M|-|Tier|-|-|-|
+Hand|-|-|Tier|-|-|-|-|-|V>C|
+Legs|-|M>C|-|-|Tier|-|-|-|-|
+Wrist|V>H|-|-|-|-|-|V>M|-|-|
+Waist|-|-|-|-|V>H|-|-|-|C>M|
+Feet|-|-|-|V>M|-|C>V|-|-|-|
+One Hand|-|-|-|-|H>V|-|H>V|-|-|
+Off-hand|-|-|M>H|-|-|-|-|M>H|-|
+Two Hand|-|-|-|-|-|-|-|-|V>H|
+Neck|-|-|-|C>H|-|-|M>V|-|-|
+Back|C>H|-|-|-|-|V>M|-|-|C>H|
+Ring|-|M>H|-|-|V>C|-|-|C>H|-|
+Trinket|Scre|Vess|Omin|-|Rash|-|Igne|Ward, Nelt|Beac|
+
+***
+&nbsp;
+#🟢Windwalker Monk  
+  
+M+ s2|BH|HoI|Nel|Ul|Fh|NL|TU|VP|Vault|
+---|---|---|---|---|---|---|---|---|---
+Head|-|-|-|H>M|-|H>V|-|-|4%|
+Shoulder|-|H>V|-|M>C|-|H>V|-|M>H|6%|
+Chest|-|-|V>H|-|-|C>V|H>M|-|5%|
+Hand|C>H|-|-|-|M>V|H>C|H>C|C>M|8%|
+Legs|-|-|M>V|V>H|M>H|M>C|C>V|-|8%|
+Wrist|V>C|-|-|-|V>H|M>H|C>M|-|5%|
+Waist|-|V>M|-|C>V|-|C>M|H>M|-|5%|
+Feet|C>M|V>M|-|M>C|C>M|H>C|-|-|6%|
+One Hand|-|-|C>V, H>C|V>M|H>C|-|X>X|-|6%|
+Two Hand|C>H|-|-|V>M|-|-|M>H|-|4%|
+Neck|C>V|-|-|H>M|-|C>M, C>V|-|V>H, M>H, C>M|9%|
+Back|-|-|M>C|-|C>M|M>C|V>C|V>M, C>H, C>M|9%|
+Ring|M>V|H>V|M>C|C>H|H>C|H>M, C>V|H>M|V>C, C>H|13%|
+Trinket|-|Irid, Glob|Erup, Muta|Home|Harl|Mark, Nara|-|-|10%|
+  
+&nbsp;  
+  
+Raid s2|Kaz|Ama|Zaq|Exp|Ras|Zsk|Mag|Nel|Sar|
+---|---|---|---|---|---|---|---|---|---
+Head|M>V|-|-|-|-|-|Tier|-|-|
+Shoulder|-|-|H>V|-|-|-|-|Tier|-|
+Chest|-|-|-|C>M|-|Tier|-|-|-|
+Hand|-|-|Tier|-|-|-|-|-|V>C|
+Legs|-|M>C|-|-|Tier|-|-|-|-|
+Wrist|V>H|-|-|-|-|-|V>M|-|-|
+Waist|-|-|-|-|V>H|-|-|-|C>M|
+Feet|-|-|-|V>M|-|C>V|-|-|-|
+One Hand|-|-|-|C>V|-|-|M>H|-|-|
+Two Hand|-|V>M|-|-|H>M|-|-|-|-|
+Neck|-|-|-|C>H|-|-|M>V|-|-|
+Back|C>H|-|-|-|-|V>M|-|-|C>H|
+Ring|-|M>H|-|-|V>C|-|-|C>H|-|
+Trinket|Scre|Elem|Omin|-|-|Drag|Igne|Nelt|Beac|
+
+***
+&nbsp;
+#🔴Holy Paladin  
+  
+M+ s2|BH|HoI|Nel|Ul|Fh|NL|TU|VP|Vault|
+---|---|---|---|---|---|---|---|---|---
+Head|V>H|M>V|-|H>C|-|M>H|-|M>C, C>H|9%|
+Shoulder|-|V>M|-|C>H|-|M>C|-|-|5%|
+Chest|-|-|-|-|-|H>V|C>H|-|4%|
+Hand|-|M>C|H>V|C>M|V>H|V>H|-|-|7%|
+Legs|-|-|M>H|-|M>H|H>M|H>C|M>C|7%|
+Wrist|V>H|-|-|H>C|V>C|C>H|C>M|-|6%|
+Waist|H>V|C>M|-|-|H>V|H>C|M>V|-|6%|
+Feet|-|-|-|-|-|H>V|H>V|C>M|4%|
+One Hand|M>C|-|-|-|-|-|H>C|-|2%|
+Off-hand|-|H>M|C>H, C>M|C>M|-|H>C, V>C|C>M|-|9%|
+Two Hand|M>H|-|-|-|-|-|-|-|1%|
+Neck|C>V|-|-|H>M|-|C>M, C>V|-|V>H, M>H, C>M|9%|
+Back|-|-|M>C|-|C>M|M>C|V>C|V>M, C>H, C>M|9%|
+Ring|M>V|H>V|M>C|C>H|H>C|H>M, C>V|H>M|V>C, C>H|12%|
+Trinket|Idol|Irid, Wate|Spoi, Erup|Time|-|Nara|Rotc|Rain|11%|
+  
+&nbsp;  
+  
+Raid s2|Kaz|Ama|Zaq|Exp|Ras|Zsk|Mag|Nel|Sar|
+---|---|---|---|---|---|---|---|---|---
+Head|-|-|-|-|M>V|-|Tier|-|-|
+Shoulder|-|C>M|-|-|-|-|-|Tier|-|
+Chest|-|-|-|-|-|Tier|-|-|M>C|
+Hand|-|-|Tier|-|-|-|-|V>M|-|
+Legs|-|-|-|H>V|Tier|-|-|-|-|
+Wrist|-|-|H>M|-|-|-|-|-|H>C|
+Waist|-|-|-|H>C|-|H>M|-|-|-|
+Feet|C>V|-|-|-|-|-|C>H|-|-|
+One Hand|-|-|-|-|H>V|-|H>V|-|-|
+Off-hand|-|-|M>H, V>C|-|-|-|-|M>H, M>H|-|
+Neck|-|-|-|C>H|-|-|M>V|-|-|
+Back|C>H|-|-|-|-|V>M|-|-|C>H|
+Ring|-|M>H|-|-|V>C|-|-|C>H|-|
+Trinket|Scre|Vess|Omin|-|Rash|-|Igne|Ward, Nelt|Beac|
+
+***
+&nbsp;
+#🔴Protection Paladin  
+  
+M+ s2|BH|HoI|Nel|Ul|Fh|NL|TU|VP|Vault|
+---|---|---|---|---|---|---|---|---|---
+Head|V>H|M>V|-|H>C|-|M>H|-|M>C, C>H|8%|
+Shoulder|-|V>M|-|C>H|-|M>C|-|-|5%|
+Chest|-|-|-|-|-|H>V|C>H|-|4%|
+Hand|-|M>C|H>V|C>M|V>H|V>H|-|-|7%|
+Legs|-|-|M>H|-|M>H|H>M|H>C|M>C|7%|
+Wrist|V>H|-|-|H>C|V>C|C>H|C>M|-|6%|
+Waist|H>V|C>M|-|-|H>V|H>C|M>V|-|6%|
+Feet|-|-|-|-|-|H>V|H>V|C>M|4%|
+One Hand|-|V>H|H>C|-|V>C|-|-|M>C|5%|
+Off-hand|-|-|C>M|C>M|-|V>C|C>M|-|5%|
+Neck|C>V|-|-|H>M|-|C>M, C>V|-|V>H, M>H, C>M|8%|
+Back|-|-|M>C|-|C>M|M>C|V>C|V>M, C>H, C>M|8%|
+Ring|M>V|H>V|M>C|C>H|H>C|H>M, C>V|H>M|V>C, C>H|12%|
+Trinket|Tree, Fren|Irid|Muta|Home, Inex|-|Shar, Mark, Tali|Ling, Vial|Hear|14%|
+  
+&nbsp;  
+  
+Raid s2|Kaz|Ama|Zaq|Exp|Ras|Zsk|Mag|Nel|Sar|
+---|---|---|---|---|---|---|---|---|---
+Head|-|-|-|-|M>V|-|Tier|-|-|
+Shoulder|-|C>M|-|-|-|-|-|Tier|-|
+Chest|-|-|-|-|-|Tier|-|-|M>C|
+Hand|-|-|Tier|-|-|-|-|V>M|-|
+Legs|-|-|-|H>V|Tier|-|-|-|-|
+Wrist|-|-|H>M|-|-|-|-|-|H>C|
+Waist|-|-|-|H>C|-|H>M|-|-|-|
+Feet|C>V|-|-|-|-|-|C>H|-|-|
+One Hand|-|V>H|-|-|-|H>C|-|-|-|
+Off-hand|-|-|V>C|-|-|-|-|M>H|-|
+Neck|-|-|-|C>H|-|-|M>V|-|-|
+Back|C>H|-|-|-|-|V>M|-|-|C>H|
+Ring|-|M>H|-|-|V>C|-|-|C>H|-|
+Trinket|Endu, Scre|Elem|Omin|Zaqa|-|-|-|Ward, Nelt|Beac|
+
+***
+&nbsp;
+#🔴Retribution Paladin  
+  
+M+ s2|BH|HoI|Nel|Ul|Fh|NL|TU|VP|Vault|
+---|---|---|---|---|---|---|---|---|---
+Head|V>H|M>V|-|H>C|-|M>H|-|M>C, C>H|9%|
+Shoulder|-|V>M|-|C>H|-|M>C|-|-|5%|
+Chest|-|-|-|-|-|H>V|C>H|-|4%|
+Hand|-|M>C|H>V|C>M|V>H|V>H|-|-|8%|
+Legs|-|-|M>H|-|M>H|H>M|H>C|M>C|8%|
+Wrist|V>H|-|-|H>C|V>C|C>H|C>M|-|7%|
+Waist|H>V|C>M|-|-|H>V|H>C|M>V|-|7%|
+Feet|-|-|-|-|-|H>V|H>V|C>M|4%|
+Two Hand|M>C|C>M|H>C|-|H>V|H>V|M>V|M>H|9%|
+Neck|C>V|-|-|H>M|-|C>M, C>V|-|V>H, M>H, C>M|9%|
+Back|-|-|M>C|-|C>M|M>C|V>C|V>M, C>H, C>M|9%|
+Ring|M>V|H>V|M>C|C>H|H>C|H>M, C>V|H>M|V>C, C>H|13%|
+Trinket|Fren|Irid|Muta|Home|-|Mark|Vial|-|8%|
+  
+&nbsp;  
+  
+Raid s2|Kaz|Ama|Zaq|Exp|Ras|Zsk|Mag|Nel|Sar|
+---|---|---|---|---|---|---|---|---|---
+Head|-|-|-|-|M>V|-|Tier|-|-|
+Shoulder|-|C>M|-|-|-|-|-|Tier|-|
+Chest|-|-|-|-|-|Tier|-|-|M>C|
+Hand|-|-|Tier|-|-|-|-|V>M|-|
+Legs|-|-|-|H>V|Tier|-|-|-|-|
+Wrist|-|-|H>M|-|-|-|-|-|H>C|
+Waist|-|-|-|H>C|-|H>M|-|-|-|
+Feet|C>V|-|-|-|-|-|C>H|-|-|
+Two Hand|H>M|-|-|-|-|-|-|M>C|-|
+Neck|-|-|-|C>H|-|-|M>V|-|-|
+Back|C>H|-|-|-|-|V>M|-|-|C>H|
+Ring|-|M>H|-|-|V>C|-|-|C>H|-|
+Trinket|Scre|Elem|Omin|Zaqa|-|-|-|Nelt|Beac|
+
+***
+&nbsp;
+#⚪Discipline Priest + ⚪Holy Priest  
+  
+M+ s2|BH|HoI|Nel|Ul|Fh|NL|TU|VP|Vault|
+---|---|---|---|---|---|---|---|---|---
+Head|V>M|-|-|-|-|H>C|-|-|4%|
+Shoulder|V>H|-|H>C|-|-|H>V|-|-|5%|
+Chest|-|C>M|-|-|-|C>M|V>H|-|5%|
+Hand|-|-|M>H|-|V>C|H>M|H>V|-|6%|
+Legs|-|-|-|H>V, C>M|M>C|M>H|C>H|H>C|9%|
+Wrist|-|V>M|-|C>H|V>M|H>C|V>C|-|6%|
+Waist|-|-|V>C|M>H|C>H|H>V|-|M>C|6%|
+Feet|V>H|M>V, H>V|-|H>C|C>M|M>V|V>M|C>M|10%|
+One Hand|M>C|-|M>V|-|-|-|H>C|C>H|5%|
+Off-hand|-|H>M|C>H|-|-|H>C|-|-|4%|
+Two Hand|-|-|-|H>C|-|-|-|-|1%|
+Neck|C>V|-|-|H>M|-|C>M, C>V|-|V>H, M>H, C>M|9%|
+Back|-|-|M>C|-|C>M|M>C|V>C|V>M, C>H, C>M|9%|
+Ring|M>V|H>V|M>C|C>H|H>C|H>M, C>V|H>M|V>C, C>H|12%|
+Trinket|Idol|Irid, Wate|Spoi, Erup|Time|-|Nara|Rotc|Rain|11%|
+  
+&nbsp;  
+  
+Raid s2|Kaz|Ama|Zaq|Exp|Ras|Zsk|Mag|Nel|Sar|
+---|---|---|---|---|---|---|---|---|---
+Head|-|H>M|-|-|-|-|Tier|-|-|
+Shoulder|-|-|-|M>V|-|-|-|Tier|-|
+Chest|M>H|-|-|-|-|Tier|-|-|-|
+Hand|-|-|Tier|V>H|-|-|-|-|-|
+Legs|-|-|-|-|Tier|-|-|-|V>M|
+Wrist|-|C>M|-|-|-|C>H|-|-|-|
+Waist|C>V|-|H>V|-|-|-|-|-|-|
+Feet|-|-|-|-|V>C|-|-|V>H|-|
+One Hand|-|-|-|-|H>V|C>M|H>V|-|-|
+Off-hand|-|-|M>H|-|-|-|-|M>H|-|
+Two Hand|-|-|-|-|-|-|-|-|V>H|
+Neck|-|-|-|C>H|-|-|M>V|-|-|
+Back|C>H|-|-|-|-|V>M|-|-|C>H|
+Ring|-|M>H|-|-|V>C|-|-|C>H|-|
+Trinket|Scre|Vess|Omin|-|Rash|-|Igne|Ward, Nelt|Beac|
+
+***
+&nbsp;
+#⚪Shadow Priest  
+  
+M+ s2|BH|HoI|Nel|Ul|Fh|NL|TU|VP|Vault|
+---|---|---|---|---|---|---|---|---|---
+Head|V>M|-|-|-|-|H>C|-|-|4%|
+Shoulder|V>H|-|H>C|-|-|H>V|-|-|5%|
+Chest|-|C>M|-|-|-|C>M|V>H|-|5%|
+Hand|-|-|M>H|-|V>C|H>M|H>V|-|6%|
+Legs|-|-|-|H>V, C>M|M>C|M>H|C>H|H>C|9%|
+Wrist|-|V>M|-|C>H|V>M|H>C|V>C|-|6%|
+Waist|-|-|V>C|M>H|C>H|H>V|-|M>C|6%|
+Feet|V>H|M>V, H>V|-|H>C|C>M|M>V|V>M|C>M|10%|
+One Hand|M>C|-|M>V|-|-|-|H>C|C>H|5%|
+Off-hand|-|H>M|C>H|-|-|H>C|-|-|4%|
+Two Hand|-|-|-|H>C|-|-|-|-|1%|
+Neck|C>V|-|-|H>M|-|C>M, C>V|-|V>H, M>H, C>M|9%|
+Back|-|-|M>C|-|C>M|M>C|V>C|V>M, C>H, C>M|9%|
+Ring|M>V|H>V|M>C|C>H|H>C|H>M, C>V|H>M|V>C, C>H|12%|
+Trinket|Idol|Irid|Spoi, Erup|Time|-|Nara|Rotc|-|9%|
+  
+&nbsp;  
+  
+Raid s2|Kaz|Ama|Zaq|Exp|Ras|Zsk|Mag|Nel|Sar|
+---|---|---|---|---|---|---|---|---|---
+Head|-|H>M|-|-|-|-|Tier|-|-|
+Shoulder|-|-|-|M>V|-|-|-|Tier|-|
+Chest|M>H|-|-|-|-|Tier|-|-|-|
+Hand|-|-|Tier|V>H|-|-|-|-|-|
+Legs|-|-|-|-|Tier|-|-|-|V>M|
+Wrist|-|C>M|-|-|-|C>H|-|-|-|
+Waist|C>V|-|H>V|-|-|-|-|-|-|
+Feet|-|-|-|-|V>C|-|-|V>H|-|
+One Hand|-|-|-|-|H>V|C>M|H>V|-|-|
+Off-hand|-|-|M>H|-|-|-|-|M>H|-|
+Two Hand|-|-|-|-|-|-|-|-|V>H|
+Neck|-|-|-|C>H|-|-|M>V|-|-|
+Back|C>H|-|-|-|-|V>M|-|-|C>H|
+Ring|-|M>H|-|-|V>C|-|-|C>H|-|
+Trinket|Scre|Vess|Omin|-|-|-|Igne|Nelt|Beac|
+
+***
+&nbsp;
+#🟡Assassination Rogue + 🟡Subtlety Rogue  
+  
+M+ s2|BH|HoI|Nel|Ul|Fh|NL|TU|VP|Vault|
+---|---|---|---|---|---|---|---|---|---
+Head|-|-|-|H>M|-|H>V|-|-|4%|
+Shoulder|-|H>V|-|M>C|-|H>V|-|M>H|7%|
+Chest|-|-|V>H|-|-|C>V|H>M|-|5%|
+Hand|C>H|-|-|-|M>V|H>C|H>C|C>M|8%|
+Legs|-|-|M>V|V>H|M>H|M>C|C>V|-|8%|
+Wrist|V>C|-|-|-|V>H|M>H|C>M|-|5%|
+Waist|-|V>M|-|C>V|-|C>M|H>M|-|5%|
+Feet|C>M|V>M|-|M>C|C>M|H>C|-|-|7%|
+One Hand|C>V|V>C|-|V>H|V>M|-|M>C|-|7%|
+Neck|C>V|-|-|H>M|-|C>M, C>V|-|V>H, M>H, C>M|9%|
+Back|-|-|M>C|-|C>M|M>C|V>C|V>M, C>H, C>M|9%|
+Ring|M>V|H>V|M>C|C>H|H>C|H>M, C>V|H>M|V>C, C>H|14%|
+Trinket|-|Irid, Glob|Erup, Muta|Home|Harl|Mark, Nara|-|-|11%|
+  
+&nbsp;  
+  
+Raid s2|Kaz|Ama|Zaq|Exp|Ras|Zsk|Mag|Nel|Sar|
+---|---|---|---|---|---|---|---|---|---
+Head|M>V|-|-|-|-|-|Tier|-|-|
+Shoulder|-|-|H>V|-|-|-|-|Tier|-|
+Chest|-|-|-|C>M|-|Tier|-|-|-|
+Hand|-|-|Tier|-|-|-|-|-|V>C|
+Legs|-|M>C|-|-|Tier|-|-|-|-|
+Wrist|V>H|-|-|-|-|-|V>M|-|-|
+Waist|-|-|-|-|V>H|-|-|-|C>M|
+Feet|-|-|-|V>M|-|C>V|-|-|-|
+One Hand|H>V|-|-|-|-|-|-|-|V>C|
+Neck|-|-|-|C>H|-|-|M>V|-|-|
+Back|C>H|-|-|-|-|V>M|-|-|C>H|
+Ring|-|M>H|-|-|V>C|-|-|C>H|-|
+Trinket|Scre|Elem|Omin|-|-|Drag|Igne|Nelt|Beac|
+
+***
+&nbsp;
+#🟡Outlaw Rogue  
+  
+M+ s2|BH|HoI|Nel|Ul|Fh|NL|TU|VP|Vault|
+---|---|---|---|---|---|---|---|---|---
+Head|-|-|-|H>M|-|H>V|-|-|4%|
+Shoulder|-|H>V|-|M>C|-|H>V|-|M>H|7%|
+Chest|-|-|V>H|-|-|C>V|H>M|-|5%|
+Hand|C>H|-|-|-|M>V|H>C|H>C|C>M|8%|
+Legs|-|-|M>V|V>H|M>H|M>C|C>V|-|8%|
+Wrist|V>C|-|-|-|V>H|M>H|C>M|-|5%|
+Waist|-|V>M|-|C>V|-|C>M|H>M|-|5%|
+Feet|C>M|V>M|-|M>C|C>M|H>C|-|-|7%|
+One Hand|-|-|C>V, H>C|V>M|H>C|-|X>X|-|7%|
+Neck|C>V|-|-|H>M|-|C>M, C>V|-|V>H, M>H, C>M|9%|
+Back|-|-|M>C|-|C>M|M>C|V>C|V>M, C>H, C>M|9%|
+Ring|M>V|H>V|M>C|C>H|H>C|H>M, C>V|H>M|V>C, C>H|14%|
+Trinket|-|Irid, Glob|Erup, Muta|Home|Harl|Mark, Nara|-|-|11%|
+  
+&nbsp;  
+  
+Raid s2|Kaz|Ama|Zaq|Exp|Ras|Zsk|Mag|Nel|Sar|
+---|---|---|---|---|---|---|---|---|---
+Head|M>V|-|-|-|-|-|Tier|-|-|
+Shoulder|-|-|H>V|-|-|-|-|Tier|-|
+Chest|-|-|-|C>M|-|Tier|-|-|-|
+Hand|-|-|Tier|-|-|-|-|-|V>C|
+Legs|-|M>C|-|-|Tier|-|-|-|-|
+Wrist|V>H|-|-|-|-|-|V>M|-|-|
+Waist|-|-|-|-|V>H|-|-|-|C>M|
+Feet|-|-|-|V>M|-|C>V|-|-|-|
+One Hand|-|-|-|C>V|-|-|M>H|-|-|
+Neck|-|-|-|C>H|-|-|M>V|-|-|
+Back|C>H|-|-|-|-|V>M|-|-|C>H|
+Ring|-|M>H|-|-|V>C|-|-|C>H|-|
+Trinket|Scre|Elem|Omin|-|-|Drag|Igne|Nelt|Beac|
+
+***
+&nbsp;
+#🔵Elemental Shaman  
+  
+M+ s2|BH|HoI|Nel|Ul|Fh|NL|TU|VP|Vault|
+---|---|---|---|---|---|---|---|---|---
+Head|-|C>M|H>C|-|-|H>V|-|-|5%|
+Shoulder|H>V|-|-|-|-|H>C|-|H>C|5%|
+Chest|-|V>C|H>M|C>V|-|C>H|-|-|6%|
+Hand|-|H>V|-|V>H|V>H|M>C|C>V|-|7%|
+Legs|M>V|-|-|-|-|C>M|H>C|-|5%|
+Wrist|-|-|V>C|H>M|H>V|H>V|-|-|5%|
+Waist|C>H|-|-|C>V|V>M|H>M|H>V|C>M|7%|
+Feet|-|-|C>H, C>H|-|M>C|H>V|M>V|-|6%|
+One Hand|M>C|-|M>V|-|-|-|H>C|C>H|5%|
+Off-hand|-|H>M|C>H, C>M|C>M|-|H>C, V>C|C>M|-|9%|
+Two Hand|M>H|-|-|H>C|-|-|-|-|2%|
+Neck|C>V|-|-|H>M|-|C>M, C>V|-|V>H, M>H, C>M|9%|
+Back|-|-|M>C|-|C>M|M>C|V>C|V>M, C>H, C>M|9%|
+Ring|M>V|H>V|M>C|C>H|H>C|H>M, C>V|H>M|V>C, C>H|12%|
+Trinket|Idol|Irid|Spoi, Erup|Time|-|Nara|Rotc|-|9%|
+  
+&nbsp;  
+  
+Raid s2|Kaz|Ama|Zaq|Exp|Ras|Zsk|Mag|Nel|Sar|
+---|---|---|---|---|---|---|---|---|---
+Head|-|-|-|H>M|-|-|Tier|-|-|
+Shoulder|C>H|-|-|-|-|-|-|Tier|-|
+Chest|-|V>H|-|-|-|Tier|-|-|-|
+Hand|M>H|-|Tier|-|-|-|-|-|-|
+Legs|-|-|-|-|Tier|-|-|-|C>V|
+Wrist|-|-|-|H>C|H>V|-|-|-|-|
+Waist|-|V>M|-|-|-|-|V>C|-|-|
+Feet|-|-|M>C|-|-|-|-|-|M>H|
+One Hand|-|-|-|-|H>V|C>M|H>V|-|-|
+Off-hand|-|-|M>H, V>C|-|-|-|-|M>H, M>H|-|
+Two Hand|-|-|-|-|-|-|-|-|V>H|
+Neck|-|-|-|C>H|-|-|M>V|-|-|
+Back|C>H|-|-|-|-|V>M|-|-|C>H|
+Ring|-|M>H|-|-|V>C|-|-|C>H|-|
+Trinket|Scre|Vess|Omin|-|-|-|Igne|Nelt|Beac|
+
+***
+&nbsp;
+#🔵Enhancement Shaman  
+  
+M+ s2|BH|HoI|Nel|Ul|Fh|NL|TU|VP|Vault|
+---|---|---|---|---|---|---|---|---|---
+Head|-|C>M|H>C|-|-|H>V|-|-|5%|
+Shoulder|H>V|-|-|-|-|H>C|-|H>C|5%|
+Chest|-|V>C|H>M|C>V|-|C>H|-|-|7%|
+Hand|-|H>V|-|V>H|V>H|M>C|C>V|-|8%|
+Legs|M>V|-|-|-|-|C>M|H>C|-|5%|
+Wrist|-|-|V>C|H>M|H>V|H>V|-|-|5%|
+Waist|C>H|-|-|C>V|V>M|H>M|H>V|C>M|8%|
+Feet|-|-|C>H, C>H|-|M>C|H>V|M>V|-|7%|
+One Hand|-|-|C>V, H>C|V>M|H>C|-|X>X|-|7%|
+Neck|C>V|-|-|H>M|-|C>M, C>V|-|V>H, M>H, C>M|9%|
+Back|-|-|M>C|-|C>M|M>C|V>C|V>M, C>H, C>M|9%|
+Ring|M>V|H>V|M>C|C>H|H>C|H>M, C>V|H>M|V>C, C>H|13%|
+Trinket|-|Irid, Glob|Erup, Muta|Home|Harl|Mark, Nara|-|-|11%|
+  
+&nbsp;  
+  
+Raid s2|Kaz|Ama|Zaq|Exp|Ras|Zsk|Mag|Nel|Sar|
+---|---|---|---|---|---|---|---|---|---
+Head|-|-|-|H>M|-|-|Tier|-|-|
+Shoulder|C>H|-|-|-|-|-|-|Tier|-|
+Chest|-|V>H|-|-|-|Tier|-|-|-|
+Hand|M>H|-|Tier|-|-|-|-|-|-|
+Legs|-|-|-|-|Tier|-|-|-|C>V|
+Wrist|-|-|-|H>C|H>V|-|-|-|-|
+Waist|-|V>M|-|-|-|-|V>C|-|-|
+Feet|-|-|M>C|-|-|-|-|-|M>H|
+One Hand|-|-|-|C>V|-|-|M>H|-|-|
+Neck|-|-|-|C>H|-|-|M>V|-|-|
+Back|C>H|-|-|-|-|V>M|-|-|C>H|
+Ring|-|M>H|-|-|V>C|-|-|C>H|-|
+Trinket|Scre|Elem|Omin|-|-|Drag|Igne|Nelt|Beac|
+
+***
+&nbsp;
+#🔵Restoration Shaman  
+  
+M+ s2|BH|HoI|Nel|Ul|Fh|NL|TU|VP|Vault|
+---|---|---|---|---|---|---|---|---|---
+Head|-|C>M|H>C|-|-|H>V|-|-|5%|
+Shoulder|H>V|-|-|-|-|H>C|-|H>C|5%|
+Chest|-|V>C|H>M|C>V|-|C>H|-|-|6%|
+Hand|-|H>V|-|V>H|V>H|M>C|C>V|-|7%|
+Legs|M>V|-|-|-|-|C>M|H>C|-|5%|
+Wrist|-|-|V>C|H>M|H>V|H>V|-|-|5%|
+Waist|C>H|-|-|C>V|V>M|H>M|H>V|C>M|7%|
+Feet|-|-|C>H, C>H|-|M>C|H>V|M>V|-|6%|
+One Hand|M>C|-|M>V|-|-|-|H>C|C>H|5%|
+Off-hand|-|H>M|C>H, C>M|C>M|-|H>C, V>C|C>M|-|8%|
+Two Hand|M>H|-|-|H>C|-|-|-|-|2%|
+Neck|C>V|-|-|H>M|-|C>M, C>V|-|V>H, M>H, C>M|8%|
+Back|-|-|M>C|-|C>M|M>C|V>C|V>M, C>H, C>M|8%|
+Ring|M>V|H>V|M>C|C>H|H>C|H>M, C>V|H>M|V>C, C>H|12%|
+Trinket|Idol|Irid, Wate|Spoi, Erup|Time|-|Nara|Rotc|Rain|11%|
+  
+&nbsp;  
+  
+Raid s2|Kaz|Ama|Zaq|Exp|Ras|Zsk|Mag|Nel|Sar|
+---|---|---|---|---|---|---|---|---|---
+Head|-|-|-|H>M|-|-|Tier|-|-|
+Shoulder|C>H|-|-|-|-|-|-|Tier|-|
+Chest|-|V>H|-|-|-|Tier|-|-|-|
+Hand|M>H|-|Tier|-|-|-|-|-|-|
+Legs|-|-|-|-|Tier|-|-|-|C>V|
+Wrist|-|-|-|H>C|H>V|-|-|-|-|
+Waist|-|V>M|-|-|-|-|V>C|-|-|
+Feet|-|-|M>C|-|-|-|-|-|M>H|
+One Hand|-|-|-|-|H>V|C>M|H>V|-|-|
+Off-hand|-|-|M>H, V>C|-|-|-|-|M>H, M>H|-|
+Two Hand|-|-|-|-|-|-|-|-|V>H|
+Neck|-|-|-|C>H|-|-|M>V|-|-|
+Back|C>H|-|-|-|-|V>M|-|-|C>H|
+Ring|-|M>H|-|-|V>C|-|-|C>H|-|
+Trinket|Scre|Vess|Omin|-|Rash|-|Igne|Ward, Nelt|Beac|
+
+***
+&nbsp;
+#🟣Affliction Warlock + 🟣Demonology Warlock + 🟣Destruction Warlock  
+  
+M+ s2|BH|HoI|Nel|Ul|Fh|NL|TU|VP|Vault|
+---|---|---|---|---|---|---|---|---|---
+Head|V>M|-|-|-|-|H>C|-|-|4%|
+Shoulder|V>H|-|H>C|-|-|H>V|-|-|5%|
+Chest|-|C>M|-|-|-|C>M|V>H|-|5%|
+Hand|-|-|M>H|-|V>C|H>M|H>V|-|6%|
+Legs|-|-|-|H>V, C>M|M>C|M>H|C>H|H>C|9%|
+Wrist|-|V>M|-|C>H|V>M|H>C|V>C|-|6%|
+Waist|-|-|V>C|M>H|C>H|H>V|-|M>C|6%|
+Feet|V>H|M>V, H>V|-|H>C|C>M|M>V|V>M|C>M|10%|
+One Hand|-|-|M>V|-|-|-|-|C>H|3%|
+Off-hand|-|H>M|C>H|-|-|H>C|-|-|4%|
+Two Hand|-|-|-|H>C|-|-|-|-|1%|
+Neck|C>V|-|-|H>M|-|C>M, C>V|-|V>H, M>H, C>M|9%|
+Back|-|-|M>C|-|C>M|M>C|V>C|V>M, C>H, C>M|9%|
+Ring|M>V|H>V|M>C|C>H|H>C|H>M, C>V|H>M|V>C, C>H|13%|
+Trinket|Idol|Irid|Spoi, Erup|Time|-|Nara|Rotc|-|9%|
+  
+&nbsp;  
+  
+Raid s2|Kaz|Ama|Zaq|Exp|Ras|Zsk|Mag|Nel|Sar|
+---|---|---|---|---|---|---|---|---|---
+Head|-|H>M|-|-|-|-|Tier|-|-|
+Shoulder|-|-|-|M>V|-|-|-|Tier|-|
+Chest|M>H|-|-|-|-|Tier|-|-|-|
+Hand|-|-|Tier|V>H|-|-|-|-|-|
+Legs|-|-|-|-|Tier|-|-|-|V>M|
+Wrist|-|C>M|-|-|-|C>H|-|-|-|
+Waist|C>V|-|H>V|-|-|-|-|-|-|
+Feet|-|-|-|-|V>C|-|-|V>H|-|
+One Hand|-|-|-|-|-|C>M|-|-|-|
+Off-hand|-|-|M>H|-|-|-|-|M>H|-|
+Two Hand|-|-|-|-|-|-|-|-|V>H|
+Neck|-|-|-|C>H|-|-|M>V|-|-|
+Back|C>H|-|-|-|-|V>M|-|-|C>H|
+Ring|-|M>H|-|-|V>C|-|-|C>H|-|
+Trinket|Scre|Vess|Omin|-|-|-|Igne|Nelt|Beac|
+
+***
+&nbsp;
+#🟤Arms Warrior  
+  
+M+ s2|BH|HoI|Nel|Ul|Fh|NL|TU|VP|Vault|
+---|---|---|---|---|---|---|---|---|---
+Head|V>H|M>V|-|H>C|-|M>H|-|M>C, C>H|9%|
+Shoulder|-|V>M|-|C>H|-|M>C|-|-|5%|
+Chest|-|-|-|-|-|H>V|C>H|-|4%|
+Hand|-|M>C|H>V|C>M|V>H|V>H|-|-|8%|
+Legs|-|-|M>H|-|M>H|H>M|H>C|M>C|8%|
+Wrist|V>H|-|-|H>C|V>C|C>H|C>M|-|7%|
+Waist|H>V|C>M|-|-|H>V|H>C|M>V|-|7%|
+Feet|-|-|-|-|-|H>V|H>V|C>M|4%|
+Two Hand|M>C|C>M|H>C|-|H>V|H>V|M>V|M>H|9%|
+Neck|C>V|-|-|H>M|-|C>M, C>V|-|V>H, M>H, C>M|9%|
+Back|-|-|M>C|-|C>M|M>C|V>C|V>M, C>H, C>M|9%|
+Ring|M>V|H>V|M>C|C>H|H>C|H>M, C>V|H>M|V>C, C>H|13%|
+Trinket|Fren|Irid|Muta|Home|-|Mark|Vial|-|8%|
+  
+&nbsp;  
+  
+Raid s2|Kaz|Ama|Zaq|Exp|Ras|Zsk|Mag|Nel|Sar|
+---|---|---|---|---|---|---|---|---|---
+Head|-|-|-|-|M>V|-|Tier|-|-|
+Shoulder|-|C>M|-|-|-|-|-|Tier|-|
+Chest|-|-|-|-|-|Tier|-|-|M>C|
+Hand|-|-|Tier|-|-|-|-|V>M|-|
+Legs|-|-|-|H>V|Tier|-|-|-|-|
+Wrist|-|-|H>M|-|-|-|-|-|H>C|
+Waist|-|-|-|H>C|-|H>M|-|-|-|
+Feet|C>V|-|-|-|-|-|C>H|-|-|
+Two Hand|H>M|-|-|-|-|-|-|M>C|-|
+Neck|-|-|-|C>H|-|-|M>V|-|-|
+Back|C>H|-|-|-|-|V>M|-|-|C>H|
+Ring|-|M>H|-|-|V>C|-|-|C>H|-|
+Trinket|Scre|Elem|Omin|Zaqa|-|-|-|Nelt|Beac|
+
+***
+&nbsp;
+#🟤Fury Warrior  
+  
+M+ s2|BH|HoI|Nel|Ul|Fh|NL|TU|VP|Vault|
+---|---|---|---|---|---|---|---|---|---
+Head|V>H|M>V|-|H>C|-|M>H|-|M>C, C>H|9%|
+Shoulder|-|V>M|-|C>H|-|M>C|-|-|5%|
+Chest|-|-|-|-|-|H>V|C>H|-|4%|
+Hand|-|M>C|H>V|C>M|V>H|V>H|-|-|8%|
+Legs|-|-|M>H|-|M>H|H>M|H>C|M>C|8%|
+Wrist|V>H|-|-|H>C|V>C|C>H|C>M|-|6%|
+Waist|H>V|C>M|-|-|H>V|H>C|M>V|-|6%|
+Feet|-|-|-|-|-|H>V|H>V|C>M|4%|
+One Hand|-|V>H|H>C|-|V>C|-|-|M>C|5%|
+Two Hand|M>C|C>M|H>C|-|H>V|H>V|M>V|M>H|9%|
+Neck|C>V|-|-|H>M|-|C>M, C>V|-|V>H, M>H, C>M|9%|
+Back|-|-|M>C|-|C>M|M>C|V>C|V>M, C>H, C>M|9%|
+Ring|M>V|H>V|M>C|C>H|H>C|H>M, C>V|H>M|V>C, C>H|12%|
+Trinket|Fren|Irid|Muta|Home|-|Mark|Vial|-|8%|
+  
+&nbsp;  
+  
+Raid s2|Kaz|Ama|Zaq|Exp|Ras|Zsk|Mag|Nel|Sar|
+---|---|---|---|---|---|---|---|---|---
+Head|-|-|-|-|M>V|-|Tier|-|-|
+Shoulder|-|C>M|-|-|-|-|-|Tier|-|
+Chest|-|-|-|-|-|Tier|-|-|M>C|
+Hand|-|-|Tier|-|-|-|-|V>M|-|
+Legs|-|-|-|H>V|Tier|-|-|-|-|
+Wrist|-|-|H>M|-|-|-|-|-|H>C|
+Waist|-|-|-|H>C|-|H>M|-|-|-|
+Feet|C>V|-|-|-|-|-|C>H|-|-|
+One Hand|-|V>H|-|-|-|H>C|-|-|-|
+Two Hand|H>M|-|-|-|-|-|-|M>C|-|
+Neck|-|-|-|C>H|-|-|M>V|-|-|
+Back|C>H|-|-|-|-|V>M|-|-|C>H|
+Ring|-|M>H|-|-|V>C|-|-|C>H|-|
+Trinket|Scre|Elem|Omin|Zaqa|-|-|-|Nelt|Beac|
+
+***
+&nbsp;
+#🟤Protection Warrior  
+  
+M+ s2|BH|HoI|Nel|Ul|Fh|NL|TU|VP|Vault|
+---|---|---|---|---|---|---|---|---|---
+Head|V>H|M>V|-|H>C|-|M>H|-|M>C, C>H|8%|
+Shoulder|-|V>M|-|C>H|-|M>C|-|-|5%|
+Chest|-|-|-|-|-|H>V|C>H|-|4%|
+Hand|-|M>C|H>V|C>M|V>H|V>H|-|-|7%|
+Legs|-|-|M>H|-|M>H|H>M|H>C|M>C|7%|
+Wrist|V>H|-|-|H>C|V>C|C>H|C>M|-|6%|
+Waist|H>V|C>M|-|-|H>V|H>C|M>V|-|6%|
+Feet|-|-|-|-|-|H>V|H>V|C>M|4%|
+One Hand|-|V>H|H>C|-|V>C|-|-|M>C|5%|
+Off-hand|-|-|C>M|C>M|-|V>C|C>M|-|5%|
+Neck|C>V|-|-|H>M|-|C>M, C>V|-|V>H, M>H, C>M|8%|
+Back|-|-|M>C|-|C>M|M>C|V>C|V>M, C>H, C>M|8%|
+Ring|M>V|H>V|M>C|C>H|H>C|H>M, C>V|H>M|V>C, C>H|12%|
+Trinket|Tree, Fren|Irid|Muta|Home, Inex|-|Shar, Mark, Tali|Ling, Vial|Hear|14%|
+  
+&nbsp;  
+  
+Raid s2|Kaz|Ama|Zaq|Exp|Ras|Zsk|Mag|Nel|Sar|
+---|---|---|---|---|---|---|---|---|---
+Head|-|-|-|-|M>V|-|Tier|-|-|
+Shoulder|-|C>M|-|-|-|-|-|Tier|-|
+Chest|-|-|-|-|-|Tier|-|-|M>C|
+Hand|-|-|Tier|-|-|-|-|V>M|-|
+Legs|-|-|-|H>V|Tier|-|-|-|-|
+Wrist|-|-|H>M|-|-|-|-|-|H>C|
+Waist|-|-|-|H>C|-|H>M|-|-|-|
+Feet|C>V|-|-|-|-|-|C>H|-|-|
+One Hand|-|V>H|-|-|-|H>C|-|-|-|
+Off-hand|-|-|V>C|-|-|-|-|M>H|-|
+Neck|-|-|-|C>H|-|-|M>V|-|-|
+Back|C>H|-|-|-|-|V>M|-|-|C>H|
+Ring|-|M>H|-|-|V>C|-|-|C>H|-|
+Trinket|Endu, Scre|Elem|Omin|Zaqa|-|-|-|Ward, Nelt|Beac|

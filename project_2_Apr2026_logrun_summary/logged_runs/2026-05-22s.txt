@@ -1,0 +1,711 @@
+
+
+    Midnight
+    Mists of Pandaria
+    Classic Fresh
+    Season of Discovery
+    Vanilla
+
+Warcraft Logs
+Enter a player, guild, or realm
+Enter a player, guild, or realm
+Search
+105
+Download Archon App
+
+    Deutsch
+    English
+    Español
+    Français
+    Italiano
+    Português (Brasil)
+    Русский
+    한국어
+    繁體中文
+    简体中文
+
+Mythic+ Season 1
+Created by BudoBoy07 on Fri May 22 2026
+
+    Edit Report
+    Delete Report
+    Make Private
+    View in Anonymous Mode
+
+Settings
++
+
+    VS / DR / MQD
+    BudoBoy07 - (Public) - 31 minutes ago
+    Mythic+ Season 1
+    BudoBoy07 - (Public) - 31 minutes ago
+    Sporefall
+    BudoBoy07 - (Public) - 2 months ago
+    Sporefall
+    BudoBoy07 - (Public) - 2 months ago
+
+BudoBoy07
+Personal Logs
++
+Windrunner Spire+
++20 [Fortified] [Tyrannical] [Xal'atath's Guile] 1 (6:21) 1:05 PM
+
+    + Bosses and Trash
+        Bosses and Trash
+        Bosses
+        Trash
+        Derelict Duo
+        Commander Kroluk
+        Emberdawn
+        Restless Heart
+        Pull 1 (1:03) +0:16
+        Spellguard Magus
+        Pull 2 (2:30) +1:26
+        Apex Lynx
+
+Entire Dungeon
+
+    + All Friendlies
+        +Dpsfox
+            +Dread Shade
+                1
+
+                2
+
+                3
+
+                4
+
+                5
+
+            ID: 251422
+        +Powerpegging
+            +Dracthyr Commando
+                1
+
+                2
+
+                3
+
+                4
+
+                5
+
+                6
+
+                7
+
+                8
+
+                9
+
+                10
+
+            ID: 219827
+            +Future Self
+                1
+
+                2
+
+                3
+
+                4
+
+                5
+
+            ID: 253466
+        Palingore
+        Calrisa
+        +Zapzten
+            +Capacitor Totem
+                1
+
+                2
+
+            ID: 61245
+            Poison Cleansing Totem
+
+            ID: 5923
+            Primal Earth Elemental
+
+            ID: 61056
+            +Primal Fire Elemental
+                1
+
+                2
+
+            ID: 61029
+            +Primal Storm Elemental
+                1
+
+                2
+
+                3
+
+                4
+
+            ID: 77942
+
+
+
+
+
+Friendlies Enemies
+Summary
+Damage Done
+Damage Taken
+Healing
+Threat
+Buffs
+Debuffs
+Deaths
+Interrupts
+Dispels
+Resources
+Casts
+
+    +Ignore Events After Player Deaths
+        Ignore Events After Player Deaths
+        Ignore Events After A Called Wipe
+
+Filter Expression:
+
+    +
+        Heroism
+        Downtime
+        Player Deaths
+        Player Resurrections
+        Boss Deaths
+        NPC Deaths
+        Show All Entries
+        Hide All Entries
+
+ZoomPer Second AmountDamage DoneDamage TakenHealing Done00:0001:0002:0003:0004:0005:0006:000M1M2M3M4M5M
+Group Composition Item Level: 289.00
+Tanks:	Dpsfox
+DPS:	Powerpegging Palingore Zapzten
+Healers:	Calrisa
+Damage Done By Source
+Name
+
+Amount
+
+DPS
+
+Zapzten
+29.40%
+75.55m 	197,850.1
+Palingore
+28.68%
+73.70m 	192,996.8
+Powerpegging
+24.70%
+63.48m 	166,227.8
+Dpsfox
+15.41%
+39.61m 	103,718.9
+Calrisa
+1.82%
+4.67m 	12,240.1
+Healing Done By Source
+Name
+
+Amount
+
+HPS
+
+Calrisa
+49.64%
+25.04m 	65,571.1
+Dpsfox
+35.98%
+18.15m 	47,525.5
+Powerpegging
+6.53%
+3.29m 	8,624.3
+Palingore
+6.23%
+3.14m 	8,232.4
+Zapzten
+1.62%
+816.7k 	2,138.8
+Damage Taken By Ability
+Name
+
+Amount
+
+DTPS
+
+Melee
+42.28%
+23.01m 	60,265.8
+Soul Torment
+24.33%
+13.24m 	34,678.2
+Arcane Salvo
+11.25%
+6.12m 	16,027.8
+Poison Spray
+7.88%
+4.29m 	11,229.0
+Spirit Bolt
+3.43%
+1.86m 	4,881.8
+Acidic Demise
+3.40%
+1.85m 	4,843.1
+Ferocious Pounce
+2.39%
+1.30m 	3,404.9
+Stretch Time
+1.66%
+904.0k 	2,367.2
+Fire Spit
+1.63%
+888.4k 	2,326.6
+Puncturing Bite
+1.55%
+843.9k 	2,209.8
+Shadow Mend
+0.12%
+64.3k 	168.4
+Shadow Word: Death
+0.07%
+39.5k 	103.4
+Falling
+0.02%
+8.4k 	21.9
+Deaths
+Name
+
+Killing Blow
+
+Time
+
+Dpsfox 	Acidic Demise 	3:40
+Zapzten 	Puncturing Bite 	3:52
+Palingore 	Soul Torment 	3:53
+Powerpegging 	Melee 	3:56
+Calrisa 	Melee 	3:57
+Characters
+Tanks
+
+Class Talents
+
+Spec Talents
+
+Gear
+
+Combat Potions
+
+Healthstones & Potions
+Dpsfox
+Druid (Guardian)
+287 Item Level
+Rake
+Frenzied Regeneration
+Ursoc's Spirit
+Grievous Wounds
+Swipe
+Remove Corruption
+Verdant Heart
+Nurturing Instinct 2
+Killer Instinct 2
+Ironfur
+Improved Barkskin
+Natural Recovery
+Thick Hide
+Skull Bash
+Wild Charge
+Soothe
+Aessina's Renewal
+Typhoon
+Stampeding Roar
+Well-Honed Instincts
+Feline Swiftness
+Matted Fur 2
+Ursol's Vortex
+Lycara's Teachings 2
+Gift of the Wild
+Oakskin
+Lore of the Grove
+Perfectly-Honed Instincts
+Improved Stampeding Roar
+Incapacitating Roar
+Forestwalk 1
+Circle of the Wild
+Heart of the Wild
+
+Maul
+Gore
+Survival Instincts
+Persistence
+Dream Guide
+Vulnerable Flesh
+Berserk
+Innate Resolve
+After the Wildfire
+Survival of the Fittest 2
+Scintillating Moonlight 2
+Reinvigoration 1
+Ursol's Warding
+Natural Resilience
+Reinforced Fur
+Gift of an Ancient Guardian
+Ursoc's Endurance
+Rend and Tear
+Lunar Beam
+Fury of Nature 2
+Blood Frenzy
+Twin Moonfire
+Flashing Claws 2
+Ursoc's Fury
+Elune's Favored
+Incarnation: Guardian of Ursoc
+Ursoc's Guidance
+Galactic Guardian
+Sundering Roar
+Waking Nightmare
+		3 	0
+DPS
+
+Class Talents
+
+Spec Talents
+
+Gear
+
+Combat Potions
+
+Healthstones & Potions
+Powerpegging
+Evoker (Augmentation)
+290 Item Level
+Expunge
+Obsidian Scales
+Landslide
+Natural Convergence
+Verdant Embrace
+Heavy Wingbeats
+Obsidian Bulwark
+Innate Magic 2
+Cauterizing Flame
+Inner Radiance
+Clobbering Sweep
+Attuned to the Dream 2
+Instinctive Arcana 2
+Tip the Scales
+Draconic Legacy
+Extended Flight 2
+Inherent Resistance 2
+Exuberance
+Blast Furnace
+Panacea
+Renewing Blaze
+Rescue
+Stretch Time
+Source of Magic
+Foci of Life
+Leaping Flames
+Aerial Mastery
+Potent Mana
+Terror of the Skies
+Zephyr
+Spatial Paradox
+
+Ebon Might
+Eruption
+Essence Burst
+Ricocheting Pyroclast
+Essence Attunement
+Pupil of Alexstrasza
+Quell
+Upheaval
+Defy Fate
+Breath of Eons
+Power Nexus
+Volcanism
+Ignition Rush
+Chrono Ward
+Timelessness
+Draconic Attunements
+Prescience
+Tectonic Locus
+Momentum Shift
+Fate Mirror
+Hoarded Power
+Anachronism
+Inferno's Blessing
+Accretion
+Time Skip
+Imminent Destruction
+Rumbling Earth
+Plot the Future
+Interwoven Threads
+Mighty Inferno
+Duplicate 1
+Duplicate 2
+Duplicate 1
+		3 	0
+Palingore
+Paladin (Retribution)
+289 Item Level
+Lay on Hands
+Auras of the Resolute
+Hammer of Wrath
+Blinding Light
+Fist of Justice
+Cleanse Toxins
+Divine Steed
+Healing Hands
+Guided Prayer
+Greater Judgment
+Cavalier
+Blessing of Freedom
+Shield of Vengeance
+Rebuke
+Obduracy 2
+Sanctified Plates 2
+Unbound Freedom
+Divine Toll
+Consecrated Ground
+Blessing of Sacrifice
+Blessing of Protection
+Quickened Invocation
+Holy Aegis
+Unbreakable Spirit
+Divine Purpose
+Light's Revocation
+Lightforged Blessing
+Inspired Guard
+Lead the Charge
+Seal of Might 2
+Vengeful Wrath 2
+Lightbearer
+Blessing of Dusk
+
+Blade of Justice
+Divine Storm
+Expurgation
+Avenging Wrath
+Light of Justice
+Art of War
+Final Verdict
+Holy Blade
+Jurisdiction
+Holy Flames
+Rush of Light
+Tempest of the Lightbringer
+Improved Judgment
+Zealot's Fervor 2
+Blade of Vengeance
+Highlord's Wrath
+Blessed Champion
+Burning Crusade
+Crusading Strikes
+Wake of Ashes
+Divine Wrath 2
+Blades of Light 2
+Seething Flames
+Execution Sentence
+Empyrean Legacy
+Burn to Ash
+Crusade
+Light Within 1
+Light Within 2
+Light Within 1
+		1 	0
+Zapzten
+Shaman (Elemental)
+290 Item Level
+Chain Lightning
+Chain Heal
+Lava Burst
+Thunderous Paws
+Earth Shield
+Fire and Ice
+Spirit Walk
+Elemental Orbit
+Nature's Guardian
+Astral Shift
+Brimming with Life 2
+Planes Traveler
+Winds of Al'Akir 2
+Wind Shear
+Capacitor Totem
+Enhanced Imbues
+Windveil
+Spiritual Awakening
+Earth Elemental
+Cleanse Spirit
+Wind Rush Totem
+Static Charge 1
+Primordial Bond
+Nature's Fury 2
+Purge
+Spiritwalker's Grace
+Elemental Warding
+Therazane's Resilience
+Graceful Spirit
+Poison Cleansing Totem
+Nature's Swiftness
+Instinctive Imbuements
+
+Elemental Blast
+Echo of the Elements
+Elemental Fury
+Earthquake
+Flash of Lightning
+Aftershock
+Stormkeeper
+Lightning Capacitor
+Fury of the Storms
+Swelling Maelstrom
+Storm Frenzy
+Primordial Fury
+Elemental Resonance
+Elemental Unity
+Amped Up
+Path of the Seer
+Earthshatter
+Echo Chamber
+Everlasting Elements
+Storm Infusion
+Ascendance
+Inferno Arc
+Eye of the Storm
+Call of Fire
+Mountains Will Fall
+Lightning Rod
+Voltaic Blaze
+Primal Elementalist
+Charged Conduit
+First Ascendant
+Feedback Loop 1
+Feedback Loop 2
+Feedback Loop 1
+		1 	0
+Healers
+
+Class Talents
+
+Spec Talents
+
+Gear
+
+Combat Potions
+
+Healthstones & Potions
+Calrisa
+Priest (Discipline)
+289 Item Level
+Angelic Feather
+Mind Blast
+Improved Flash Heal
+Dispel Magic
+Spiritual Guidance
+Holy Nova
+Power Infusion
+Painful Invocation
+Leap of Faith
+Lightburst
+Dominate Mind
+Strength of Resolve
+Surge of Light
+Twins of the Sun Priestess
+Mass Dispel
+Body and Soul
+Twin Disciplines
+Everlasting Light
+Dark Enlightenment
+Binding Heals
+Shadow Word: Death
+Twist of Fate 2
+Desperate Prayer
+Fade
+Protective Light
+Improved Fade 2
+Mindpierce
+Unwavering Will 2
+Phantasm
+Spell Warding 2
+Translucent Image
+Benevolence
+
+Atonement
+Pain Suppression
+Power Word: Radiance
+Power of the Dark Side
+Encroaching Shadows
+Protector of the Frail
+Light's Promise
+Power Word: Barrier
+Revel in Darkness
+Shield Discipline
+Enduring Luminescence
+Painful Punishment
+Shadow Tap
+Holy Ray
+Lenience
+Purge the Wicked
+Castigation
+Occultist
+Evangelism
+Harsh Discipline 2
+Shadow Mend
+Archangel
+Inner Focus
+Blaze of Light 1
+Borrowed Time 2
+Divine Aegis
+Eternal Barrier
+Weal and Woe
+Master the Darkness 1
+Master the Darkness 2
+Master the Darkness 1
+		0 	0
+Warcraft Logs Logo
+HEY THERE.We all want Warcraft Logs to remain free.
+We work hard to offer you the best possible experience.
+Help us by disabling your Adblock or supporting us on Patreon.
+Guild logo
+Warcraft Logs
+Contact Us
+-
+Privacy Policy
+-
+Video Terms of Service
+-
+Careers
+twitter's Icon Logo
+discord's Icon Logo
+patreon's Icon Logo
+Latest Article
+Archon App: Cloud Video Released!
+4 days ago
+Resources
+Forums
+Subscribe
+Help and Info
+Brand
+Our Websites
+Archon
+WoW Retail
+WoW Classic
+WoW SoD
+WoW Classic Fresh
+WoW Vanilla
+Final Fantasy XIV
+Elder Scrolls Online
+SWTOR
+Latest Raid
+Statistics
+Rankings
+Progress
+All Reports
+Our Tools
+Download App
+WoWAnalyzer
+Wipefest
+Recruitment
+© 2013-2026 Warcraft Logs

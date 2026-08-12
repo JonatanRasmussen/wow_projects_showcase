@@ -1,0 +1,726 @@
+
+
+    Midnight
+    Mists of Pandaria
+    Classic Fresh
+    Season of Discovery
+    Vanilla
+
+Warcraft Logs
+Enter a player, guild, or realm
+Enter a player, guild, or realm
+Search
+122
+Download Archon App
+
+    Deutsch
+    English
+    Español
+    Français
+    Italiano
+    Português (Brasil)
+    Русский
+    한국어
+    繁體中文
+    简体中文
+
+Mythic+ Season 1
+Created by BudoBoy07 on Sat May 23 2026
+
+    Edit Report
+    Delete Report
+    Make Private
+    View in Anonymous Mode
+
+Settings
++
+
+    VS / DR / MQD
+    BudoBoy07 - (Public) - 42 minutes ago
+    Mythic+ Season 1
+    BudoBoy07 - (Public) - 42 minutes ago
+    Sporefall
+    BudoBoy07 - (Public) - 2 months ago
+    Sporefall
+    BudoBoy07 - (Public) - 2 months ago
+
+BudoBoy07
+Personal Logs
++
+Nexus-Point Xenas+
++21 [Fortified] [Tyrannical] [Xal'atath's Guile] (2:10) 11:25 PM
+
+    + Bosses and Trash
+        Bosses and Trash
+        Bosses
+        Trash
+        Chief Corewright Kasreth
+        Corewarden Nysarra
+        Lothraxion
+        Pull 1 (0:46) +0:16
+        Circuit Seer
+
+Entire Dungeon
+
+    + All Friendlies
+        +Besttáco
+            Abomination
+
+            ID: 149555
+            High Inquisitor Whitemane
+
+            ID: 221633
+            Highlord Darion Mograine
+
+            ID: 221632
+            King Thoras Trollbane
+
+            ID: 221635
+            +Lesser Ghoul
+                1
+
+                2
+
+                3
+
+                4
+
+                5
+
+                6
+
+                7
+
+            ID: 258578
+            +Lesser Ghoul
+                1
+
+                2
+
+                3
+
+                4
+
+                5
+
+                6
+
+                7
+
+                8
+
+                9
+
+                10
+                11
+
+                12
+
+                13
+
+                14
+
+                15
+
+                16
+
+            ID: 237409
+            +Magus of the Dead
+                1
+
+                2
+
+                3
+
+                4
+
+                5
+
+                6
+
+                7
+
+                8
+
+                9
+
+            ID: 163366
+            Nazgrim
+
+            ID: 221634
+            Rotmasher
+        Shädézz
+        +Feelspoonman
+            Dread Shade
+
+            ID: 251422
+        +Powerpegging
+            +Dracthyr Commando
+                1
+
+                2
+
+                3
+
+                4
+
+            ID: 219827
+            +Future Self
+                1
+
+                2
+
+            ID: 253466
+        +Yaavi
+            Chi-Ji
+
+            ID: 166949
+
+
+
+
+
+Friendlies Enemies
+Summary
+Damage Done
+Damage Taken
+Healing
+Threat
+Buffs
+Debuffs
+Deaths
+Interrupts
+Dispels
+Resources
+Casts
+
+    +Ignore Events After Player Deaths
+        Ignore Events After Player Deaths
+        Ignore Events After A Called Wipe
+
+Filter Expression:
+
+    +
+        Heroism
+        Downtime
+        Player Deaths
+        Player Resurrections
+        Boss Deaths
+        NPC Deaths
+        Show All Entries
+        Hide All Entries
+
+ZoomPer Second AmountDamage DoneDamage TakenHealing Done00:0000:1500:3000:4501:0001:1501:3001:4502:000M1M2M3M4M5M
+Group Composition Item Level: 288.83
+Tanks:	Feelspoonman
+DPS:	Besttáco Shädézz Powerpegging
+Healers:	Yaavi
+Damage Done By Source
+Name
+
+Amount
+
+DPS
+
+Besttáco
+32.90%
+16.62m 	127,037.0
+Powerpegging
+29.33%
+14.81m 	113,222.0
+Shädézz
+23.21%
+11.72m 	89,610.7
+Feelspoonman
+10.03%
+5.07m 	38,715.6
+Yaavi
+4.53%
+2.29m 	17,497.3
+Healing Done By Source
+Name
+
+Amount
+
+HPS
+
+Yaavi
+47.39%
+6.00m 	45,821.8
+Feelspoonman
+35.07%
+4.44m 	33,913.2
+Powerpegging
+11.44%
+1.45m 	11,064.4
+Besttáco
+4.17%
+527.2k 	4,029.7
+Shädézz
+1.92%
+243.3k 	1,859.7
+Damage Taken By Ability
+Name
+
+Amount
+
+DTPS
+
+Melee
+40.62%
+5.13m 	39,230.5
+Arcing Mana
+19.00%
+2.40m 	18,352.0
+Suppression Field
+9.55%
+1.21m 	9,222.6
+Arcane Zap
+7.63%
+963.9k 	7,366.6
+Umbra Bolt
+7.43%
+939.1k 	7,177.2
+Null Sunder
+7.02%
+887.2k 	6,780.4
+Erratic Zap
+3.64%
+460.4k 	3,519.0
+Suppression Field
+2.10%
+266.0k 	2,032.8
+Stretch Time
+1.88%
+237.8k 	1,817.6
+Erratic Surge
+0.71%
+89.3k 	682.5
+Falling
+0.40%
+51.0k 	390.1
+Deaths
+Name
+
+Killing Blow
+
+Time
+
+Feelspoonman 	Melee 	0:47
+Shädézz 	Null Sunder 	0:54
+Besttáco 	Arcane Zap 	0:56
+Characters
+Tanks
+
+Class Talents
+
+Spec Talents
+
+Gear
+
+Combat Potions
+
+Healthstones & Potions
+Feelspoonman
+Druid (Guardian)
+287 Item Level
+Rake
+Frenzied Regeneration
+Ursoc's Spirit
+Grievous Wounds
+Swipe
+Verdant Heart
+Remove Corruption
+Nurturing Instinct 2
+Killer Instinct 2
+Ironfur
+Improved Barkskin
+Primal Fury
+Thick Hide
+Skull Bash
+Natural Recovery
+Wild Charge
+Soothe
+Aessina's Renewal
+Typhoon
+Stampeding Roar
+Well-Honed Instincts
+Feline Swiftness
+Ursol's Vortex
+Lingering Healing
+Lycara's Teachings 2
+Gift of the Wild
+Oakskin
+Lore of the Grove
+Improved Stampeding Roar
+Circle of the Wild
+Incapacitating Roar
+Symbiotic Relationship
+Heart of the Wild
+Fluid Form
+
+Maul
+Gore
+Survival Instincts
+Persistence
+Dream Guide
+Vulnerable Flesh
+Berserk
+Innate Resolve
+After the Wildfire
+Survival of the Fittest 2
+Scintillating Moonlight 2
+Reinvigoration 1
+Soul of the Forest
+Gift of an Ancient Guardian
+Ursoc's Endurance
+Reinforced Fur
+Rend and Tear
+Lunar Beam
+Fury of Nature 2
+Twin Moonfire
+Flashing Claws 2
+Moonless Night
+Blood Frenzy
+Ursoc's Fury
+Incarnation: Guardian of Ursoc
+Elune's Favored
+Ursoc's Guidance
+Galactic Guardian
+Sundering Roar
+Waking Nightmare
+		2 	0
+DPS
+
+Class Talents
+
+Spec Talents
+
+Gear
+
+Combat Potions
+Besttáco
+Death Knight (Unholy)
+290 Item Level
+Death Strike
+Icebound Fortitude
+Raise Dead
+Runic Attenuation
+Improved Death Strike
+Cleaving Strikes
+Blinding Sleet
+Gloom Ward 2
+Unholy Momentum 2
+Mind Freeze
+Wraith Walk
+Enfeeble
+Brittle
+Veteran of the Third War
+Coldthirst
+Anti-Magic Zone
+Unholy Bond
+Icy Talons
+Anti-Magic Barrier
+Grip of the Dead
+Asphyxiate
+Unholy Endurance
+Blood Scent
+Suppression
+Insidious Chill
+Runic Protection
+Blood Draw
+Will of the Necropolis 2
+Rune Mastery 2
+Death's Echo
+Null Magic
+
+Outbreak
+Scourge Strike
+Sudden Doom
+Dark Transformation
+Putrefy
+Clawing Shadows
+Foul Infections
+Grave Mastery
+Necromancer's Cunning
+Magus of the Dead
+Soul Reaper
+Festering Scythe
+Ebon Fever
+Cycle of Death
+Ghoulish Frenzy
+Army of the Dead
+Menacing Magus
+Reaping
+Raise Abomination
+Harbinger of Doom
+Unholy Devotion
+Doomed Bidding
+Blightburst
+Putrid Echoes
+Commander of the Dead 2
+Unholy Aura 2
+Outnumber
+Reanimation
+Forbidden Knowledge 1
+Forbidden Knowledge 2
+Forbidden Knowledge 1
+		1
+Shädézz
+Demon Hunter (Devourer)
+287 Item Level
+Vengeful Retreat
+Sigil of Misery
+Voidblade
+Unrestrained Fury
+Shattered Restoration
+Bouncing Glaives
+Imprison
+Improved Disrupt
+Consume Magic
+Void Nova
+Aura of Pain
+Disrupting Fury
+Swallowed Anger
+Blazing Path
+Focused Ire
+Soul Rending 2
+Pursuit
+Soul Cleanse
+Illidari Knowledge 2
+Will of the Illidari 2
+Guile
+Remorseless
+Internal Struggle
+First In, Last Out
+Furious
+Demon Muzzle
+Soul Splitter 2
+Darkness
+Final Breath
+Pitch Black
+Demonic Resilience
+
+Void Ray
+Soul Immolation
+Predator's Thirst
+Void Metamorphosis
+Feast of Souls
+Tempered Soul
+Collapsing Star
+Moment of Craving
+Soulshaper
+Waste Not
+Entropy
+Sweet Suffering 2
+Sweet Release 2
+Improved Consume
+Voidpurge
+Focused Ray
+Voidrage 2
+Devourer's Edge 2
+Demonic Instinct 2
+Rolling Torment
+Impending Apocalypse
+Calamitous
+Star Fragments
+Eradicate
+Emptiness
+Midnight 1
+Midnight 2
+Midnight 1
+		1
+Powerpegging
+Evoker (Augmentation)
+290 Item Level
+Expunge
+Obsidian Scales
+Landslide
+Natural Convergence
+Verdant Embrace
+Heavy Wingbeats
+Obsidian Bulwark
+Innate Magic 2
+Scarlet Adaptation
+Cauterizing Flame
+Inner Radiance
+Clobbering Sweep
+Attuned to the Dream 2
+Instinctive Arcana 2
+Tip the Scales
+Draconic Legacy
+Extended Flight 2
+Inherent Resistance 2
+Blast Furnace
+Panacea
+Renewing Blaze
+Rescue
+Source of Magic
+Foci of Life
+Stretch Time
+Leaping Flames
+Aerial Mastery
+Potent Mana
+Zephyr
+Spatial Paradox
+Terror of the Skies
+
+Ebon Might
+Eruption
+Essence Burst
+Ricocheting Pyroclast
+Essence Attunement
+Pupil of Alexstrasza
+Quell
+Upheaval
+Defy Fate
+Breath of Eons
+Power Nexus
+Volcanism
+Bestow Weyrnstone
+Ignition Rush
+Chrono Ward
+Draconic Attunements
+Prescience
+Tectonic Locus
+Momentum Shift
+Fate Mirror
+Hoarded Power
+Anachronism
+Inferno's Blessing
+Accretion
+Time Skip
+Imminent Destruction
+Rumbling Earth
+Plot the Future
+Interwoven Threads
+Mighty Inferno
+Duplicate 1
+Duplicate 2
+Duplicate 1
+		2
+Healers
+
+Class Talents
+
+Spec Talents
+
+Gear
+
+Combat Potions
+
+Healthstones & Potions
+Yaavi
+Monk (Mistweaver)
+289 Item Level
+Soothing Mist
+Paralysis
+Rising Sun Kick
+Elusive Mists
+Tiger's Lust
+Fast Feet
+Grace of the Crane
+Calming Presence
+Ancient Arts 2
+Vivacious Vivification
+Chi Warding
+Transcendence
+Celerity
+Chi Wave
+Stillstep Coil
+Ring of Peace
+Ferocity of Xuen 2
+Tiger Tail Sweep
+Improved Touch of Death
+Dance of the Wind
+Yu'lon's Grace
+Fortifying Brew
+Mist Caller
+Save Them All
+Expeditious Fortification
+Vital Clarity
+Swift Art
+Diffuse Magic
+Chi Proficiency 2
+Martial Instincts 2
+Lighter Than Air
+Flow of Chi
+
+Enveloping Mist
+Misty Coalescence
+Thunder Focus Tea
+Life Cocoon
+Invigorating Mists
+Mana Tea
+Crane Style
+Healing Elixir
+Revival
+Calming Coalescence
+Energizing Brew
+Way of the Crane
+Mists of Life
+Rapid Diffusion 2
+Invoke Chi-Ji, the Red Crane
+Mist Wrap
+Chrysalis
+Lotus Infusion
+Celestial Harmony
+Gift of the Celestials
+Focused Thunder
+Sheilun's Gift
+Morning Breeze
+Pool of Mists
+Jadefire Teachings
+Veil of Pride
+Secret Infusion 2
+Emperor's Elixir
+Dance of Chi-Ji
+Rising Mist
+Legacy of Wisdom
+Mistline
+		1 	0
+Warcraft Logs Logo
+HEY THERE.We all want Warcraft Logs to remain free.
+We work hard to offer you the best possible experience.
+Help us by disabling your Adblock or supporting us on Patreon.
+Guild logo
+Warcraft Logs
+Contact Us
+-
+Privacy Policy
+-
+Video Terms of Service
+-
+Careers
+twitter's Icon Logo
+discord's Icon Logo
+patreon's Icon Logo
+Latest Article
+Archon App: Cloud Video Released!
+4 days ago
+Resources
+Forums
+Subscribe
+Help and Info
+Brand
+Our Websites
+Archon
+WoW Retail
+WoW Classic
+WoW SoD
+WoW Classic Fresh
+WoW Vanilla
+Final Fantasy XIV
+Elder Scrolls Online
+SWTOR
+Latest Raid
+Statistics
+Rankings
+Progress
+All Reports
+Our Tools
+Download App
+WoWAnalyzer
+Wipefest
+Recruitment
+© 2013-2026 Warcraft Logs

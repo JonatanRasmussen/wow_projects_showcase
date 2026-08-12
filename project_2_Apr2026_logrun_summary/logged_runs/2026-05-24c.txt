@@ -1,0 +1,767 @@
+
+
+    Midnight
+    Mists of Pandaria
+    Classic Fresh
+    Season of Discovery
+    Vanilla
+
+Warcraft Logs
+Enter a player, guild, or realm
+Enter a player, guild, or realm
+Search
+122
+Download Archon App
+
+    Deutsch
+    English
+    Español
+    Français
+    Italiano
+    Português (Brasil)
+    Русский
+    한국어
+    繁體中文
+    简体中文
+
+Mythic+ Season 1
+Created by BudoBoy07 on Sat May 23 2026
+
+    Edit Report
+    Delete Report
+    Make Private
+    View in Anonymous Mode
+
+Settings
++
+
+    VS / DR / MQD
+    BudoBoy07 - (Public) - 42 minutes ago
+    Mythic+ Season 1
+    BudoBoy07 - (Public) - 42 minutes ago
+    Sporefall
+    BudoBoy07 - (Public) - 2 months ago
+    Sporefall
+    BudoBoy07 - (Public) - 2 months ago
+
+BudoBoy07
+Personal Logs
++
+The Seat of the Triumvirate+
++21 [Fortified] [Tyrannical] [Xal'atath's Guile] 2 (5:27) 9:48 PM
+
+    + Bosses and Trash
+        Bosses and Trash
+        Bosses
+        Trash
+        Zuraal the Ascended
+        Saprish
+        Viceroy Nezhar
+        L'ura
+        Pull 1 (0:52) +0:09
+        Merciless Subjugator
+
+Entire Dungeon
+
+    + All Friendlies
+        +Zuckø
+            Abomination
+
+            ID: 149555
+            High Inquisitor Whitemane
+
+            ID: 221633
+            Highlord Darion Mograine
+
+            ID: 221632
+            +King Thoras Trollbane
+                1
+
+                2
+
+            ID: 221635
+            +Lesser Ghoul
+                1
+
+                2
+
+                3
+
+                4
+
+                5
+
+                6
+
+                7
+
+                8
+
+                9
+
+                10
+                11
+
+                12
+
+                13
+
+            ID: 258578
+            +Lesser Ghoul
+                1
+
+                2
+
+                3
+
+                4
+
+                5
+
+                6
+
+                7
+
+                8
+
+                9
+
+                10
+                11
+
+                12
+
+                13
+
+                14
+
+                15
+
+                16
+
+                17
+
+                18
+
+                19
+
+                20
+                21
+
+                22
+
+                23
+
+                24
+
+                25
+
+                26
+
+                27
+
+            ID: 237409
+            +Magus of the Dead
+                1
+
+                2
+
+                3
+
+                4
+
+                5
+
+                6
+
+                7
+
+                8
+
+                9
+
+                10
+                11
+
+                12
+
+                13
+
+                14
+
+                15
+
+            ID: 163366
+            Mueleglaciar
+            +Nazgrim
+                1
+
+                2
+
+            ID: 221634
+        Zerhos
+        Raystar
+        +Powerpegging
+            +Dracthyr Commando
+                1
+
+                2
+
+                3
+
+                4
+
+            ID: 219827
+            +Future Self
+                1
+
+                2
+
+            ID: 253466
+        +Reimist
+            Chi-Ji
+
+            ID: 166949
+
+
+
+
+
+Friendlies Enemies
+Summary
+Damage Done
+Damage Taken
+Healing
+Threat
+Buffs
+Debuffs
+Deaths
+Interrupts
+Dispels
+Resources
+Casts
+
+    +Ignore Events After Player Deaths
+        Ignore Events After Player Deaths
+        Ignore Events After A Called Wipe
+
+Filter Expression:
+
+    +
+        Heroism
+        Downtime
+        Player Deaths
+        Player Resurrections
+        Boss Deaths
+        NPC Deaths
+        Show All Entries
+        Hide All Entries
+
+ZoomPer Second AmountDamage DoneDamage TakenHealing Done00:0000:3001:0001:3002:0002:3003:0003:3004:0004:3005:000M2M4M6M8M
+05:05
+Damage Done: 0.0
+Group Composition Item Level: 289.20
+Tanks:	Raystar
+DPS:	Zuckø Zerhos Powerpegging
+Healers:	Reimist
+Damage Done By Source
+Name
+
+Amount
+
+DPS
+
+Zuckø
+37.55%
+57.29m 	174,912.0
+Powerpegging
+22.97%
+35.04m 	106,990.6
+Raystar
+22.20%
+33.88m 	103,425.3
+Zerhos
+14.11%
+21.53m 	65,732.3
+Reimist
+3.16%
+4.82m 	14,724.7
+Healing Done By Source
+Name
+
+Amount
+
+HPS
+
+Raystar
+43.74%
+12.69m 	38,732.3
+Reimist
+42.17%
+12.23m 	37,340.1
+Powerpegging
+6.88%
+2.00m 	6,093.2
+Zuckø
+5.27%
+1.53m 	4,665.7
+Zerhos
+1.93%
+560.5k 	1,711.2
+Damage Taken By Ability
+Name
+
+Amount
+
+DTPS
+
+Melee
+49.62%
+15.50m 	47,319.4
+Chains of Subjugation
+27.39%
+8.55m 	26,117.7
+Pulsing Void
+11.26%
+3.52m 	10,734.0
+Rupture
+6.14%
+1.92m 	5,850.1
+Relentless Pursuit
+3.39%
+1.06m 	3,229.3
+Leeching Void
+1.51%
+471.2k 	1,438.6
+Umbral Bolt
+0.70%
+218.1k 	665.8
+Deaths
+Name
+
+Killing Blow
+
+Time
+
+Reimist 	Melee 	0:16
+Zerhos 	Rupture 	0:35
+Raystar 	Melee 	0:53
+Zuckø 	Melee 	0:54
+Reimist 	Melee 	0:55
+Powerpegging 	Melee 	1:02
+Characters
+Tanks
+
+Class Talents
+
+Spec Talents
+
+Gear
+
+Combat Potions
+
+Healthstones & Potions
+Raystar
+Druid (Guardian)
+290 Item Level
+Rake
+Frenzied Regeneration
+Ursoc's Spirit
+Grievous Wounds
+Swipe
+Remove Corruption
+Verdant Heart
+Nurturing Instinct 2
+Killer Instinct 2
+Ironfur
+Improved Barkskin
+Astral Influence
+Thick Hide
+Skull Bash
+Natural Recovery
+Wild Charge
+Soothe
+Aessina's Renewal
+Typhoon
+Stampeding Roar
+Well-Honed Instincts
+Feline Swiftness
+Matted Fur 2
+Ursol's Vortex
+Lycara's Teachings 2
+Gift of the Wild
+Oakskin
+Lore of the Grove
+Perfectly-Honed Instincts
+Circle of the Wild
+Improved Stampeding Roar
+Incapacitating Roar
+Heart of the Wild
+
+Maul
+Gore
+Survival Instincts
+Persistence
+Dream of Cenarius
+Vulnerable Flesh
+Berserk
+Innate Resolve
+After the Wildfire
+Survival of the Fittest 2
+Scintillating Moonlight 2
+Reinvigoration 1
+Gift of an Ancient Guardian
+Ursoc's Endurance
+Ursol's Warding
+Natural Resilience
+Reinforced Fur
+Rend and Tear
+Lunar Beam
+Fury of Nature 2
+Twin Moonfire
+Flashing Claws 2
+Blood Frenzy
+Ursoc's Fury
+Incarnation: Guardian of Ursoc
+Elune's Favored
+Ursoc's Guidance
+Galactic Guardian
+Sundering Roar
+Waking Nightmare
+		2 	0
+DPS
+
+Class Talents
+
+Spec Talents
+
+Gear
+
+Combat Potions
+
+Healthstones & Potions
+Zuckø
+Death Knight (Unholy)
+288 Item Level
+Death Strike
+Icebound Fortitude
+Raise Dead
+Runic Attenuation
+Improved Death Strike
+Cleaving Strikes
+Blinding Sleet
+Gloom Ward 2
+Unholy Momentum 2
+Mind Freeze
+Enfeeble
+Brittle
+Permafrost
+Veteran of the Third War
+Coldthirst
+Anti-Magic Zone
+Unholy Bond
+Icy Talons
+Anti-Magic Barrier
+Assimilation
+Grip of the Dead
+Death's Reach
+Unholy Endurance
+Blood Scent
+Suppression
+Insidious Chill
+Blood Draw
+Will of the Necropolis 2
+Rune Mastery 2
+Death's Echo
+Null Magic
+
+Outbreak
+Scourge Strike
+Sudden Doom
+Dark Transformation
+Putrefy
+Clawing Shadows
+Foul Infections
+Grave Mastery
+Necromancer's Cunning
+Magus of the Dead
+Soul Reaper
+Festering Scythe
+Ebon Fever
+Cycle of Death
+Ghoulish Frenzy
+Army of the Dead
+Menacing Magus
+Reaping
+Raise Abomination
+Harbinger of Doom
+Unholy Devotion
+Doomed Bidding
+Blightburst
+Putrid Echoes
+Commander of the Dead 2
+Unholy Aura 2
+Outnumber
+Reanimation
+Forbidden Knowledge 1
+Forbidden Knowledge 2
+Forbidden Knowledge 1
+		2 	1
+Zerhos
+Demon Hunter (Devourer)
+288 Item Level
+Vengeful Retreat
+Sigil of Misery
+Voidblade
+Unrestrained Fury
+Shattered Restoration
+Bouncing Glaives
+Imprison
+Improved Disrupt
+Consume Magic
+Void Nova
+Aura of Pain
+Disrupting Fury
+Blazing Path
+Focused Ire
+Soul Rending 2
+Felfire Haste
+Pursuit
+Soul Cleanse
+Illidari Knowledge 2
+Will of the Illidari 2
+Guile
+Remorseless
+Internal Struggle
+First In, Last Out
+Furious
+Demon Muzzle
+Soul Splitter 2
+Darkness
+Final Breath
+Pitch Black
+Demonic Resilience
+
+Void Ray
+Soul Immolation
+Predator's Thirst
+Void Metamorphosis
+Feast of Souls
+Tempered Soul
+Collapsing Star
+Moment of Craving
+Soulshaper
+Waste Not
+Entropy
+Sweet Suffering 2
+Sweet Release 2
+Improved Consume
+Voidpurge
+Focused Ray
+Voidrage 2
+Devourer's Edge 2
+Demonic Instinct 2
+Rolling Torment
+Impending Apocalypse
+Calamitous
+Star Fragments
+Eradicate
+Emptiness
+Midnight 1
+Midnight 2
+Midnight 1
+		2 	0
+Powerpegging
+Evoker (Augmentation)
+290 Item Level
+Expunge
+Obsidian Scales
+Landslide
+Natural Convergence
+Verdant Embrace
+Heavy Wingbeats
+Obsidian Bulwark
+Innate Magic 2
+Scarlet Adaptation
+Cauterizing Flame
+Inner Radiance
+Clobbering Sweep
+Attuned to the Dream 2
+Instinctive Arcana 2
+Tip the Scales
+Draconic Legacy
+Extended Flight 2
+Inherent Resistance 2
+Blast Furnace
+Panacea
+Renewing Blaze
+Rescue
+Source of Magic
+Foci of Life
+Stretch Time
+Leaping Flames
+Aerial Mastery
+Potent Mana
+Zephyr
+Spatial Paradox
+Terror of the Skies
+
+Ebon Might
+Eruption
+Essence Burst
+Ricocheting Pyroclast
+Essence Attunement
+Pupil of Alexstrasza
+Quell
+Upheaval
+Defy Fate
+Breath of Eons
+Power Nexus
+Volcanism
+Bestow Weyrnstone
+Ignition Rush
+Chrono Ward
+Draconic Attunements
+Prescience
+Tectonic Locus
+Momentum Shift
+Fate Mirror
+Hoarded Power
+Anachronism
+Inferno's Blessing
+Accretion
+Time Skip
+Imminent Destruction
+Rumbling Earth
+Plot the Future
+Interwoven Threads
+Mighty Inferno
+Duplicate 1
+Duplicate 2
+Duplicate 1
+		1 	1
+Healers
+
+Class Talents
+
+Spec Talents
+
+Gear
+
+Combat Potions
+
+Healthstones & Potions
+Reimist
+Monk (Mistweaver)
+290 Item Level
+Soothing Mist
+Paralysis
+Rising Sun Kick
+Elusive Mists
+Tiger's Lust
+Fast Feet
+Grace of the Crane
+Calming Presence
+Ancient Arts 2
+Vivacious Vivification
+Chi Warding
+Transcendence
+Celerity
+Chi Wave
+Stillstep Coil
+Ring of Peace
+Improved Touch of Death
+Ferocity of Xuen 2
+Tiger Tail Sweep
+Dance of the Wind
+Yu'lon's Grace
+Fortifying Brew
+Mist Caller
+Save Them All
+Jade Infusion
+Expeditious Fortification
+Vital Clarity
+Chi Proficiency 2
+Windwalking
+Martial Instincts 2
+Lighter Than Air
+Flow of Chi
+
+Enveloping Mist
+Misty Coalescence
+Thunder Focus Tea
+Life Cocoon
+Invigorating Mists
+Mana Tea
+Crane Style
+Healing Elixir
+Revival
+Calming Coalescence
+Energizing Brew
+Way of the Crane
+Mists of Life
+Rapid Diffusion 2
+Invoke Chi-Ji, the Red Crane
+Mist Wrap
+Chrysalis
+Lotus Infusion
+Celestial Harmony
+Jade Bond
+Focused Thunder
+Sheilun's Gift
+Morning Breeze
+Pool of Mists
+Jadefire Teachings
+Tranquil Tea
+Secret Infusion 2
+Emperor's Elixir
+Dance of Chi-Ji
+Rising Mist
+Legacy of Wisdom
+Mistline
+		2 	0
+Warcraft Logs Logo
+HEY THERE.We all want Warcraft Logs to remain free.
+We work hard to offer you the best possible experience.
+Help us by disabling your Adblock or supporting us on Patreon.
+Guild logo
+Warcraft Logs
+Contact Us
+-
+Privacy Policy
+-
+Video Terms of Service
+-
+Careers
+twitter's Icon Logo
+discord's Icon Logo
+patreon's Icon Logo
+Latest Article
+Archon App: Cloud Video Released!
+4 days ago
+Resources
+Forums
+Subscribe
+Help and Info
+Brand
+Our Websites
+Archon
+WoW Retail
+WoW Classic
+WoW SoD
+WoW Classic Fresh
+WoW Vanilla
+Final Fantasy XIV
+Elder Scrolls Online
+SWTOR
+Latest Raid
+Statistics
+Rankings
+Progress
+All Reports
+Our Tools
+Download App
+WoWAnalyzer
+Wipefest
+Recruitment
+© 2013-2026 Warcraft Logs

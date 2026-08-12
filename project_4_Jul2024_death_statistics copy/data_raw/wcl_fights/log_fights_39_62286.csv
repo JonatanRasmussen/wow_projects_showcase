@@ -1,0 +1,611 @@
+log_guid,fight_id,outcome,duration,duration_in_sec,wcl_boss_id,boss_text,zone_name,boss_level,affix_icon,fight_time
+y4wWbB83LmA7TpGt,,kill,30:24,1824,62286,The Necrotic Wake,The Necrotic Wake,10,Xal'atath's Bargain: Oblivion,2:16 PM
+GYj2ApkMdbfh3WcD,,wipe,16:22,982,62286,The Necrotic Wake,The Necrotic Wake,10,Xal'atath's Bargain: Voidbound,7:23 AM
+3QPh9b7vcZJ6zkYj,18,kill,30:09,1809,62286,The Necrotic Wake,The Necrotic Wake,,,7:30 PM
+3QPh9b7vcZJ6zkYj,22,kill,33:57,2037,62286,The Necrotic Wake,The Necrotic Wake,,,8:52 PM
+3QPh9b7vcZJ6zkYj,6,wipe,13:17,797,62286,The Necrotic Wake,The Necrotic Wake,,,2:35 PM
+3QPh9b7vcZJ6zkYj,7,wipe,9:38,578,62286,The Necrotic Wake,The Necrotic Wake,,,2:48 PM
+3QPh9b7vcZJ6zkYj,8,wipe,11:55,715,62286,The Necrotic Wake,The Necrotic Wake,,,2:58 PM
+3QPh9b7vcZJ6zkYj,9,wipe,42:34,2554,62286,The Necrotic Wake,The Necrotic Wake,,,3:10 PM
+3QPh9b7vcZJ6zkYj,21,wipe,2:42,162,62286,The Necrotic Wake,The Necrotic Wake,,,8:49 PM
+3QPh9b7vcZJ6zkYj,26,wipe,1:11:56,4316,62286,The Necrotic Wake,The Necrotic Wake,,,12:47 AM
+3QPh9b7vcZJ6zkYj,6,wipe,13:17,797,62286,The Necrotic Wake,The Necrotic Wake,,,2:35 PM
+3QPh9b7vcZJ6zkYj,7,wipe,9:38,578,62286,The Necrotic Wake,The Necrotic Wake,,,2:48 PM
+3QPh9b7vcZJ6zkYj,8,wipe,11:55,715,62286,The Necrotic Wake,The Necrotic Wake,,,2:58 PM
+3QPh9b7vcZJ6zkYj,9,wipe,42:34,2554,62286,The Necrotic Wake,The Necrotic Wake,,,3:10 PM
+3QPh9b7vcZJ6zkYj,21,wipe,2:42,162,62286,The Necrotic Wake,The Necrotic Wake,,,8:49 PM
+3QPh9b7vcZJ6zkYj,26,wipe,1:11:56,4316,62286,The Necrotic Wake,The Necrotic Wake,,,12:47 AM
+7LYkXfbhdCRwB94m,18,kill,30:09,1809,62286,The Necrotic Wake,The Necrotic Wake,,,7:30 PM
+7LYkXfbhdCRwB94m,22,kill,33:57,2037,62286,The Necrotic Wake,The Necrotic Wake,,,8:52 PM
+7LYkXfbhdCRwB94m,6,wipe,13:17,797,62286,The Necrotic Wake,The Necrotic Wake,,,2:35 PM
+7LYkXfbhdCRwB94m,7,wipe,9:38,578,62286,The Necrotic Wake,The Necrotic Wake,,,2:48 PM
+7LYkXfbhdCRwB94m,8,wipe,11:55,715,62286,The Necrotic Wake,The Necrotic Wake,,,2:58 PM
+7LYkXfbhdCRwB94m,9,wipe,42:34,2554,62286,The Necrotic Wake,The Necrotic Wake,,,3:10 PM
+7LYkXfbhdCRwB94m,21,wipe,2:42,162,62286,The Necrotic Wake,The Necrotic Wake,,,8:49 PM
+7LYkXfbhdCRwB94m,26,wipe,1:11:56,4316,62286,The Necrotic Wake,The Necrotic Wake,,,12:47 AM
+7LYkXfbhdCRwB94m,6,wipe,13:17,797,62286,The Necrotic Wake,The Necrotic Wake,,,2:35 PM
+7LYkXfbhdCRwB94m,7,wipe,9:38,578,62286,The Necrotic Wake,The Necrotic Wake,,,2:48 PM
+7LYkXfbhdCRwB94m,8,wipe,11:55,715,62286,The Necrotic Wake,The Necrotic Wake,,,2:58 PM
+7LYkXfbhdCRwB94m,9,wipe,42:34,2554,62286,The Necrotic Wake,The Necrotic Wake,,,3:10 PM
+7LYkXfbhdCRwB94m,21,wipe,2:42,162,62286,The Necrotic Wake,The Necrotic Wake,,,8:49 PM
+7LYkXfbhdCRwB94m,26,wipe,1:11:56,4316,62286,The Necrotic Wake,The Necrotic Wake,,,12:47 AM
+6JGRLMT8qpvQ4PVn,1,kill,35:53,2153,62286,The Necrotic Wake,The Necrotic Wake,,,1:47 AM
+6JGRLMT8qpvQ4PVn,6,kill,56:01,3361,62286,The Necrotic Wake,The Necrotic Wake,,,7:24 AM
+6JGRLMT8qpvQ4PVn,16,kill,46:31,2791,62286,The Necrotic Wake,The Necrotic Wake,,,9:54 AM
+6JGRLMT8qpvQ4PVn,10,wipe,2:02,122,62286,The Necrotic Wake,The Necrotic Wake,,,9:37 AM
+6JGRLMT8qpvQ4PVn,11,wipe,1:18,78,62286,The Necrotic Wake,The Necrotic Wake,,,9:39 AM
+6JGRLMT8qpvQ4PVn,12,wipe,2:09,129,62286,The Necrotic Wake,The Necrotic Wake,,,9:41 AM
+6JGRLMT8qpvQ4PVn,13,wipe,4:27,267,62286,The Necrotic Wake,The Necrotic Wake,,,9:43 AM
+6JGRLMT8qpvQ4PVn,14,wipe,2:51,171,62286,The Necrotic Wake,The Necrotic Wake,,,9:47 AM
+6JGRLMT8qpvQ4PVn,15,wipe,3:41,221,62286,The Necrotic Wake,The Necrotic Wake,,,9:50 AM
+6JGRLMT8qpvQ4PVn,10,wipe,2:02,122,62286,The Necrotic Wake,The Necrotic Wake,,,9:37 AM
+6JGRLMT8qpvQ4PVn,11,wipe,1:18,78,62286,The Necrotic Wake,The Necrotic Wake,,,9:39 AM
+6JGRLMT8qpvQ4PVn,12,wipe,2:09,129,62286,The Necrotic Wake,The Necrotic Wake,,,9:41 AM
+6JGRLMT8qpvQ4PVn,13,wipe,4:27,267,62286,The Necrotic Wake,The Necrotic Wake,,,9:43 AM
+6JGRLMT8qpvQ4PVn,14,wipe,2:51,171,62286,The Necrotic Wake,The Necrotic Wake,,,9:47 AM
+6JGRLMT8qpvQ4PVn,15,wipe,3:41,221,62286,The Necrotic Wake,The Necrotic Wake,,,9:50 AM
+wCpNcT8abfg6zjx1,10,kill,40:16,2416,62286,The Necrotic Wake,The Necrotic Wake,,,3:29 AM
+wCpNcT8abfg6zjx1,6,wipe,10:04,604,62286,The Necrotic Wake,The Necrotic Wake,,,1:20 AM
+wCpNcT8abfg6zjx1,7,wipe,22:32,1352,62286,The Necrotic Wake,The Necrotic Wake,,,1:30 AM
+wCpNcT8abfg6zjx1,6,wipe,10:04,604,62286,The Necrotic Wake,The Necrotic Wake,,,1:20 AM
+wCpNcT8abfg6zjx1,7,wipe,22:32,1352,62286,The Necrotic Wake,The Necrotic Wake,,,1:30 AM
+Vd2wgWQKA8zDaYM1,10,kill,33:11,1991,62286,The Necrotic Wake,The Necrotic Wake,,,7:37 AM
+Vd2wgWQKA8zDaYM1,16,kill,38:49,2329,62286,The Necrotic Wake,The Necrotic Wake,,,3:11 AM
+Vd2wgWQKA8zDaYM1,38,kill,22:52,1372,62286,The Necrotic Wake,The Necrotic Wake,,,4:33 AM
+Vd2wgWQKA8zDaYM1,13,wipe,43:05,2585,62286,The Necrotic Wake,The Necrotic Wake,,,1:44 AM
+Vd2wgWQKA8zDaYM1,14,wipe,30:09,1809,62286,The Necrotic Wake,The Necrotic Wake,,,2:27 AM
+Vd2wgWQKA8zDaYM1,36,wipe,51:42,3102,62286,The Necrotic Wake,The Necrotic Wake,,,2:48 AM
+Vd2wgWQKA8zDaYM1,13,wipe,43:05,2585,62286,The Necrotic Wake,The Necrotic Wake,,,1:44 AM
+Vd2wgWQKA8zDaYM1,14,wipe,30:09,1809,62286,The Necrotic Wake,The Necrotic Wake,,,2:27 AM
+Vd2wgWQKA8zDaYM1,36,wipe,51:42,3102,62286,The Necrotic Wake,The Necrotic Wake,,,2:48 AM
+phLYGCnDrR9kb8XP,14,kill,25:45,1545,62286,The Necrotic Wake,The Necrotic Wake,,,8:36 AM
+phLYGCnDrR9kb8XP,23,wipe,57:53,3473,62286,The Necrotic Wake,The Necrotic Wake,,,12:30 PM
+phLYGCnDrR9kb8XP,30,wipe,1:01,61,62286,The Necrotic Wake,The Necrotic Wake,,,3:56 PM
+phLYGCnDrR9kb8XP,31,wipe,1:25,85,62286,The Necrotic Wake,The Necrotic Wake,,,3:57 PM
+phLYGCnDrR9kb8XP,32,wipe,1:05,65,62286,The Necrotic Wake,The Necrotic Wake,,,3:58 PM
+phLYGCnDrR9kb8XP,33,wipe,2:13,133,62286,The Necrotic Wake,The Necrotic Wake,,,4:00 PM
+phLYGCnDrR9kb8XP,34,wipe,1:58,118,62286,The Necrotic Wake,The Necrotic Wake,,,4:02 PM
+phLYGCnDrR9kb8XP,35,wipe,1:14,74,62286,The Necrotic Wake,The Necrotic Wake,,,4:04 PM
+phLYGCnDrR9kb8XP,23,wipe,57:53,3473,62286,The Necrotic Wake,The Necrotic Wake,,,12:30 PM
+phLYGCnDrR9kb8XP,30,wipe,1:01,61,62286,The Necrotic Wake,The Necrotic Wake,,,3:56 PM
+phLYGCnDrR9kb8XP,31,wipe,1:25,85,62286,The Necrotic Wake,The Necrotic Wake,,,3:57 PM
+phLYGCnDrR9kb8XP,32,wipe,1:05,65,62286,The Necrotic Wake,The Necrotic Wake,,,3:58 PM
+phLYGCnDrR9kb8XP,33,wipe,2:13,133,62286,The Necrotic Wake,The Necrotic Wake,,,4:00 PM
+phLYGCnDrR9kb8XP,34,wipe,1:58,118,62286,The Necrotic Wake,The Necrotic Wake,,,4:02 PM
+phLYGCnDrR9kb8XP,35,wipe,1:14,74,62286,The Necrotic Wake,The Necrotic Wake,,,4:04 PM
+cj3hQDFYBqT9PC4a,,kill,36:14,2174,62286,The Necrotic Wake,The Necrotic Wake,10,Xal'atath's Bargain: Voidbound,3:06 AM
+AYdHRMfa3X76Bmgv,13,kill,27:39,1659,62286,The Necrotic Wake,The Necrotic Wake,,,4:10 PM
+AYdHRMfa3X76Bmgv,18,kill,40:33,2433,62286,The Necrotic Wake,The Necrotic Wake,,,6:23 PM
+AYdHRMfa3X76Bmgv,3,wipe,22:56,1376,62286,The Necrotic Wake,The Necrotic Wake,,,9:25 AM
+AYdHRMfa3X76Bmgv,16,wipe,36:54,2214,62286,The Necrotic Wake,The Necrotic Wake,,,5:17 PM
+AYdHRMfa3X76Bmgv,17,wipe,29:15,1755,62286,The Necrotic Wake,The Necrotic Wake,,,5:54 PM
+AYdHRMfa3X76Bmgv,3,wipe,22:56,1376,62286,The Necrotic Wake,The Necrotic Wake,,,9:25 AM
+AYdHRMfa3X76Bmgv,16,wipe,36:54,2214,62286,The Necrotic Wake,The Necrotic Wake,,,5:17 PM
+AYdHRMfa3X76Bmgv,17,wipe,29:15,1755,62286,The Necrotic Wake,The Necrotic Wake,,,5:54 PM
+gG8bX9C2aKHWfFBA,,kill,31:35,1895,62286,The Necrotic Wake,The Necrotic Wake,4,Xal'atath's Bargain: Ascendant,9:01 PM
+yjhxkPMFZgL2CKV7,3,wipe,15:40,940,62286,The Necrotic Wake,The Necrotic Wake,,,10:37 AM
+yjhxkPMFZgL2CKV7,4,wipe,6:40,400,62286,The Necrotic Wake,The Necrotic Wake,,,10:53 AM
+yjhxkPMFZgL2CKV7,5,wipe,38:22,2302,62286,The Necrotic Wake,The Necrotic Wake,,,11:00 AM
+yjhxkPMFZgL2CKV7,8,wipe,34:24,2064,62286,The Necrotic Wake,The Necrotic Wake,,,12:43 PM
+yjhxkPMFZgL2CKV7,9,wipe,1:03:35,3815,62286,The Necrotic Wake,The Necrotic Wake,,,1:18 PM
+yjhxkPMFZgL2CKV7,3,wipe,15:40,940,62286,The Necrotic Wake,The Necrotic Wake,,,10:37 AM
+yjhxkPMFZgL2CKV7,4,wipe,6:40,400,62286,The Necrotic Wake,The Necrotic Wake,,,10:53 AM
+yjhxkPMFZgL2CKV7,5,wipe,38:22,2302,62286,The Necrotic Wake,The Necrotic Wake,,,11:00 AM
+yjhxkPMFZgL2CKV7,8,wipe,34:24,2064,62286,The Necrotic Wake,The Necrotic Wake,,,12:43 PM
+yjhxkPMFZgL2CKV7,9,wipe,1:03:35,3815,62286,The Necrotic Wake,The Necrotic Wake,,,1:18 PM
+yjtmN1D7zM4CVFbw,,kill,31:25,1885,62286,The Necrotic Wake,The Necrotic Wake,10,Xal'atath's Bargain: Ascendant,5:02 PM
+DF1qbKdHXGBP8rWN,,wipe,46:10,2770,62286,The Necrotic Wake,The Necrotic Wake,7,Xal'atath's Bargain: Voidbound,2:17 PM
+pArDBP8Zy4kw7Lmj,,kill,31:25,1885,62286,The Necrotic Wake,The Necrotic Wake,10,Xal'atath's Bargain: Ascendant,5:03 PM
+BvaFjq6cfYZgphJw,,kill,36:27,2187,62286,The Necrotic Wake,The Necrotic Wake,10,Xal'atath's Bargain: Voidbound,12:13 PM
+dgLKkRHANB32Yvpj,,kill,24:13,1453,62286,The Necrotic Wake,The Necrotic Wake,4,Fortified,2:23 AM
+cQ3YFwNyLVAqbHMv,,kill,45:27,2727,62286,The Necrotic Wake,The Necrotic Wake,4,Xal'atath's Bargain: Voidbound,10:39 PM
+Kk1QTx96nzvZXGLV,,kill,36:07,2167,62286,The Necrotic Wake,The Necrotic Wake,15,Tyrannical,12:34 PM
+CY2zRZFrNgpjq7at,10,kill,27:59,1679,62286,The Necrotic Wake,The Necrotic Wake,,,7:48 PM
+CY2zRZFrNgpjq7at,9,wipe,2:52,172,62286,The Necrotic Wake,The Necrotic Wake,,,7:45 PM
+D3LWBjnCR6af7pgA,1,kill,23:29,1409,62286,The Necrotic Wake,The Necrotic Wake,,,3:22 PM
+D3LWBjnCR6af7pgA,6,wipe,30:43,1843,62286,The Necrotic Wake,The Necrotic Wake,,,4:22 PM
+pNM81VhX7bY2t4yC,8,kill,34:50,2090,62286,The Necrotic Wake,The Necrotic Wake,,,8:16 PM
+pNM81VhX7bY2t4yC,7,wipe,2:23,143,62286,The Necrotic Wake,The Necrotic Wake,,,8:13 PM
+87yrQgafTcNwRYkJ,,wipe,19:42,1182,62286,The Necrotic Wake,The Necrotic Wake,8,Xal'atath's Bargain: Frenzied,4:51 PM
+Mv3jCLzwXbF27cKq,6,wipe,6:04,364,62286,The Necrotic Wake,The Necrotic Wake,,,7:50 AM
+Mv3jCLzwXbF27cKq,7,wipe,18:01,1081,62286,The Necrotic Wake,The Necrotic Wake,,,7:57 AM
+Mv3jCLzwXbF27cKq,6,wipe,6:04,364,62286,The Necrotic Wake,The Necrotic Wake,,,7:50 AM
+Mv3jCLzwXbF27cKq,7,wipe,18:01,1081,62286,The Necrotic Wake,The Necrotic Wake,,,7:57 AM
+HkQNhVpq4PmGxaBb,,kill,26:29,1589,62286,The Necrotic Wake,The Necrotic Wake,12,Tyrannical,9:18 AM
+gTCMZDwX9783czjY,,kill,30:04,1804,62286,The Necrotic Wake,The Necrotic Wake,10,Xal'atath's Bargain: Ascendant,4:16 PM
+4Ck7GyKZrf23WTzw,2,kill,34:53,2093,62286,The Necrotic Wake,The Necrotic Wake,,,12:37 PM
+4Ck7GyKZrf23WTzw,33,wipe,38:41,2321,62286,The Necrotic Wake,The Necrotic Wake,,,3:34 PM
+Mm8V6ZQpRtjBdcyH,,kill,24:13,1453,62286,The Necrotic Wake,The Necrotic Wake,4,Fortified,2:23 AM
+g8QK7Nk2vGx1B9jb,,kill,25:11,1511,62286,The Necrotic Wake,The Necrotic Wake,3,Fortified,11:30 PM
+FPtqwKAbfYWrZ4Gp,,kill,23:16,1396,62286,The Necrotic Wake,The Necrotic Wake,10,Xal'atath's Bargain: Ascendant,5:01 AM
+LRt1qhFbzgWDjCnc,,wipe,31:52,1912,62286,The Necrotic Wake,The Necrotic Wake,3,Xal'atath's Bargain: Ascendant,9:22 PM
+XTawmrPDCW6nk47f,4,kill,35:29,2129,62286,The Necrotic Wake,The Necrotic Wake,,,6:04 PM
+XTawmrPDCW6nk47f,3,wipe,28:07,1687,62286,The Necrotic Wake,The Necrotic Wake,,,5:36 PM
+Ywt2V4hNxcKfTbP9,,wipe,24:13,1453,62286,The Necrotic Wake,The Necrotic Wake,3,Xal'atath's Bargain: Frenzied,2:31 AM
+bfzKxdWnyGYRgMmZ,3,wipe,5:28,328,62286,The Necrotic Wake,The Necrotic Wake,,,9:24 PM
+bfzKxdWnyGYRgMmZ,4,wipe,23:30,1410,62286,The Necrotic Wake,The Necrotic Wake,,,9:30 PM
+bfzKxdWnyGYRgMmZ,3,wipe,5:28,328,62286,The Necrotic Wake,The Necrotic Wake,,,9:24 PM
+bfzKxdWnyGYRgMmZ,4,wipe,23:30,1410,62286,The Necrotic Wake,The Necrotic Wake,,,9:30 PM
+ndPRyjbq91M2zZJN,,wipe,46:44,2804,62286,The Necrotic Wake,The Necrotic Wake,10,Xal'atath's Bargain: Ascendant,4:52 PM
+NzAPYaG98cXMkZB1,,wipe,41:38,2498,62286,The Necrotic Wake,The Necrotic Wake,3,Xal'atath's Bargain: Ascendant,3:41 AM
+Czp7KcRkQr9LXTqy,6,wipe,36:44,2204,62286,The Necrotic Wake,The Necrotic Wake,,,6:54 AM
+Czp7KcRkQr9LXTqy,8,wipe,1:32:31,5551,62286,The Necrotic Wake,The Necrotic Wake,,,7:51 AM
+Czp7KcRkQr9LXTqy,6,wipe,36:44,2204,62286,The Necrotic Wake,The Necrotic Wake,,,6:54 AM
+Czp7KcRkQr9LXTqy,8,wipe,1:32:31,5551,62286,The Necrotic Wake,The Necrotic Wake,,,7:51 AM
+Qdpt6xHK4DYBb8gz,,kill,23:19,1399,62286,The Necrotic Wake,The Necrotic Wake,6,Fortified,8:43 AM
+gQGr9jJT1YAZpzv3,,wipe,32:53,1973,62286,The Necrotic Wake,The Necrotic Wake,4,Fortified,4:02 AM
+72QGRBP8bVknFmNy,,kill,24:32,1472,62286,The Necrotic Wake,The Necrotic Wake,3,Tyrannical,4:24 PM
+YDcpjzGmrZ4tq3KA,,kill,22:05,1325,62286,The Necrotic Wake,The Necrotic Wake,5,Fortified,1:06 AM
+Pt6qrQygGCKvzRXN,7,kill,16:14,974,62286,The Necrotic Wake,The Necrotic Wake,,,10:52 AM
+Pt6qrQygGCKvzRXN,5,wipe,12:05,725,62286,The Necrotic Wake,The Necrotic Wake,,,10:23 AM
+Pt6qrQygGCKvzRXN,6,wipe,7:46,466,62286,The Necrotic Wake,The Necrotic Wake,,,10:44 AM
+Pt6qrQygGCKvzRXN,5,wipe,12:05,725,62286,The Necrotic Wake,The Necrotic Wake,,,10:23 AM
+Pt6qrQygGCKvzRXN,6,wipe,7:46,466,62286,The Necrotic Wake,The Necrotic Wake,,,10:44 AM
+xJTNMvGCn6QRAF8c,,kill,36:43,2203,62286,The Necrotic Wake,The Necrotic Wake,4,Tyrannical,6:08 AM
+PR9G6FpQhnCHjmDw,,kill,27:46,1666,62286,The Necrotic Wake,The Necrotic Wake,4,Tyrannical,1:35 AM
+ABX87yWNQTJHYhjq,,kill,18:46,1126,62286,The Necrotic Wake,The Necrotic Wake,2,Fortified,11:00 PM
+rjbtXR73dzLVCcP6,,wipe,27:08,1628,62286,The Necrotic Wake,The Necrotic Wake,3,Fortified,3:36 AM
+xGVv3W1T6LwZfcCt,10,kill,26:30,1590,62286,The Necrotic Wake,The Necrotic Wake,,,11:03 AM
+xGVv3W1T6LwZfcCt,19,kill,27:20,1640,62286,The Necrotic Wake,The Necrotic Wake,,,2:13 PM
+xGVv3W1T6LwZfcCt,27,kill,31:41,1901,62286,The Necrotic Wake,The Necrotic Wake,,,5:31 PM
+xGVv3W1T6LwZfcCt,18,wipe,19:25,1165,62286,The Necrotic Wake,The Necrotic Wake,,,1:54 PM
+LMQ8YxnWXZtvAFf7,,wipe,30:57,1857,62286,The Necrotic Wake,The Necrotic Wake,10,Xal'atath's Bargain: Ascendant,3:41 PM
+zLXPjyCVG7r6cDkT,5,kill,41:19,2479,62286,The Necrotic Wake,The Necrotic Wake,,,2:26 PM
+zLXPjyCVG7r6cDkT,1,wipe,14:21,861,62286,The Necrotic Wake,The Necrotic Wake,,,11:14 AM
+zLXPjyCVG7r6cDkT,4,wipe,12:45,765,62286,The Necrotic Wake,The Necrotic Wake,,,2:13 PM
+zLXPjyCVG7r6cDkT,1,wipe,14:21,861,62286,The Necrotic Wake,The Necrotic Wake,,,11:14 AM
+zLXPjyCVG7r6cDkT,4,wipe,12:45,765,62286,The Necrotic Wake,The Necrotic Wake,,,2:13 PM
+Y1qzphFKAc4fb6NG,,kill,30:56,1856,62286,The Necrotic Wake,The Necrotic Wake,10,Xal'atath's Bargain: Ascendant,10:01 PM
+brpTnMz8YtRCgGv2,6,wipe,28:26,1706,62286,The Necrotic Wake,The Necrotic Wake,,,11:58 PM
+brpTnMz8YtRCgGv2,7,wipe,29:38,1778,62286,The Necrotic Wake,The Necrotic Wake,,,12:29 AM
+brpTnMz8YtRCgGv2,8,wipe,29:58,1798,62286,The Necrotic Wake,The Necrotic Wake,,,1:03 AM
+brpTnMz8YtRCgGv2,6,wipe,28:26,1706,62286,The Necrotic Wake,The Necrotic Wake,,,11:58 PM
+brpTnMz8YtRCgGv2,7,wipe,29:38,1778,62286,The Necrotic Wake,The Necrotic Wake,,,12:29 AM
+brpTnMz8YtRCgGv2,8,wipe,29:58,1798,62286,The Necrotic Wake,The Necrotic Wake,,,1:03 AM
+FJanthY63BRxrXjT,,kill,25:44,1544,62286,The Necrotic Wake,The Necrotic Wake,10,Xal'atath's Bargain: Ascendant,7:43 PM
+YyNXTpZJB7v8wqVn,14,wipe,15:25,925,62286,The Necrotic Wake,The Necrotic Wake,,,3:41 PM
+YyNXTpZJB7v8wqVn,23,wipe,10:09,609,62286,The Necrotic Wake,The Necrotic Wake,,,5:11 PM
+YyNXTpZJB7v8wqVn,24,wipe,45:01,2701,62286,The Necrotic Wake,The Necrotic Wake,,,5:21 PM
+YyNXTpZJB7v8wqVn,14,wipe,15:25,925,62286,The Necrotic Wake,The Necrotic Wake,,,3:41 PM
+YyNXTpZJB7v8wqVn,23,wipe,10:09,609,62286,The Necrotic Wake,The Necrotic Wake,,,5:11 PM
+YyNXTpZJB7v8wqVn,24,wipe,45:01,2701,62286,The Necrotic Wake,The Necrotic Wake,,,5:21 PM
+9Qt8fgd2VyXGnFPq,4,kill,43:58,2638,62286,The Necrotic Wake,The Necrotic Wake,,,5:33 PM
+9Qt8fgd2VyXGnFPq,1,wipe,7:08,428,62286,The Necrotic Wake,The Necrotic Wake,,,5:13 PM
+9Qt8fgd2VyXGnFPq,2,wipe,6:07,367,62286,The Necrotic Wake,The Necrotic Wake,,,5:20 PM
+9Qt8fgd2VyXGnFPq,3,wipe,6:37,397,62286,The Necrotic Wake,The Necrotic Wake,,,5:27 PM
+9Qt8fgd2VyXGnFPq,1,wipe,7:08,428,62286,The Necrotic Wake,The Necrotic Wake,,,5:13 PM
+9Qt8fgd2VyXGnFPq,2,wipe,6:07,367,62286,The Necrotic Wake,The Necrotic Wake,,,5:20 PM
+9Qt8fgd2VyXGnFPq,3,wipe,6:37,397,62286,The Necrotic Wake,The Necrotic Wake,,,5:27 PM
+p7ch39yJH2CRfLtN,,wipe,0:00,0,62286,The Necrotic Wake,The Necrotic Wake,10,Xal'atath's Bargain: Voidbound,1:52 PM
+6rQMCpL3G2JNqva7,3,kill,37:54,2274,62286,The Necrotic Wake,The Necrotic Wake,,,7:17 AM
+6rQMCpL3G2JNqva7,16,kill,29:51,1791,62286,The Necrotic Wake,The Necrotic Wake,,,1:29 PM
+6rQMCpL3G2JNqva7,24,kill,30:42,1842,62286,The Necrotic Wake,The Necrotic Wake,,,4:57 PM
+6rQMCpL3G2JNqva7,2,wipe,2:30,150,62286,The Necrotic Wake,The Necrotic Wake,,,7:15 AM
+6rQMCpL3G2JNqva7,12,wipe,36:53,2213,62286,The Necrotic Wake,The Necrotic Wake,,,9:53 AM
+6rQMCpL3G2JNqva7,2,wipe,2:30,150,62286,The Necrotic Wake,The Necrotic Wake,,,7:15 AM
+6rQMCpL3G2JNqva7,12,wipe,36:53,2213,62286,The Necrotic Wake,The Necrotic Wake,,,9:53 AM
+tDLxzGMCbNk4pFBZ,,wipe,15:26,926,62286,The Necrotic Wake,The Necrotic Wake,10,Xal'atath's Bargain: Voidbound,2:44 AM
+PjZTkFhCHXnqp1dD,,kill,34:25,2065,62286,The Necrotic Wake,The Necrotic Wake,5,Fortified,8:00 AM
+Af8pGPm6wzZ1N7vL,,wipe,2:00,120,62286,The Necrotic Wake,The Necrotic Wake,12,Fortified,7:22 PM
+Lah4xnzkVKJRCNHZ,1,wipe,2:30,150,62286,The Necrotic Wake,The Necrotic Wake,,,10:14 PM
+Lah4xnzkVKJRCNHZ,2,wipe,3:59,239,62286,The Necrotic Wake,The Necrotic Wake,,,10:17 PM
+Lah4xnzkVKJRCNHZ,1,wipe,2:30,150,62286,The Necrotic Wake,The Necrotic Wake,,,10:14 PM
+Lah4xnzkVKJRCNHZ,2,wipe,3:59,239,62286,The Necrotic Wake,The Necrotic Wake,,,10:17 PM
+dNMPkV6K9hrXbTmp,,kill,26:53,1613,62286,The Necrotic Wake,The Necrotic Wake,13,Tyrannical,6:18 PM
+Dw7VjC9FmpxJy3Xv,,kill,34:53,2093,62286,The Necrotic Wake,The Necrotic Wake,10,Xal'atath's Bargain: Ascendant,12:37 PM
+F1rR7cP9JdBT4QzY,1,wipe,18:38,1118,62286,The Necrotic Wake,The Necrotic Wake,,,2:33 PM
+F1rR7cP9JdBT4QzY,2,wipe,27:26,1646,62286,The Necrotic Wake,The Necrotic Wake,,,2:51 PM
+F1rR7cP9JdBT4QzY,1,wipe,18:38,1118,62286,The Necrotic Wake,The Necrotic Wake,,,2:33 PM
+F1rR7cP9JdBT4QzY,2,wipe,27:26,1646,62286,The Necrotic Wake,The Necrotic Wake,,,2:51 PM
+hZLfAwjMg4Pa6H3n,,kill,29:09,1749,62286,The Necrotic Wake,The Necrotic Wake,10,Xal'atath's Bargain: Frenzied,7:31 AM
+cf1yQaD7kWzAFY6q,,wipe,24:22,1462,62286,The Necrotic Wake,The Necrotic Wake,10,Xal'atath's Bargain: Frenzied,7:39 AM
+CAV6jdzh8vBZGDKQ,,kill,28:14,1694,62286,The Necrotic Wake,The Necrotic Wake,5,Xal'atath's Bargain: Frenzied,4:52 PM
+rfvqbRtWhPXaJcV4,2,wipe,3:51,231,62286,The Necrotic Wake,The Necrotic Wake,,,2:50 PM
+rfvqbRtWhPXaJcV4,3,wipe,36:28,2188,62286,The Necrotic Wake,The Necrotic Wake,,,2:54 PM
+rfvqbRtWhPXaJcV4,2,wipe,3:51,231,62286,The Necrotic Wake,The Necrotic Wake,,,2:50 PM
+rfvqbRtWhPXaJcV4,3,wipe,36:28,2188,62286,The Necrotic Wake,The Necrotic Wake,,,2:54 PM
+HwfBK743qcgPRLx6,2,wipe,3:51,231,62286,The Necrotic Wake,The Necrotic Wake,,,2:50 PM
+HwfBK743qcgPRLx6,3,wipe,36:28,2188,62286,The Necrotic Wake,The Necrotic Wake,,,2:54 PM
+HwfBK743qcgPRLx6,2,wipe,3:51,231,62286,The Necrotic Wake,The Necrotic Wake,,,2:50 PM
+HwfBK743qcgPRLx6,3,wipe,36:28,2188,62286,The Necrotic Wake,The Necrotic Wake,,,2:54 PM
+N3dxfDzkGpAFjaKr,,wipe,28:40,1720,62286,The Necrotic Wake,The Necrotic Wake,5,Tyrannical,5:58 PM
+kFXJNbrdmZgGQ8L2,2,kill,23:08,1388,62286,The Necrotic Wake,The Necrotic Wake,,,5:22 PM
+kFXJNbrdmZgGQ8L2,1,wipe,21:17,1277,62286,The Necrotic Wake,The Necrotic Wake,,,5:00 PM
+vAKbRTnHVgY6qFBZ,11,kill,19:48,1188,62286,The Necrotic Wake,The Necrotic Wake,,,9:03 PM
+vAKbRTnHVgY6qFBZ,26,wipe,12:00,720,62286,The Necrotic Wake,The Necrotic Wake,,,5:07 AM
+qCLT1n4AKWdhM9Yf,,kill,27:46,1666,62286,The Necrotic Wake,The Necrotic Wake,4,Tyrannical,1:35 AM
+tGRFHhyzn1YmJrv7,,kill,16:52,1012,62286,The Necrotic Wake,The Necrotic Wake,4,Tyrannical,1:17 AM
+pwqVYNvz49yX7Zt6,,kill,20:06,1206,62286,The Necrotic Wake,The Necrotic Wake,4,Tyrannical,12:16 AM
+8dtaMypf6A3c2zLH,,kill,32:13,1933,62286,The Necrotic Wake,The Necrotic Wake,3,Fortified,2:49 PM
+ZBvnbLcFQqHzY1XK,,wipe,54:43,3283,62286,The Necrotic Wake,The Necrotic Wake,5,Fortified,4:07 PM
+1bKR96nJwcFx3TgN,,kill,27:14,1634,62286,The Necrotic Wake,The Necrotic Wake,3,Fortified,12:06 PM
+tvaB2xnRHVGdWD3j,,kill,24:04,1444,62286,The Necrotic Wake,The Necrotic Wake,10,Xal'atath's Bargain: Voidbound,1:51 PM
+hM6gZD3kPHxBrVpn,4,wipe,32:51,1971,62286,The Necrotic Wake,The Necrotic Wake,,,12:41 PM
+hM6gZD3kPHxBrVpn,6,wipe,13:38,818,62286,The Necrotic Wake,The Necrotic Wake,,,2:14 PM
+hM6gZD3kPHxBrVpn,4,wipe,32:51,1971,62286,The Necrotic Wake,The Necrotic Wake,,,12:41 PM
+hM6gZD3kPHxBrVpn,6,wipe,13:38,818,62286,The Necrotic Wake,The Necrotic Wake,,,2:14 PM
+L2Qfrdq7AHbjK3np,19,kill,25:03,1503,62286,The Necrotic Wake,The Necrotic Wake,,,4:13 AM
+L2Qfrdq7AHbjK3np,5,wipe,0:00,0,62286,The Necrotic Wake,The Necrotic Wake,,,2:50 AM
+3NjTCDXtkKwcRzMB,,wipe,25:57,1557,62286,The Necrotic Wake,The Necrotic Wake,3,Xal'atath's Bargain: Ascendant,3:39 AM
+JTkK6Lry84txMV79,5,wipe,4:25,265,62286,The Necrotic Wake,The Necrotic Wake,,,2:01 PM
+JTkK6Lry84txMV79,6,wipe,25:22,1522,62286,The Necrotic Wake,The Necrotic Wake,,,2:05 PM
+JTkK6Lry84txMV79,7,wipe,18:38,1118,62286,The Necrotic Wake,The Necrotic Wake,,,2:33 PM
+JTkK6Lry84txMV79,8,wipe,27:26,1646,62286,The Necrotic Wake,The Necrotic Wake,,,2:51 PM
+JTkK6Lry84txMV79,5,wipe,4:25,265,62286,The Necrotic Wake,The Necrotic Wake,,,2:01 PM
+JTkK6Lry84txMV79,6,wipe,25:22,1522,62286,The Necrotic Wake,The Necrotic Wake,,,2:05 PM
+JTkK6Lry84txMV79,7,wipe,18:38,1118,62286,The Necrotic Wake,The Necrotic Wake,,,2:33 PM
+JTkK6Lry84txMV79,8,wipe,27:26,1646,62286,The Necrotic Wake,The Necrotic Wake,,,2:51 PM
+z8px1tdCFgKfAwyD,,wipe,17:45,1065,62286,The Necrotic Wake,The Necrotic Wake,11,Xal'atath's Bargain: Ascendant,8:17 PM
+kA91jm4g67fPGMtz,1,wipe,20:22,1222,62286,The Necrotic Wake,The Necrotic Wake,,,5:50 AM
+kA91jm4g67fPGMtz,2,wipe,47:24,2844,62286,The Necrotic Wake,The Necrotic Wake,,,6:10 AM
+kA91jm4g67fPGMtz,1,wipe,20:22,1222,62286,The Necrotic Wake,The Necrotic Wake,,,5:50 AM
+kA91jm4g67fPGMtz,2,wipe,47:24,2844,62286,The Necrotic Wake,The Necrotic Wake,,,6:10 AM
+p6PDVtqTmr1M4AvX,,wipe,18:12,1092,62286,The Necrotic Wake,The Necrotic Wake,2,Fortified,5:48 AM
+W9BmwHh78xrMNdnP,,wipe,18:15,1095,62286,The Necrotic Wake,The Necrotic Wake,4,Xal'atath's Bargain: Ascendant,8:28 AM
+1MGxgQcN9fyKvwTJ,,kill,21:38,1298,62286,The Necrotic Wake,The Necrotic Wake,7,Xal'atath's Bargain: Ascendant,8:18 PM
+1YRjwCybrWTcKqJ9,,wipe,24:20,1460,62286,The Necrotic Wake,The Necrotic Wake,4,Xal'atath's Bargain: Ascendant,4:16 AM
+NZpA6x4Q8r7VDXWF,,kill,19:48,1188,62286,The Necrotic Wake,The Necrotic Wake,5,Fortified,9:03 PM
+WMjYGCBv4KA3DxTF,,wipe,22:34,1354,62286,The Necrotic Wake,The Necrotic Wake,5,Tyrannical,1:05 PM
+fL6pRwQK1qJjg4NT,,kill,22:49,1369,62286,The Necrotic Wake,The Necrotic Wake,6,Tyrannical,7:13 PM
+pcg4TkKx2anNJjM9,4,kill,24:15,1455,62286,The Necrotic Wake,The Necrotic Wake,,,1:13 AM
+pcg4TkKx2anNJjM9,3,wipe,11:35,695,62286,The Necrotic Wake,The Necrotic Wake,,,1:02 AM
+XPjrMQHtCxvTNAqb,,kill,32:13,1933,62286,The Necrotic Wake,The Necrotic Wake,3,Fortified,2:49 PM
+4hty9HJp3KmXAYGT,1,wipe,3:37,217,62286,The Necrotic Wake,The Necrotic Wake,,,3:21 PM
+4hty9HJp3KmXAYGT,2,wipe,7:29,449,62286,The Necrotic Wake,The Necrotic Wake,,,3:26 PM
+4hty9HJp3KmXAYGT,1,wipe,3:37,217,62286,The Necrotic Wake,The Necrotic Wake,,,3:21 PM
+4hty9HJp3KmXAYGT,2,wipe,7:29,449,62286,The Necrotic Wake,The Necrotic Wake,,,3:26 PM
+CYqrMXfFZRWjdct3,,kill,27:12,1632,62286,The Necrotic Wake,The Necrotic Wake,4,Fortified,3:38 AM
+YTt8DAhc6damF3w9,,kill,30:19,1819,62286,The Necrotic Wake,The Necrotic Wake,4,Fortified,10:39 PM
+hMq8y2TmFBYNbJ3z,3,kill,28:05,1685,62286,The Necrotic Wake,The Necrotic Wake,,,3:35 PM
+hMq8y2TmFBYNbJ3z,2,wipe,2:15,135,62286,The Necrotic Wake,The Necrotic Wake,,,3:32 PM
+dnrtkB4KRw1gCNFW,3,wipe,3:30,210,62286,The Necrotic Wake,The Necrotic Wake,,,6:14 PM
+dnrtkB4KRw1gCNFW,4,wipe,6:49,409,62286,The Necrotic Wake,The Necrotic Wake,,,6:17 PM
+dnrtkB4KRw1gCNFW,5,wipe,4:58,298,62286,The Necrotic Wake,The Necrotic Wake,,,6:24 PM
+dnrtkB4KRw1gCNFW,3,wipe,3:30,210,62286,The Necrotic Wake,The Necrotic Wake,,,6:14 PM
+dnrtkB4KRw1gCNFW,4,wipe,6:49,409,62286,The Necrotic Wake,The Necrotic Wake,,,6:17 PM
+dnrtkB4KRw1gCNFW,5,wipe,4:58,298,62286,The Necrotic Wake,The Necrotic Wake,,,6:24 PM
+Bbzk7VNXfWH6ZKQh,,wipe,8:58,538,62286,The Necrotic Wake,The Necrotic Wake,10,Xal'atath's Bargain: Oblivion,2:30 PM
+YCKPXT9W8BQ6cyjV,,wipe,10:07,607,62286,The Necrotic Wake,The Necrotic Wake,6,Xal'atath's Bargain: Ascendant,4:49 AM
+rRKtJqHMDazcwmxk,,kill,22:34,1354,62286,The Necrotic Wake,The Necrotic Wake,6,Xal'atath's Bargain: Voidbound,3:29 AM
+GRX6NCbWHLrQBhtw,5,kill,32:54,1974,62286,The Necrotic Wake,The Necrotic Wake,,,6:56 AM
+GRX6NCbWHLrQBhtw,2,wipe,3:25,205,62286,The Necrotic Wake,The Necrotic Wake,,,5:52 AM
+GRX6NCbWHLrQBhtw,3,wipe,20:11,1211,62286,The Necrotic Wake,The Necrotic Wake,,,5:56 AM
+GRX6NCbWHLrQBhtw,4,wipe,39:47,2387,62286,The Necrotic Wake,The Necrotic Wake,,,6:16 AM
+GRX6NCbWHLrQBhtw,2,wipe,3:25,205,62286,The Necrotic Wake,The Necrotic Wake,,,5:52 AM
+GRX6NCbWHLrQBhtw,3,wipe,20:11,1211,62286,The Necrotic Wake,The Necrotic Wake,,,5:56 AM
+GRX6NCbWHLrQBhtw,4,wipe,39:47,2387,62286,The Necrotic Wake,The Necrotic Wake,,,6:16 AM
+zaZFRwgLBMrDK6HV,4,kill,32:30,1950,62286,The Necrotic Wake,The Necrotic Wake,,,4:34 AM
+zaZFRwgLBMrDK6HV,3,wipe,2:57,177,62286,The Necrotic Wake,The Necrotic Wake,,,4:31 AM
+v2w8PCRqdKMWAy16,,kill,37:08,2228,62286,The Necrotic Wake,The Necrotic Wake,10,Xal'atath's Bargain: Voidbound,8:19 PM
+1AvLP4NXMtVGgn82,,wipe,41:09,2469,62286,The Necrotic Wake,The Necrotic Wake,10,Xal'atath's Bargain: Voidbound,1:17 PM
+7G2zVy9tQWqhvpTZ,4,kill,47:32,2852,62286,The Necrotic Wake,The Necrotic Wake,,,3:12 PM
+7G2zVy9tQWqhvpTZ,10,kill,33:25,2005,62286,The Necrotic Wake,The Necrotic Wake,,,5:26 PM
+7G2zVy9tQWqhvpTZ,2,wipe,4:45,285,62286,The Necrotic Wake,The Necrotic Wake,,,2:58 PM
+7G2zVy9tQWqhvpTZ,3,wipe,9:07,547,62286,The Necrotic Wake,The Necrotic Wake,,,3:03 PM
+7G2zVy9tQWqhvpTZ,9,wipe,3:06,186,62286,The Necrotic Wake,The Necrotic Wake,,,5:23 PM
+7G2zVy9tQWqhvpTZ,2,wipe,4:45,285,62286,The Necrotic Wake,The Necrotic Wake,,,2:58 PM
+7G2zVy9tQWqhvpTZ,3,wipe,9:07,547,62286,The Necrotic Wake,The Necrotic Wake,,,3:03 PM
+7G2zVy9tQWqhvpTZ,9,wipe,3:06,186,62286,The Necrotic Wake,The Necrotic Wake,,,5:23 PM
+TVZ2za6C1WKQtrHx,1,wipe,27:30,1650,62286,The Necrotic Wake,The Necrotic Wake,,,11:34 AM
+TVZ2za6C1WKQtrHx,3,wipe,0:00,0,62286,The Necrotic Wake,The Necrotic Wake,,,12:23 PM
+TVZ2za6C1WKQtrHx,4,wipe,43:42,2622,62286,The Necrotic Wake,The Necrotic Wake,,,12:25 PM
+TVZ2za6C1WKQtrHx,1,wipe,27:30,1650,62286,The Necrotic Wake,The Necrotic Wake,,,11:34 AM
+TVZ2za6C1WKQtrHx,3,wipe,0:00,0,62286,The Necrotic Wake,The Necrotic Wake,,,12:23 PM
+TVZ2za6C1WKQtrHx,4,wipe,43:42,2622,62286,The Necrotic Wake,The Necrotic Wake,,,12:25 PM
+tfhWkdKRvQ9N41bA,2,wipe,5:50,350,62286,The Necrotic Wake,The Necrotic Wake,,,7:25 AM
+tfhWkdKRvQ9N41bA,3,wipe,9:42,582,62286,The Necrotic Wake,The Necrotic Wake,,,7:31 AM
+tfhWkdKRvQ9N41bA,4,wipe,8:08,488,62286,The Necrotic Wake,The Necrotic Wake,,,7:40 AM
+tfhWkdKRvQ9N41bA,5,wipe,5:53,353,62286,The Necrotic Wake,The Necrotic Wake,,,7:49 AM
+tfhWkdKRvQ9N41bA,6,wipe,6:27,387,62286,The Necrotic Wake,The Necrotic Wake,,,7:55 AM
+tfhWkdKRvQ9N41bA,2,wipe,5:50,350,62286,The Necrotic Wake,The Necrotic Wake,,,7:25 AM
+tfhWkdKRvQ9N41bA,3,wipe,9:42,582,62286,The Necrotic Wake,The Necrotic Wake,,,7:31 AM
+tfhWkdKRvQ9N41bA,4,wipe,8:08,488,62286,The Necrotic Wake,The Necrotic Wake,,,7:40 AM
+tfhWkdKRvQ9N41bA,5,wipe,5:53,353,62286,The Necrotic Wake,The Necrotic Wake,,,7:49 AM
+tfhWkdKRvQ9N41bA,6,wipe,6:27,387,62286,The Necrotic Wake,The Necrotic Wake,,,7:55 AM
+cg4BqmxDJYn197NL,,kill,22:34,1354,62286,The Necrotic Wake,The Necrotic Wake,6,Xal'atath's Bargain: Voidbound,3:29 AM
+pFg86fZKhC1kqmBr,11,wipe,9:28,568,62286,The Necrotic Wake,The Necrotic Wake,,,2:44 PM
+pFg86fZKhC1kqmBr,12,wipe,16:36,996,62286,The Necrotic Wake,The Necrotic Wake,,,2:53 PM
+pFg86fZKhC1kqmBr,13,wipe,2:50,170,62286,The Necrotic Wake,The Necrotic Wake,,,3:11 PM
+pFg86fZKhC1kqmBr,14,wipe,41:59,2519,62286,The Necrotic Wake,The Necrotic Wake,,,3:13 PM
+pFg86fZKhC1kqmBr,15,wipe,21:08,1268,62286,The Necrotic Wake,The Necrotic Wake,,,3:55 PM
+pFg86fZKhC1kqmBr,11,wipe,9:28,568,62286,The Necrotic Wake,The Necrotic Wake,,,2:44 PM
+pFg86fZKhC1kqmBr,12,wipe,16:36,996,62286,The Necrotic Wake,The Necrotic Wake,,,2:53 PM
+pFg86fZKhC1kqmBr,13,wipe,2:50,170,62286,The Necrotic Wake,The Necrotic Wake,,,3:11 PM
+pFg86fZKhC1kqmBr,14,wipe,41:59,2519,62286,The Necrotic Wake,The Necrotic Wake,,,3:13 PM
+pFg86fZKhC1kqmBr,15,wipe,21:08,1268,62286,The Necrotic Wake,The Necrotic Wake,,,3:55 PM
+vY4cA3ZWCBQVmgar,4,kill,32:28,1948,62286,The Necrotic Wake,The Necrotic Wake,,,3:46 PM
+vY4cA3ZWCBQVmgar,1,wipe,12:18,738,62286,The Necrotic Wake,The Necrotic Wake,,,3:04 PM
+ALp3CxkbNX69jRW7,9,kill,32:58,1978,62286,The Necrotic Wake,The Necrotic Wake,,,6:46 PM
+ALp3CxkbNX69jRW7,4,wipe,29:37,1777,62286,The Necrotic Wake,The Necrotic Wake,,,2:15 PM
+NTR6xvdVa4LzAfJM,,kill,26:05,1565,62286,The Necrotic Wake,The Necrotic Wake,10,Xal'atath's Bargain: Ascendant,4:08 PM
+gcWPqGB31rzbnN7f,,kill,54:50,3290,62286,The Necrotic Wake,The Necrotic Wake,10,Xal'atath's Bargain: Ascendant,8:23 AM
+fMd93znPAVhb47Kq,3,kill,27:59,1679,62286,The Necrotic Wake,The Necrotic Wake,,,6:27 AM
+fMd93znPAVhb47Kq,2,wipe,8:13,493,62286,The Necrotic Wake,The Necrotic Wake,,,6:18 AM
+X9JL724ZcTrgqDM1,4,kill,49:24,2964,62286,The Necrotic Wake,The Necrotic Wake,,,4:24 AM
+X9JL724ZcTrgqDM1,3,wipe,2:45,165,62286,The Necrotic Wake,The Necrotic Wake,,,4:21 AM
+zTcHDqpnvtbwBVZf,,wipe,7:26,446,62286,The Necrotic Wake,The Necrotic Wake,10,Xal'atath's Bargain: Voidbound,11:53 PM
+4jZPgG3fa1rKkD6V,,wipe,4:51,291,62286,The Necrotic Wake,The Necrotic Wake,5,Xal'atath's Bargain: Voidbound,12:03 PM
+aFDVMdtB2Tj7zA9b,,wipe,0:00,0,62286,The Necrotic Wake,The Necrotic Wake,3,Xal'atath's Bargain: Voidbound,6:02 AM
+p28cqWvYb7LxK69Z,,wipe,18:23,1103,62286,The Necrotic Wake,The Necrotic Wake,10,Xal'atath's Bargain: Voidbound,3:18 AM
+9ypmGJnTFxQ4akHh,3,wipe,19:22,1162,62286,The Necrotic Wake,The Necrotic Wake,,,12:39 AM
+9ypmGJnTFxQ4akHh,4,wipe,7:01,421,62286,The Necrotic Wake,The Necrotic Wake,,,1:49 AM
+9ypmGJnTFxQ4akHh,3,wipe,19:22,1162,62286,The Necrotic Wake,The Necrotic Wake,,,12:39 AM
+9ypmGJnTFxQ4akHh,4,wipe,7:01,421,62286,The Necrotic Wake,The Necrotic Wake,,,1:49 AM
+tMDw1FyBQRT2jLrC,,wipe,13:08,788,62286,The Necrotic Wake,The Necrotic Wake,3,Xal'atath's Bargain: Ascendant,2:07 AM
+jqnXbpJ92Ywy6x4P,,wipe,5:34,334,62286,The Necrotic Wake,The Necrotic Wake,8,Xal'atath's Bargain: Ascendant,1:01 AM
+8DgdnPbW4twx9JK6,,wipe,5:34,334,62286,The Necrotic Wake,The Necrotic Wake,8,Xal'atath's Bargain: Ascendant,1:01 AM
+mKNfAYhxTLXrqnvb,4,wipe,0:00,0,62286,The Necrotic Wake,The Necrotic Wake,,,10:07 PM
+mKNfAYhxTLXrqnvb,5,wipe,1:11,71,62286,The Necrotic Wake,The Necrotic Wake,,,10:09 PM
+mKNfAYhxTLXrqnvb,4,wipe,0:00,0,62286,The Necrotic Wake,The Necrotic Wake,,,10:07 PM
+mKNfAYhxTLXrqnvb,5,wipe,1:11,71,62286,The Necrotic Wake,The Necrotic Wake,,,10:09 PM
+7x42DM3HNWBgybRV,1,wipe,0:00,0,62286,The Necrotic Wake,The Necrotic Wake,,,3:25 PM
+7x42DM3HNWBgybRV,2,wipe,11:40,700,62286,The Necrotic Wake,The Necrotic Wake,,,3:25 PM
+7x42DM3HNWBgybRV,7,wipe,0:00,0,62286,The Necrotic Wake,The Necrotic Wake,,,5:23 PM
+7x42DM3HNWBgybRV,8,wipe,17:32,1052,62286,The Necrotic Wake,The Necrotic Wake,,,5:24 PM
+7x42DM3HNWBgybRV,1,wipe,0:00,0,62286,The Necrotic Wake,The Necrotic Wake,,,3:25 PM
+7x42DM3HNWBgybRV,2,wipe,11:40,700,62286,The Necrotic Wake,The Necrotic Wake,,,3:25 PM
+7x42DM3HNWBgybRV,7,wipe,0:00,0,62286,The Necrotic Wake,The Necrotic Wake,,,5:23 PM
+7x42DM3HNWBgybRV,8,wipe,17:32,1052,62286,The Necrotic Wake,The Necrotic Wake,,,5:24 PM
+hnX4afvcpzK6V8wJ,2,wipe,11:41,701,62286,The Necrotic Wake,The Necrotic Wake,,,7:12 PM
+hnX4afvcpzK6V8wJ,3,wipe,11:14,674,62286,The Necrotic Wake,The Necrotic Wake,,,7:23 PM
+hnX4afvcpzK6V8wJ,2,wipe,11:41,701,62286,The Necrotic Wake,The Necrotic Wake,,,7:12 PM
+hnX4afvcpzK6V8wJ,3,wipe,11:14,674,62286,The Necrotic Wake,The Necrotic Wake,,,7:23 PM
+r2RFq9MkNxy7Q461,,kill,39:38,2378,62286,The Necrotic Wake,The Necrotic Wake,10,Xal'atath's Bargain: Ascendant,11:50 AM
+PxzfvnWrYDCJpXB9,2,kill,42:12,2532,62286,The Necrotic Wake,The Necrotic Wake,,,8:42 PM
+PxzfvnWrYDCJpXB9,1,wipe,0:00,0,62286,The Necrotic Wake,The Necrotic Wake,,,8:42 PM
+7DdVpWRKxZkXgj4w,,wipe,11:53,713,62286,The Necrotic Wake,The Necrotic Wake,3,Xal'atath's Bargain: Ascendant,11:07 AM
+cPa8AWbhHNyrgqmL,,kill,42:44,2564,62286,The Necrotic Wake,The Necrotic Wake,10,Xal'atath's Bargain: Ascendant,7:30 AM
+pRqn32VD9dAJQx7M,,kill,32:30,1950,62286,The Necrotic Wake,The Necrotic Wake,11,Xal'atath's Bargain: Voidbound,4:20 AM
+GMN4r3pzjFLnQTg2,,wipe,26:58,1618,62286,The Necrotic Wake,The Necrotic Wake,4,Xal'atath's Bargain: Voidbound,3:03 AM
+kNgnpy71m4MhPvcA,,wipe,10:06,606,62286,The Necrotic Wake,The Necrotic Wake,10,Xal'atath's Bargain: Voidbound,3:32 AM
+8A9Yg3QHM41RLdny,,kill,17:13,1033,62286,The Necrotic Wake,The Necrotic Wake,3,Tyrannical,7:30 AM
+wk3J4XvPRM9xg1YQ,,wipe,13:55,835,62286,The Necrotic Wake,The Necrotic Wake,3,Xal'atath's Bargain: Frenzied,11:28 PM
+dY93tfgrZcyqaTjJ,5,kill,36:17,2177,62286,The Necrotic Wake,The Necrotic Wake,,,5:18 PM
+dY93tfgrZcyqaTjJ,13,kill,23:33,1413,62286,The Necrotic Wake,The Necrotic Wake,,,9:24 PM
+dY93tfgrZcyqaTjJ,4,wipe,47:49,2869,62286,The Necrotic Wake,The Necrotic Wake,,,2:04 PM
+dY93tfgrZcyqaTjJ,7,wipe,24:18,1458,62286,The Necrotic Wake,The Necrotic Wake,,,6:18 PM
+dY93tfgrZcyqaTjJ,10,wipe,5:28,328,62286,The Necrotic Wake,The Necrotic Wake,,,9:04 PM
+dY93tfgrZcyqaTjJ,11,wipe,3:01,181,62286,The Necrotic Wake,The Necrotic Wake,,,9:10 PM
+dY93tfgrZcyqaTjJ,12,wipe,11:30,690,62286,The Necrotic Wake,The Necrotic Wake,,,9:13 PM
+dY93tfgrZcyqaTjJ,4,wipe,47:49,2869,62286,The Necrotic Wake,The Necrotic Wake,,,2:04 PM
+dY93tfgrZcyqaTjJ,7,wipe,24:18,1458,62286,The Necrotic Wake,The Necrotic Wake,,,6:18 PM
+dY93tfgrZcyqaTjJ,10,wipe,5:28,328,62286,The Necrotic Wake,The Necrotic Wake,,,9:04 PM
+dY93tfgrZcyqaTjJ,11,wipe,3:01,181,62286,The Necrotic Wake,The Necrotic Wake,,,9:10 PM
+dY93tfgrZcyqaTjJ,12,wipe,11:30,690,62286,The Necrotic Wake,The Necrotic Wake,,,9:13 PM
+tXcBPqMwnmhDvfa4,,kill,22:41,1361,62286,The Necrotic Wake,The Necrotic Wake,6,Xal'atath's Bargain: Ascendant,10:33 PM
+KmcT23fWytAxphB4,5,kill,42:55,2575,62286,The Necrotic Wake,The Necrotic Wake,,,12:39 AM
+KmcT23fWytAxphB4,3,wipe,15:09,909,62286,The Necrotic Wake,The Necrotic Wake,,,12:19 AM
+KmcT23fWytAxphB4,4,wipe,3:58,238,62286,The Necrotic Wake,The Necrotic Wake,,,12:35 AM
+KmcT23fWytAxphB4,3,wipe,15:09,909,62286,The Necrotic Wake,The Necrotic Wake,,,12:19 AM
+KmcT23fWytAxphB4,4,wipe,3:58,238,62286,The Necrotic Wake,The Necrotic Wake,,,12:35 AM
+gYFnCcdNHB2xpAv7,1,wipe,20:22,1222,62286,The Necrotic Wake,The Necrotic Wake,,,5:50 AM
+gYFnCcdNHB2xpAv7,2,wipe,47:24,2844,62286,The Necrotic Wake,The Necrotic Wake,,,6:10 AM
+gYFnCcdNHB2xpAv7,1,wipe,20:22,1222,62286,The Necrotic Wake,The Necrotic Wake,,,5:50 AM
+gYFnCcdNHB2xpAv7,2,wipe,47:24,2844,62286,The Necrotic Wake,The Necrotic Wake,,,6:10 AM
+28kpHJYFv4DZwzTd,,kill,27:55,1675,62286,The Necrotic Wake,The Necrotic Wake,4,Xal'atath's Bargain: Ascendant,5:51 AM
+PqLD384cktrFgKy9,,kill,24:29,1469,62286,The Necrotic Wake,The Necrotic Wake,3,Tyrannical,1:21 PM
+PjFXN8tYwnmGHDf2,,wipe,4:40,280,62286,The Necrotic Wake,The Necrotic Wake,6,Fortified,5:59 AM
+V8RCA6MdZf73bqyT,,wipe,39:10,2350,62286,The Necrotic Wake,The Necrotic Wake,3,Xal'atath's Bargain: Voidbound,10:04 PM
+1vnMYRBN2JAhXCbL,3,kill,51:35,3095,62286,The Necrotic Wake,The Necrotic Wake,,,7:43 AM
+1vnMYRBN2JAhXCbL,1,wipe,6:22,382,62286,The Necrotic Wake,The Necrotic Wake,,,7:34 AM
+1vnMYRBN2JAhXCbL,2,wipe,2:36,156,62286,The Necrotic Wake,The Necrotic Wake,,,7:41 AM
+1vnMYRBN2JAhXCbL,1,wipe,6:22,382,62286,The Necrotic Wake,The Necrotic Wake,,,7:34 AM
+1vnMYRBN2JAhXCbL,2,wipe,2:36,156,62286,The Necrotic Wake,The Necrotic Wake,,,7:41 AM
+3ZJ4Y6knjFRhVxqw,,kill,27:20,1640,62286,The Necrotic Wake,The Necrotic Wake,10,Tyrannical,4:08 PM
+X7DQYzfdqbvkKR9a,8,wipe,24:44,1484,62286,The Necrotic Wake,The Necrotic Wake,,,6:20 AM
+X7DQYzfdqbvkKR9a,9,wipe,1:27,87,62286,The Necrotic Wake,The Necrotic Wake,,,6:46 AM
+X7DQYzfdqbvkKR9a,8,wipe,24:44,1484,62286,The Necrotic Wake,The Necrotic Wake,,,6:20 AM
+X7DQYzfdqbvkKR9a,9,wipe,1:27,87,62286,The Necrotic Wake,The Necrotic Wake,,,6:46 AM
+6AhMZg7dFf4QaYjB,3,kill,27:06,1626,62286,The Necrotic Wake,The Necrotic Wake,,,3:59 PM
+6AhMZg7dFf4QaYjB,2,wipe,2:30,150,62286,The Necrotic Wake,The Necrotic Wake,,,3:57 PM
+vjTCL23BDgJhNbFk,,kill,18:04,1084,62286,The Necrotic Wake,The Necrotic Wake,4,Fortified,11:00 PM
+f9bmM6n7txRZHvBY,,kill,18:04,1084,62286,The Necrotic Wake,The Necrotic Wake,4,Fortified,11:00 PM
+HNMRPWgvQ2yzfGxh,,wipe,0:53,53,62286,The Necrotic Wake,The Necrotic Wake,2,Fortified,3:28 AM
+HRPqjKt9ABdCQJkY,2,kill,41:27,2487,62286,The Necrotic Wake,The Necrotic Wake,,,5:36 AM
+HRPqjKt9ABdCQJkY,1,wipe,8:54,534,62286,The Necrotic Wake,The Necrotic Wake,,,5:27 AM
+WnkDb3rGY2R6KhNv,,wipe,24:05,1445,62286,The Necrotic Wake,The Necrotic Wake,2,Xal'atath's Bargain: Voidbound,2:06 AM
+C8cZ7dKxtaD6w2qX,3,kill,29:34,1774,62286,The Necrotic Wake,The Necrotic Wake,,,5:23 AM
+C8cZ7dKxtaD6w2qX,2,wipe,1:17,77,62286,The Necrotic Wake,The Necrotic Wake,,,5:22 AM
+k1f8FL24zMTpVCmc,,kill,26:14,1574,62286,The Necrotic Wake,The Necrotic Wake,6,Tyrannical,9:21 PM
+9fCy87jLQAhWpF2m,9,kill,36:52,2212,62286,The Necrotic Wake,The Necrotic Wake,,,5:27 PM
+9fCy87jLQAhWpF2m,8,wipe,25:43,1543,62286,The Necrotic Wake,The Necrotic Wake,,,5:01 PM
+hWXRGwn7fTjbVHxC,,wipe,0:00,0,62286,The Necrotic Wake,The Necrotic Wake,3,Fortified,5:34 AM
+TR17vf8Fq29VaGpk,,kill,32:28,1948,62286,The Necrotic Wake,The Necrotic Wake,8,Xal'atath's Bargain: Voidbound,9:00 AM
+Tw4QczAHLqFx3Cdb,,wipe,16:22,982,62286,The Necrotic Wake,The Necrotic Wake,10,Xal'atath's Bargain: Voidbound,7:23 AM
+ZfTzWMAVBPmC3h8D,,kill,29:44,1784,62286,The Necrotic Wake,The Necrotic Wake,10,Xal'atath's Bargain: Voidbound,6:56 AM
+zPVqmtANLhpR7djn,,kill,23:47,1427,62286,The Necrotic Wake,The Necrotic Wake,4,Xal'atath's Bargain: Voidbound,5:23 AM
+f4VqbWtRcrpFBLX1,,kill,25:56,1556,62286,The Necrotic Wake,The Necrotic Wake,7,Xal'atath's Bargain: Voidbound,8:36 PM
+AQVyDmJx4zt9pw1b,4,kill,1:33:36,5616,62286,The Necrotic Wake,The Necrotic Wake,,,4:42 PM
+AQVyDmJx4zt9pw1b,3,wipe,18:11,1091,62286,The Necrotic Wake,The Necrotic Wake,,,4:24 PM
+YFjah6yTzxKHB3ng,,wipe,3:40,220,62286,The Necrotic Wake,The Necrotic Wake,10,Xal'atath's Bargain: Oblivion,11:38 AM
+jmQvx8XFBRnwfYtH,,wipe,3:28,208,62286,The Necrotic Wake,The Necrotic Wake,8,Xal'atath's Bargain: Oblivion,5:05 PM
+7mAjRCQgMpq84dJ9,,wipe,3:39,219,62286,The Necrotic Wake,The Necrotic Wake,8,Xal'atath's Bargain: Oblivion,4:58 PM
+amHhJ3kzWFcZRjbv,,kill,40:07,2407,62286,The Necrotic Wake,The Necrotic Wake,10,Xal'atath's Bargain: Oblivion,2:41 PM
+TxaJRH4AtwKkDy2g,,kill,34:49,2089,62286,The Necrotic Wake,The Necrotic Wake,12,Fortified,8:49 AM
+Bmap8fxh6L1rVNWQ,,wipe,4:32,272,62286,The Necrotic Wake,The Necrotic Wake,4,Xal'atath's Bargain: Ascendant,2:31 AM
+mtFhH1ABjgzXknv3,2,kill,47:33,2853,62286,The Necrotic Wake,The Necrotic Wake,,,3:10 PM
+mtFhH1ABjgzXknv3,1,wipe,9:46,586,62286,The Necrotic Wake,The Necrotic Wake,,,3:01 PM
+nTzBAQ7NZkP1d8tM,,kill,30:07,1807,62286,The Necrotic Wake,The Necrotic Wake,10,Xal'atath's Bargain: Voidbound,11:10 AM
+MtF4DCAxJ3qdHmwZ,,wipe,8:54,534,62286,The Necrotic Wake,The Necrotic Wake,10,Xal'atath's Bargain: Voidbound,5:27 AM
+AkvzZcjf4Md61Bq8,2,kill,34:48,2088,62286,The Necrotic Wake,The Necrotic Wake,,,8:59 PM
+AkvzZcjf4Md61Bq8,1,wipe,14:20,860,62286,The Necrotic Wake,The Necrotic Wake,,,8:45 PM
+xjqYBNw7R28gW9fv,1,wipe,5:50,350,62286,The Necrotic Wake,The Necrotic Wake,,,7:25 AM
+xjqYBNw7R28gW9fv,2,wipe,9:42,582,62286,The Necrotic Wake,The Necrotic Wake,,,7:31 AM
+xjqYBNw7R28gW9fv,3,wipe,8:08,488,62286,The Necrotic Wake,The Necrotic Wake,,,7:40 AM
+xjqYBNw7R28gW9fv,4,wipe,5:53,353,62286,The Necrotic Wake,The Necrotic Wake,,,7:49 AM
+xjqYBNw7R28gW9fv,5,wipe,6:27,387,62286,The Necrotic Wake,The Necrotic Wake,,,7:55 AM
+xjqYBNw7R28gW9fv,1,wipe,5:50,350,62286,The Necrotic Wake,The Necrotic Wake,,,7:25 AM
+xjqYBNw7R28gW9fv,2,wipe,9:42,582,62286,The Necrotic Wake,The Necrotic Wake,,,7:31 AM
+xjqYBNw7R28gW9fv,3,wipe,8:08,488,62286,The Necrotic Wake,The Necrotic Wake,,,7:40 AM
+xjqYBNw7R28gW9fv,4,wipe,5:53,353,62286,The Necrotic Wake,The Necrotic Wake,,,7:49 AM
+xjqYBNw7R28gW9fv,5,wipe,6:27,387,62286,The Necrotic Wake,The Necrotic Wake,,,7:55 AM
+FxhaQpJBGtbV1vWf,,wipe,7:52,472,62286,The Necrotic Wake,The Necrotic Wake,12,Fortified,5:09 AM
+PTGZ9cmYazWrFy48,,kill,26:01,1561,62286,The Necrotic Wake,The Necrotic Wake,5,Xal'atath's Bargain: Voidbound,3:27 AM
+AxKv9BTtQy6qNd2r,3,kill,26:02,1562,62286,The Necrotic Wake,The Necrotic Wake,,,5:24 AM
+AxKv9BTtQy6qNd2r,7,kill,36:13,2173,62286,The Necrotic Wake,The Necrotic Wake,,,6:14 AM
+AxKv9BTtQy6qNd2r,1,wipe,6:42,402,62286,The Necrotic Wake,The Necrotic Wake,,,5:12 AM
+AxKv9BTtQy6qNd2r,2,wipe,5:26,326,62286,The Necrotic Wake,The Necrotic Wake,,,5:18 AM
+AxKv9BTtQy6qNd2r,1,wipe,6:42,402,62286,The Necrotic Wake,The Necrotic Wake,,,5:12 AM
+AxKv9BTtQy6qNd2r,2,wipe,5:26,326,62286,The Necrotic Wake,The Necrotic Wake,,,5:18 AM
+PQ2wmxgyCnzKpvj8,,wipe,0:47,47,62286,The Necrotic Wake,The Necrotic Wake,10,Xal'atath's Bargain: Frenzied,3:01 PM
+xQRq1gKarYhdfPwc,3,kill,42:15,2535,62286,The Necrotic Wake,The Necrotic Wake,,,3:09 PM
+xQRq1gKarYhdfPwc,1,wipe,7:29,449,62286,The Necrotic Wake,The Necrotic Wake,,,2:43 PM
+xQRq1gKarYhdfPwc,2,wipe,18:02,1082,62286,The Necrotic Wake,The Necrotic Wake,,,2:51 PM
+xQRq1gKarYhdfPwc,1,wipe,7:29,449,62286,The Necrotic Wake,The Necrotic Wake,,,2:43 PM
+xQRq1gKarYhdfPwc,2,wipe,18:02,1082,62286,The Necrotic Wake,The Necrotic Wake,,,2:51 PM
+8M4fCH2zawtVAyTm,1,wipe,0:00,0,62286,The Necrotic Wake,The Necrotic Wake,,,3:13 PM
+8M4fCH2zawtVAyTm,2,wipe,3:34,214,62286,The Necrotic Wake,The Necrotic Wake,,,3:16 PM
+8M4fCH2zawtVAyTm,1,wipe,0:00,0,62286,The Necrotic Wake,The Necrotic Wake,,,3:13 PM
+8M4fCH2zawtVAyTm,2,wipe,3:34,214,62286,The Necrotic Wake,The Necrotic Wake,,,3:16 PM
+yA9HQKdwv36ZWVRa,1,kill,35:33,2133,62286,The Necrotic Wake,The Necrotic Wake,,,12:52 PM
+yA9HQKdwv36ZWVRa,2,wipe,0:00,0,62286,The Necrotic Wake,The Necrotic Wake,,,1:23 PM
+Rfb3H8Q4rz6A21K9,,kill,22:05,1325,62286,The Necrotic Wake,The Necrotic Wake,10,Xal'atath's Bargain: Ascendant,1:28 PM
+YMTZ7Pr6pFV8jvRx,,kill,34:02,2042,62286,The Necrotic Wake,The Necrotic Wake,7,Xal'atath's Bargain: Ascendant,11:44 AM
+dx4AJMX8ND73HtTG,3,kill,26:02,1562,62286,The Necrotic Wake,The Necrotic Wake,,,5:24 AM
+dx4AJMX8ND73HtTG,7,kill,36:13,2173,62286,The Necrotic Wake,The Necrotic Wake,,,6:14 AM
+dx4AJMX8ND73HtTG,1,wipe,6:42,402,62286,The Necrotic Wake,The Necrotic Wake,,,5:12 AM
+dx4AJMX8ND73HtTG,2,wipe,5:26,326,62286,The Necrotic Wake,The Necrotic Wake,,,5:18 AM
+dx4AJMX8ND73HtTG,1,wipe,6:42,402,62286,The Necrotic Wake,The Necrotic Wake,,,5:12 AM
+dx4AJMX8ND73HtTG,2,wipe,5:26,326,62286,The Necrotic Wake,The Necrotic Wake,,,5:18 AM
+R2M7NKVCBqyDkF3h,,wipe,0:00,0,62286,The Necrotic Wake,The Necrotic Wake,10,Xal'atath's Bargain: Ascendant,6:14 AM
+D8kKVW6p7Lq94wGA,1,wipe,8:59,539,62286,The Necrotic Wake,The Necrotic Wake,,,10:13 PM
+D8kKVW6p7Lq94wGA,2,wipe,8:03,483,62286,The Necrotic Wake,The Necrotic Wake,,,10:22 PM
+D8kKVW6p7Lq94wGA,3,wipe,36:59,2219,62286,The Necrotic Wake,The Necrotic Wake,,,10:30 PM
+D8kKVW6p7Lq94wGA,1,wipe,8:59,539,62286,The Necrotic Wake,The Necrotic Wake,,,10:13 PM
+D8kKVW6p7Lq94wGA,2,wipe,8:03,483,62286,The Necrotic Wake,The Necrotic Wake,,,10:22 PM
+D8kKVW6p7Lq94wGA,3,wipe,36:59,2219,62286,The Necrotic Wake,The Necrotic Wake,,,10:30 PM
+g4nWPT6397YzabM2,1,wipe,8:59,539,62286,The Necrotic Wake,The Necrotic Wake,,,10:13 PM
+g4nWPT6397YzabM2,2,wipe,0:36,36,62286,The Necrotic Wake,The Necrotic Wake,,,10:22 PM
+g4nWPT6397YzabM2,1,wipe,8:59,539,62286,The Necrotic Wake,The Necrotic Wake,,,10:13 PM
+g4nWPT6397YzabM2,2,wipe,0:36,36,62286,The Necrotic Wake,The Necrotic Wake,,,10:22 PM
+7K6QbzZwjYqGnyJR,,kill,25:47,1547,62286,The Necrotic Wake,The Necrotic Wake,4,Xal'atath's Bargain: Ascendant,9:11 AM
+TcygZAhD7N1wKzvx,,kill,28:31,1711,62286,The Necrotic Wake,The Necrotic Wake,10,Xal'atath's Bargain: Ascendant,8:53 AM
+FBa2wkhvnNRYgVx3,,kill,43:58,2638,62286,The Necrotic Wake,The Necrotic Wake,10,Xal'atath's Bargain: Ascendant,5:34 PM
+zGaMt416dCxk9Lr7,,wipe,26:00,1560,62286,The Necrotic Wake,The Necrotic Wake,4,Xal'atath's Bargain: Ascendant,5:37 PM
+VnQ8m4wdNLtxcXqW,,wipe,5:08,308,62286,The Necrotic Wake,The Necrotic Wake,10,Xal'atath's Bargain: Voidbound,6:14 AM
+9xVhm8LpbTDYtjJk,3,kill,24:57,1497,62286,The Necrotic Wake,The Necrotic Wake,,,10:58 PM
+9xVhm8LpbTDYtjJk,1,wipe,5:52,352,62286,The Necrotic Wake,The Necrotic Wake,,,10:45 PM
+9xVhm8LpbTDYtjJk,2,wipe,6:50,410,62286,The Necrotic Wake,The Necrotic Wake,,,10:51 PM
+9xVhm8LpbTDYtjJk,1,wipe,5:52,352,62286,The Necrotic Wake,The Necrotic Wake,,,10:45 PM
+9xVhm8LpbTDYtjJk,2,wipe,6:50,410,62286,The Necrotic Wake,The Necrotic Wake,,,10:51 PM
+maQ9fJ7Whrj4gNpn,,kill,24:57,1497,62286,The Necrotic Wake,The Necrotic Wake,10,Xal'atath's Bargain: Voidbound,10:58 PM
+WgAvVbnFpRafmj83,,wipe,5:37,337,62286,The Necrotic Wake,The Necrotic Wake,10,Xal'atath's Bargain: Voidbound,1:25 PM
+qn8MQmtVfdNL7xTJ,,kill,32:51,1971,62286,The Necrotic Wake,The Necrotic Wake,10,Xal'atath's Bargain: Voidbound,10:10 AM
+bYqxJQB43KkaVMPR,,kill,25:13,1513,62286,The Necrotic Wake,The Necrotic Wake,10,Xal'atath's Bargain: Voidbound,8:51 AM
+ZkryjtnPmXdF4AbH,,kill,35:35,2135,62286,The Necrotic Wake,The Necrotic Wake,6,Xal'atath's Bargain: Ascendant,3:10 AM
+jAMn4VwgfZzxKLNa,,wipe,33:59,2039,62286,The Necrotic Wake,The Necrotic Wake,3,Xal'atath's Bargain: Voidbound,2:31 AM
+v2Z39aJPxwrMcKkh,,wipe,4:15,255,62286,The Necrotic Wake,The Necrotic Wake,10,Xal'atath's Bargain: Voidbound,3:18 AM
+mCp73AD9yHjkBv8r,,kill,33:54,2034,62286,The Necrotic Wake,The Necrotic Wake,10,Xal'atath's Bargain: Voidbound,2:00 AM
+JVR9z8dxZ6mngF3L,2,kill,37:04,2224,62286,The Necrotic Wake,The Necrotic Wake,,,12:14 AM
+JVR9z8dxZ6mngF3L,1,wipe,17:17,1037,62286,The Necrotic Wake,The Necrotic Wake,,,11:57 PM
+861QX3Tr2JychvfF,1,wipe,33:22,2002,62286,The Necrotic Wake,The Necrotic Wake,,,3:45 PM
+861QX3Tr2JychvfF,2,wipe,36:43,2203,62286,The Necrotic Wake,The Necrotic Wake,,,4:18 PM
+861QX3Tr2JychvfF,1,wipe,33:22,2002,62286,The Necrotic Wake,The Necrotic Wake,,,3:45 PM
+861QX3Tr2JychvfF,2,wipe,36:43,2203,62286,The Necrotic Wake,The Necrotic Wake,,,4:18 PM
+N8LJQMKcnRdZbFpk,,kill,27:36,1656,62286,The Necrotic Wake,The Necrotic Wake,7,Xal'atath's Bargain: Voidbound,10:41 AM
+BkwLpqKhtRxF89Gr,3,kill,51:35,3095,62286,The Necrotic Wake,The Necrotic Wake,,,7:43 AM
+BkwLpqKhtRxF89Gr,1,wipe,6:22,382,62286,The Necrotic Wake,The Necrotic Wake,,,7:34 AM
+BkwLpqKhtRxF89Gr,2,wipe,2:36,156,62286,The Necrotic Wake,The Necrotic Wake,,,7:41 AM
+BkwLpqKhtRxF89Gr,1,wipe,6:22,382,62286,The Necrotic Wake,The Necrotic Wake,,,7:34 AM
+BkwLpqKhtRxF89Gr,2,wipe,2:36,156,62286,The Necrotic Wake,The Necrotic Wake,,,7:41 AM
+89Nx7RbBkMnAFJqr,,wipe,6:23,383,62286,The Necrotic Wake,The Necrotic Wake,10,Xal'atath's Bargain: Voidbound,7:12 PM
+nJhYT1Vp3wkg9tC7,,wipe,21:09,1269,62286,The Necrotic Wake,The Necrotic Wake,4,Xal'atath's Bargain: Voidbound,4:50 AM
+TBkJNnpFdrhYXKZ4,,kill,27:08,1628,62286,The Necrotic Wake,The Necrotic Wake,10,Xal'atath's Bargain: Voidbound,5:09 AM
+wZfhqYvCzRy2Kp8V,,wipe,20:29,1229,62286,The Necrotic Wake,The Necrotic Wake,3,Xal'atath's Bargain: Voidbound,10:59 PM
+g37cRGbmTpVzPnty,,kill,46:53,2813,62286,The Necrotic Wake,The Necrotic Wake,10,Xal'atath's Bargain: Ascendant,12:20 PM
+qRpFdrcQT3nLjvNG,2,kill,35:30,2130,62286,The Necrotic Wake,The Necrotic Wake,,,4:02 AM
+qRpFdrcQT3nLjvNG,1,wipe,17:23,1043,62286,The Necrotic Wake,The Necrotic Wake,,,3:44 AM
+czhdY9TAyvWxDBaQ,,kill,32:18,1938,62286,The Necrotic Wake,The Necrotic Wake,4,Xal'atath's Bargain: Voidbound,5:40 AM
+2NthjAgGfDwTmLF7,,kill,27:58,1678,62286,The Necrotic Wake,The Necrotic Wake,2,Fortified,4:46 AM
+wDbH238a6T9XnBAd,,wipe,17:55,1075,62286,The Necrotic Wake,The Necrotic Wake,10,Xal'atath's Bargain: Voidbound,3:32 AM
+VBXKhtPgjTzYNfQw,2,wipe,27:08,1628,62286,The Necrotic Wake,The Necrotic Wake,,,2:23 AM
+VBXKhtPgjTzYNfQw,3,wipe,1:00,60,62286,The Necrotic Wake,The Necrotic Wake,,,2:54 AM
+VBXKhtPgjTzYNfQw,2,wipe,27:08,1628,62286,The Necrotic Wake,The Necrotic Wake,,,2:23 AM
+VBXKhtPgjTzYNfQw,3,wipe,1:00,60,62286,The Necrotic Wake,The Necrotic Wake,,,2:54 AM
+Jx4m2GhQFvnq1brg,,wipe,0:00,0,62286,The Necrotic Wake,The Necrotic Wake,10,Xal'atath's Bargain: Voidbound,6:37 PM
+WAhNpXb2y4tTGRz3,,kill,25:42,1542,62286,The Necrotic Wake,The Necrotic Wake,3,Fortified,4:28 PM
+yZdk3j1haCtTNR8f,4,wipe,1:03,63,62286,The Necrotic Wake,The Necrotic Wake,,,5:35 AM
+yZdk3j1haCtTNR8f,5,wipe,0:20,20,62286,The Necrotic Wake,The Necrotic Wake,,,5:36 AM
+yZdk3j1haCtTNR8f,4,wipe,1:03,63,62286,The Necrotic Wake,The Necrotic Wake,,,5:35 AM
+yZdk3j1haCtTNR8f,5,wipe,0:20,20,62286,The Necrotic Wake,The Necrotic Wake,,,5:36 AM
+27m8LWzdHTCfjQPV,,wipe,2:44,164,62286,The Necrotic Wake,The Necrotic Wake,10,Xal'atath's Bargain: Frenzied,7:39 AM
+M4CtVAgrDjRFxYzq,,wipe,27:08,1628,62286,The Necrotic Wake,The Necrotic Wake,3,Xal'atath's Bargain: Voidbound,2:23 AM
+pv1VQP6DKg7NczWG,,wipe,13:41,821,62286,The Necrotic Wake,The Necrotic Wake,3,Xal'atath's Bargain: Voidbound,2:23 AM
+qRT6JQfMG1Kb4ZvP,,wipe,18:50,1130,62286,The Necrotic Wake,The Necrotic Wake,10,Xal'atath's Bargain: Ascendant,10:51 AM
+zqYLkRA97fmp8TV2,3,wipe,22:31,1351,62286,The Necrotic Wake,The Necrotic Wake,,,3:24 PM
+zqYLkRA97fmp8TV2,4,wipe,1:16,76,62286,The Necrotic Wake,The Necrotic Wake,,,3:48 PM
+zqYLkRA97fmp8TV2,3,wipe,22:31,1351,62286,The Necrotic Wake,The Necrotic Wake,,,3:24 PM
+zqYLkRA97fmp8TV2,4,wipe,1:16,76,62286,The Necrotic Wake,The Necrotic Wake,,,3:48 PM
+kAbw8pn2RLzrtQfW,,wipe,9:06,546,62286,The Necrotic Wake,The Necrotic Wake,4,Xal'atath's Bargain: Ascendant,2:55 PM
+9yDzRrmNajVvpMHb,,wipe,12:28,748,62286,The Necrotic Wake,The Necrotic Wake,4,Xal'atath's Bargain: Ascendant,10:27 PM
+TYPwBmdDLbFKGNaX,,kill,24:11,1451,62286,The Necrotic Wake,The Necrotic Wake,10,Xal'atath's Bargain: Frenzied,2:09 PM
+V2NbXz3K8p97Gjqn,,wipe,20:39,1239,62286,The Necrotic Wake,The Necrotic Wake,3,Xal'atath's Bargain: Frenzied,1:34 PM
+9w1R7CT2fyMXWrmG,,wipe,22:15,1335,62286,The Necrotic Wake,The Necrotic Wake,8,Xal'atath's Bargain: Ascendant,6:33 PM
+p3DGyKWVPgjZNmY2,,kill,20:57,1257,62286,The Necrotic Wake,The Necrotic Wake,4,Xal'atath's Bargain: Ascendant,2:03 PM
+Cdg7c4v1nWXVBAza,,kill,33:21,2001,62286,The Necrotic Wake,The Necrotic Wake,7,Xal'atath's Bargain: Ascendant,10:00 AM
+4XckGTb9pAKmZJrq,,wipe,17:23,1043,62286,The Necrotic Wake,The Necrotic Wake,3,Xal'atath's Bargain: Frenzied,11:31 PM
+YyPgJLc38XZh69W1,,wipe,22:43,1363,62286,The Necrotic Wake,The Necrotic Wake,10,Xal'atath's Bargain: Ascendant,7:54 AM
+RdGQgFfazkDpy8X2,,kill,25:11,1511,62286,The Necrotic Wake,The Necrotic Wake,2,Fortified,11:18 PM
+9xaMGy8XdwZJmY4A,,kill,41:47,2507,62286,The Necrotic Wake,The Necrotic Wake,6,Xal'atath's Bargain: Frenzied,6:26 AM
+VLATMkPQZ6c9YF2b,1,wipe,22:32,1352,62286,The Necrotic Wake,The Necrotic Wake,,,4:11 AM
+VLATMkPQZ6c9YF2b,2,wipe,1:14:07,4447,62286,The Necrotic Wake,The Necrotic Wake,,,4:34 AM
+VLATMkPQZ6c9YF2b,1,wipe,22:32,1352,62286,The Necrotic Wake,The Necrotic Wake,,,4:11 AM
+VLATMkPQZ6c9YF2b,2,wipe,1:14:07,4447,62286,The Necrotic Wake,The Necrotic Wake,,,4:34 AM
+2KnaQZw6NmyDbG3X,,kill,24:16,1456,62286,The Necrotic Wake,The Necrotic Wake,5,Xal'atath's Bargain: Frenzied,10:11 PM
+wbq9WtxPDpnL1hyc,,kill,26:30,1590,62286,The Necrotic Wake,The Necrotic Wake,4,Xal'atath's Bargain: Frenzied,9:07 PM
+6t2DCVZRLz3WxdaG,1,kill,32:15,1935,62286,The Necrotic Wake,The Necrotic Wake,,,10:12 AM
+6t2DCVZRLz3WxdaG,3,kill,19:58,1198,62286,The Necrotic Wake,The Necrotic Wake,,,11:00 AM
+ykZzVjRgLNp6CnWQ,,kill,32:15,1935,62286,The Necrotic Wake,The Necrotic Wake,4,Xal'atath's Bargain: Ascendant,10:12 AM
+8mvpHTDb4FgjxYdr,1,wipe,4:58,298,62286,The Necrotic Wake,The Necrotic Wake,,,2:56 AM
+8mvpHTDb4FgjxYdr,2,wipe,3:50,230,62286,The Necrotic Wake,The Necrotic Wake,,,3:01 AM
+8mvpHTDb4FgjxYdr,3,wipe,13:09,789,62286,The Necrotic Wake,The Necrotic Wake,,,3:04 AM
+8mvpHTDb4FgjxYdr,1,wipe,4:58,298,62286,The Necrotic Wake,The Necrotic Wake,,,2:56 AM
+8mvpHTDb4FgjxYdr,2,wipe,3:50,230,62286,The Necrotic Wake,The Necrotic Wake,,,3:01 AM
+8mvpHTDb4FgjxYdr,3,wipe,13:09,789,62286,The Necrotic Wake,The Necrotic Wake,,,3:04 AM
+HB2cx84QKmVraqJn,,wipe,10:42,642,62286,The Necrotic Wake,The Necrotic Wake,3,Xal'atath's Bargain: Ascendant,1:59 AM
+3cZPmkW6fzDy1BAT,,kill,24:14,1454,62286,The Necrotic Wake,The Necrotic Wake,4,Xal'atath's Bargain: Ascendant,9:14 PM
+9nyHAMCtfaxRVgDv,,kill,34:36,2076,62286,The Necrotic Wake,The Necrotic Wake,6,Xal'atath's Bargain: Ascendant,3:56 AM
+M7KABZgcGN69DnpF,,kill,26:19,1579,62286,The Necrotic Wake,The Necrotic Wake,8,Tyrannical,8:57 AM
+MzG86xCwb9acTyrg,,wipe,30:36,1836,62286,The Necrotic Wake,The Necrotic Wake,7,Tyrannical,7:11 PM
+P4xDtN8hGaMyb1HR,,wipe,4:57,297,62286,The Necrotic Wake,The Necrotic Wake,6,Fortified,9:54 PM
+2RFQtX8pNKqy7r3V,,kill,24:33,1473,62286,The Necrotic Wake,The Necrotic Wake,2,Tyrannical,10:50 PM
+cFJBWC7NYRbLamMD,,wipe,24:27,1467,62286,The Necrotic Wake,The Necrotic Wake,2,Tyrannical,10:21 PM
+rL6CYpW2wK1DvRgV,,wipe,28:40,1720,62286,The Necrotic Wake,The Necrotic Wake,5,Tyrannical,5:58 PM
+8b92gXx6MVjkmNrd,3,kill,55:30,3330,62286,The Necrotic Wake,The Necrotic Wake,,,3:13 PM
+8b92gXx6MVjkmNrd,1,wipe,4:48,288,62286,The Necrotic Wake,The Necrotic Wake,,,2:59 PM
+8b92gXx6MVjkmNrd,2,wipe,9:21,561,62286,The Necrotic Wake,The Necrotic Wake,,,3:04 PM
+8b92gXx6MVjkmNrd,1,wipe,4:48,288,62286,The Necrotic Wake,The Necrotic Wake,,,2:59 PM
+8b92gXx6MVjkmNrd,2,wipe,9:21,561,62286,The Necrotic Wake,The Necrotic Wake,,,3:04 PM
+TxrqhpBDtjMyfG1N,2,kill,55:30,3330,62286,The Necrotic Wake,The Necrotic Wake,,,3:13 PM
+TxrqhpBDtjMyfG1N,1,wipe,12:46,766,62286,The Necrotic Wake,The Necrotic Wake,,,3:00 PM
+wXK2nvJmtMyVqg36,8,kill,23:29,1409,62286,The Necrotic Wake,The Necrotic Wake,,,3:21 AM
+wXK2nvJmtMyVqg36,7,wipe,23:51,1431,62286,The Necrotic Wake,The Necrotic Wake,,,2:57 AM
+cLxZjtGz8d7CqKAH,,kill,33:18,1998,62286,The Necrotic Wake,The Necrotic Wake,3,Fortified,1:04 AM
+Ck8P9YJrG4pfBLFA,,kill,22:55,1375,62286,The Necrotic Wake,The Necrotic Wake,8,Fortified,10:10 PM
+mTZ8ab9PCHV6B3x2,,wipe,10:05,605,62286,The Necrotic Wake,The Necrotic Wake,5,Tyrannical,4:20 PM
+XwqMcpPV1hgYT7Fb,,wipe,2:52,172,62286,The Necrotic Wake,The Necrotic Wake,3,Fortified,3:09 PM
+vgQBaCFKxTmNwJdf,,kill,25:39,1539,62286,The Necrotic Wake,The Necrotic Wake,3,Fortified,6:45 AM
+23Dm9AQT6gLtjPNG,,kill,25:39,1539,62286,The Necrotic Wake,The Necrotic Wake,3,Fortified,6:45 AM
+2ZGYLdDk8PqMAfJm,,kill,40:34,2434,62286,The Necrotic Wake,The Necrotic Wake,3,Tyrannical,10:41 PM
+2GMqad1fzwJxAvDK,,kill,28:39,1719,62286,The Necrotic Wake,The Necrotic Wake,4,Fortified,3:28 AM
+ADPwTNvzbtgC6Rkj,,wipe,30:41,1841,62286,The Necrotic Wake,The Necrotic Wake,3,Fortified,1:34 AM
+21DRMXLCAPTJtwNa,2,kill,29:09,1749,62286,The Necrotic Wake,The Necrotic Wake,,,10:25 PM
+21DRMXLCAPTJtwNa,1,wipe,1:56,116,62286,The Necrotic Wake,The Necrotic Wake,,,10:23 PM
+V64kFqD1w7m3RJ2g,,kill,29:22,1762,62286,The Necrotic Wake,The Necrotic Wake,3,Tyrannical,4:41 AM
+kdyX8HP2g6RzrZtV,,kill,21:02,1262,62286,The Necrotic Wake,The Necrotic Wake,3,Tyrannical,5:33 AM
+bzTBvXCPyVJ1R6AY,,kill,23:05,1385,62286,The Necrotic Wake,The Necrotic Wake,4,Tyrannical,5:13 AM
+Rab9wXn64yT1Pxrj,,kill,25:26,1526,62286,The Necrotic Wake,The Necrotic Wake,7,Tyrannical,11:58 PM
+WxPCTvQMXwk6By9Z,,kill,26:33,1593,62286,The Necrotic Wake,The Necrotic Wake,2,Fortified,6:31 PM
+vXpWdyhxmGaFfz72,,wipe,45:44,2744,62286,The Necrotic Wake,The Necrotic Wake,2,Fortified,2:41 PM
+LjzXxKhY8yqH1W64,,wipe,16:04,964,62286,The Necrotic Wake,The Necrotic Wake,5,Fortified,3:04 PM
+bfvD9g4ARWxJVqNn,,wipe,12:47,767,62286,The Necrotic Wake,The Necrotic Wake,2,Fortified,2:41 PM
+nZLXYv8prGJ6RMdk,,kill,31:45,1905,62286,The Necrotic Wake,The Necrotic Wake,4,Fortified,8:22 AM
+3TjgMwvDrAyzVFHf,,wipe,26:59,1619,62286,The Necrotic Wake,The Necrotic Wake,3,Fortified,6:56 AM
+Pdmq16VCnF4wQc7b,,kill,33:24,2004,62286,The Necrotic Wake,The Necrotic Wake,4,Fortified,3:29 AM
+XVHcTNP8gDZnkQKL,,wipe,46:47,2807,62286,The Necrotic Wake,The Necrotic Wake,5,Fortified,2:52 AM
+ZK6tJmQ4jLfgPnz7,,kill,21:51,1311,62286,The Necrotic Wake,The Necrotic Wake,2,Fortified,2:52 AM
+K1g63rxRqLQfmjct,,wipe,10:55,655,62286,The Necrotic Wake,The Necrotic Wake,4,Fortified,11:30 PM
+364WvgftVGpTAa1F,3,kill,30:45,1845,62286,The Necrotic Wake,The Necrotic Wake,,,8:11 PM
+364WvgftVGpTAa1F,2,wipe,0:51,51,62286,The Necrotic Wake,The Necrotic Wake,,,8:10 PM
+qZk6JHyMv8RF7mdG,4,kill,30:58,1858,62286,The Necrotic Wake,The Necrotic Wake,,,3:25 AM
+qZk6JHyMv8RF7mdG,3,wipe,7:29,449,62286,The Necrotic Wake,The Necrotic Wake,,,3:18 AM

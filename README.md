@@ -2,7 +2,39 @@ I created this repository to showcase my various *personal* World of Warcraft pr
 
 Each of the projects have their own repository (links are provided), with all the files here being a copy / snapshot.
 
-# Project 1 (January 2026): Raider.io applicant look-up
+# Project 1 (August 2025): Interface mod: /say Callouts M+
+*[Repository link](https://github.com/JonatanRasmussen/world_of_warcraft_mod_mplus_say_callouts_weakaura)*
+
+This is an interface mod I developed for the WoW community and it ended up becoming quite popular (24.000 views / 1300+ downloads / 220 stars via the wago.io website, and an estimated 14.000+ additional in-game downloads via peer-to-peer WeakAura-sharing).
+
+It uses event-driven logic to parse out dangerous spell casts from the combat log. I manually configured spell casting logic for 500+ spell_ids, and I did this for all 6 major game patches from 2023-2025 (DF season 2-4, TWW season 1-3), **[see my Wago.io page for more details](https://wago.io/6CDe7U7t6)**.
+
+This process included signing up for the beta or public test realm where I entered each upcoming dungeon to manually record the spell cast patterns of enemies (channeled/instant casts, duration, frequency, NPC-ID, etc.). To optimize for performance, I configured load-conditions based on zone_id and cast type in order to limit CPU-use.
+
+This project was created via the WeakAura-framework (I used the in-game editor to generate Lua-code, so there's not much code to show here on GitHub). I did however have python code to test and validate the data I gathered in-game; this was done by cross-referencing my data with spell tables I scraped from the Wowhead website, this is part of Project 2 if you scroll further down on this page.
+
+*[![(YouTube thumbnail screenshot, click to open on YouTube.)](https://img.youtube.com/vi/JSiVJAfD0WQ/0.jpg)](https://www.youtube.com/watch?v=JSiVJAfD0WQ)*
+
+*(YouTube thumbnail screenshot, click to open video clip on YouTube.)*
+
+
+# Project 2 (July 2024): Death statistics scraper
+*[Repository link](https://github.com/JonatanRasmussen/wow_mythicplus_say)*
+
+Various helper scripts to test and validate spell data for my Interface mod: */say Callouts M+*.
+
+This code served two purposes; first, it would iterate over each row of hand-written spell data in my Excel-spreadsheet to see if the spell data I had recored in-game matched spell data scraped from the wowhead website (it also tried to parse the Lua-code generated via the in-game WeakAura editor to see if the data matched my spreadsheet data, but this was never fully implemented.)
+
+Second, the code was able to fetch all public logs from Warcraftlogs.com for a given dungeon, and it would then for each spell_id record: *A: How often was the spell cast, and B: how often did that spell result in a player death*. This was very important for my design process, as I had to decide which spells should and shouldn't trigger an alert in my interface.
+
+Unlike most other mods that did something similar, I put a lot of effort into carefully configuring which spells should trigger an alert; if spells were cast too frequently, or if spells weren't lethal enough, people would consider an alert for those spells to be too distracting.
+
+![Image link](readme_images/excel_spell_data_showcase.png)
+
+![Image link](readme_images/deathstats_showcase.PNG)
+
+
+# Project 3 (January 2026): Raider.io applicant look-up
 *[Repository link](https://github.com/JonatanRasmussen/raider_io_peaking)*
 
 Scripts to look up and rank every applicant for my WoW dungeon- or raid groups, inspired by the OP.GG website for LoL.
@@ -22,7 +54,7 @@ And if run via the terminal, here is what the terminal output looks like.
 ![Image link](readme_images/riopeek_showcase.PNG)
 
 
-# Project 2 (April 2026): Warcraftlog analysis and summary
+# Project 4 (April 2026): Warcraftlog analysis and summary
 *[Repository link](https://github.com/JonatanRasmussen/raider_io_peaking)*
 
 Scripts to look up every M+ player you've played with throughout a WoW season (to see what rank they have since ended up at). It will also generate a summary of your seasonal journey, providing statistics over how many attempts / groups you needed for each of your M+ keys.
@@ -34,34 +66,6 @@ This is not just data visualization, it regex-parses messy data from 100+ logs (
 See this image for a screenshot of what the summary looks like.
 
 ![Image link](readme_images/logrun_showcase.png)
-
-
-# Project 3 (August 2025): Interface mod: /say Callouts M+
-*[Repository link](https://github.com/JonatanRasmussen/world_of_warcraft_mod_mplus_say_callouts_weakaura)*
-
-This is an interface mod I developed for the WoW community and it ended up becoming quite popular (24.000 views / 1300+ downloads / 220 stars via the wago.io website, and an estimated 14.000+ additional in-game downloads via peer-to-peer WeakAura-sharing).
-
-It uses event-driven logic to parse out dangerous spell casts from the combat log. I manually configured spell casting logic for 500+ spell_ids, and I did this for all 6 major game patches from 2023-2025 (DF season 2-4, TWW season 1-3), **[see my Wago.io page for more details](https://wago.io/6CDe7U7t6)**. This process included signing up for the beta or public test realm where I entered each upcoming dungeon to manually record the spell cast patterns of enemies (channeled/instant casts, duration, frequency, NPC-ID, etc.). To optimize for performance, I configured load-conditions based on zone_id and cast type in order to limit CPU-use.
-
-This project was created via the WeakAura-framework (I used the in-game editor to generate Lua-code, so there's not much code to show here on GitHub). I did however have python code to test and validate the data I gathered in-game; this was done by cross-referencing my data with spell tables I scraped from the Wowhead website.
-
-*[![(YouTube thumbnail screenshot, click to open on YouTube.)](https://img.youtube.com/vi/JSiVJAfD0WQ/0.jpg)](https://www.youtube.com/watch?v=JSiVJAfD0WQ)*
-
-*(YouTube thumbnail screenshot, click to open video clip on YouTube.)*
-
-
-# Project 4 (July 2024): Death statistics scraper
-*[Repository link](https://github.com/JonatanRasmussen/wow_mythicplus_say)*
-
-Various helper scripts to test and validate spell data for my Interface mod: */say Callouts M+*.
-
-This code served two purposes; first, it would iterate over each row of hand-written spell data in my Excel-spreadsheet to see if the spell data I had recored in-game matched spell data scraped from the wowhead website (it also tried to parse the Lua-code generated via the in-game WeakAura editor to see if the data matched my spreadsheet data, but this was never fully implemented.)
-
-Second, the code was able to fetch all public logs from Warcraftlogs.com for a given dungeon, and it would then for each spell_id record: *A: How often was the spell cast, and B: how often did that spell result in a player death*. This was very important for my design process, as I had to decide which spells should and shouldn't trigger an alert in my interface. Unlike most other mods that did something similar, I put a lot of effort into carefully configuring which spells should trigger an alert; if they were cast too frequently, or if they weren't lethal enough, people would consider the alerts too noisy.
-
-![Image link](readme_images/excel_spell_data_showcase.png)
-
-![Image link](readme_images/deathstats_showcase.PNG)
 
 
 # Project 5 (September 2024): Gear drop optimizer

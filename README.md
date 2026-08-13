@@ -25,7 +25,7 @@ Various helper scripts to test and validate spell data for my Interface mod: */s
 
 This code served two purposes; first, it would iterate over each row of hand-written spell data in my Excel-spreadsheet to see if the spell data I had recored in-game matched spell data scraped from the wowhead website (it also tried to parse the Lua-code generated via the in-game WeakAura editor to see if the data matched my spreadsheet data, but this was never fully implemented.)
 
-Second, the code was able to fetch all public logs from Warcraftlogs.com for a given dungeon, and it would then for each spell_id record: *A: How often was the spell cast, and B: how often did that spell result in a player death*. This was very important for my design process, as I had to decide which spells should and shouldn't trigger an alert in my interface; if spells were cast too frequently, or if spells weren't lethal enough, people would consider an alert for those spells to be too distracting.
+Second, the code was able to fetch all public logs from Warcraftlogs.com for a given dungeon, and it would then for each spell_id record: *A: How often was the spell cast,* and *B: how often did that spell result in a player death*. This was very important for my design process, as I had to decide which spells should and shouldn't trigger an alert in my interface; if spells were cast too frequently, or if spells weren't lethal enough, people would consider an alert for those spells to be too distracting.
 
 ![Image link](readme_images/excel_spell_data_showcase.png)
 

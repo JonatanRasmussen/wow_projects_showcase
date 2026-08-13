@@ -9,7 +9,7 @@ This is an interface mod I developed for the WoW community and it ended up becom
 
 It uses event-driven logic to parse out dangerous spell casts from the combat log. I manually configured spell casting logic for 500+ spell_ids, and I did this for all 6 major game patches from 2023-2025 (DF season 2-4, TWW season 1-3), **[see my Wago.io page for more details](https://wago.io/6CDe7U7t6)**.
 
-This process included signing up for the beta or public test realm where I entered each upcoming dungeon to manually record the spell cast patterns of enemies (channeled/instant casts, duration, frequency, NPC-ID, etc.). To optimize for performance, I configured load-conditions based on zone_id and cast type in order to limit CPU-use.
+This process included signing up for the beta or public test realm where I entered each upcoming dungeon to manually record the spell cast patterns of enemies (channeled/instant casts, duration, frequency, NPC-ID, etc.). To optimize for performance and limit CPU-use, each alert only ran its trigger-logic against events with the correct cast type (instant/cast/channel, this required lots of extra work) and I also configured load-conditions for each alert based on zone_id.
 
 This project was created via the WeakAura-framework (I used the in-game editor to generate Lua-code, so there's not much code to show here on GitHub). I did however have python code to test and validate the data I gathered in-game; this was done by cross-referencing my data with spell tables I scraped from the Wowhead website, this is part of Project 2 if you scroll further down on this page.
 
@@ -25,9 +25,7 @@ Various helper scripts to test and validate spell data for my Interface mod: */s
 
 This code served two purposes; first, it would iterate over each row of hand-written spell data in my Excel-spreadsheet to see if the spell data I had recored in-game matched spell data scraped from the wowhead website (it also tried to parse the Lua-code generated via the in-game WeakAura editor to see if the data matched my spreadsheet data, but this was never fully implemented.)
 
-Second, the code was able to fetch all public logs from Warcraftlogs.com for a given dungeon, and it would then for each spell_id record: *A: How often was the spell cast, and B: how often did that spell result in a player death*. This was very important for my design process, as I had to decide which spells should and shouldn't trigger an alert in my interface.
-
-Unlike most other mods that did something similar, I put a lot of effort into carefully configuring which spells should trigger an alert; if spells were cast too frequently, or if spells weren't lethal enough, people would consider an alert for those spells to be too distracting.
+Second, the code was able to fetch all public logs from Warcraftlogs.com for a given dungeon, and it would then for each spell_id record: *A: How often was the spell cast, and B: how often did that spell result in a player death*. This was very important for my design process, as I had to decide which spells should and shouldn't trigger an alert in my interface; if spells were cast too frequently, or if spells weren't lethal enough, people would consider an alert for those spells to be too distracting.
 
 ![Image link](readme_images/excel_spell_data_showcase.png)
 
